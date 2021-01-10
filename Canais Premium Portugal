@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Verificada: 10/01/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 10/01/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
  
  
 ##################################  BENFICA TV   ###########################################################################
@@ -29,6 +29,24 @@ https://000000
  
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 SD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="CANAIS:PT",SPORT TV 1 SD
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://stream.angels.red:80/539058/3c0ecb/45882
+
+
+#EXTINF:-1 tvg-id="SPORT TV1" tvg-name="PT: Sport TV 1" tvg-logo="" group-title="Canais | Portugal",Sport TV 1 SD
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://cdn.swux.us:80/live/jhonatan123/jhonatan123/139556.m3u8
+
+#EXTINF:-1 tvg-id="SPORT TV1" tvg-name="PT: Sport TV 1 FHD" tvg-logo="" group-title="Canais | Portugal", Sport TV 1 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://cdn.swux.us:80/live/jhonatan123/jhonatan123/139557.m3u8
+
+#EXTINF:-1 tvg-id="SPORT TV1" tvg-name="PT: Sport TV 1 HD" tvg-logo="" group-title="Canais | Portugal",Sport TV 1 HD 720P
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://cdn.swux.us:80/live/jhonatan123/jhonatan123/140380.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 SD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="CANAIS:PT",SPORT TV 1 SD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://stream.angels.red:80/539058/3c0ecb/45882
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="CANAIS:PT",SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://stream.angels.red:80/539058/3c0ecb/45881
+
  
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="©PORTUG@L",SPORT TV 2
 http://77.54.145.209:81/play/a02j?RESOLUTION=1047x576
