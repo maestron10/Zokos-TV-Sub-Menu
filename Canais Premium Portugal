@@ -1,0 +1,103 @@
+####################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  CANAIS PREMIUM PORTUGAL  /////////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+http://0.0.0.0:0000
+####################################################################################################################################
+ 
+#EXTM3U
+ 
+#EXTINF:-1,[COLOR=yellow][B]Lista Verificada: 10/01/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+ 
+ 
+##################################  BENFICA TV   ###########################################################################
+ 
+#EXTM3U
+ 
+#EXTINF:-1,[COLOR blue]BENFICA TV[/COLOR]
+https://000000
+ 
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="©PORTUG@L",BENFICA TV HD
+http://77.54.145.209:81/play/a032?RESOLUTION=1920x1080
+ 
+#EXTINF:-1,BTV FHD
+http://77.54.145.209:81/play/a032
+ 
+ 
+##################################  GRUPO SPORT TV   ###########################################################################
+ 
+#EXTINF:-1,[COLOR blue]CANAIS SPORT TV[/COLOR]
+https://000000
+ 
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 SD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="CANAIS:PT",SPORT TV 1 SD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://stream.angels.red:80/539058/3c0ecb/45882
+ 
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="©PORTUG@L",SPORT TV 2
+http://77.54.145.209:81/play/a02j?RESOLUTION=1047x576
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="",SPORT TV 2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8 
+ 
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="©PORTUG@L",SPORT TV 3
+http://77.54.145.209:81/play/a02n?RESOLUTION=1047x576
+ 
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="©PORTUG@L",SPORT TV 4
+http://77.54.145.209:81/play/a02o?RESOLUTION=1047x576
+ 
+ 
+##################################  GRUPO ELEVEN SPORTS  ###########################################################################
+ 
+#EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
+https://000000
+ 
+#EXTINF:-1,NÃO DISPONIVEL DE MOMENTO
+ 
+##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
+ 
+#EXTINF:-1,[COLOR blue]CANAIS PREMIUM PORTUGAL - CINEMA[/COLOR]
+https://000000
+ 
+ 
+#EXTINF:-1,NÃO DISPONIVEL DE MOMENTO
+ 
+##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
+ 
+#EXTINF:-1,[COLOR blue]CANAIS PREMIUM ADULTOS[/COLOR]
+https://000000
+ 
+#EXTINF:-1,PLAYBOY
+http://45.182.127.235:8000/play/a0ck
+ 
+#EXTINF:-1,VENUS
+http://45.182.127.235:8000/play/a0f9
+ 
+#EXTINF:-1,VENUS
+http://187.188.147.165:8000/play/a01d
+ 
+#EXTINF:-1,SEXTREME
+http://187.188.147.165:8000/play/a012
+ 
+#EXTINF:-1,EROTIC 1
+http://176.67.203.244:6565/play/a020
+#EXTINF:-1,EROTIC 2
+http://176.67.203.244:6565/play/a021
+#EXTINF:-1,EROTIC 3
+http://176.67.203.244:6565/play/a022
+#EXTINF:-1,EROTIC 4
+http://176.67.203.244:6565/play/a023
+#EXTINF:-1,EROTIC 5
+http://176.67.203.244:6565/play/a024
+#EXTINF:-1,EROTIC 6
+http://176.67.203.244:6565/play/a025
+#EXTINF:-1,EROTIC 7
+http://176.67.203.244:6565/play/a026
+#EXTINF:-1,EROTIC 8
+http://176.67.203.244:6565/play/a027
+ 
+#EXTINF:-1,EROX HD
+http://176.67.203.244:6565/play/a02c
+ 
+#EXTINF:-1,PASSION XXX
+http://176.67.203.244:6565/play/a02d
+ 
+#EXTINF:-1,PENTHOUSE
+http://212.200.127.247:8000/play/a043/index.m3u8
+ 
