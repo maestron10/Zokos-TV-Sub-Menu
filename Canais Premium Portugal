@@ -5,8 +5,8 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 10/01/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
- 
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 12/01/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/portugal-iptv-working-links-free-10-01-21/
  
 ##################################  BENFICA TV   ###########################################################################
  
@@ -21,60 +21,101 @@ http://77.54.145.209:81/play/a032?RESOLUTION=1920x1080
 #EXTINF:-1,BTV FHD
 http://77.54.145.209:81/play/a032
  
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Sports",BTV 1 FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12521
+ 
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Sports",BTV 1 FHD  PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7534
+ 
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Sports",BTV 1 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12520
+ 
  
 ##################################  GRUPO SPORT TV   ###########################################################################
+ 
+#EXTM3U
  
 #EXTINF:-1,[COLOR blue]CANAIS SPORT TV[/COLOR]
 https://000000
  
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 SD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="CANAIS:PT",SPORT TV 1 SD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://stream.angels.red:80/539058/3c0ecb/45882
-
-
-#EXTINF:-1 tvg-id="SPORT TV1" tvg-name="PT: Sport TV 1" tvg-logo="" group-title="Canais | Portugal",Sport TV 1 SD
-plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://cdn.swux.us:80/live/jhonatan123/jhonatan123/139556.m3u8
-
-#EXTINF:-1 tvg-id="SPORT TV1" tvg-name="PT: Sport TV 1 FHD" tvg-logo="" group-title="Canais | Portugal", Sport TV 1 FHD
-plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://cdn.swux.us:80/live/jhonatan123/jhonatan123/139557.m3u8
-
-#EXTINF:-1 tvg-id="SPORT TV1" tvg-name="PT: Sport TV 1 HD" tvg-logo="" group-title="Canais | Portugal",Sport TV 1 HD 720P
-plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://cdn.swux.us:80/live/jhonatan123/jhonatan123/140380.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 SD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="CANAIS:PT",SPORT TV 1 SD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://stream.angels.red:80/539058/3c0ecb/45882
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="CANAIS:PT",SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://stream.angels.red:80/539058/3c0ecb/45881
-
- 
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="©PORTUG@L",SPORT TV 2
-http://77.54.145.209:81/play/a02j?RESOLUTION=1047x576
- 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="",SPORT TV 2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8 
- 
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="©PORTUG@L",SPORT TV 3
-http://77.54.145.209:81/play/a02n?RESOLUTION=1047x576
- 
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="©PORTUG@L",SPORT TV 4
-http://77.54.145.209:81/play/a02o?RESOLUTION=1047x576
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Sports",Sport TV 1 FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8818
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Sports",Sport TV 1  FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13097
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Sports",Sport TV 1 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13096
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Sports",Sport TV 2 FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7481
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Sports",Sport TV 2 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8814
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Sports",Sport TV 2 PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13093
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Sports",Sport TV 3 FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8817
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Sports",Sport TV 3 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8813
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Sports",Sport TV 3 PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13091
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Sports",Sport TV 4 FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8816
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Sports",Sport TV 4 PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13089
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Sports",Sport TV 4 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7479
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Sports",Sport TV 5 FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7478
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Sports",Sport TV 5 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8812
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Sports",Sport TV 5 PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13087
  
  
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
  
+#EXTM3U
+ 
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
 https://000000
  
-#EXTINF:-1,NÃO DISPONIVEL DE MOMENTO
+#EXTINF:0 tvg-id="ext" group-title="Sports",Eleven Sport 1 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51927
+#EXTINF:0 tvg-id="ext" group-title="Sports",Eleven Sport 2 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51926
+#EXTINF:0 tvg-id="ext" group-title="Sports",Eleven Sport 3 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51925
+#EXTINF:0 tvg-id="ext" group-title="Sports",Eleven Sport 4 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51924
+#EXTINF:0 tvg-id="ext" group-title="Sports",Eleven Sport 5 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51923
+#EXTINF:0 tvg-id="ext" group-title="Sports",Eleven Sport 6 HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51922
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
+#EXTM3U
  
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM PORTUGAL - CINEMA[/COLOR]
 https://000000
  
  
-#EXTINF:-1,NÃO DISPONIVEL DE MOMENTO
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TvCine Top FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13105
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TvCine Top HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13104
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TvCine Emotion FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13103
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TvCine Emotion HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13102
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TvCine Action FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13101
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TvCine Action HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13100
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TvCine Edition FHD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13099
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TvCine Edition HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13098
+#EXTINF:0 tvg-id="ext" group-title="Movies & Series",NOS Studios HD PT
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/658469
+ 
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
  
@@ -115,7 +156,6 @@ http://176.67.203.244:6565/play/a02c
  
 #EXTINF:-1,PASSION XXX
 http://176.67.203.244:6565/play/a02d
+
  
-#EXTINF:-1,PENTHOUSE
-http://212.200.127.247:8000/play/a043/index.m3u8
  
