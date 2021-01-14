@@ -5,15 +5,25 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 12/01/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Verificada: 14/01/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/portugal-iptv-working-links-free-10-01-21/
  
 ##################################  BENFICA TV   ###########################################################################
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR blue]BENFICA TV[/COLOR]
+#EXTINF:-1,[COLOR blue]BENFICA TV - LISTA DO DIA 12 JAN 2021[/COLOR]
 https://000000
+ 
+
+#EXTINF:0 tvg-id="baltijos-lt" group-title="Channels",BTV FHD
+http://melhordomundo.in:8080/jonathan/jonathan123/76
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",BTV HD 
+http://melhordomundo.in:8080/jonathan/jonathan123/127368
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",BTV FHD 
+http://melhordomundo.in:8080/jonathan/jonathan123/127369
  
 #EXTINF:0 tvg-id="BenficaTV.pt" group-title="©PORTUG@L",BENFICA TV HD
 http://77.54.145.209:81/play/a032?RESOLUTION=1920x1080
@@ -21,101 +31,96 @@ http://77.54.145.209:81/play/a032?RESOLUTION=1920x1080
 #EXTINF:-1,BTV FHD
 http://77.54.145.209:81/play/a032
  
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Sports",BTV 1 FHD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12521
- 
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Sports",BTV 1 FHD  PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7534
- 
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Sports",BTV 1 HD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/12520
  
  
 ##################################  GRUPO SPORT TV   ###########################################################################
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR blue]CANAIS SPORT TV[/COLOR]
+#EXTINF:-1,[COLOR blue]CANAIS SPORT TV - LISTA DO DIA 12 JAN 2021[/COLOR]
 https://000000
- 
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Sports",Sport TV 1 FHD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8818
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Sports",Sport TV 1  FHD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13097
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Sports",Sport TV 1 HD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13096
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Sports",Sport TV 2 FHD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7481
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Sports",Sport TV 2 HD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8814
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Sports",Sport TV 2 PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13093
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Sports",Sport TV 3 FHD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8817
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Sports",Sport TV 3 HD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8813
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Sports",Sport TV 3 PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13091
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Sports",Sport TV 4 FHD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8816
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Sports",Sport TV 4 PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13089
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Sports",Sport TV 4 HD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7479
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Sports",Sport TV 5 FHD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7478
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Sports",Sport TV 5 HD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8812
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Sports",Sport TV 5 PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13087
+
+
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 SD
+http://melhordomundo.in:8080/jonathan/jonathan123/42
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 HD
+http://melhordomundo.in:8080/jonathan/jonathan123/43
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 FHD
+http://melhordomundo.in:8080/jonathan/jonathan123/44
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport TV 1 HD [hevc]
+http://melhordomundo.in:8080/jonathan/jonathan123/127345
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV  1 [low]
+http://melhordomundo.in:8080/jonathan/jonathan123/127297
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
+http://melhordomundo.in:8080/jonathan/jonathan123/45
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 HD
+http://melhordomundo.in:8080/jonathan/jonathan123/46
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 FHD
+http://melhordomundo.in:8080/jonathan/jonathan123/47
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3
+http://melhordomundo.in:8080/jonathan/jonathan123/48
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3 HD
+http://melhordomundo.in:8080/jonathan/jonathan123/49
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3 FHD
+http://melhordomundo.in:8080/jonathan/jonathan123/50
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4
+http://melhordomundo.in:8080/jonathan/jonathan123/51
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4 HD
+http://melhordomundo.in:8080/jonathan/jonathan123/52
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5
+http://melhordomundo.in:8080/jonathan/jonathan123/53
+
+
  
  
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
+#EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS - LISTA DO DIA 12 JAN 2020[/COLOR]
 https://000000
  
-#EXTINF:0 tvg-id="ext" group-title="Sports",Eleven Sport 1 HD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51927
-#EXTINF:0 tvg-id="ext" group-title="Sports",Eleven Sport 2 HD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51926
-#EXTINF:0 tvg-id="ext" group-title="Sports",Eleven Sport 3 HD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51925
-#EXTINF:0 tvg-id="ext" group-title="Sports",Eleven Sport 4 HD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51924
-#EXTINF:0 tvg-id="ext" group-title="Sports",Eleven Sport 5 HD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51923
-#EXTINF:0 tvg-id="ext" group-title="Sports",Eleven Sport 6 HD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51922
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",ELEVEN SPORTS 1 SD
+http://melhordomundo.in:8080/jonathan/jonathan123/56
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",ELEVEN SPORTS 1 HD
+http://melhordomundo.in:8080/jonathan/jonathan123/57
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",ELEVEN SPORTS 1 FHD
+http://melhordomundo.in:8080/jonathan/jonathan123/58
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",ELEVEN SPORTS 2 SD
+http://melhordomundo.in:8080/jonathan/jonathan123/59
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",ELEVEN SPORTS 2 HD
+http://melhordomundo.in:8080/jonathan/jonathan123/60
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",ELEVEN SPORTS 2 FHD
+http://melhordomundo.in:8080/jonathan/jonathan123/61
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",ELEVEN SPORTS 3 HD
+http://melhordomundo.in:8080/jonathan/jonathan123/63
+
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
 #EXTM3U
  
-#EXTINF:-1,[COLOR blue]CANAIS PREMIUM PORTUGAL - CINEMA[/COLOR]
+#EXTINF:-1,[COLOR blue]CANAIS PREMIUM PORTUGAL - CINEMA - LISTA DO DIA 12 JAN 2021[/COLOR]
 https://000000
  
- 
-#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TvCine Top FHD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13105
-#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TvCine Top HD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13104
-#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TvCine Emotion FHD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13103
-#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TvCine Emotion HD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13102
-#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TvCine Action FHD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13101
-#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TvCine Action HD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13100
-#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TvCine Edition FHD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13099
-#EXTINF:0 tvg-id="ext" group-title="Movies & Series",TvCine Edition HD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13098
-#EXTINF:0 tvg-id="ext" group-title="Movies & Series",NOS Studios HD PT
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/658469
- 
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cine TOP
+http://melhordomundo.in:8080/jonathan/jonathan123/93
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cine TOP HD
+http://melhordomundo.in:8080/jonathan/jonathan123/94
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cine TOP FHD
+http://melhordomundo.in:8080/jonathan/jonathan123/95
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tv Cine EDITION
+http://melhordomundo.in:8080/jonathan/jonathan123/96
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tv Cine EDITION FHD
+http://melhordomundo.in:8080/jonathan/jonathan123/98
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tv Cine EMOTION
+http://melhordomundo.in:8080/jonathan/jonathan123/99
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tv Cine ACTION FHD
+http://melhordomundo.in:8080/jonathan/jonathan123/104
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOS STUDIO FHD
+http://melhordomundo.in:8080/jonathan/jonathan123/108
+
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
  
@@ -124,16 +129,12 @@ https://000000
  
 #EXTINF:-1,PLAYBOY
 http://45.182.127.235:8000/play/a0ck
- 
 #EXTINF:-1,VENUS
 http://45.182.127.235:8000/play/a0f9
- 
 #EXTINF:-1,VENUS
 http://187.188.147.165:8000/play/a01d
- 
 #EXTINF:-1,SEXTREME
 http://187.188.147.165:8000/play/a012
- 
 #EXTINF:-1,EROTIC 1
 http://176.67.203.244:6565/play/a020
 #EXTINF:-1,EROTIC 2
@@ -150,10 +151,8 @@ http://176.67.203.244:6565/play/a025
 http://176.67.203.244:6565/play/a026
 #EXTINF:-1,EROTIC 8
 http://176.67.203.244:6565/play/a027
- 
 #EXTINF:-1,EROX HD
 http://176.67.203.244:6565/play/a02c
- 
 #EXTINF:-1,PASSION XXX
 http://176.67.203.244:6565/play/a02d
 
