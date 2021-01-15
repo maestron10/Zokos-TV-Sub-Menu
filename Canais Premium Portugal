@@ -12,18 +12,9 @@ Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvso
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR blue]BENFICA TV - LISTA DO DIA 12 JAN 2021[/COLOR]
+#EXTINF:-1,[COLOR blue]BENFICA TV[/COLOR]
 https://000000
  
-
-#EXTINF:0 tvg-id="baltijos-lt" group-title="Channels",BTV FHD
-http://melhordomundo.in:8080/jonathan/jonathan123/76
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",BTV HD 
-http://melhordomundo.in:8080/jonathan/jonathan123/127368
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",BTV FHD 
-http://melhordomundo.in:8080/jonathan/jonathan123/127369
  
 #EXTINF:0 tvg-id="BenficaTV.pt" group-title="©PORTUG@L",BENFICA TV HD
 http://77.54.145.209:81/play/a032?RESOLUTION=1920x1080
@@ -37,39 +28,13 @@ http://77.54.145.209:81/play/a032
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR blue]CANAIS SPORT TV - LISTA DO DIA 12 JAN 2021[/COLOR]
+#EXTINF:-1,[COLOR blue]CANAIS SPORT TV[/COLOR]
 https://000000
 
 
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 SD
-http://melhordomundo.in:8080/jonathan/jonathan123/42
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 HD
-http://melhordomundo.in:8080/jonathan/jonathan123/43
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 FHD
-http://melhordomundo.in:8080/jonathan/jonathan123/44
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sport TV 1 HD [hevc]
-http://melhordomundo.in:8080/jonathan/jonathan123/127345
+#EXTINF:-1,NÃO DISPONIVEL
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV  1 [low]
-http://melhordomundo.in:8080/jonathan/jonathan123/127297
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
-http://melhordomundo.in:8080/jonathan/jonathan123/45
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 HD
-http://melhordomundo.in:8080/jonathan/jonathan123/46
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 FHD
-http://melhordomundo.in:8080/jonathan/jonathan123/47
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3
-http://melhordomundo.in:8080/jonathan/jonathan123/48
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3 HD
-http://melhordomundo.in:8080/jonathan/jonathan123/49
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3 FHD
-http://melhordomundo.in:8080/jonathan/jonathan123/50
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4
-http://melhordomundo.in:8080/jonathan/jonathan123/51
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4 HD
-http://melhordomundo.in:8080/jonathan/jonathan123/52
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5
-http://melhordomundo.in:8080/jonathan/jonathan123/53
+
 
 
  
@@ -80,21 +45,9 @@ http://melhordomundo.in:8080/jonathan/jonathan123/53
  
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS - LISTA DO DIA 12 JAN 2020[/COLOR]
 https://000000
+
+#EXTINF:-1,NÃO DISPONIVEL
  
-#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",ELEVEN SPORTS 1 SD
-http://melhordomundo.in:8080/jonathan/jonathan123/56
-#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",ELEVEN SPORTS 1 HD
-http://melhordomundo.in:8080/jonathan/jonathan123/57
-#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",ELEVEN SPORTS 1 FHD
-http://melhordomundo.in:8080/jonathan/jonathan123/58
-#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",ELEVEN SPORTS 2 SD
-http://melhordomundo.in:8080/jonathan/jonathan123/59
-#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",ELEVEN SPORTS 2 HD
-http://melhordomundo.in:8080/jonathan/jonathan123/60
-#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",ELEVEN SPORTS 2 FHD
-http://melhordomundo.in:8080/jonathan/jonathan123/61
-#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",ELEVEN SPORTS 3 HD
-http://melhordomundo.in:8080/jonathan/jonathan123/63
 
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
@@ -103,23 +56,7 @@ http://melhordomundo.in:8080/jonathan/jonathan123/63
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM PORTUGAL - CINEMA - LISTA DO DIA 12 JAN 2021[/COLOR]
 https://000000
  
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cine TOP
-http://melhordomundo.in:8080/jonathan/jonathan123/93
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cine TOP HD
-http://melhordomundo.in:8080/jonathan/jonathan123/94
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cine TOP FHD
-http://melhordomundo.in:8080/jonathan/jonathan123/95
-#EXTINF:0 tvg-id="ext" group-title="Channels",Tv Cine EDITION
-http://melhordomundo.in:8080/jonathan/jonathan123/96
-#EXTINF:0 tvg-id="ext" group-title="Channels",Tv Cine EDITION FHD
-http://melhordomundo.in:8080/jonathan/jonathan123/98
-#EXTINF:0 tvg-id="ext" group-title="Channels",Tv Cine EMOTION
-http://melhordomundo.in:8080/jonathan/jonathan123/99
-#EXTINF:0 tvg-id="ext" group-title="Channels",Tv Cine ACTION FHD
-http://melhordomundo.in:8080/jonathan/jonathan123/104
-#EXTINF:0 tvg-id="ext" group-title="Channels",NOS STUDIO FHD
-http://melhordomundo.in:8080/jonathan/jonathan123/108
+#EXTINF:-1,NÃO DISPONIVEL
 
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
