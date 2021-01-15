@@ -34,6 +34,26 @@ https://000000
 
 #EXTINF:-1,NÃO DISPONIVEL
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 1
+http://nomorecable.xyz:80/delano/delano/18147
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT | SPORT TV 1 HD
+http://nomorecable.xyz:80/delano/delano/18148
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 2
+http://nomorecable.xyz:80/delano/delano/18146
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT | SPORT TV 2 HD
+http://nomorecable.xyz:80/delano/delano/18145
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 3
+http://nomorecable.xyz:80/delano/delano/18144
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT | SPORT TV 3 HD
+http://nomorecable.xyz:80/delano/delano/18143
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 4
+http://nomorecable.xyz:80/delano/delano/18142
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT | SPORT TV 4 HD
+http://nomorecable.xyz:80/delano/delano/18141
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 5
+http://nomorecable.xyz:80/delano/delano/18140
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT | SPORT TV 5 HD
+http://nomorecable.xyz:80/delano/delano/18139
 
 
 
@@ -43,7 +63,7 @@ https://000000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS - LISTA DO DIA 12 JAN 2020[/COLOR]
+#EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
 https://000000
 
 #EXTINF:-1,NÃO DISPONIVEL
@@ -53,7 +73,7 @@ https://000000
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
 #EXTM3U
  
-#EXTINF:-1,[COLOR blue]CANAIS PREMIUM PORTUGAL - CINEMA - LISTA DO DIA 12 JAN 2021[/COLOR]
+#EXTINF:-1,[COLOR blue]CANAIS PREMIUM PORTUGAL - CINEMA[/COLOR]
 https://000000
  
 #EXTINF:-1,NÃO DISPONIVEL
