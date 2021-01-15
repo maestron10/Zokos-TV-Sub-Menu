@@ -31,9 +31,6 @@ http://77.54.145.209:81/play/a032
 #EXTINF:-1,[COLOR blue]CANAIS SPORT TV[/COLOR]
 https://000000
 
-
-#EXTINF:-1,NÃO DISPONIVEL
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 1
 http://nomorecable.xyz:80/delano/delano/18147
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT | SPORT TV 1 HD
