@@ -5,8 +5,8 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Verificada: 14/01/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
-Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/portugal-iptv-working-links-free-10-01-21/
+#EXTINF:-1,[COLOR=yellow][B]Lista Verificada: 16/01/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
  
 ##################################  BENFICA TV   ###########################################################################
  
@@ -31,28 +31,7 @@ http://77.54.145.209:81/play/a032
 #EXTINF:-1,[COLOR blue]CANAIS SPORT TV[/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 1
-http://nomorecable.xyz:80/delano/delano/18147
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT | SPORT TV 1 HD
-http://nomorecable.xyz:80/delano/delano/18148
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 2
-http://nomorecable.xyz:80/delano/delano/18146
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT | SPORT TV 2 HD
-http://nomorecable.xyz:80/delano/delano/18145
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 3
-http://nomorecable.xyz:80/delano/delano/18144
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT | SPORT TV 3 HD
-http://nomorecable.xyz:80/delano/delano/18143
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 4
-http://nomorecable.xyz:80/delano/delano/18142
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT | SPORT TV 4 HD
-http://nomorecable.xyz:80/delano/delano/18141
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 5
-http://nomorecable.xyz:80/delano/delano/18140
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT | SPORT TV 5 HD
-http://nomorecable.xyz:80/delano/delano/18139
-
-
+#EXTINF:-1,NÃO DISPONIVEL
 
  
  
@@ -70,7 +49,7 @@ https://000000
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
 #EXTM3U
  
-#EXTINF:-1,[COLOR blue]CANAIS PREMIUM PORTUGAL - CINEMA[/COLOR]
+#EXTINF:-1,[COLOR blue]CANAIS PREMIUM CINEMA[/COLOR]
 https://000000
  
 #EXTINF:-1,NÃO DISPONIVEL
