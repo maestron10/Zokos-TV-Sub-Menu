@@ -1,0 +1,113 @@
+####################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  CANAIS TV PORTUGAL  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+http://0.0.0.0:0000
+####################################################################################################################################
+ 
+#EXTINF:-1,[COLOR=yellow][B]Lista Atualizada: 05/01/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+Fonte de Informação: https://gist.github.com/homemdasneves/cf622bc2feef035ae532c8397f2c054f
+ 
+#EXTM3U
+ 
+#EXTINF:-1 group-title="TV" tvg-id="RTP1" tvg-logo="https://iptv.cyberlimbo.com/logos/RTP1.png",RTP 1
+https://ptiptv.tk/rtp1.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
+ 
+#EXTINF:-1 group-title="TV" tvg-id="RTP Memória" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPMemoria.png",RTP Memória
+https://ptiptv.tk/rtpm.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
+ 
+#EXTINF:-1 group-title="TV" tvg-id="RTP Internacional" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPInternacional.png",RTP Internacional
+https://ptiptv.tk/rtpi.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
+ 
+#EXTINF:-1 group-title="TV" tvg-id="RTP África" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPAfrica.png",RTP África
+https://ptiptv.tk/rtpa.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
+ 
+#EXTINF:-1 group-title="TV" tvg-id="RTP Açores" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPAcores.png",RTP Açores
+https://ptiptv.tk/rtpac.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
+ 
+#EXTINF:-1 group-title="TV" tvg-id="RTP Madeira" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPMadeira.png",RTP Madeira
+https://ptiptv.tk/rtpmd.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
+ 
+#EXTINF:0 tvg-id="sic.pt" group-title="TV",SIC
+https://live.impresa.pt/live/sic/sic540p.m3u8
+ 
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="TV",SIC Notícias
+https://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+ 
+#EXTINF:0 tvg-id="RTP3.pt" group-title="TV",RTP 3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="General",PORTO CANAL
+https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
+ 
+ 
+ 
+#EXTINF:0 tvg-id="ARTV.pt" group-title="Legislative",ARTV | Canal Parlamento
+https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Caca Vision" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="PORTUGAL",Caca Vision
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="PORTUGAL",Canal Macau
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Online" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="PORTUGAL",Igreja Online
+http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="PORTUGAL",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Music" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="PORTUGAL",Kuriakos Music
+http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="PORTUGAL",Kuriakos TV
+http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural TV" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="PORTUGAL",Sobrenatural TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Porto Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/300px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",Porto Canal
+https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Fatima" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="PORTUGAL",TV Fatima
+https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Mana 1" tvg-logo="https://cdn.teleon.tv/logo/tv_mana_1_pt.png" group-title="PORTUGAL",TV Mana 1
+http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
+ 
+####################################################################################################################################
+ 
+#EXTINF:-1,[COLOR=yellow][B]Data da Lista 2: 16 Jan 2021[/B][/COLOR][COLOR=yellow][/COLOR]
+Fonte de Informação: https://vk.com/playlistfinder
+ 
+#####################################################################################################################################
+ 
+#EXTM3U
+
+#EXTINF:-1,AXN HD-MEO
+http://77.58.176.143:8080/play/a00b/index.m3u8
+#EXTINF:-1,AXN Movies HD-MEO
+http://77.58.176.143:8080/play/a00x/index.m3u8
+#EXTINF:-1,AXN White HD-MEO
+http://77.58.176.143:8080/play/a00z/index.m3u8
+#EXTINF:-1,BTV HD-MEO
+http://77.58.176.143:8080/play/a00e/index.m3u8
+#EXTINF:-1,Casa e Cozinha HD-NOS
+http://77.58.176.143:8080/play/a00v/index.m3u8
+#EXTINF:-1,Eleven 1 HD-MEO
+http://77.58.176.143:8080/play/a014/index.m3u8
+#EXTINF:-1,Eleven 2 HD-MEO
+http://77.58.176.143:8080/play/a00d/index.m3u8
+#EXTINF:-1,FOX Crime HD-MEO
+http://77.58.176.143:8080/play/a012/index.m3u8
+#EXTINF:-1,FOX HD-MEO
+http://77.58.176.143:8080/play/a00c/index.m3u8
+#EXTINF:-1,FOX Life HD-MEO
+http://77.58.176.143:8080/play/a011/index.m3u8
+#EXTINF:-1,ID Investigation Discovery-NOS
+http://77.58.176.143:8080/play/a00t/index.m3u8
+#EXTINF:-1,NOS Studios HD
+http://77.58.176.143:8080/play/a00n/index.m3u8
+#EXTINF:-1,RTP 1 HD-NOS
+http://77.58.176.143:8080/play/a00r/index.m3u8
+#EXTINF:-1,SIC HD-NOS
+http://77.58.176.143:8080/play/a00f/index.m3u8
+#EXTINF:-1,SPORT TV 2 HD-MEO
+http://77.58.176.143:8080/play/a008/index.m3u8
+#EXTINF:-1,SPORT TV 3 HD-MEO
+http://77.58.176.143:8080/play/a009/index.m3u8
+#EXTINF:-1,Sport TV 1 HD-NOS
+http://77.58.176.143:8080/play/a018/index.m3u8
+#EXTINF:-1,TVI HD-NOS
+http://77.58.176.143:8080/play/a00g/index.m3u8
