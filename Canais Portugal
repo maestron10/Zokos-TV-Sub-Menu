@@ -111,3 +111,398 @@ http://77.58.176.143:8080/play/a009/index.m3u8
 http://77.58.176.143:8080/play/a018/index.m3u8
 #EXTINF:-1,TVI HD-NOS
 http://77.58.176.143:8080/play/a00g/index.m3u8
+
+
+####################################################################################################################################
+ 
+#EXTINF:-1,[COLOR=yellow][B]Data da Lista 3: 16 Jan 2021[/B][/COLOR][COLOR=yellow][/COLOR]
+Fonte de Informação: https://www.iptvsource.com/portugal-free-iptv-links-rtmp-m3u-m3u8-16-01-21/
+ 
+#####################################################################################################################################
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI Reality Mosaico PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/83594
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI Reality Camera 2 PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/84360
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI Reality Camera 3 PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/84361
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI Reality Camera 4 PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/84362
+#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",TV Globo PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/14232
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Globo FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/89710
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Globo NOW PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2736
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Record HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2680
+#EXTINF:0 tvg-id="tvrecord.pt" group-title="Channels",TV Record PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/62537
+#EXTINF:0 tvg-id="ext" group-title="Channels",CTC HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/62538
+#EXTINF:0 tvg-id="ext" group-title="Channels",GameToon PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/82785
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ginx PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/90072
+#EXTINF:0 tvg-id="ext" group-title="Channels",S+ FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/94110
+
+#EXTINF:0 tvg-id="ext" group-title="Crianças",========== Crianças ==========
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/13973
+#EXTINF:0 tvg-id="ext" group-title="Crianças",Boomerang [ Brasil ] PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2769
+#EXTINF:0 tvg-id="BabyTV.pt" group-title="Crianças",Baby TV PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2768
+#EXTINF:0 tvg-id="JimJam.pt" group-title="Crianças",JimJam PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2732
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Crianças",Canal Panda PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2762
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Crianças",Panda Biggs PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2763
+#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Crianças",Disney Junior PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2755
+#EXTINF:0 tvg-id="disneychannel.pt" group-title="Crianças",Disney Channel PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/3841
+#EXTINF:0 tvg-id="cartoon.pt" group-title="Crianças",Cartoon Network PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2761
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Crianças",Nickelodeon PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2719
+#EXTINF:0 tvg-id="ext" group-title="Crianças",Nick Jr. PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/62544
+#EXTINF:0 tvg-id="SicK.pt" group-title="Crianças",SIC Kids PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2704
+#EXTINF:0 tvg-id="ext" group-title="Crianças",SIC Kids FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78295
+
+#EXTINF:0 tvg-id="ext" group-title="Filmes",========== Filmes ==========
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/13974
+#EXTINF:0 tvg-id="ext" group-title="Filmes",TVCine Top PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2684
+#EXTINF:0 tvg-id="ext" group-title="Filmes",TVCine Top HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78296
+#EXTINF:0 tvg-id="ext" group-title="Filmes",TVCine Top FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2685
+#EXTINF:0 tvg-id="ext" group-title="Filmes",TVCine Edition PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2683
+#EXTINF:0 tvg-id="ext" group-title="Filmes",TVCine Edition HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78297
+#EXTINF:0 tvg-id="ext" group-title="Filmes",TVCine Edition FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2686
+#EXTINF:0 tvg-id="ext" group-title="Filmes",TVCine Emotion PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2682
+#EXTINF:0 tvg-id="ext" group-title="Filmes",TVCine Emotion HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78298
+#EXTINF:0 tvg-id="ext" group-title="Filmes",TVCine Emotion FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2687
+#EXTINF:0 tvg-id="ext" group-title="Filmes",TVCine Action PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2681
+#EXTINF:0 tvg-id="ext" group-title="Filmes",TVCine Action HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78299
+
+#EXTINF:0 tvg-id="ext" group-title="Notícias",========== Notícias ==========
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/13975
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Notícias",SIC Notícias PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2701
+#EXTINF:0 tvg-id="ext" group-title="Notícias",SIC Notícias FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2698
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Notícias",TVI 24 PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/3844
+#EXTINF:0 tvg-id="ext" group-title="Notícias",TVI 24 ( Mobile ) PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75459
+#EXTINF:0 tvg-id="ext" group-title="Notícias",TVI 24 HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78311
+#EXTINF:0 tvg-id="ext" group-title="Notícias",TVI 24 FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78310
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Notícias",RTP 3 PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2708
+#EXTINF:0 tvg-id="ext" group-title="Notícias",RTP 3 HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75437
+#EXTINF:0 tvg-id="ext" group-title="Notícias",RTP 3 FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75436
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Notícias",CMTV PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2758
+#EXTINF:0 tvg-id="ext" group-title="Notícias",CMTV ( Mobile ) PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75458
+#EXTINF:0 tvg-id="ext" group-title="Notícias",CMTV HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75419
+#EXTINF:0 tvg-id="ext" group-title="Notícias",CMTV FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75418
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Notícias",Porto Canal PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2716
+#EXTINF:0 tvg-id="ext" group-title="Notícias",Porto Canal FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75438
+#EXTINF:0 tvg-id="ext" group-title="Notícias",Euronews PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/33162
+#EXTINF:0 tvg-id="ext" group-title="Notícias",BBC World News PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2773
+#EXTINF:0 tvg-id="ext" group-title="Notícias",S News PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/90061
+#EXTINF:0 tvg-id="ext" group-title="Notícias",NHK World Japan PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/90062
+#EXTINF:0 tvg-id="ext" group-title="Notícias",France 24 PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/90066
+#EXTINF:0 tvg-id="FoxNews.pt" group-title="Notícias",Fox News PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/90067
+#EXTINF:0 tvg-id="ext" group-title="Notícias",CNN PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/90068
+#EXTINF:0 tvg-id="ext" group-title="Notícias",CNBC Europe PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/90069
+#EXTINF:0 tvg-id="ext" group-title="Notícias",TVE 24h PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/90071
+
+#EXTINF:0 tvg-id="ext" group-title="Desporto",========== Desporto ==========
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/13976
+#EXTINF:0 tvg-id="ext" group-title="Desporto",SportTV+ PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/3613
+#EXTINF:0 tvg-id="ext" group-title="Desporto",SportTV+ FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/13248
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Desporto",SportTV 1 PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2678
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Desporto",SportTV 1 SD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/7426
+#EXTINF:0 tvg-id="ext" group-title="Desporto",SportTV 1 ( Baixa Internet ) PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75448
+#EXTINF:0 tvg-id="ext" group-title="Desporto",SportTV 1 ( Mobile ) PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75461
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Desporto",SportTV 1 HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/7425
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Desporto",SportTV 1 FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/3618
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Desporto",SportTV 2 PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2677
+#EXTINF:0 tvg-id="ext" group-title="Desporto",SportTV 2 ( Baixa Internet ) PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75449
+#EXTINF:0 tvg-id="ext" group-title="Desporto",SportTV 2 ( Mobile ) PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75462
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 2 SD VIP PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/80224
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 2 ( Baixa Internet ) PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75442
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 2 HD VIP PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/22716
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 2 FHD VIP PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/22715
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 2 FHD 4:3 VIP PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/16065
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 3 ( Baixa Internet ) PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75443
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 3 HD VIP PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/22718
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 3 FHD VIP PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/22717
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 3 FHD 4:3 VIP PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/16064
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 4 ( Baixa Internet ) PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75444
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 4 HD VIP PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/22720
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 4 FHD VIP PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/22719
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 4 FHD 4:3 VIP PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/16063
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 5 ( Baixa Internet ) PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75445
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 5 HD VIP PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/22722
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 5 FHD VIP PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/22721
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 5 FHD 4:3 VIP PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/16062
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 6 ( Baixa Internet ) PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75446
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 6 HD VIP PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/22724
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 6 FHD VIP PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/22723
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Eleven Sports 6 FHD 4:3 VIP PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/16061
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Canal 11 PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/73313
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Canal 11 HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/73315
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Canal 11 FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/73314
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Desporto",Sporting TV PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2694
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Desporto",Sporting TV FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2695
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Desporto",A Bola TV PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2780
+#EXTINF:0 tvg-id="ext" group-title="Desporto",A Bola TV HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78317
+#EXTINF:0 tvg-id="ext" group-title="Desporto",A Bola TV FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78316
+#EXTINF:0 tvg-id="RealMadridTV.pt" group-title="Desporto",Real Madrid TV PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2715
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Desporto",Eurosport 1 PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2753
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Desporto",Eurosport 1 HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2752
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Desporto",Eurosport 2 PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2751
+#EXTINF:0 tvg-id="pfc.pt" group-title="Desporto",PFC PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2717
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Motorvision TV PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2727
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Kombat Sport PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2731
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Fight Network FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2749
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Desporto",Fuel TV PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2738
+#EXTINF:0 tvg-id="ext" group-title="Desporto",Fuel TV FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2747
+
+#EXTINF:0 tvg-id="ext" group-title="Documentários",E! FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78323
+#EXTINF:0 tvg-id="FashionTV.nws" group-title="Documentários",Fashion TV PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2748
+#EXTINF:0 tvg-id="ext" group-title="Documentários",História PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2735
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Documentários",História FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78324
+#EXTINF:0 tvg-id="ext" group-title="Documentários",LocalVisão TV HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2744
+#EXTINF:0 tvg-id="ext" group-title="Documentários",Food Network PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/91124
+#EXTINF:0 tvg-id="ext" group-title="Documentários",Food Network FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75231
+#EXTINF:0 tvg-id="ext" group-title="Documentários",National Geographic PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78325
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Documentários",National Geographic FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2720
+#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Documentários",Nat Geo Wild PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2723
+#EXTINF:0 tvg-id="ext" group-title="Documentários",Nat Geo Wild HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78326
+#EXTINF:0 tvg-id="ext" group-title="Documentários",Nat Geo Wild FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2722
+#EXTINF:0 tvg-id="ext" group-title="Documentários",Crime + Investigation PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/62539
+#EXTINF:0 tvg-id="odisseia.pt" group-title="Documentários",Odisseia PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2718
+#EXTINF:0 tvg-id="ext" group-title="Documentários",Odisseia FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78327
+#EXTINF:0 tvg-id="TLC.pt" group-title="Documentários",TLC PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2691
+#EXTINF:0 tvg-id="ext" group-title="Documentários",Dog TV FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/73312
+#EXTINF:0 tvg-id="ext" group-title="Documentários",Zap Viva FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/73311
+#EXTINF:0 tvg-id="ext" group-title="Documentários",TPA PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75229
+#EXTINF:0 tvg-id="ext" group-title="Documentários",TCV International PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75228
+#EXTINF:0 tvg-id="ext" group-title="Documentários",TV Zimbo PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78292
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Documentários",Travel Channel HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2689
+#EXTINF:0 tvg-id="TorosTV.pt" group-title="Documentários",Toros TV PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/2690
+#EXTINF:0 tvg-id="ext" group-title="Documentários",Hispasat 4K PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/90064
+#EXTINF:0 tvg-id="ext" group-title="Documentários",TV Fatima PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/5617
+#EXTINF:0 tvg-id="ext" group-title="Documentários",Santuario Fatima FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75226
+#EXTINF:0 tvg-id="Cancaonova.br" group-title="Documentários",Canção Nova PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/5620
+#EXTINF:0 tvg-id="ext" group-title="Documentários",Kuriakos TV PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/33166
+#EXTINF:0 tvg-id="ext" group-title="Documentários",Kuriakos TV HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/33165
+#EXTINF:0 tvg-id="ext" group-title="Documentários",Kuriakos TV FHD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/33164
+#EXTINF:0 tvg-id="ext" group-title="Documentários",Kuriakos Cine PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/77671
+#EXTINF:0 tvg-id="ext" group-title="Documentários",Kuriakos Kids PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/76621
+#EXTINF:0 tvg-id="ext" group-title="Documentários",TV Maná HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/33167
+#EXTINF:0 tvg-id="ext" group-title="Documentários",Sobrenatural TV HD PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/33163
+#EXTINF:0 tvg-id="ext" group-title="Documentários",ARTV Parlamento PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/75227
+
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Cascais",LiveCam  Praia do Guincho | Sul PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78377
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Cascais",LiveCam Arriba PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78378
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Cascais",LiveCam Baía de Cascais PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78379
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Cascais",LiveCam  Live cam Praia da Conceição e Duquesa PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78380
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Cascais",LiveCam Praia das Moitas PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78381
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Cascais",LiveCam Praia do Tamariz PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78382
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Cascais",LiveCam São João do Estoril PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78383
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Cascais",LiveCam PDG SkatePark PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78384
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Cascais",LiveCam São Pedro do Estoril PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78385
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Cascais",LiveCam Praia das Avencas PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78386
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Cascais",LiveCam Parede PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78387
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Cascais",LiveCam Carcavelos PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78388
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Cascais",LiveCam Carcavelos | Calhau PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78389
+
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Oeiras",========== Câmeras Praias Oeiras ==========
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78348
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Oeiras",LiveCam Praia da Torre PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78390
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Oeiras",LiveCam Santo Amaro PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78391
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Oeiras",LiveCam Paço de Arcos PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78392
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Oeiras",LiveCam Caxias PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78393
+
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Almada",========== Câmeras Praias Almada ==========
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78349
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Almada",LiveCam Costa de Caparica | São João PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78394
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Almada",LiveCam Costa de Caparica | CDS PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78395
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Almada",LiveCam Costa de Caparica | Riviera PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78396
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Almada",LiveCam Fonte da Telha PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78397
+
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Alentejo",========== Câmeras Praias Alentejo ==========
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78350
+
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Algarve",========== Câmeras Praias Algarve ==========
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78351
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Algarve",LiveCam Arrifana PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78398
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Algarve",LiveCam Praia da Luz PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78399
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Algarve",LiveCam Meia Praia PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78400
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Algarve",LiveCam Alvor PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78401
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Algarve",LiveCam Praia da Rocha PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78402
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Algarve",LiveCam Ferragudo | Praia Grande PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78403
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Algarve",LiveCam Carvoeiro PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78404
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Algarve",LiveCam Senhora da Rocha e Praia Nova PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78405
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Algarve",LiveCam Praia da Galé PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78406
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Algarve",LiveCam Praia do Peneco PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78407
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Algarve",LiveCam Vilamoura PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78408
+
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Ilhas",========== Câmeras Praias Ilhas ==========
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78352
+#EXTINF:0 tvg-id="ext" group-title="Câmeras Praias Ilhas",LiveCam Madeira - Jardim do Mar PT
+http://portal.geniptv.com:8080/90a49fe9a03af459skypeid/7fhje673eDFGFTfd/78409
