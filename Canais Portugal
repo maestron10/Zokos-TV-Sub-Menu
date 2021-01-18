@@ -68,46 +68,42 @@ http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
  
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]Data da Lista 2: 16 Jan 2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Data da Lista 2: 18 Jan 2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder
  
 #####################################################################################################################################
  
 #EXTM3U
 
-#EXTINF:-1,AXN HD-MEO
-http://77.58.176.143:8080/play/a00b/index.m3u8
-#EXTINF:-1,AXN Movies HD-MEO
-http://77.58.176.143:8080/play/a00x/index.m3u8
-#EXTINF:-1,AXN White HD-MEO
-http://77.58.176.143:8080/play/a00z/index.m3u8
-#EXTINF:-1,BTV HD-MEO
-http://77.58.176.143:8080/play/a00e/index.m3u8
-#EXTINF:-1,Casa e Cozinha HD-NOS
-http://77.58.176.143:8080/play/a00v/index.m3u8
-#EXTINF:-1,Eleven 1 HD-MEO
-http://77.58.176.143:8080/play/a014/index.m3u8
-#EXTINF:-1,Eleven 2 HD-MEO
-http://77.58.176.143:8080/play/a00d/index.m3u8
-#EXTINF:-1,FOX Crime HD-MEO
-http://77.58.176.143:8080/play/a012/index.m3u8
-#EXTINF:-1,FOX HD-MEO
-http://77.58.176.143:8080/play/a00c/index.m3u8
-#EXTINF:-1,FOX Life HD-MEO
-http://77.58.176.143:8080/play/a011/index.m3u8
-#EXTINF:-1,ID Investigation Discovery-NOS
-http://77.58.176.143:8080/play/a00t/index.m3u8
-#EXTINF:-1,NOS Studios HD
-http://77.58.176.143:8080/play/a00n/index.m3u8
-#EXTINF:-1,RTP 1 HD-NOS
-http://77.58.176.143:8080/play/a00r/index.m3u8
-#EXTINF:-1,SIC HD-NOS
-http://77.58.176.143:8080/play/a00f/index.m3u8
-#EXTINF:-1,SPORT TV 2 HD-MEO
-http://77.58.176.143:8080/play/a008/index.m3u8
-#EXTINF:-1,SPORT TV 3 HD-MEO
-http://77.58.176.143:8080/play/a009/index.m3u8
-#EXTINF:-1,Sport TV 1 HD-NOS
-http://77.58.176.143:8080/play/a018/index.m3u8
-#EXTINF:-1,TVI HD-NOS
-http://77.58.176.143:8080/play/a00g/index.m3u8
+
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",PT: 24 KITCHEN HD
+http://mayootv.dyndns.tv:2165/aziz/aziz/2348
+
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",PT: FOX Comedy
+http://mayootv.dyndns.tv:2165/aziz/aziz/2340
+
+
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 HD
+http://mayootv.dyndns.tv:2165/aziz/aziz/2364
+
+#EXTINF:0 tvg-id="tvc2.pt" group-title="Channels",PT: TVCINE 2 HD
+http://mayootv.dyndns.tv:2165/aziz/aziz/2346
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN Sports 1 low
+http://mayootv.dyndns.tv:2165/aziz/aziz/5491
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN Sports 1 HD
+http://mayootv.dyndns.tv:2165/aziz/aziz/5492
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN Sports 3 low
+http://mayootv.dyndns.tv:2165/aziz/aziz/5497
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN Sports 4 HD
+http://mayootv.dyndns.tv:2165/aziz/aziz/5500
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN Sports 5 HD
+http://mayootv.dyndns.tv:2165/aziz/aziz/5502
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN Sports 6 FHD
+http://mayootv.dyndns.tv:2165/aziz/aziz/5505
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI_REALITY
+http://mayootv.dyndns.tv:2165/aziz/aziz/1249
