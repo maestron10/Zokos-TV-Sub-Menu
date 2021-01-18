@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Atualizada: 05/01/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista 1 Revista: 18/01/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://gist.github.com/homemdasneves/cf622bc2feef035ae532c8397f2c054f
  
 #EXTM3U
@@ -16,7 +16,11 @@ https://ptiptv.tk/rtpm.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64
  
 #EXTINF:-1 group-title="TV" tvg-id="RTP Internacional" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPInternacional.png",RTP Internacional
 https://ptiptv.tk/rtpi.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
- 
+
+#EXTINF:0 tvg-id="RTPi.pt" group-title="Entertainment" user-agent="Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36",RTP Internacional
+https://ptiptv.tk/rtpi.m3u8
+
+
 #EXTINF:-1 group-title="TV" tvg-id="RTP África" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPAfrica.png",RTP África
 https://ptiptv.tk/rtpa.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
  
@@ -31,7 +35,18 @@ https://live.impresa.pt/live/sic/sic540p.m3u8
  
 #EXTINF:0 tvg-id="sicnoticias.pt" group-title="TV",SIC Notícias
 https://live.impresa.pt/live/sicnot/sicnot540p.m3u8
- 
+
+#EXTINF:0 tvg-id="RTP3.pt" group-title="News" user-agent="Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36",RTP 3
+http://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8?DVR
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="News",SIC Notícias
+http://live.impresa.pt/live/sicnot/sicnot.m3u8
+#EXTINF:0 tvg-id="TVI24.pt" group-title="News",TVI 24
+https://ptiptv.tk/tvi24.m3u8?1UjB__04w6mEN1BU5JU8VBM4Pu8
+#EXTINF:0 tvg-id="ARTV.pt" group-title="News",ARTV
+https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",EURONEWS PT
+https://ptiptv.tk/euronews-pt.m3u8?1UjB__04w6mEN1BU5JU8VBM4Pu8
+
 #EXTINF:0 tvg-id="RTP3.pt" group-title="TV",RTP 3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
  
@@ -44,8 +59,7 @@ https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
  
  
-#EXTINF:-1 tvg-id="" tvg-name="Caca Vision" tvg-logo="https://i.imgur.com/3qB3JL7.png" group-title="PORTUGAL",Caca Vision
-https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="PORTUGAL",Canal Macau
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Igreja Online" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="PORTUGAL",Igreja Online
