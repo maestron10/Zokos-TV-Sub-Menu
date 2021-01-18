@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 #######################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Verificada: 10/01/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 18/01/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ###########################################################################
  
@@ -23,7 +23,10 @@ https://bozztv.com/36bay2/gin/giniko_supertv_1200kb_36bay2/index.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="NRJ Hits (FR)" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="FRANCE;MUSIK",[COLOR=coral][B]NRJ HITS[/B][/COLOR][COLOR=coral][/COLOR]
 https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
- 
+
+#EXTINF:-1,[COLOR=coral][B]NRJ HITS[/B][/COLOR][COLOR=coral][/COLOR]
+https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/chunklist_w1755996922_b3817472.m3u8
+
 #EXTINF:0,[COLOR=coral][B]1MUSIC TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
  
@@ -94,6 +97,9 @@ http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w1139689967.
  
 #EXTINF:0 type="stream" channelId="-1" group="Музыкальные",[COLOR=coral][B]RETRO TV SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]RETRO TV PLUS SD[/B][/COLOR][COLOR=coral][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w2107081768.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]PORTALFOXMIX[/B][/COLOR][COLOR=coral][/COLOR]
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
@@ -104,20 +110,7 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 https://000000
  
  
-#EXTINF:-1,[COLOR=coral][B]MTV EUROPE[/B][/COLOR][COLOR=coral][/COLOR]
-http://176.67.203.244:6565/play/a02g
- 
-#EXTINF:-1,[COLOR=coral][B]MTV LIVE[/B][/COLOR][COLOR=coral][/COLOR]
-http://176.67.203.244:6565/play/a02h
- 
-#EXTINF:-1,[COLOR=coral][B]MTV HITS[/B][/COLOR][COLOR=coral][/COLOR]
-http://176.67.203.244:6565/play/a00v
- 
-#EXTINF:-1,[COLOR=coral][B]MTV DANCE[/B][/COLOR][COLOR=coral][/COLOR]
-http://176.67.203.244:6565/play/a02i
- 
-#EXTINF:-1,[COLOR=coral][B]MTV 90´S[/B][/COLOR][COLOR=coral][/COLOR]
-http://176.67.203.244:6565/play/a00w
+#EXTINF:-1,NÃO DISPONIVEL
  
  
  
@@ -147,9 +140,6 @@ https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W2nBM9q.png" group-title="MUSIC",[COLOR=coral][B]LATIDO MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
 https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]NAGO TV[/B][/COLOR][COLOR=coral][/COLOR]
-http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
- 
  
 ######################################################################################
 #EXTINF:-1,[COLOR blue]OUTROS GÉNEROS[/COLOR]
@@ -167,9 +157,6 @@ http://81.196.0.126/utvedge/utvlivehls/index.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]FRESH TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
- 
-#EXTINF:0,[COLOR=coral][B]JHANJAR MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
  
 #EXTINF:0 type="stream" channelId="-1" group="Музыкальные",[COLOR=coral][B]HIT MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
 http://hitmusic.hu/hitmusic.m3u8
@@ -207,9 +194,6 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1,[COLOR=coral][B]BARAZA CLASSIC[/B][/COLOR][COLOR=coral][/COLOR]
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
  
-#EXTINF:0 tvg-id="ext" group-title="TV",[COLOR=coral][B]FM ITÁLIA TV [/B][/COLOR][COLOR=coral][/COLOR]
-https://stream2.xdevel.com/fmitalia/fmitalia/playlist.m3u8
- 
 #EXTINF:-1,[COLOR=coral][B]M2 TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://live.m2.tv/hls3/stream.m3u8
  
@@ -221,9 +205,6 @@ https://video.chaula.tv/hls/live/high/playlist_high.m3u8?checkedby:iptvcat.com
  
 #EXTINF:-1,[COLOR=coral][B]BARAZA TV DANCE HITS[/B][/COLOR][COLOR=coral][/COLOR]
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/chunklist_w296305449.m3u8
- 
-#EXTINF:-1,[COLOR=coral][B]GO TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/chunklist.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]RÁDIO TV BEATZ TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://edge9.vedge.infomaniak.com/livecast/rp_tv_1/playlist.m3u8
