@@ -10,7 +10,11 @@ Fonte de Informação: https://gist.github.com/homemdasneves/cf622bc2feef035ae53
  
 #EXTINF:-1 group-title="TV" tvg-id="RTP1" tvg-logo="https://iptv.cyberlimbo.com/logos/RTP1.png",RTP 1
 https://ptiptv.tk/rtp1.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
- 
+
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Entertainment" user-agent="Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36",RTP 2
+https://ptiptv.tk/rtp2.m3u8
+
+
 #EXTINF:-1 group-title="TV" tvg-id="RTP Memória" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPMemoria.png",RTP Memória
 https://ptiptv.tk/rtpm.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
  
