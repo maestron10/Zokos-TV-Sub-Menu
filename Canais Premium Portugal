@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Atualizada: 16/01/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Atualizada: 21/01/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
  
 ##################################  BENFICA TV   ###########################################################################
@@ -22,8 +22,8 @@ http://77.54.145.209:81/play/a032?RESOLUTION=1920x1080
 #EXTINF:-1,BTV FHD
 http://77.54.145.209:81/play/a032
 
-#EXTINF:-1,BTV HD-MEO
-http://77.58.176.143:8080/play/a00e/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BENFICA TV
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/1171
  
  
 ##################################  GRUPO SPORT TV   ###########################################################################
@@ -34,12 +34,16 @@ http://77.58.176.143:8080/play/a00e/index.m3u8
 https://000000
 
 
-#EXTINF:-1,Sport TV 1 HD-NOS
-http://77.58.176.143:8080/play/a018/index.m3u8
-#EXTINF:-1,SPORT TV 2 HD-MEO
-http://77.58.176.143:8080/play/a008/index.m3u8
-#EXTINF:-1,SPORT TV 3 HD-MEO
-http://77.58.176.143:8080/play/a009/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 1 4K+
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/864
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 2 4K+
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/13184
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 3 4K+
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/862
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 HD
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/1021
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 5 4K+
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/1022
 
 
  
@@ -51,11 +55,7 @@ http://77.58.176.143:8080/play/a009/index.m3u8
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
 https://000000
 
-#EXTINF:-1,Eleven 1 HD-MEO
-http://77.58.176.143:8080/play/a014/index.m3u8
-
-#EXTINF:-1,Eleven 2 HD-MEO
-http://77.58.176.143:8080/play/a00d/index.m3u8
+#EXTINF:-1,NÃO DISPONÍVEIS
  
 
  
@@ -65,7 +65,15 @@ http://77.58.176.143:8080/play/a00d/index.m3u8
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM CINEMA[/COLOR]
 https://000000
  
-#EXTINF:-1,NÃO DISPONIVEL
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE 1 4K+
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/1220
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE 2 4K+
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/1221
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE 3 4K+
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/1222
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE 4 4K+
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/1223
 
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
@@ -73,34 +81,17 @@ https://000000
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM ADULTOS[/COLOR]
 https://000000
  
-#EXTINF:-1,PLAYBOY
-http://45.182.127.235:8000/play/a0ck
-#EXTINF:-1,VENUS
-http://45.182.127.235:8000/play/a0f9
+#EXTINF:-1,PLAYBOY HD
+http://187.188.147.165:8000/play/a00l/index.m3u8
 #EXTINF:-1,VENUS
 http://187.188.147.165:8000/play/a01d
+#EXTINF:-1,VENUS
+http://187.188.147.165:8000/play/a01d/index.m3u8
 #EXTINF:-1,SEXTREME
 http://187.188.147.165:8000/play/a012
-#EXTINF:-1,EROTIC 1
-http://176.67.203.244:6565/play/a020
-#EXTINF:-1,EROTIC 2
-http://176.67.203.244:6565/play/a021
-#EXTINF:-1,EROTIC 3
-http://176.67.203.244:6565/play/a022
-#EXTINF:-1,EROTIC 4
-http://176.67.203.244:6565/play/a023
-#EXTINF:-1,EROTIC 5
-http://176.67.203.244:6565/play/a024
-#EXTINF:-1,EROTIC 6
-http://176.67.203.244:6565/play/a025
-#EXTINF:-1,EROTIC 7
-http://176.67.203.244:6565/play/a026
-#EXTINF:-1,EROTIC 8
-http://176.67.203.244:6565/play/a027
-#EXTINF:-1,EROX HD
-http://176.67.203.244:6565/play/a02c
-#EXTINF:-1,PASSION XXX
-http://176.67.203.244:6565/play/a02d
+#EXTINF:-1,SEXTREME
+http://187.188.147.165:8000/play/a012/index.m3u8
+
 
  
  
