@@ -14,22 +14,9 @@ Fontes de Informação:
 #EXTINF:-1 group-title="TV" tvg-id="RTP1" tvg-logo="https://iptv.cyberlimbo.com/logos/RTP1.png",RTP 1
 https://ptiptv.tk/rtp1.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
 
-#EXTINF:0 tvg-id="rtp2.pt" group-title="Entertainment" user-agent="Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36",RTP 2
-https://ptiptv.tk/rtp2.m3u8
 
-#EXTINF:-1,RTP 2
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b1290000_slpt.m3u8?pxt_rtp
-
-
-#EXTINF:-1 group-title="TV" tvg-id="RTP Memória" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPMemoria.png",RTP MEMÓRIA
-https://ptiptv.tk/rtpm.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
- 
 #EXTINF:-1 group-title="TV" tvg-id="RTP Internacional" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPInternacional.png",RTP INTERNACIONAL
 https://ptiptv.tk/rtpi.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
-
-#EXTINF:0 tvg-id="RTPi.pt" group-title="Entertainment" user-agent="Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36",RTP INTERNACIONAL
-https://ptiptv.tk/rtpi.m3u8
-
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP África" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPAfrica.png",RTP ÁFRICA
 https://ptiptv.tk/rtpa.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
@@ -46,8 +33,7 @@ https://live.impresa.pt/live/sic/sic540p.m3u8
 #EXTINF:0 tvg-id="sicnoticias.pt" group-title="TV",SIC NOTÍCIAS
 https://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
-#EXTINF:0 tvg-id="RTP3.pt" group-title="News" user-agent="Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36",RTP 3
-http://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8?DVR
+
 #EXTINF:0 tvg-id="sicnoticias.pt" group-title="News",SIC NOTÍCIAS
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:0 tvg-id="TVI24.pt" group-title="News",TVI 24
@@ -57,9 +43,6 @@ https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",EURONEWS PT
 https://ptiptv.tk/euronews-pt.m3u8?1UjB__04w6mEN1BU5JU8VBM4Pu8
 
-#EXTINF:0 tvg-id="RTP3.pt" group-title="TV",RTP 3
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
- 
 #EXTINF:0 tvg-id="PortoCanal.pt" group-title="General",PORTO CANAL
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
  
@@ -85,9 +68,6 @@ https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mana 1" tvg-logo="https://cdn.teleon.tv/logo/tv_mana_1_pt.png" group-title="PORTUGAL",TV MANA 1
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://s3.amazonaws.com/pt-bm-images/company_images/2692/logo/2692_logo_original.png",SANTUÁRIO DE FÁTIMA
-http://213.13.26.11:1935/live/santuario.stream/KodiPortugal.pt.m3u8
 
 #EXTINF:-1,TV DE BRAGA
 https://5cf4a2c2512a2.streamlock.net/canalb/canalb/chunklist_w1487143489.m3u8
