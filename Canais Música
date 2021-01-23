@@ -117,10 +117,15 @@ https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w590134734.m3u8
 ######################################################################################
 #EXTINF:-1,[COLOR blue]GRUPO MTV[/COLOR]
 https://000000
- 
- 
-#EXTINF:-1,NÃO DISPONIVEL
- 
+
+#EXTINF:-1,[COLOR=coral][B]MTV[/B][/COLOR][COLOR=coral][/COLOR]
+http://45.170.40.2:8000/play/a025
+#EXTINF:-1,[COLOR=coral][B]MTV HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://45.182.127.235:8000/play/a01f
+#EXTINF:-1,[COLOR=coral][B]MTV HITS[/B][/COLOR][COLOR=coral][/COLOR]
+http://45.182.127.235:8000/play/a013
+#EXTINF:-1,[COLOR=coral][B]MTV SIM HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://45.182.127.235:8000/play/a00a
  
  
 ######################################################################################
@@ -132,10 +137,7 @@ http://95.214.104.25:8000/play/a03n
  
 #EXTINF:-1,[COLOR=coral][B]VH1 CLASSIC[/B][/COLOR][COLOR=coral][/COLOR]
 http://95.214.104.25:8000/play/a06q
- 
-#EXTINF:-1,[COLOR=coral][B]MCM TOP[/B][/COLOR][COLOR=coral][/COLOR]
-http://193.126.18.184:4022/udp/239.100.29.33:1234
- 
+  
 ######################################################################################
 #EXTINF:-1,[COLOR blue]MÚSICA LATINA[/COLOR]
 https://000000
