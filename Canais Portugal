@@ -4,7 +4,10 @@ http://0.0.0.0:0000
 ####################################################################################################################################
  
 #EXTINF:-1,[COLOR=yellow][B]Lista 1 Revista: 23/01/2021[/B][/COLOR][COLOR=yellow][/COLOR]
-Fonte de Informação: https://gist.github.com/homemdasneves/cf622bc2feef035ae532c8397f2c054f
+Fontes de Informação: 
+* https://gist.github.com/homemdasneves/cf622bc2feef035ae532c8397f2c054f  
+* http://www.cxtv.com.br/tv/paises/portugal
+* 
  
 #EXTM3U
  
@@ -14,35 +17,38 @@ https://ptiptv.tk/rtp1.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64
 #EXTINF:0 tvg-id="rtp2.pt" group-title="Entertainment" user-agent="Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36",RTP 2
 https://ptiptv.tk/rtp2.m3u8
 
+#EXTINF:-1,RTP 2
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b1290000_slpt.m3u8?pxt_rtp
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP Memória" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPMemoria.png",RTP Memória
+
+#EXTINF:-1 group-title="TV" tvg-id="RTP Memória" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPMemoria.png",RTP MEMÓRIA
 https://ptiptv.tk/rtpm.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
  
-#EXTINF:-1 group-title="TV" tvg-id="RTP Internacional" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPInternacional.png",RTP Internacional
+#EXTINF:-1 group-title="TV" tvg-id="RTP Internacional" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPInternacional.png",RTP INTERNACIONAL
 https://ptiptv.tk/rtpi.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
 
-#EXTINF:0 tvg-id="RTPi.pt" group-title="Entertainment" user-agent="Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36",RTP Internacional
+#EXTINF:0 tvg-id="RTPi.pt" group-title="Entertainment" user-agent="Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36",RTP INTERNACIONAL
 https://ptiptv.tk/rtpi.m3u8
 
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP África" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPAfrica.png",RTP África
+#EXTINF:-1 group-title="TV" tvg-id="RTP África" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPAfrica.png",RTP ÁFRICA
 https://ptiptv.tk/rtpa.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
  
-#EXTINF:-1 group-title="TV" tvg-id="RTP Açores" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPAcores.png",RTP Açores
+#EXTINF:-1 group-title="TV" tvg-id="RTP Açores" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPAcores.png",RTP AÇORES
 https://ptiptv.tk/rtpac.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
  
-#EXTINF:-1 group-title="TV" tvg-id="RTP Madeira" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPMadeira.png",RTP Madeira
+#EXTINF:-1 group-title="TV" tvg-id="RTP Madeira" tvg-logo="https://iptv.cyberlimbo.com/logos/RTPMadeira.png",RTP MADEIRA
 https://ptiptv.tk/rtpmd.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.75+Safari%2F537.36
  
 #EXTINF:0 tvg-id="sic.pt" group-title="TV",SIC
 https://live.impresa.pt/live/sic/sic540p.m3u8
  
-#EXTINF:0 tvg-id="sicnoticias.pt" group-title="TV",SIC Notícias
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="TV",SIC NOTÍCIAS
 https://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
 #EXTINF:0 tvg-id="RTP3.pt" group-title="News" user-agent="Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36",RTP 3
 http://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8?DVR
-#EXTINF:0 tvg-id="sicnoticias.pt" group-title="News",SIC Notícias
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="News",SIC NOTÍCIAS
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:0 tvg-id="TVI24.pt" group-title="News",TVI 24
 https://ptiptv.tk/tvi24.m3u8?1UjB__04w6mEN1BU5JU8VBM4Pu8
@@ -57,32 +63,43 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 #EXTINF:0 tvg-id="PortoCanal.pt" group-title="General",PORTO CANAL
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
  
- 
- 
-#EXTINF:0 tvg-id="ARTV.pt" group-title="Legislative",ARTV | Canal Parlamento
+#EXTINF:0 tvg-id="ARTV.pt" group-title="Legislative",ARTV | CANAL PARLAMENTO
 https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
- 
- 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="PORTUGAL",Canal Macau
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="PORTUGAL",CANAL MACAU
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Igreja Online" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="PORTUGAL",Igreja Online
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Online" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="PORTUGAL",IGREJA ONLINE
 http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="PORTUGAL",Kuriakos Kids
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="PORTUGAL",KURIAKOS KIDS
 http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Music" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="PORTUGAL",Kuriakos Music
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Music" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="PORTUGAL",KURIAKOS MUSIC
 http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="PORTUGAL",Kuriakos TV
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="PORTUGAL",KURIAKOS TV
 http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural TV" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="PORTUGAL",Sobrenatural TV
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural TV" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="PORTUGAL",SOBRENATURAL TV
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Porto Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/300px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",Porto Canal
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Fatima" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="PORTUGAL",TV Fatima
+#EXTINF:-1 tvg-id="" tvg-name="TV Fatima" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="PORTUGAL",TV FÁTIMA
 https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Mana 1" tvg-logo="https://cdn.teleon.tv/logo/tv_mana_1_pt.png" group-title="PORTUGAL",TV Mana 1
+#EXTINF:-1 tvg-id="" tvg-name="TV Mana 1" tvg-logo="https://cdn.teleon.tv/logo/tv_mana_1_pt.png" group-title="PORTUGAL",TV MANA 1
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://s3.amazonaws.com/pt-bm-images/company_images/2692/logo/2692_logo_original.png",SANTUÁRIO DE FÁTIMA
+http://213.13.26.11:1935/live/santuario.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1,TV DE BRAGA
+https://5cf4a2c2512a2.streamlock.net/canalb/canalb/chunklist_w1487143489.m3u8
+
+#EXTINF:-1,ADB TV
+https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/chunklist_w1178538717.m3u8
+
+#EXTINF:-1,IURDTV EUROPA
+https://dcunilive22-lh.akamaihd.net/i/dclive_1@364210/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1611511906~acl=%2fi%2fdclive_1%40364210*~data=hdntl~hmac=d3fb307f8bf223e7f27d690ba734b811bd028fbdd580e3dcc6348d4b64242354
+
+#EXTINF:-1,IGREJA DO ESPÍRITO SANTO
+https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/chunklist_w1013169129_b2031931.m3u8
  
 ####################################################################################################################################
  
