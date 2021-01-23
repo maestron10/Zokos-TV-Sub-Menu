@@ -87,9 +87,6 @@ https://000000
 #EXTINF:-1,[COLOR=coral][B]MOOZ DANCE[/B][/COLOR][COLOR=coral][/COLOR]
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/17.m3u8/Level(545259)?start=LIVE&end=END
  
-#EXTINF:-1,[COLOR=coral][B]CLUBLAND TV[/B][/COLOR][COLOR=coral][/COLOR]
-http://176.67.203.244:6565/play/a02l
- 
 #EXTINF:-1,[COLOR=coral][B]EURODANCE 90 TV [/B][/COLOR][COLOR=coral][/COLOR]
 http://eurodance.catcast.tv/content/36987/index.m3u8
  
@@ -154,20 +151,6 @@ https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W2nBM9q.png" group-title="MUSIC",[COLOR=coral][B]LATIDO MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
 https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
- 
- 
-######################################################################################
-#EXTINF:-1,[COLOR blue]ROCK AND ROLL[/COLOR]
-https://000000
- 
- #EXTINF:-1,[COLOR=coral][B]RADIO 21 TV[/B][/COLOR][COLOR=coral][/COLOR]
- https://playback.akamaized.net/streams/22300508_6675945_lsiutcr1hbnhp82vgsq_1/media/22300508_6675945_lsiutcr1hbnhp82vgsq_1@2128000p.m3u8?dw=14400&ts=1611421200&hdnts=exp=1611595866~acl=/streams/22300508_6675945_lsiutcr1hbnhp82vgsq_1/media*~hmac=9132e0f877331a5f8531300412e9d4ba2d4140ba1ba6e1113f3df9767729293d
- 
- #EXTINF:-1,[COLOR=coral][B]HEAVY METAL TELEVISION[/B][/COLOR][COLOR=coral][/COLOR]
- http://70.163.116.19:1935/hmtv/myStream/chunklist_w2131963268.m3u8
- 
- #EXTINF:-1,[COLOR=coral][B]RADIO U TV[/B][/COLOR][COLOR=coral][/COLOR]
- https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
  
 ######################################################################################
 #EXTINF:-1,[COLOR blue]OUTROS GÉNEROS[/COLOR]
