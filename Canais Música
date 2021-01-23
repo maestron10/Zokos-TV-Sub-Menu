@@ -74,6 +74,9 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http:
  
 #EXTINF:-1,[COLOR=coral][B]ON TV PORTUGAL[/B][/COLOR][COLOR=coral][/COLOR]
 https:\\5ce9406b73c33.streamlock.net\ONFM\livestream\master.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]VIBEE TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8?nimblesessionid=39151421
  
  
 ###########################################################################################
@@ -87,11 +90,17 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/17.m3u8/Level(545259)?st
 #EXTINF:-1,[COLOR=coral][B]CLUBLAND TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://176.67.203.244:6565/play/a02l
  
+#EXTINF:-1,[COLOR=coral][B]EURODANCE 90 TV [/B][/COLOR][COLOR=coral][/COLOR]
+http://eurodance.catcast.tv/content/36987/index.m3u8
+ 
  
 ######################################################################################
 #EXTINF:-1,[COLOR blue]MÚSICA ANTIGA[/COLOR]
 https://000000
- 
+
+#EXTINF:-1,[COLOR=coral][B]THE RETRO CHANNEL[/B][/COLOR][COLOR=coral][/COLOR]
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w223843448.m3u8
+
 #EXTINF:-1,[COLOR=coral][B]POWERTV[/B][/COLOR][COLOR=coral][/COLOR]
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w1139689967.m3u8
  
@@ -103,6 +112,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
  
 #EXTINF:-1,[COLOR=coral][B]PORTALFOXMIX[/B][/COLOR][COLOR=coral][/COLOR]
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]REWIND TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w590134734.m3u8
  
  
 ######################################################################################
@@ -130,7 +142,10 @@ http://193.126.18.184:4022/udp/239.100.29.33:1234
 ######################################################################################
 #EXTINF:-1,[COLOR blue]MÚSICA LATINA[/COLOR]
 https://000000
- 
+
+#EXTINF:-1,[COLOR=coral][B]TOP LATINO TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w1152580596.m3u8
+
 #EXTINF:-1,[COLOR=coral][B]TELERITMO[/B][/COLOR][COLOR=coral][/COLOR]
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
  
@@ -142,10 +157,26 @@ https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
  
  
 ######################################################################################
-#EXTINF:-1,[COLOR blue]OUTROS GÉNEROS[/COLOR]
+#EXTINF:-1,[COLOR blue]ROCK AND ROLL[/COLOR]
 https://000000
  
+ #EXTINF:-1,[COLOR=coral][B]RADIO 21 TV[/B][/COLOR][COLOR=coral][/COLOR]
+ https://playback.akamaized.net/streams/22300508_6675945_lsiutcr1hbnhp82vgsq_1/media/22300508_6675945_lsiutcr1hbnhp82vgsq_1@2128000p.m3u8?dw=14400&ts=1611421200&hdnts=exp=1611595866~acl=/streams/22300508_6675945_lsiutcr1hbnhp82vgsq_1/media*~hmac=9132e0f877331a5f8531300412e9d4ba2d4140ba1ba6e1113f3df9767729293d
  
+ #EXTINF:-1,[COLOR=coral][B]HEAVY METAL TELEVISION[/B][/COLOR][COLOR=coral][/COLOR]
+ http://70.163.116.19:1935/hmtv/myStream/chunklist_w2131963268.m3u8
+ 
+ #EXTINF:-1,[COLOR=coral][B]RADIO U TV[/B][/COLOR][COLOR=coral][/COLOR]
+ https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
+ 
+######################################################################################
+#EXTINF:-1,[COLOR blue]OUTROS GÉNEROS[/COLOR]
+https://000000
+
+
+#EXTINF:-1,[COLOR=coral][B]PLAY TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://wssl1.acessaradios.com.br/playtv/playtv/chunklist.m3u8
+
 #EXTINF:-1,[COLOR=coral][B]MUSIC BOX RUSSIA[/B][/COLOR][COLOR=coral][/COLOR]
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
  
