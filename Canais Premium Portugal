@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Atualizada: 23/01/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 24/01/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
  
 ##################################  BENFICA TV   ###########################################################################
@@ -24,6 +24,12 @@ http://77.54.145.209:81/play/a032
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: BENFICA TV
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/1171
+
+#EXTINF:-1 ,PT | BENFICA TV
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14093
+
+#EXTINF:-1 ,PT | BENFICA TV HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85735
  
  
 ##################################  GRUPO SPORT TV   ###########################################################################
@@ -33,28 +39,42 @@ http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/1171
 #EXTINF:-1,[COLOR blue]CANAIS SPORT TV[/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT| SPORT TV
-http://rv.imax.re:80/5124037472/1572081885/81653
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT| SPORT TV 1 HD
-http://rv.imax.re:80/5124037472/1572081885/81652
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| SPORT TV 1 HD NOS
-http://rv.imax.re:80/5124037472/1572081885/81651
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT| SPORT TV 1
-http://rv.imax.re:80/5124037472/1572081885/81650
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT| SPORT TV 2 HD
-http://rv.imax.re:80/5124037472/1572081885/81649
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT| SPORT TV 2
-http://rv.imax.re:80/5124037472/1572081885/81648
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT| SPORT TV 3 HD
-http://rv.imax.re:80/5124037472/1572081885/81647
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT| SPORT TV 3
-http://rv.imax.re:80/5124037472/1572081885/81646
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT| SPORT TV 4
-http://rv.imax.re:80/5124037472/1572081885/81645
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT| SPORT TV 5
-http://rv.imax.re:80/5124037472/1572081885/81644
+#EXTINF:-1 ,PT | SPORT TV + FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14108
+#EXTINF:-1 ,PT | SPORT TV +
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79941
+#EXTINF:-1 ,PT | SPORT TV1 FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/89710
+#EXTINF:-1 ,PT | SPORT TV2 FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14101
+#EXTINF:-1 ,PT | SPORT TV2 HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14106
+#EXTINF:-1 ,PT | SPORT TV3 FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14100
+#EXTINF:-1 ,PT | SPORT TV3
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14105
+#EXTINF:-1 ,PT | SPORT TV4 FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14099
+#EXTINF:-1 ,PT | SPORT TV4
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14104
+#EXTINF:-1 ,PT | SPORT TV5 HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14103
 
- 
+#EXTINF:-1 ,PT | SPORT TV 1 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85720
+#EXTINF:-1 ,PT | SPORT TV 2 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85721
+#EXTINF:-1 ,PT | SPORT TV 3 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85722
+#EXTINF:-1 ,PT | SPORT TV 4 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85723
+#EXTINF:-1 ,PT | SPORT TV 5 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85724
+#EXTINF:-1 ,PT | SPORT TV+ HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85725
+#EXTINF:-1 ,PT | SPORT TV NBA HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85726
+
  
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
  
@@ -63,18 +83,31 @@ http://rv.imax.re:80/5124037472/1572081885/81644
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 1 HD
-http://rv.imax.re:80/5124037472/1572081885/81642
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 2 HD
-http://rv.imax.re:80/5124037472/1572081885/81641
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 3 HD
-http://rv.imax.re:80/5124037472/1572081885/81640
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 4 HD
-http://rv.imax.re:80/5124037472/1572081885/81639
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 5 HD
-http://rv.imax.re:80/5124037472/1572081885/81638
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 6 HD
-http://rv.imax.re:80/5124037472/1572081885/81637
+
+#EXTINF:-1 ,PT | ELEVEN SPORTS 1 FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/29988
+#EXTINF:-1 ,PT | ELEVEN SPORTS 2 FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/29987
+#EXTINF:-1 ,PT | ELEVEN SPORTS 4 HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/29985
+#EXTINF:-1 ,PT | ELEVEN SPORTS 5 FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/29984
+#EXTINF:-1 ,PT | ELEVEN SPORTS 6 HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/29983
+
+#EXTINF:-1 ,PT | ELEVEN SPORTS 1 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85727
+#EXTINF:-1 ,PT | ELEVEN SPORTS 2 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85728
+#EXTINF:-1 ,PT | ELEVEN SPORTS 3 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85729
+#EXTINF:-1 ,PT | ELEVEN SPORTS 4 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85730
+#EXTINF:-1 ,PT | ELEVEN SPORTS 5 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85731
+#EXTINF:-1 ,PT | ELEVEN SPORTS 6 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85732
+
 
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
@@ -82,18 +115,28 @@ http://rv.imax.re:80/5124037472/1572081885/81637
  
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM CINEMA[/COLOR]
 https://000000
- 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| TVCINE TOP HD
-http://rv.imax.re:80/5124037472/1572081885/81720
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| TVCINE EDITION HD
-http://rv.imax.re:80/5124037472/1572081885/81719
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| TVCINE EMOTION HD
-http://rv.imax.re:80/5124037472/1572081885/81718
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| TVCINE ACTION HD
-http://rv.imax.re:80/5124037472/1572081885/81717
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| TVCINE EDITION
-http://rv.imax.re:80/5124037472/1572081885/81716
+
+#EXTINF:-1 ,PT | TVCINE1
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23219
+#EXTINF:-1 ,PT | TVCINE3
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23215
+#EXTINF:-1 ,PT | TVCINE 4HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23214
+#EXTINF:-1 ,PT | TVCINE4
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23213
+#EXTINF:-1 ,PT | NOS STUDIOS
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/57858
+#EXTINF:-1 ,PT | TV CINE 1 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85693
+#EXTINF:-1 ,PT | TV CINE 2 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85694
+#EXTINF:-1 ,PT | TV CINE 3 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85695
+#EXTINF:-1 ,PT | TV CINE 4 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85696
+
+
 
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
