@@ -128,6 +128,9 @@ http://95.214.104.25:8000/play/a06q
 #EXTINF:-1,[COLOR blue]MÚSICA LATINA[/COLOR]
 https://000000
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80111_Alegria_TV.png",[COLOR=coral][B]ALEGRIA TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
+
 #EXTINF:-1,[COLOR=coral][B]TELERITMO[/B][/COLOR][COLOR=coral][/COLOR]
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
  
