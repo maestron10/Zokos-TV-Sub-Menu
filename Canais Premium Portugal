@@ -22,6 +22,9 @@ http://77.54.145.209:81/play/a032?RESOLUTION=1920x1080
 #EXTINF:-1,BTV FHD
 http://77.54.145.209:81/play/a032
 
+#EXTINF:-1,BTV HD
+http://46.127.160.33:8080/play/a00e/index.m3u8
+
  
  
 ##################################  GRUPO SPORT TV   ###########################################################################
@@ -31,7 +34,14 @@ http://77.54.145.209:81/play/a032
 #EXTINF:-1,[COLOR blue]CANAIS SPORT TV[/COLOR]
 https://000000
 
-#EXTINF:-1 ,NÃO DISPONÍVEL
+
+#EXTINF:-1,SPORT TV 1 HD
+http://46.127.160.33:8080/play/a018/index.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://46.127.160.33:8080/play/a008/index.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://46.127.160.33:8080/play/a009/index.m3u8
+
 
  
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -42,7 +52,10 @@ https://000000
 https://000000
 
 
-#EXTINF:-1 ,NÃO DISPONÍVEL
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://46.127.160.33:8080/play/a014/index.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://46.127.160.33:8080/play/a00d/index.m3u8
 
 
  
@@ -53,7 +66,8 @@ https://000000
 https://000000
 
 
-#EXTINF:-1 ,NÃO DISPONÍVEL
+#EXTINF:-1,NOS STUDIO HD
+http://46.127.160.33:8080/play/a00n/index.m3u8
 
 
 
