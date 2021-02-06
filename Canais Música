@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 #######################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 30/01/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 06/02/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ###########################################################################
  
@@ -19,7 +19,10 @@ https://000000
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxTV-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
  
 #EXTINF:0 group-title="TR: Musik",[COLOR=coral][B]POWERHD[/B][/COLOR][COLOR=coral][/COLOR]
-https://bozztv.com/36bay2/gin/giniko_supertv_1200kb_36bay2/index.m3u8
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8?nimblesessionid=2184591414
+
+#EXTINF:0 group-title="TR: Musik",[COLOR=coral][B]POWERHD TURK[/B][/COLOR][COLOR=coral][/COLOR]
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2650000_sltur.m3u8?nimblesessionid=2184593643
  
 #EXTINF:-1 tvg-id="" tvg-name="NRJ Hits (FR)" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="FRANCE;MUSIK",[COLOR=coral][B]NRJ HITS[/B][/COLOR][COLOR=coral][/COLOR]
 https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
@@ -67,6 +70,8 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Magic (UK)" tvg-logo="https://i.imgur.com/HXfKkwj.png" group-title="UK;MUSIK",[COLOR=coral][B]MAGIC TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
  
+#EXTINF:-1,[COLOR=coral][B]MOOZ HITS TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
  
 ###########################################################################################
  
@@ -75,6 +80,9 @@ https://000000
  
 #EXTINF:-1,[COLOR=coral][B]EURODANCE 90 TV [/B][/COLOR][COLOR=coral][/COLOR]
 http://eurodance.catcast.tv/content/36987/index.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]MOOZ DANCE TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
  
  
 ######################################################################################
