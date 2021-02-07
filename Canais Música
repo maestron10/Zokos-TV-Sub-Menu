@@ -19,10 +19,7 @@ https://000000
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxTV-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
  
 #EXTINF:0 group-title="TR: Musik",[COLOR=coral][B]POWERHD[/B][/COLOR][COLOR=coral][/COLOR]
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8?nimblesessionid=2184591414
-
-#EXTINF:0 group-title="TR: Musik",[COLOR=coral][B]POWERHD TURK[/B][/COLOR][COLOR=coral][/COLOR]
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2650000_sltur.m3u8?nimblesessionid=2184593643
+http://nimlive6.giniko.com/supertv/supertv/chunklist_w641884488.m3u8?nimblesessionid=42814165&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjEgMTE6MTA6MDAgQU0maGFzaF92YWx1ZT16Y2wyUzN4aVBpeENCNHJTSHl6aU13PT0mdmFsaWRtaW51dGVzPTE0NDA=
  
 #EXTINF:-1 tvg-id="" tvg-name="NRJ Hits (FR)" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="FRANCE;MUSIK",[COLOR=coral][B]NRJ HITS[/B][/COLOR][COLOR=coral][/COLOR]
 https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
@@ -57,7 +54,6 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-desktop.m3u8?yo.up=http:/
 #EXTINF:-1,[COLOR=coral][B]M2O TV SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
  
-
 #EXTINF:-1,[COLOR=coral][B]COMPANY TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
  
@@ -70,8 +66,6 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Magic (UK)" tvg-logo="https://i.imgur.com/HXfKkwj.png" group-title="UK;MUSIK",[COLOR=coral][B]MAGIC TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
  
-#EXTINF:-1,[COLOR=coral][B]MOOZ HITS TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
  
 ###########################################################################################
  
@@ -81,9 +75,6 @@ https://000000
 #EXTINF:-1,[COLOR=coral][B]EURODANCE 90 TV [/B][/COLOR][COLOR=coral][/COLOR]
 http://eurodance.catcast.tv/content/36987/index.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]MOOZ DANCE TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
- 
  
 ######################################################################################
 #EXTINF:-1,[COLOR blue]MÚSICA ANTIGA[/COLOR]
