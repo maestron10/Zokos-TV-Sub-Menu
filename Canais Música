@@ -20,7 +20,13 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
  
 #EXTINF:0 group-title="TR: Musik",[COLOR=coral][B]POWERHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://nimlive6.giniko.com/supertv/supertv/chunklist_w641884488.m3u8?nimblesessionid=42814165&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjEgMTE6MTA6MDAgQU0maGFzaF92YWx1ZT16Y2wyUzN4aVBpeENCNHJTSHl6aU13PT0mdmFsaWRtaW51dGVzPTE0NDA=
- 
+
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]POWERHD[/B][/COLOR][COLOR=coral][/COLOR]
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]POWERHD[/B][/COLOR][COLOR=coral][/COLOR]
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8?nimblesessionid=2186020686
+
 #EXTINF:-1 tvg-id="" tvg-name="NRJ Hits (FR)" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="FRANCE;MUSIK",[COLOR=coral][B]NRJ HITS[/B][/COLOR][COLOR=coral][/COLOR]
 https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
 
@@ -65,7 +71,9 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="Magic (UK)" tvg-logo="https://i.imgur.com/HXfKkwj.png" group-title="UK;MUSIK",[COLOR=coral][B]MAGIC TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
- 
+
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]ON TV PORTUGAL[/B][/COLOR][COLOR=coral][/COLOR]
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
  
 ###########################################################################################
  
@@ -75,6 +83,11 @@ https://000000
 #EXTINF:-1,[COLOR=coral][B]EURODANCE 90 TV [/B][/COLOR][COLOR=coral][/COLOR]
 http://eurodance.catcast.tv/content/36987/index.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]DANCE STAR TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]IBIZA GLOBAL TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://ibgrtv.streaming-pro.com/hls/ibgrlive_720p.m3u8
  
 ######################################################################################
 #EXTINF:-1,[COLOR blue]MÚSICA ANTIGA[/COLOR]
@@ -97,6 +110,9 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]REWIND TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w590134734.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]VINTAGE MUSIC TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
  
  
 ######################################################################################
@@ -227,20 +243,19 @@ http://104.237.60.234/live/gabruutv.m3u8
 #EXTM3U
  
 
- #EXTINF:0 tvg-id="ext" group-title="Musicales",Activa TV España
+#EXTINF:0 tvg-id="ext" group-title="Musicales",ACTIVA TV ESPPANHA
 https://streamtv.mediasector.es/hls/activatv/1_2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Cadena Elite España
+#EXTINF:0 tvg-id="ext" group-title="Musicales",CADENA ELITE ESPANHA
 https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",XtraHits TV
+#EXTINF:0 tvg-id="ext" group-title="Musicales",XTRA HITS TV
 https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Mola TV España
+#EXTINF:0 tvg-id="ext" group-title="Musicales",MOLA TV ESPANHA
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",Radio Gigante España
 https://gigantetv.radiogigante.com/tele/live/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",Urban Revolution España
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",EuroLatina TV España
-https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",RTL 102.5 Italia IT
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",Virgin Radio Italia IT
@@ -267,8 +282,7 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",m2o Italia IT
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",ON TV Portugal
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",1 Music Hungria
 http://1music.hu/1music.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",Hit Music Hungria
@@ -299,8 +313,7 @@ https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 https://5d23bdca513db.streamlock.net/8006/8006/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",30A Music USA EN
 https://30a-tv.com/music.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Vintage Music TV EN
-https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",Retro Plus TV Chile EN
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",California Music Channel USA EN
