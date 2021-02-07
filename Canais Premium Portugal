@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 30/01/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 07/02/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
  
 ##################################  BENFICA TV   ###########################################################################
@@ -22,8 +22,8 @@ http://77.54.145.209:81/play/a032?RESOLUTION=1920x1080
 #EXTINF:-1,BTV FHD
 http://77.54.145.209:81/play/a032
 
-#EXTINF:-1,BTV HD
-http://46.127.160.33:8080/play/a00e/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| BENFICA TV HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150359
 
  
  
@@ -35,12 +35,20 @@ http://46.127.160.33:8080/play/a00e/index.m3u8
 https://000000
 
 
-#EXTINF:-1,SPORT TV 1 HD
-http://46.127.160.33:8080/play/a018/index.m3u8
-#EXTINF:-1,SPORT TV 2 HD
-http://46.127.160.33:8080/play/a008/index.m3u8
-#EXTINF:-1,SPORT TV 3 HD
-http://46.127.160.33:8080/play/a009/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| SPORT TV 1 HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150344
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| SPORT TV 2 HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150345
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| SPORT TV 3 HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150346
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| SPORT TV 4 HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150347
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| SPORT TV 5 HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150348
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| SPORT TV+ HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150349
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| SPORT TV NBA HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150350
 
 
  
@@ -52,10 +60,18 @@ http://46.127.160.33:8080/play/a009/index.m3u8
 https://000000
 
 
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://46.127.160.33:8080/play/a014/index.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://46.127.160.33:8080/play/a00d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 1 HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150351
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 2 HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150352
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 3 HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150353
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 4 HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150354
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 5 HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150355
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 6 HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150356
 
 
  
@@ -65,9 +81,16 @@ http://46.127.160.33:8080/play/a00d/index.m3u8
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM CINEMA[/COLOR]
 https://000000
 
-
-#EXTINF:-1,NOS STUDIO HD
-http://46.127.160.33:8080/play/a00n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| NOS STUDIO HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150342
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| TV CINE 1 HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150308
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| TV CINE 2 HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150309
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| TV CINE 3 HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150310
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT| TV CINE 4 HEVC
+http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150311
 
 
 
