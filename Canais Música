@@ -18,14 +18,8 @@ https://000000
 #EXTINF:-1,[COLOR=coral][B]BOX HITS SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxTV-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
  
-#EXTINF:0 group-title="TR: Musik",[COLOR=coral][B]POWERHD[/B][/COLOR][COLOR=coral][/COLOR]
-http://nimlive6.giniko.com/supertv/supertv/chunklist_w641884488.m3u8?nimblesessionid=42814165&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjEgMTE6MTA6MDAgQU0maGFzaF92YWx1ZT16Y2wyUzN4aVBpeENCNHJTSHl6aU13PT0mdmFsaWRtaW51dGVzPTE0NDA=
-
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]POWERHD[/B][/COLOR][COLOR=coral][/COLOR]
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]POWERHD[/B][/COLOR][COLOR=coral][/COLOR]
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8?nimblesessionid=2186020686
 
 #EXTINF:-1 tvg-id="" tvg-name="NRJ Hits (FR)" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="FRANCE;MUSIK",[COLOR=coral][B]NRJ HITS[/B][/COLOR][COLOR=coral][/COLOR]
 https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
