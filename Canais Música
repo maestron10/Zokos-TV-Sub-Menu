@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 #######################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 06/02/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 10/02/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ###########################################################################
  
@@ -114,13 +114,17 @@ https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3
 https://000000
 
 #EXTINF:-1,[COLOR=coral][B]MTV[/B][/COLOR][COLOR=coral][/COLOR]
-http://45.170.40.2:8000/play/a025
+http://194.76.186.52:8000/play/a01v
+#EXTINF:-1,[COLOR=coral][B]MTV BASE[/B][/COLOR][COLOR=coral][/COLOR]
+http://194.76.186.52:8000/play/a03m
+#EXTINF:-1,[COLOR=coral][B]MTV CLASSIC[/B][/COLOR][COLOR=coral][/COLOR]
+http://194.76.186.52:8000/play/a047
 #EXTINF:-1,[COLOR=coral][B]MTV HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://45.182.127.235:8000/play/a01f
+http://194.76.186.52:8000/play/a04x
 #EXTINF:-1,[COLOR=coral][B]MTV HITS[/B][/COLOR][COLOR=coral][/COLOR]
-http://45.182.127.235:8000/play/a013
-#EXTINF:-1,[COLOR=coral][B]MTV SIM HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://45.182.127.235:8000/play/a00a
+http://194.76.186.52:8000/play/a03k
+#EXTINF:-1,[COLOR=coral][B]MTV MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+http://194.76.186.52:8000/play/a03q
  
  
 ######################################################################################
