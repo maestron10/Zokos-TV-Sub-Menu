@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 08/02/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 10/02/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
  
 ##################################  BENFICA TV   ###########################################################################
@@ -21,6 +21,15 @@ http://77.54.145.209:81/play/a032?RESOLUTION=1920x1080
  
 #EXTINF:-1,BTV FHD
 http://77.54.145.209:81/play/a032
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BTV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7670
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BTV FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7515
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BTV 1
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7513
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BTV 1 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7514
  
  
 ##################################  GRUPO SPORT TV   ###########################################################################
@@ -31,17 +40,7 @@ http://77.54.145.209:81/play/a032
 https://000000
 
 
-
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 HD
-http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68147
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV  2
-http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68151
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT  TV 3
-http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68152
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV  4
-http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68153
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
-http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68193
+#EXTINF:-1,NÃO DISPONIVEIS
 
  
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -52,19 +51,7 @@ http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68193
 https://000000
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 1 HEVC
-http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150351
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 2 HEVC
-http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150352
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 3 HEVC
-http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150353
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 4 HEVC
-http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150354
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 5 HEVC
-http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150355
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORTS 6 HEVC
-http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150356
-
+#EXTINF:-1,NÃO DISPONIVEIS
 
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
@@ -73,14 +60,22 @@ http://yanoda.siyah222.info:8080/heraiptv999/bjk1903/150356
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM CINEMA[/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="tvc1.pt" group-title="Channels",PT: TV CINE 1
-http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68186
-#EXTINF:0 tvg-id="tvc2.pt" group-title="Channels",PT: TV CINE 2
-http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68187
-#EXTINF:0 tvg-id="tvc3.pt" group-title="Channels",PT: TV CINE 3
-http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68188
-#EXTINF:0 tvg-id="tvc4.pt" group-title="Channels",PT: TV CINE 4
-http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68189
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Top SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7555
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Top FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/64698
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Edition SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7557
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Edition FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7558
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Emotion SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7559
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Emotion FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7560
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Action SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7561
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Action FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/7562
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
  
