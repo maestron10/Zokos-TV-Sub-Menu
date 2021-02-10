@@ -46,6 +46,18 @@
 </channels
  
  
+  
+ </channel>
+<channel>
+<name>[COLOR=yellow][B]ADDON FERACANAIS BR[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<thumbnail>url DA IMAGEM</thumbnail>
+<externallink>https://raw.githubusercontent.com/claudiocwb/ListaIPTV/main/FERACANAIS.M3U</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channels
+ 
+ 
   </channel>
 <channel>
 <name>[COLOR=yellow][B]DWIGHT FARROKH LISTAS GRATIS[/B][/COLOR][COLOR=yellow][/COLOR]</name>
