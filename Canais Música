@@ -14,7 +14,10 @@ Fonte de Informação - https://github.com/Free-IPTV/Countries/blob/master/YZ001
  
 #EXTINF:-1,[COLOR blue]TOP HITS[/COLOR]
 https://000000
- 
+
+#EXTINF:-1,[COLOR=coral][B]TRACE HITS[/B][/COLOR][COLOR=coral][/COLOR]
+http://5.101.140.110:8000/play/a00x/index.m3u8
+
 #EXTINF:-1,[COLOR=coral][B]BOX HITS SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxTV-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
  
