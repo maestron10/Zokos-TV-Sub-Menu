@@ -16,16 +16,27 @@ Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvso
 https://000000
  
  
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="©PORTUG@L",BENFICA TV HD
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="©PORTUG@L",BTV HD
 http://77.54.145.209:81/play/a032?RESOLUTION=1920x1080
  
 #EXTINF:-1,BTV FHD
 http://77.54.145.209:81/play/a032
 
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BENFICA TV FHD
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV FHD
 http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/860
 
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BENFICA TV
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/862
+
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/860
+#EXTINF:0 tvg-id="ext" group-title="Channels",BTV FHD Backup 1
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13405
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/861
+#EXTINF:0 tvg-id="ext" group-title="Channels",BTV HD Backup 1
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13406
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV
 http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/862
 
 
@@ -111,17 +122,6 @@ http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/840
 #EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA FHD
 http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/841
 
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 1: Low
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32480
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2: Low
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32481
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 3: Low
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32482
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 4: Low
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32483
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 5: Low
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32484
  
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
  
