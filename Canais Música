@@ -87,7 +87,7 @@ https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 https://ibgrtv.streaming-pro.com/hls/ibgrlive_720p.m3u8
   
 # https://www.youtube.com/channel/UCalCDSmZAYD73tqVZ4l8yJg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",ASOT (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=coral][B]ASOT TV[/B][/COLOR][COLOR=coral][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
  
 ######################################################################################
@@ -152,9 +152,9 @@ https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 https://000000
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0VFbRNB.png" group-title="",[COLOR=coral][B] BRITASIA TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0VFbRNB.png" group-title="",[COLOR=coral][B]BRITASIA TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0VFbRNB.png" group-title="",[COLOR=coral][B] BRITASIA TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0VFbRNB.png" group-title="",[COLOR=coral][B]BRITASIA TV[/B][/COLOR][COLOR=coral][/COLOR]
 plugin://plugin.video.dailymotion_com/?url=x6s18p8&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="MUSIC",[COLOR=coral][B]RELOAD HD[/B][/COLOR][COLOR=coral][/COLOR]
@@ -171,7 +171,6 @@ http://hitmusic.hu/hitmusic.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]CMC[/B][/COLOR][COLOR=coral][/COLOR]
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
- 
 
 #EXTINF:-1,[COLOR=coral][B]V2BEAT TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://abr.de1se01.v2beat.live/playlist.m3u8
