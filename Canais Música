@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 #######################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 10/02/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 15/02/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ###########################################################################
  
@@ -85,6 +85,10 @@ https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]IBIZA GLOBAL TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://ibgrtv.streaming-pro.com/hls/ibgrlive_720p.m3u8
+  
+# https://www.youtube.com/channel/UCalCDSmZAYD73tqVZ4l8yJg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",ASOT (YT)
+plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
  
 ######################################################################################
 #EXTINF:-1,[COLOR blue]MÚSICA ANTIGA[/COLOR]
@@ -116,18 +120,7 @@ https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3
 #EXTINF:-1,[COLOR blue]GRUPO MTV[/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=coral][B]MTV[/B][/COLOR][COLOR=coral][/COLOR]
-http://194.76.186.52:8000/play/a01v
-#EXTINF:-1,[COLOR=coral][B]MTV BASE[/B][/COLOR][COLOR=coral][/COLOR]
-http://194.76.186.52:8000/play/a03m
-#EXTINF:-1,[COLOR=coral][B]MTV CLASSIC[/B][/COLOR][COLOR=coral][/COLOR]
-http://194.76.186.52:8000/play/a047
-#EXTINF:-1,[COLOR=coral][B]MTV HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://194.76.186.52:8000/play/a04x
-#EXTINF:-1,[COLOR=coral][B]MTV HITS[/B][/COLOR][COLOR=coral][/COLOR]
-http://194.76.186.52:8000/play/a03k
-#EXTINF:-1,[COLOR=coral][B]MTV MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
-http://194.76.186.52:8000/play/a03q
+#EXTINF:-1,NÃO DISPONÍVEL
  
  
 ######################################################################################
@@ -153,13 +146,16 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6Z3uZLtG4Pw/maxresdefault.jpg" group-title="Without category",[COLOR=coral][B]EURO LATINO TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W2nBM9q.png" group-title="MUSIC",[COLOR=coral][B]LATIDO MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
-https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
- 
+
 ######################################################################################
 #EXTINF:-1,[COLOR blue]OUTROS GÉNEROS[/COLOR]
 https://000000
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0VFbRNB.png" group-title="",[COLOR=coral][B] BRITASIA TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0VFbRNB.png" group-title="",[COLOR=coral][B] BRITASIA TV[/B][/COLOR][COLOR=coral][/COLOR]
+plugin://plugin.video.dailymotion_com/?url=x6s18p8&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="MUSIC",[COLOR=coral][B]RELOAD HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
@@ -176,9 +172,7 @@ http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1,[COLOR=coral][B]CMC[/B][/COLOR][COLOR=coral][/COLOR]
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
  
-#EXTINF:0 tvg-id="4fun.pl" group-title="TV",[COLOR=coral][B]4FUN TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
- 
+
 #EXTINF:-1,[COLOR=coral][B]V2BEAT TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://abr.de1se01.v2beat.live/playlist.m3u8
  
@@ -252,14 +246,14 @@ https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
 https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",MOLA TV ESPANHA
 http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Radio Gigante España
+#EXTINF:0 tvg-id="ext" group-title="Musicales",RÁDIO GIGANTE ESPANHÃ
 https://gigantetv.radiogigante.com/tele/live/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Urban Revolution España
+#EXTINF:0 tvg-id="ext" group-title="Musicales",URBAN REVOLUTION ESPANHÃ
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",RTL 102.5 Italia IT
+#EXTINF:0 tvg-id="ext" group-title="Musicales",RTL 102.5 ITÁLIA
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Virgin Radio Italia IT
+#EXTINF:0 tvg-id="ext" group-title="Musicales",VIRGIN RÁDIO ITÁLIA
 https://live2-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",R 101 Italia IT
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
