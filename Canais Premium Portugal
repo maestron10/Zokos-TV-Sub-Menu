@@ -38,6 +38,38 @@ http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/862
 https://000000
 
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 1: Low
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32480
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2: Low
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32481
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 3: Low
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32482
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 4: Low
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32483
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 5: Low
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32484
+
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/826
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 1 FHD Backup 1
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13401
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/827
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 1 HD Backup 1
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13402
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/828
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/829
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2 FHD Backup 1
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13403
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/830
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2 HD Backup 1
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13404
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/831
+
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV + FHD
 http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/824
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV +
