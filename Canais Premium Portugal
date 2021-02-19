@@ -29,7 +29,24 @@ http://77.54.145.209:81/play/a032
 #EXTINF:-1,[COLOR blue]CANAIS SPORT TV[/COLOR]
 https://000000
 
-#EXTINF:-1,NÃO DISPONÍVEL DE MOMENTO
+#EXTINF:0 tvg-id="ext" group-title="|PT| ******** DESPORTO",|PT| SPORT TV +   HD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9081
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="|PT| ******** FILMES",|PT| Sport TV 1 FHD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9079
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="|PT| ******** DESPORTO",|PT| Sport TV 1
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9080
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="|PT| ******** DESPORTO",|PT| Sport TV 2 FHD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9077
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="|PT| ******** DESPORTO",|PT| Sport TV 2
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9078
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="|PT| ******** DESPORTO",|PT| Sport TV 3 FHD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9075
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="|PT| ******** DESPORTO",|PT| Sport TV 3
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9076
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="|PT| ******** DESPORTO",|PT| Sport TV 4
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9074
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="|PT| ******** DESPORTO",|PT| Sport TV 5
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9072
 
  
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -39,8 +56,18 @@ https://000000
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
 https://000000
 
-
-#EXTINF:-1,NÃO DISPONÍVEL DE MOMENTO
+#EXTINF:0 tvg-id="ext" group-title="|PT| ******** DESPORTO",|PT| Eleven Sports 1
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9129
+#EXTINF:0 tvg-id="ext" group-title="|PT| ******** DESPORTO",|PT| Eleven Sports 2
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9128
+#EXTINF:0 tvg-id="ext" group-title="|PT| ******** DESPORTO",|PT| Eleven Sports 3
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9127
+#EXTINF:0 tvg-id="ext" group-title="|PT| ******** DESPORTO",|PT| Eleven Sports 4
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9126
+#EXTINF:0 tvg-id="ext" group-title="|PT| ******** DESPORTO",|PT| Eleven Sports 5
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9125
+#EXTINF:0 tvg-id="ext" group-title="|PT| ******** DESPORTO",|PT| Eleven Sports 6
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9124
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
 #EXTM3U
@@ -48,7 +75,18 @@ https://000000
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM CINEMA[/COLOR]
 https://000000
 
-#EXTINF:-1,NÃO DISPONÍVEL DE MOMENTO
+#EXTINF:0 tvg-id="ext" group-title="|PT| ******** FILMES",|PT| TV Cine Emotion FHD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9060
+#EXTINF:0 tvg-id="ext" group-title="|PT| ******** FILMES",|PT| TV Cine Emotion FHD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9058
+#EXTINF:0 tvg-id="ext" group-title="|PT| ******** FILMES",|PT| TV Cine Emotion
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9059
+#EXTINF:0 tvg-id="ext" group-title="|PT| ******** FILMES",|PT| TV Cine Top FHD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9057
+#EXTINF:0 tvg-id="ext" group-title="|PT| ******** FILMES",|PT| TV Cine Action FHD
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9056
+#EXTINF:0 tvg-id="ext" group-title="|PT| ******** FILMES",|PT| TV Cine Action
+http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9055
 
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
  
