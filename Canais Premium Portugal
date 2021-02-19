@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 15/02/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 19/02/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
  
 ##################################  BENFICA TV   ###########################################################################
@@ -21,25 +21,6 @@ http://77.54.145.209:81/play/a032?RESOLUTION=1920x1080
  
 #EXTINF:-1,BTV FHD
 http://77.54.145.209:81/play/a032
-
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/860
-
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/862
-
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/860
-#EXTINF:0 tvg-id="ext" group-title="Channels",BTV FHD Backup 1
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13405
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/861
-#EXTINF:0 tvg-id="ext" group-title="Channels",BTV HD Backup 1
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13406
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/862
-
-
  
 ##################################  GRUPO SPORT TV   ###########################################################################
  
@@ -48,79 +29,7 @@ http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/862
 #EXTINF:-1,[COLOR blue]CANAIS SPORT TV[/COLOR]
 https://000000
 
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 1: Low
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32480
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2: Low
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32481
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 3: Low
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32482
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 4: Low
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32483
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 5: Low
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32484
-
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/826
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 1 FHD Backup 1
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13401
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/827
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 1 HD Backup 1
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13402
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/828
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/829
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2 FHD Backup 1
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13403
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/830
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2 HD Backup 1
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13404
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/831
-
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV + FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/824
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV +
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/825
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/826
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/826
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 1 FHD Backup 1
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13401
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/828
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2 FHD Backup 1
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/13403
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/830
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/831
-
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/832
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/833
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/834
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/835
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/836
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/837
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/838
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/839
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/840
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/841
+#EXTINF:-1,NÃO DISPONÍVEL DE MOMENTO
 
  
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -131,43 +40,7 @@ http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/841
 https://000000
 
 
-#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",ELEVEN SPORTS 1 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/842
-#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",ELEVEN SPORTS 1 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/843
-#EXTINF:0 tvg-id="elevensports1.pt" group-title="Channels",ELEVEN SPORTS 1
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/844
-#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",ELEVEN SPORTS 2 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/845
-#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",ELEVEN SPORTS 2 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/846
-#EXTINF:0 tvg-id="elevensports2.pt" group-title="Channels",ELEVEN SPORTS 2
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/847
-#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",ELEVEN SPORTS 3 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/848
-#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",ELEVEN SPORTS 3 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/849
-#EXTINF:0 tvg-id="elevensports3.pt" group-title="Channels",ELEVEN SPORTS 3
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/850
-#EXTINF:0 tvg-id="ElevenSports4.pl" group-title="Channels",ELEVEN SPORTS 4 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/851
-#EXTINF:0 tvg-id="ElevenSports4.pl" group-title="Channels",ELEVEN SPORTS 4 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/852
-#EXTINF:0 tvg-id="elevensports4.pt" group-title="Channels",ELEVEN SPORTS 4
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/853
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 5 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/854
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 5 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/855
-#EXTINF:0 tvg-id="elevensports5.pt" group-title="Channels",ELEVEN SPORTS 5
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/856
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 6 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/857
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 6 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/858
-#EXTINF:0 tvg-id="elevensports6.pt" group-title="Channels",ELEVEN SPORTS 6
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/859
-
+#EXTINF:-1,NÃO DISPONÍVEL DE MOMENTO
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
 #EXTM3U
@@ -175,30 +48,7 @@ http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/859
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM CINEMA[/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",NOS STUDIOS FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/884
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Top FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/885
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Top HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/886
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Top
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/887
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Edition FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/888
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Edition HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/889
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Edition
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/890
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Emotion FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/891
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Emotion HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/892
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Emotion
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/893
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Action FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/894
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Action HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/895
+#EXTINF:-1,NÃO DISPONÍVEL DE MOMENTO
 
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
  
