@@ -5,8 +5,10 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 19/02/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 20/02/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
+
+https://iptvcat.com/portugal/3
  
 ##################################  BENFICA TV   ###########################################################################
  
@@ -29,24 +31,23 @@ http://77.54.145.209:81/play/a032
 #EXTINF:-1,[COLOR blue]CANAIS SPORT TV[/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="ext" group-title="|PT| ******** DESPORTO",|PT| SPORT TV +   HD
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9081
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="|PT| ******** FILMES",|PT| Sport TV 1 FHD
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9079
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="|PT| ******** DESPORTO",|PT| Sport TV 1
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9080
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="|PT| ******** DESPORTO",|PT| Sport TV 2 FHD
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9077
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="|PT| ******** DESPORTO",|PT| Sport TV 2
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9078
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="|PT| ******** DESPORTO",|PT| Sport TV 3 FHD
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9075
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="|PT| ******** DESPORTO",|PT| Sport TV 3
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9076
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="|PT| ******** DESPORTO",|PT| Sport TV 4
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9074
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="|PT| ******** DESPORTO",|PT| Sport TV 5
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9072
+
+
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Sport",SPORT TV 1
+http://mags.vip:2086/live/jav/jav123/92132.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT TV 1 2K
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/704304?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Sport",SPORT TV 1 FHD
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/21712?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Sport",SPORT TV 1 HD 1080
+https://allvue.live:443/alan/alan/478969?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Sport",SPORT TV 2
+http://mags.vip:2086/live/jav/jav123/92133.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT TV 2 Full HD hevc 2K
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/704327?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Sport",SPORT TV 2 HD
+http://212.102.38.58:8000/s7uy02YE/u2wnf3sg/2630?checkedby:iptvcat.com
+
 
  
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -56,18 +57,13 @@ http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9072
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="ext" group-title="|PT| ******** DESPORTO",|PT| Eleven Sports 1
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9129
-#EXTINF:0 tvg-id="ext" group-title="|PT| ******** DESPORTO",|PT| Eleven Sports 2
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9128
-#EXTINF:0 tvg-id="ext" group-title="|PT| ******** DESPORTO",|PT| Eleven Sports 3
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9127
-#EXTINF:0 tvg-id="ext" group-title="|PT| ******** DESPORTO",|PT| Eleven Sports 4
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9126
-#EXTINF:0 tvg-id="ext" group-title="|PT| ******** DESPORTO",|PT| Eleven Sports 5
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9125
-#EXTINF:0 tvg-id="ext" group-title="|PT| ******** DESPORTO",|PT| Eleven Sports 6
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9124
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Sport",ELEVEN SPORTS 1
+http://mags.vip:2086/live/jav/jav123/92137.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ELEVEN SPORTS 1 2K
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/704306?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Sport",ELEVEN SPORTS 1 HD
+http://stream.streamhubtv.xyz:8080/HOME1/HOME1/21732?checkedby:iptvcat.com
+
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
 #EXTM3U
