@@ -68,16 +68,17 @@
 </channels
  
  
-</channel>
+ </channel>
 <channel>
-<name>[COLOR=yellow][B]CANAIS DESPORTO DIVERSOS[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<name>[COLOR=yellow][B]MR. BRICOLAGE LISTAS[/B][/COLOR][COLOR=yellow][/COLOR]</name>
 <thumbnail>url DA IMAGEM</thumbnail>
-<externallink>https://raw.githubusercontent.com/MrBricodage/M3U-Kodi/master/IPTV-Sport.xml</externallink>
+<externallink>https://raw.githubusercontent.com/MrBricodage/M3U-Kodi/master/IPTV-Heaven.xml</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
 </channel>
 </channels
-
+ 
+ 
  
  </channel>
 <channel>
