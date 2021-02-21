@@ -5,10 +5,13 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 20/02/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 21/02/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/3
+
+#EXTINF:0 tvg-id="pfc.pt" group-title="Undefined",PFC
+http://mags.vip:2086/live/jav/jav123/92129.ts?checkedby:iptvcat.com
  
 ##################################  BENFICA TV   ###########################################################################
  
@@ -31,22 +34,17 @@ http://77.54.145.209:81/play/a032
 #EXTINF:-1,[COLOR blue]CANAIS SPORT TV[/COLOR]
 https://000000
 
-
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Sport",SPORT TV +
+http://mags.vip:2086/live/jav/jav123/92122.ts?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Sport",SPORT TV 1
 http://mags.vip:2086/live/jav/jav123/92132.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT TV 1 2K
-http://stream.streamhubtv.xyz:8080/HOME1/HOME1/704304?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Sport",SPORT TV 1 FHD
-http://stream.streamhubtv.xyz:8080/HOME1/HOME1/21712?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Sport",SPORT TV 1 HD 1080
-https://allvue.live:443/alan/alan/478969?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="Sport",SPORT TV 2
 http://mags.vip:2086/live/jav/jav123/92133.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT TV 2 Full HD hevc 2K
-http://stream.streamhubtv.xyz:8080/HOME1/HOME1/704327?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Sport",SPORT TV 2 HD
-http://212.102.38.58:8000/s7uy02YE/u2wnf3sg/2630?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Sport",SPORT TV 3
+http://mags.vip:2086/live/jav/jav123/92134.ts?checkedby:iptvcat.com
 
 
  
@@ -57,12 +55,15 @@ http://212.102.38.58:8000/s7uy02YE/u2wnf3sg/2630?checkedby:iptvcat.com
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Sport",ELEVEN SPORTS 1
+#EXTINF:0 tvg-id="elevensports1.pt" group-title="Sport",ELEVEN SPORTS 1
 http://mags.vip:2086/live/jav/jav123/92137.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ELEVEN SPORTS 1 2K
-http://stream.streamhubtv.xyz:8080/HOME1/HOME1/704306?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Sport",ELEVEN SPORTS 1 HD
-http://stream.streamhubtv.xyz:8080/HOME1/HOME1/21732?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="elevensports2.pt" group-title="Sport",ELEVEN SPORTS 2
+http://mags.vip:2086/live/jav/jav123/92138.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="elevensports3.pt" group-title="Sport",ELEVEN SPORTS 3
+http://mags.vip:2086/live/jav/jav123/92139.ts?checkedby:iptvcat.com
+
 
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
@@ -71,18 +72,15 @@ http://stream.streamhubtv.xyz:8080/HOME1/HOME1/21732?checkedby:iptvcat.com
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM CINEMA[/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="ext" group-title="|PT| ******** FILMES",|PT| TV Cine Emotion FHD
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9060
-#EXTINF:0 tvg-id="ext" group-title="|PT| ******** FILMES",|PT| TV Cine Emotion FHD
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9058
-#EXTINF:0 tvg-id="ext" group-title="|PT| ******** FILMES",|PT| TV Cine Emotion
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9059
-#EXTINF:0 tvg-id="ext" group-title="|PT| ******** FILMES",|PT| TV Cine Top FHD
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9057
-#EXTINF:0 tvg-id="ext" group-title="|PT| ******** FILMES",|PT| TV Cine Action FHD
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9056
-#EXTINF:0 tvg-id="ext" group-title="|PT| ******** FILMES",|PT| TV Cine Action
-http://z.sralm87.com:2082/bigsat22_127371/lYPOn1HY/9055
+#EXTINF:0 tvg-id="tvc2.pt" group-title="Undefined",TVCINE EDITION
+http://mags.vip:2086/live/jav/jav123/92083.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="tvc3.pt" group-title="Undefined",TVCINE ACTION
+http://mags.vip:2086/live/jav/jav123/92084.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="tvc4.pt" group-title="Undefined",TVCINE TOP
+http://mags.vip:2086/live/jav/jav123/92085.ts?checkedby:iptvcat.com
+
 
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
  
