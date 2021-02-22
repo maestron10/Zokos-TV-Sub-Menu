@@ -68,14 +68,22 @@
 </channels
  
  
- 
- 
- 
  </channel>
 <channel>
 <name>[COLOR=yellow][B]LISTA CANAIS LATINO[/B][/COLOR][COLOR=yellow][/COLOR]</name>
 <thumbnail>url DA IMAGEM</thumbnail>
 <externallink>https://pastebin.com/raw/NYShzeEt</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channels
+
+ 
+ </channel>
+<channel>
+<name>[COLOR=yellow][B]LISTA CANAIS DIVERSOS[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<thumbnail>url DA IMAGEM</thumbnail>
+<externallink>https://raw.githubusercontent.com/rolandosegundo/tv2/main/README.m3u</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
 </channel>
