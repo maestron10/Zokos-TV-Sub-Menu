@@ -5,13 +5,11 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 21/02/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 23/02/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/3
 
-#EXTINF:0 tvg-id="pfc.pt" group-title="Undefined",PFC
-http://mags.vip:2086/live/jav/jav123/92129.ts?checkedby:iptvcat.com
  
 ##################################  BENFICA TV   ###########################################################################
  
@@ -20,12 +18,13 @@ http://mags.vip:2086/live/jav/jav123/92129.ts?checkedby:iptvcat.com
 #EXTINF:-1,[COLOR blue]BENFICA TV[/COLOR]
 https://000000
  
- 
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="©PORTUG@L",BTV HD
-http://77.54.145.209:81/play/a032?RESOLUTION=1920x1080
- 
-#EXTINF:-1,BTV FHD
+#EXTINF:-1,BENFICA TV FHD
 http://77.54.145.209:81/play/a032
+
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BENFICA TV HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/286
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BENFICA TV
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/49967
  
 ##################################  GRUPO SPORT TV   ###########################################################################
  
@@ -34,17 +33,14 @@ http://77.54.145.209:81/play/a032
 #EXTINF:-1,[COLOR blue]CANAIS SPORT TV[/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Sport",SPORT TV +
-http://mags.vip:2086/live/jav/jav123/92122.ts?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Sport",SPORT TV 1
-http://mags.vip:2086/live/jav/jav123/92132.ts?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Sport",SPORT TV 2
-http://mags.vip:2086/live/jav/jav123/92133.ts?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Sport",SPORT TV 3
-http://mags.vip:2086/live/jav/jav123/92134.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/280
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/281
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/282
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/283
 
 
  
@@ -55,14 +51,19 @@ http://mags.vip:2086/live/jav/jav123/92134.ts?checkedby:iptvcat.com
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="elevensports1.pt" group-title="Sport",ELEVEN SPORTS 1
-http://mags.vip:2086/live/jav/jav123/92137.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1 HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50897
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2 HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50898
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3 HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50899
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4 HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50900
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5 HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50901
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6 HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/50902
 
-#EXTINF:0 tvg-id="elevensports2.pt" group-title="Sport",ELEVEN SPORTS 2
-http://mags.vip:2086/live/jav/jav123/92138.ts?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="elevensports3.pt" group-title="Sport",ELEVEN SPORTS 3
-http://mags.vip:2086/live/jav/jav123/92139.ts?checkedby:iptvcat.com
 
 
  
@@ -72,14 +73,19 @@ http://mags.vip:2086/live/jav/jav123/92139.ts?checkedby:iptvcat.com
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM CINEMA[/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="tvc2.pt" group-title="Undefined",TVCINE EDITION
-http://mags.vip:2086/live/jav/jav123/92083.ts?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-id="tvc3.pt" group-title="Undefined",TVCINE ACTION
-http://mags.vip:2086/live/jav/jav123/92084.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NOS STUDIOS HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52186
 
-#EXTINF:0 tvg-id="tvc4.pt" group-title="Undefined",TVCINE TOP
-http://mags.vip:2086/live/jav/jav123/92085.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV CINE ACTION FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/270
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV CINE EDITION FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/269
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV CINE Emotion  FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/268
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV CINE TOP  FullHD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/267
+
 
 
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
