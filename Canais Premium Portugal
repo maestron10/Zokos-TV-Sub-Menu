@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 25/02/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 26/02/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/3
@@ -17,13 +17,9 @@ https://iptvcat.com/portugal/3
  
 #EXTINF:-1,[COLOR blue]BENFICA TV[/COLOR]
 https://000000
- 
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV" tvg-logo="http://galaxtv.art:80/images/596a2446442bdc7a5670e901ebc37d46.jpg" group-title="Portugal",Benfica TV
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/178
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV HD" tvg-logo="http://galaxtv.art:80/images/596a2446442bdc7a5670e901ebc37d46.jpg" group-title="Portugal",Benfica TV HD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/179
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="Benfica TV FHD" tvg-logo="http://galaxtv.art:80/images/596a2446442bdc7a5670e901ebc37d46.jpg" group-title="Portugal",Benfica TV FHD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/180
+
+#EXTINF:-1, BTV MOBILE
+http://77.54.145.209:81/play/a002
  
 ##################################  GRUPO SPORT TV   ###########################################################################
  
@@ -35,32 +31,14 @@ https://000000
 #EXTINF:-1,Sport TV 1 MOBILE
 http://77.54.145.209:81/play/a001
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="http://galaxtv.art:80/images/3ce2ba596c0eb252245edcdf3e86d00e.png" group-title="Portugal",SPORT TV 1
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/152
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="http://galaxtv.art:80/images/3ce2ba596c0eb252245edcdf3e86d00e.png" group-title="Portugal",SPORT TV 1 HD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/153
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 FHD" tvg-logo="http://galaxtv.art:80/images/3ce2ba596c0eb252245edcdf3e86d00e.png" group-title="Portugal",SPORT TV 1 FHD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/154
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="http://galaxtv.art:80/images/9a9b1792cac2c99c8c6b2c2236bde08f.png" group-title="Portugal",SPORT TV 2
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/155
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 HD" tvg-logo="http://galaxtv.art:80/images/9a9b1792cac2c99c8c6b2c2236bde08f.png" group-title="Portugal",SPORT TV 2 HD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/156
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 FHD" tvg-logo="http://galaxtv.art:80/images/9a9b1792cac2c99c8c6b2c2236bde08f.png" group-title="Portugal",SPORT TV 2 FHD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/157
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3" tvg-logo="http://galaxtv.art:80/images/ea137085e5c446811c6f590d768e3ab3.png" group-title="Portugal",SPORT TV 3
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/158
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3 HD" tvg-logo="http://galaxtv.art:80/images/ea137085e5c446811c6f590d768e3ab3.png" group-title="Portugal",SPORT TV 3 HD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/159
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3 FHD" tvg-logo="http://galaxtv.art:80/images/ea137085e5c446811c6f590d768e3ab3.png" group-title="Portugal",SPORT TV 3 FHD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/160
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4" tvg-logo="http://galaxtv.art:80/images/b36f83b6f337a2455f1bfd04f5ae0c7f.png" group-title="Portugal",SPORT TV 4
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/161
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4 HD" tvg-logo="http://galaxtv.art:80/images/b36f83b6f337a2455f1bfd04f5ae0c7f.png" group-title="Portugal",SPORT TV 4 HD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/162
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="http://galaxtv.art:80/images/5472bd306d8e2e228edb33ce98c6fb46.png" group-title="Portugal",SPORT TV 5
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/163
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5 HD" tvg-logo="http://galaxtv.art:80/images/5472bd306d8e2e228edb33ce98c6fb46.png" group-title="Portugal",SPORT TV 5 HD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/164
+#EXTINF:-1,SPORT TV 1
+http://77.54.145.209:81/play/a02v
+#EXTINF:-1,SPORT TV 2
+http://77.54.145.209:81/play/a02j
+#EXTINF:-1,SPORT TV 3
+http://77.54.145.209:81/play/a02n
+#EXTINF:-1,SPORT TV 4
+http://77.54.145.209:81/play/a02o
 
  
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -70,32 +48,14 @@ http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/164
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
 https://000000
 
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORT 1" tvg-logo="http://galaxtv.art:80/images/f4b67dcfa33c06f33eafa9f8064e824d.png" group-title="Portugal",ELEVEN SPORT 1
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/165
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORT 1 HD" tvg-logo="http://galaxtv.art:80/images/f4b67dcfa33c06f33eafa9f8064e824d.png" group-title="Portugal",ELEVEN SPORT 1 HD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/166
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORT 1 FHD" tvg-logo="http://galaxtv.art:80/images/f4b67dcfa33c06f33eafa9f8064e824d.png" group-title="Portugal",ELEVEN SPORT 1 FHD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/167
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORT 2 LB" tvg-logo="http://galaxtv.art:80/images/9a71286a338cfdcabb2fda2485917ddd.png" group-title="Portugal",ELEVEN SPORT 2 LB
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/168
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORT 2 HD" tvg-logo="http://galaxtv.art:80/images/9a71286a338cfdcabb2fda2485917ddd.png" group-title="Portugal",ELEVEN SPORT 2 HD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/169
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORT 3 LB" tvg-logo="http://galaxtv.art:80/images/d7829927869627cf1c6d414350e4a1dd.png" group-title="Portugal",ELEVEN SPORT 3 LB
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/170
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORT 3 HD" tvg-logo="http://galaxtv.art:80/images/d7829927869627cf1c6d414350e4a1dd.png" group-title="Portugal",ELEVEN SPORT 3 HD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/171
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORT 4 LB" tvg-logo="http://galaxtv.art:80/images/0d508cf42774b15c998f6aed74b3d633.png" group-title="Portugal",ELEVEN SPORT 4 LB
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/172
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORT 4 HD" tvg-logo="http://galaxtv.art:80/images/0d508cf42774b15c998f6aed74b3d633.png" group-title="Portugal",ELEVEN SPORT 4 HD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/173
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN SPORT 5 LB" tvg-logo="http://galaxtv.art:80/images/d55638381cd317c5d3501984724f25ab.png" group-title="Portugal",ELEVEN SPORT 5 LB
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/174
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN SPORT 5 HD" tvg-logo="http://galaxtv.art:80/images/d55638381cd317c5d3501984724f25ab.png" group-title="Portugal",ELEVEN SPORT 5 HD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/175
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORT 6 LB" tvg-logo="http://galaxtv.art:80/images/e8da03bd00ada6510b8b1fbce4c982f6.png" group-title="Portugal",ELEVEN SPORT 6 LB
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/176
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORT 6 HD" tvg-logo="http://galaxtv.art:80/images/e8da03bd00ada6510b8b1fbce4c982f6.png" group-title="Portugal",ELEVEN SPORT 6 HD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/177
+
+#EXTINF:-1,ELEVEN SPORTS 1
+http://77.54.145.209:81/play/a00a
+
+#EXTINF:-1,ELEVEN SPORTS 2
+http://77.54.145.209:81/play/a03d
+
+
 
 
  
@@ -106,32 +66,7 @@ http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/177
 https://000000
 
 
-#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TVCINE TOP" tvg-logo="http://galaxtv.art:80/images/e63317430c8685835a272a9dbaee47b4.png" group-title="Portugal",TVCINE TOP
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/196
-#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TVCINE TOP HD" tvg-logo="http://galaxtv.art:80/images/e63317430c8685835a272a9dbaee47b4.png" group-title="Portugal",TVCINE TOP HD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/197
-#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TVCINE TOP FHD" tvg-logo="http://galaxtv.art:80/images/e63317430c8685835a272a9dbaee47b4.png" group-title="Portugal",TVCINE TOP FHD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/198
-#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="TVCINE EDITION" tvg-logo="http://galaxtv.art:80/images/12047329d278279ef46c43acbc1cfefc.png" group-title="Portugal",TVCINE EDITION
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/199
-#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="TVCINE EDITION HD" tvg-logo="http://galaxtv.art:80/images/12047329d278279ef46c43acbc1cfefc.png" group-title="Portugal",TVCINE EDITION HD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/200
-#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="TVCINE EDITION FHD" tvg-logo="http://galaxtv.art:80/images/12047329d278279ef46c43acbc1cfefc.png" group-title="Portugal",TVCINE EDITION FHD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/201
-#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="TVCINE EMOTION" tvg-logo="http://galaxtv.art:80/images/f8e8196359cf3782f7d48be81d0f9b34.png" group-title="Portugal",TVCINE EMOTION
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/202
-#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="TVCINE EMOTION HD" tvg-logo="http://galaxtv.art:80/images/f8e8196359cf3782f7d48be81d0f9b34.png" group-title="Portugal",TVCINE EMOTION HD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/203
-#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="TVCINE EMOTION FHD" tvg-logo="http://galaxtv.art:80/images/f8e8196359cf3782f7d48be81d0f9b34.png" group-title="Portugal",TVCINE EMOTION FHD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/204
-#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="TVCINE ACTION" tvg-logo="http://galaxtv.art:80/images/64df67f2b55f538f173e98d66621225c.png" group-title="Portugal",TVCINE ACTION
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/205
-#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="TVCINE ACTION HD" tvg-logo="http://galaxtv.art:80/images/64df67f2b55f538f173e98d66621225c.png" group-title="Portugal",TVCINE ACTION HD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/206
-#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="TVCINE ACTION  FHD" tvg-logo="http://galaxtv.art:80/images/64df67f2b55f538f173e98d66621225c.png" group-title="Portugal",TVCINE ACTION  FHD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/207
-#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="NOS STUDIO FHD" tvg-logo="http://galaxtv.art:80/images/58d86125e7143fc6c1f3b7d8cff00634.png" group-title="Portugal",NOS STUDIO FHD
-http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/208
+#EXTINF:-1,NÃO DISPONÍVEL
 
 
 
