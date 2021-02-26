@@ -32,6 +32,9 @@ http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/180
 #EXTINF:-1,[COLOR blue]CANAIS SPORT TV[/COLOR]
 https://000000
 
+#EXTINF:-1,Sport TV 1 MOBILE
+http://77.54.145.209:81/play/a001
+
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="http://galaxtv.art:80/images/3ce2ba596c0eb252245edcdf3e86d00e.png" group-title="Portugal",SPORT TV 1
 http://galaxtv.art:80/NUNO_MAIA1/Kz8Yn6h0vD/152
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="http://galaxtv.art:80/images/3ce2ba596c0eb252245edcdf3e86d00e.png" group-title="Portugal",SPORT TV 1 HD
