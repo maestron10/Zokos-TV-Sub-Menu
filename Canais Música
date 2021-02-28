@@ -71,6 +71,9 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http:
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]ON TV PORTUGAL[/B][/COLOR][COLOR=coral][/COLOR]
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://ecable.tv/wp-content/uploads/2019/02/1.png" group-title="Music",[COLOR=coral][B]AFROBEATS TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://stream.ecable.tv/afrobeats/index.m3u8
  
 ###########################################################################################
  
