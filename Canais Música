@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 #######################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 15/02/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 28/02/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ###########################################################################
  
@@ -106,10 +106,6 @@ https://10999-1.b.cdn13.com/streams/masters-v3/djset/417.m3u8
 https://10999-1.b.cdn13.com/hls/new/community/community-542.mp4/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Techno Warehouse" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",[COLOR=coral][B]TECHNO WAREHOUSE[/B][/COLOR][COLOR=coral][/COLOR]
-https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
-
-
 ######################################################################################
 #EXTINF:-1,[COLOR blue]ESPECIAL MIX 24/7[/COLOR]
 https://000000
@@ -143,13 +139,13 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w223843448
 #EXTINF:-1,[COLOR=coral][B]POWERTV[/B][/COLOR][COLOR=coral][/COLOR]
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w1139689967.m3u8
  
-#EXTINF:0 type="stream" channelId="-1" group="Музыкальные",[COLOR=coral][B]RETRO TV SD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 type="stream" channelId="-1" group="Музыкальные",[COLOR=coral][B]RETRO TV 1 SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]RETRO TV PLUS 1 SD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=coral][B]RETRO TV PLUS 2 SD[/B][/COLOR][COLOR=coral][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w2107081768.m3u8
 
-#EXTINF:-1 tvg-name="Retro Plus 2 HD" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/i0rZsgG.png",[COLOR=coral][B]RETRO TV PLUS 2[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-name="Retro Plus 2 HD" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/i0rZsgG.png",[COLOR=coral][B]RETRO TV PLUS 3[/B][/COLOR][COLOR=coral][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]PORTALFOXMIX[/B][/COLOR][COLOR=coral][/COLOR]
@@ -191,7 +187,12 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?
  
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6Z3uZLtG4Pw/maxresdefault.jpg" group-title="Without category",[COLOR=coral][B]EURO LATINO TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
- 
+
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]TOP LATINO TV PERU[/B][/COLOR][COLOR=coral][/COLOR]
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]LATINO TV 1 SUIÇA[/B][/COLOR][COLOR=coral][/COLOR]
+https://5b38ce71f1f00.streamlock.net/8196/8196/playlist.m3u8
 
 ######################################################################################
 #EXTINF:-1,[COLOR blue]OUTROS GÉNEROS[/COLOR]
@@ -300,85 +301,79 @@ https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",VIRGIN RÁDIO ITÁLIA
 https://live2-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",R 101 Italia IT
+#EXTINF:0 tvg-id="ext" group-title="Musicales",RÁDIO 101 ITÁLIA
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Radio Montecarlo Italia IT
+#EXTINF:0 tvg-id="ext" group-title="Musicales",RÁDIO MONTECARLO ITÁLIA
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Kronehit Austria
+#EXTINF:0 tvg-id="ext" group-title="Musicales",KRONEHITS AUSTRIA
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",QMusic Holanda NL
+#EXTINF:0 tvg-id="ext" group-title="Musicales",Q MUSIC HOLANDA
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",NRJ Hits Bélgica FR
+#EXTINF:0 tvg-id="ext" group-title="Musicales",NRJ HITS BÉLGICA
 https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",4FUN TV Polonia PL
+#EXTINF:0 tvg-id="ext" group-title="Musicales",4FUN TV POLÓNIA
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:0 tvg-id="RadioItalia.it" group-title="Musicales",Radio Italia TV IT
+#EXTINF:0 tvg-id="RadioItalia.it" group-title="Musicales",RÁDIO ITÁLIA TV
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Ocko Chequia CZ
+#EXTINF:0 tvg-id="ext" group-title="Musicales",OCKO CHÉQUIA
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Ocko Star Chequia CZ
+#EXTINF:0 tvg-id="ext" group-title="Musicales",OCKO STAR CHÉQUIA
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Ocko Expres Chequia CZ
+#EXTINF:0 tvg-id="ext" group-title="Musicales",OCKO EXPRESS CHÉQUIA
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",m2o Italia IT
+#EXTINF:0 tvg-id="ext" group-title="Musicales",M2O ITÁLIA
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",1 Music Hungria
+#EXTINF:0 tvg-id="ext" group-title="Musicales",1 MUSIC HUNGRIA
 http://1music.hu/1music.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Hit Music Hungria
+#EXTINF:0 tvg-id="ext" group-title="Musicales",HIT MUSIC HUNGRIA
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",V2Beat TV EN
+#EXTINF:0 tvg-id="ext" group-title="Musicales",V2BEAT TV EN
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Power TV Turquía
+#EXTINF:0 tvg-id="ext" group-title="Musicales",POWER TV TURQUIA
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Rock TV Romania RO
+#EXTINF:0 tvg-id="ext" group-title="Musicales",ROCK TV ROMÉNIA
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Radio 21 Rock'n Pop Alemania DE
+#EXTINF:0 tvg-id="ext" group-title="Musicales",RÁDIO 21 ROCK´N POP 
 https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",RadioU TV USA EN
+#EXTINF:0 tvg-id="ext" group-title="Musicales",RÁDIO U TV 
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",First Music Channel Bielorrusia
+#EXTINF:0 tvg-id="ext" group-title="Musicales",FIRST MUSIC CHANNEL
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",First Music Channel Bielorrusia
+#EXTINF:0 tvg-id="ext" group-title="Musicales",FIRST MUSIC CHANNEL
 http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Otto FM Italia IT
+#EXTINF:0 tvg-id="ext" group-title="Musicales",OTTO FM ITÁLIA 
 http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Ibiza Global TV EN
+#EXTINF:0 tvg-id="ext" group-title="Musicales",IBIZA GLOBAL TV
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Sonus FM Alemania
+#EXTINF:0 tvg-id="ext" group-title="Musicales",SONUS FM ALEMANHA
 http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",DanceStar TV EN
+#EXTINF:0 tvg-id="ext" group-title="Musicales",DANCE STAR TV
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Top TV Brasil PT
+#EXTINF:0 tvg-id="ext" group-title="Musicales",TOP TV BRASIL
 https://5d23bdca513db.streamlock.net/8006/8006/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",30A Music USA EN
+#EXTINF:0 tvg-id="ext" group-title="Musicales",30A MUSIC USA
 https://30a-tv.com/music.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Retro Plus TV Chile EN
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",California Music Channel USA EN
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Retro Music TV Chequia EN
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Muzzik TV Serbia
+#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK TV Serbia
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Muzzik Rock&Roll Serbia
+#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK ROCK & ROLL SÉRBIA
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Muzzik Cafe&Club Serbia
+#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK CAFE & CLUB SÉRBIA
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Muzzik Worldwide Serbia
+#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK WORLDWIDE SÉRBIA
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Muzzik Jeka Serbia
+#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK JEKA SÉRBIA
 https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Muzzik Mediteraneo Serbia
+#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK MEDITERRÂNIO SÉRBIA
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Muzzik HipHop Serbia
+#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK HIP HOP SÉRBIA
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Muzzik Gen Z Serbia
+#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK GEN Z SÉRBIA
 https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Muzzik Vision Serbia
+#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK VISION SÉRBIA
 https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Muzzik OKK Serbia
+#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK OKK Serbia
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",La Karibeña Perú
 https://cu.onliv3.com/livevd/user1.m3u8
@@ -394,10 +389,7 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",Latinos 1 TV Suiza
 https://5b38ce71f1f00.streamlock.net/8196/8196/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Portal Foxmix Colombia
-https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Melody Channel Colombia
-https://5f2eaf2aa4061.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",Ditty TV USA EN
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",Spirit TV USA EN
