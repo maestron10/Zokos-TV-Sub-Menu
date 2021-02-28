@@ -95,7 +95,44 @@ https://10999-2.b.cdn13.com/live/master.m3u8
 
 #EXTINF:-1 tvg-name="DeepHouse District" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/GyxXMDv.png",[COLOR=coral][B]DEEPHOUSE DISTRICT TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
- 
+
+#EXTINF:-1 tvg-name="Chill AF" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",[COLOR=coral][B]CHILL AF TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://10999-1.b.cdn13.com/streams/masters-v3/djset/654.m3u8
+
+#EXTINF:-1 tvg-name="EDM Mainstage" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",[COLOR=coral][B]EDM MAINSTAGE TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://10999-1.b.cdn13.com/streams/masters-v3/djset/417.m3u8
+
+#EXTINF:-1 tvg-name="House Floor" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",[COLOR=coral][B]HOUSE FLOOR[/B][/COLOR][COLOR=coral][/COLOR]
+https://10999-1.b.cdn13.com/hls/new/community/community-542.mp4/index.m3u8
+
+
+#EXTINF:-1 tvg-name="Techno Warehouse" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",[COLOR=coral][B]TECHNO WAREHOUSE[/B][/COLOR][COLOR=coral][/COLOR]
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+
+
+######################################################################################
+#EXTINF:-1,[COLOR blue]ESPECIAL MIX 24/7[/COLOR]
+https://000000
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MIX 24/7" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIC",[COLOR=coral][B]MIX 24/7 HITS[/B][/COLOR][COLOR=coral][/COLOR]
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Baladas" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIC",[COLOR=coral][B]MIX 24/7 HITS - BALADAS[/B][/COLOR][COLOR=coral][/COLOR]
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Conciertos Live" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIC",[COLOR=coral][B]MIX 24/7 - CONCIERTOS LIVE[/B][/COLOR][COLOR=coral][/COLOR]
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Pop" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIC",[COLOR=coral][B]MIX 24/7 HITS - POP[/B][/COLOR][COLOR=coral][/COLOR]
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Retro" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIC",[COLOR=coral][B]MIX 24/7 HITS - RETRO[/B][/COLOR][COLOR=coral][/COLOR]
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Top 100" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIC",[COLOR=coral][B]MIX 24/7 HITS - TOP 100[/B][/COLOR][COLOR=coral][/COLOR]
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Tropical" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIC",[COLOR=coral][B]MIX 24/7 HITS - TROPICAL[/B][/COLOR][COLOR=coral][/COLOR]
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
+
+
+
+
 ######################################################################################
 #EXTINF:-1,[COLOR blue]MÚSICA ANTIGA[/COLOR]
 https://000000
@@ -109,8 +146,11 @@ http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w1139689967.
 #EXTINF:0 type="stream" channelId="-1" group="Музыкальные",[COLOR=coral][B]RETRO TV SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]RETRO TV PLUS SD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=coral][B]RETRO TV PLUS 1 SD[/B][/COLOR][COLOR=coral][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w2107081768.m3u8
+
+#EXTINF:-1 tvg-name="Retro Plus 2 HD" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/i0rZsgG.png",[COLOR=coral][B]RETRO TV PLUS 2[/B][/COLOR][COLOR=coral][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]PORTALFOXMIX[/B][/COLOR][COLOR=coral][/COLOR]
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
