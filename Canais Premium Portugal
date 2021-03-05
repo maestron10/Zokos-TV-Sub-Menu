@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 26/02/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 05/03/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -32,11 +32,8 @@ https://000000
 
 #EXTINF:-1,Sport TV 1 MOBILE
 http://77.54.145.209:81/play/a001
-
-#EXTINF:-1,Sport TV 1 Mobile
+#EXTINF:-1,Sport TV 1 MOBILE
 http://77.54.145.209:81/play/a001
-
-
 #EXTINF:-1,SPORT TV 1
 http://77.54.145.209:81/play/a02v
 #EXTINF:-1,SPORT TV 2
@@ -51,14 +48,25 @@ https://000000
 
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 FullHD
 http://tvmedia2.com:8080/Hunter2/Hunter2/165243.ts
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 FHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/167763.ts
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 FullHD
 http://tvmedia2.com:8080/Hunter2/Hunter2/165244.ts
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 FHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/167764.ts
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 FullHD
 http://tvmedia2.com:8080/Hunter2/Hunter2/165245.ts
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 FHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/167765.ts
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 FullHD
 http://tvmedia2.com:8080/Hunter2/Hunter2/165246.ts
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 FHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/167766.ts
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5 FullHD
 http://tvmedia2.com:8080/Hunter2/Hunter2/165247.ts
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5 FHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/167767.ts
+
 
  
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -86,7 +94,14 @@ http://77.54.145.209:81/play/a03d
 https://000000
 
 
-#EXTINF:-1,NÃO DISPONÍVEL
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV CINE ACTION FullHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/165262.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV CINE EDITION FullHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/165263.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV CINE Emotion  FullHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/165264.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV CINE TOP  FullHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/165265.ts
 
 
 
