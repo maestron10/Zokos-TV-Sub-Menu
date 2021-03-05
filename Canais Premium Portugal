@@ -22,6 +22,13 @@ https://000000
 
 #EXTINF:-1, BTV MOBILE
 http://77.54.145.209:81/play/a002
+
+
+#EXTINF:-1,[COLOR red]2ª OPÇÃO[/COLOR]
+https://000000
+
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BTV FHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/165196.ts
  
 ##################################  GRUPO SPORT TV   ###########################################################################
  
