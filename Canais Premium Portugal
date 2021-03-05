@@ -46,7 +46,7 @@ http://77.54.145.209:81/play/a02n
 #EXTINF:-1,SPORT TV 4
 http://77.54.145.209:81/play/a02o
 
-#EXTINF:-1,[COLOR white]2ª OPÇÃO[/COLOR]
+#EXTINF:-1,[COLOR red]2ª OPÇÃO[/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 FullHD
