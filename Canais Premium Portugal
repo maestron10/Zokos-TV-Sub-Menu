@@ -33,6 +33,10 @@ https://000000
 #EXTINF:-1,Sport TV 1 MOBILE
 http://77.54.145.209:81/play/a001
 
+#EXTINF:-1,Sport TV 1 Mobile
+http://77.54.145.209:81/play/a001
+
+
 #EXTINF:-1,SPORT TV 1
 http://77.54.145.209:81/play/a02v
 #EXTINF:-1,SPORT TV 2
@@ -41,6 +45,20 @@ http://77.54.145.209:81/play/a02j
 http://77.54.145.209:81/play/a02n
 #EXTINF:-1,SPORT TV 4
 http://77.54.145.209:81/play/a02o
+
+#EXTINF:-1,[COLOR white]2ª OPÇÃO[/COLOR]
+https://000000
+
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 FullHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/165243.ts
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 FullHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/165244.ts
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 FullHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/165245.ts
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 FullHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/165246.ts
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5 FullHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/165247.ts
 
  
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
