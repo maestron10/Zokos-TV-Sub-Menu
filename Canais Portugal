@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]Lista 1 Revista: 30/01/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 1 REVISTA: 07/03/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fontes de Informação: 
 * https://gist.github.com/homemdasneves/cf622bc2feef035ae532c8397f2c054f  
 * http://www.cxtv.com.br/tv/paises/portugal
@@ -69,17 +69,11 @@ https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mana 1" tvg-logo="https://cdn.teleon.tv/logo/tv_mana_1_pt.png" group-title="PORTUGAL",TV MANA 1
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
 
-#EXTINF:-1,TV DE BRAGA
-https://5cf4a2c2512a2.streamlock.net/canalb/canalb/chunklist_w1487143489.m3u8
-
 #EXTINF:-1,ADB TV
 https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/chunklist_w1178538717.m3u8
 
-#EXTINF:-1,IGREJA DO ESPÍRITO SANTO
-https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/chunklist_w1013169129_b2031931.m3u8
 
-
-#EXTINF:-1,[COLOR=yellow][B]Lista 2, datada de: 03/02/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 2 REVISTA: 07/03/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
