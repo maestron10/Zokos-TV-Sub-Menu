@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 05/03/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 07/03/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -20,12 +20,6 @@ https://iptvcat.com/portugal/
 #EXTINF:-1,[COLOR blue]BENFICA TV[/COLOR]
 https://000000
 
-#EXTINF:-1, BTV MOBILE
-http://77.54.145.209:81/play/a002
-
-
-#EXTINF:-1,[COLOR red]2ª OPÇÃO[/COLOR]
-https://000000
 
 #EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BTV FHD
 http://tvmedia2.com:8080/Hunter2/Hunter2/165196.ts
@@ -117,18 +111,7 @@ http://tvmedia2.com:8080/Hunter2/Hunter2/165265.ts
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM ADULTOS[/COLOR]
 https://000000
  
-#EXTINF:-1,PLAYBOY HD
-http://187.188.147.165:8000/play/a00l/index.m3u8
-
-#EXTINF:-1,VENUS
-http://187.188.147.165:8000/play/a01d
-#EXTINF:-1,VENUS
-http://187.188.147.165:8000/play/a01d/index.m3u8
-#EXTINF:-1,SEXTREME
-http://187.188.147.165:8000/play/a012
-#EXTINF:-1,SEXTREME
-http://187.188.147.165:8000/play/a012/index.m3u8
-
+#EXTINF:-1,NÃO DISPONÍVEIS
 
  
  
