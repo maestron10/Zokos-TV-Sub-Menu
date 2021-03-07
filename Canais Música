@@ -160,7 +160,7 @@ https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3
 #EXTINF:-1,[COLOR blue]GRUPO MTV[/COLOR]
 https://000000
 
-#EXTINF:-1,NÃO DISPONIVEL
+#EXTINF:-1,[COLOR=coral][B]NÃO DISPONIVEL[/B][/COLOR][COLOR=coral][/COLOR]
 http://00000000
 
 ######################################################################################
@@ -369,22 +369,22 @@ https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK OKK Serbia
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",La Karibeña Perú
+#EXTINF:0 tvg-id="ext" group-title="Musicales",LA KARIBENA PERU
 https://cu.onliv3.com/livevd/user1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Top Latino TV Perú
+#EXTINF:0 tvg-id="ext" group-title="Musicales",TOP LATINO TV PERU
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Onda Digital Perú
+#EXTINF:0 tvg-id="ext" group-title="Musicales",ONDA DIGITAL PERU
 http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",La Mega Mundial USA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",LA MEGA MUNDIAL USA
 https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Telemúsica Colombia
+#EXTINF:0 tvg-id="ext" group-title="Musicales",TELEMUSICA COLOMBIA
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Music Top Argentina
+#EXTINF:0 tvg-id="ext" group-title="Musicales",MUSIC TOP ARGENTINA
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Latinos 1 TV Suiza
+#EXTINF:0 tvg-id="ext" group-title="Musicales",LATINOS 1 TV
 https://5b38ce71f1f00.streamlock.net/8196/8196/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Ditty TV USA EN
+#EXTINF:0 tvg-id="ext" group-title="Musicales",DITTY TV USA EN
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Spirit TV USA EN
+#EXTINF:0 tvg-id="ext" group-title="Musicales",SPIRIT TV USA EN
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
