@@ -10,7 +10,7 @@ Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvso
 
 https://iptvcat.com/portugal/
 
-ÚLTIMA FONTE VÁLIDA: https://pastebin.com/jzmG9tec
+ÚLTIMAS FONTES VÁLIDAS: https://pastebin.com/jzmG9tec E https://github.com/saeedygujjar/iptv-sports/blob/main/iptvSportsList.m3u
 
  
 ##################################  BENFICA TV   ###########################################################################
@@ -31,32 +31,32 @@ http://tvmedia2.com:8080/Hunter2/Hunter2/165196.ts
 #EXTINF:-1,[COLOR blue]CANAIS SPORT TV[/COLOR]
 https://000000
 
-#EXTINF:-1,Sport TV 1 MOBILE
+#EXTINF:-1,Sport TV 1 MOBILE SD
 http://77.54.145.209:81/play/a001
-#EXTINF:-1,Sport TV 1 MOBILE
+#EXTINF:-1,Sport TV 1 MOBILE SD
 http://77.54.145.209:81/play/a001
-#EXTINF:-1,SPORT TV 1
+#EXTINF:-1,SPORT TV 1 SD
 http://77.54.145.209:81/play/a02v
-#EXTINF:-1,SPORT TV 2
+#EXTINF:-1,SPORT TV 2 SD
 http://77.54.145.209:81/play/a02j
-#EXTINF:-1,SPORT TV 3
+#EXTINF:-1,SPORT TV 3 SD
 http://77.54.145.209:81/play/a02n
-#EXTINF:-1,SPORT TV 4
+#EXTINF:-1,SPORT TV 4 SD
 http://77.54.145.209:81/play/a02o
 
 #EXTINF:-1,[COLOR red]2ª OPÇÃO[/COLOR]
 https://000000
 
 
-#EXTINF:-1,SPORTS TV  1
+#EXTINF:-1,SPORTS TV  1 SD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5205c7b916108f9.ts|User-Agent=1m3u8
-#EXTINF:-1,SPORTS TV  2
+#EXTINF:-1,SPORTS TV  2 SD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b34a752e6302c4b.ts|User-Agent=1m3u8
-#EXTINF:-1,SPORTS TV  3
+#EXTINF:-1,SPORTS TV  3 SD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/67f9ab7537be842.ts|User-Agent=1m3u8
-#EXTINF:-1,SPORTS TV  4
+#EXTINF:-1,SPORTS TV  4 SD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6565668c520548c.ts|User-Agent=1m3u8
-#EXTINF:-1,SPORTS TV  5
+#EXTINF:-1,SPORTS TV  5 SD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d73a83c60dd69f3.ts|User-Agent=1m3u8
 
 #EXTINF:-1,[COLOR red]3ª OPÇÃO[/COLOR]
