@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 #######################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 28/02/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 07/03/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ###########################################################################
  
@@ -83,10 +83,7 @@ http://eurodance.catcast.tv/content/36987/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]DANCE STAR TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
-
-#EXTINF:-1,[COLOR=coral][B]IBIZA GLOBAL TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://ibgrtv.streaming-pro.com/hls/ibgrlive_720p.m3u8
-  
+ 
 # https://www.youtube.com/channel/UCalCDSmZAYD73tqVZ4l8yJg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=coral][B]ASOT TV[/B][/COLOR][COLOR=coral][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
@@ -163,10 +160,9 @@ https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3
 #EXTINF:-1,[COLOR blue]GRUPO MTV[/COLOR]
 https://000000
 
-#EXTINF:-1,MTV BR HD
-http://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/index.m3u8
- 
- 
+#EXTINF:-1,NÃO DISPONIVEL
+http://00000000
+
 ######################################################################################
 #EXTINF:-1,[COLOR blue]GRUPO VH1 E MCM[/COLOR]
 https://000000
@@ -275,13 +271,10 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o3mNE4H.jpg" group-title="MUSIC",[COLOR=coral][B]DESI CHANNEL[/B][/COLOR][COLOR=coral][/COLOR]
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BnCF4JT.png" group-title="MUSIC",[COLOR=coral][B]GABRUU TV[/B][/COLOR][COLOR=coral][/COLOR]
-http://104.237.60.234/live/gabruutv.m3u8
-
 
 #############################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]Lista 2 datada de:06/02/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 2 REVISTA: 07/03/2021[/B][/COLOR][COLOR=yellow][/COLOR]
   
 #EXTM3U
  
@@ -294,8 +287,7 @@ https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
 https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",MOLA TV ESPANHA
 http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",RÁDIO GIGANTE ESPANHÃ
-https://gigantetv.radiogigante.com/tele/live/stream.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",URBAN REVOLUTION ESPANHÃ
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 
