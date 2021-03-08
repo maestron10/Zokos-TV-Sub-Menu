@@ -11,9 +11,9 @@ Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvso
 https://iptvcat.com/portugal/
 
 ÚLTIMAS FONTES VÁLIDAS: 
-*** https://pastebin.com/jzmG9tec E 
-*** https://github.com/saeedygujjar/iptv-sports/blob/main/iptvSportsList.m3u
-*** https://github.com/thanh51/repository.thanh51/blob/master/TV.m3u
+*** FONTE 1 - https://pastebin.com/jzmG9tec
+*** FONTE 2 - https://github.com/saeedygujjar/iptv-sports/blob/main/iptvSportsList.m3u
+*** FONTE 3 - https://github.com/thanh51/repository.thanh51/blob/master/TV.m3u
 
  
 ##################################  BENFICA TV   ###########################################################################
@@ -24,10 +24,31 @@ https://iptvcat.com/portugal/
 https://000000
 
 
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BTV FHD
-http://tvmedia2.com:8080/Hunter2/Hunter2/165196.ts
+#EXTINF:-1,BTV FHD
+http://77.54.145.209:81/play/a032
+
+#EXTINF:-1 group-title="-" ,BTV SD
+http://77.54.145.209:81/play/a002
+
+#EXTINF:-1,BENFICA TV 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/210313fd9f3e3b4.ts|User-Agent=1m3u8
+
+
  
 ##################################  GRUPO SPORT TV   ###########################################################################
+ 
+ 
+#EXTM3U
+ 
+#EXTINF:-1,[COLOR yellow]MELHORES LINKS SPORT TV[/COLOR]
+https://000000
+ 
+#EXTINF:-1,SPORT TV 1 SD - LINK 1
+http://77.54.145.209:81/play/a001
+#EXTINF:-1,SPORT TV 1 SD - LINK 2
+http://77.54.145.209:81/play/a02v
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Portuge Sports",SPORT TV 1 HD
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
  
 #EXTM3U
  
@@ -77,30 +98,6 @@ https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="Portuge Sports",Sport TV 5 HD
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
-#EXTINF:-1,[COLOR red]4ª OPÇÃO[/COLOR]
-https://000000
-
-
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 FullHD
-http://tvmedia2.com:8080/Hunter2/Hunter2/165243.ts
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 FHD
-http://tvmedia2.com:8080/Hunter2/Hunter2/167763.ts
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 FullHD
-http://tvmedia2.com:8080/Hunter2/Hunter2/165244.ts
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 FHD
-http://tvmedia2.com:8080/Hunter2/Hunter2/167764.ts
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 FullHD
-http://tvmedia2.com:8080/Hunter2/Hunter2/165245.ts
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 FHD
-http://tvmedia2.com:8080/Hunter2/Hunter2/167765.ts
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 FullHD
-http://tvmedia2.com:8080/Hunter2/Hunter2/165246.ts
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 FHD
-http://tvmedia2.com:8080/Hunter2/Hunter2/167766.ts
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5 FullHD
-http://tvmedia2.com:8080/Hunter2/Hunter2/165247.ts
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5 FHD
-http://tvmedia2.com:8080/Hunter2/Hunter2/167767.ts
 
 
  
@@ -114,6 +111,8 @@ https://000000
 
 #EXTINF:-1,ELEVEN SPORTS 1
 http://77.54.145.209:81/play/a00a
+
+
 
 #EXTINF:-1,ELEVEN SPORTS 2
 http://77.54.145.209:81/play/a03d
