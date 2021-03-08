@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 07/03/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 08/03/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -30,10 +30,6 @@ http://77.54.145.209:81/play/a032
 #EXTINF:-1 group-title="-" ,BTV SD
 http://77.54.145.209:81/play/a002
 
-#EXTINF:-1,BENFICA TV 
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/210313fd9f3e3b4.ts|User-Agent=1m3u8
-
-
  
 ##################################  GRUPO SPORT TV   ###########################################################################
  
@@ -43,9 +39,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/210313fd9f3e3b
 #EXTINF:-1,[COLOR yellow]MELHORES LINKS SPORT TV[/COLOR]
 https://000000
  
-#EXTINF:-1,SPORT TV 1 SD - LINK 1
+#EXTINF:-1,SPORT TV 1 SD
 http://77.54.145.209:81/play/a001
-#EXTINF:-1,SPORT TV 1 SD - LINK 2
+#EXTINF:-1,SPORT TV 1 SD
 http://77.54.145.209:81/play/a02v
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Portuge Sports",SPORT TV 1 HD
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
