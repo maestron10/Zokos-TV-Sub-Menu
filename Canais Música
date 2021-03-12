@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 #######################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 07/03/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 12/03/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ###########################################################################
  
@@ -72,6 +72,9 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http:
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]ON TV PORTUGAL[/B][/COLOR][COLOR=coral][/COLOR]
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 
+#EXTINF:-1,[COLOR=coral][B]4MUSIC UK[/B][/COLOR][COLOR=coral][/COLOR]
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15698
+
  
 ###########################################################################################
  
@@ -80,6 +83,9 @@ https://000000
  
 #EXTINF:-1,[COLOR=coral][B]EURODANCE 90 TV [/B][/COLOR][COLOR=coral][/COLOR]
 http://eurodance.catcast.tv/content/36987/index.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]CLUBLAND TV UK[/B][/COLOR][COLOR=coral][/COLOR]
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15769
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]DANCE STAR TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
@@ -160,8 +166,28 @@ https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3
 #EXTINF:-1,[COLOR blue]GRUPO MTV[/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=coral][B]NÃO DISPONIVEL[/B][/COLOR][COLOR=coral][/COLOR]
-http://00000000
+#EXTINF:-1,[COLOR=coral][B]MTV FHD UK[/B][/COLOR][COLOR=coral][/COLOR]
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683775
+#EXTINF:-1,M[COLOR=coral][B]MTV MUSIC UK[/B][/COLOR][COLOR=coral][/COLOR]
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683776
+#EXTINF:-1,[COLOR=coral][B]MTV LIVE UK[/B][/COLOR][COLOR=coral][/COLOR]
+http://mytv.fun:8080/Oskartest/t4h92jfvp/671334
+#EXTINF:-1,[COLOR=coral][B]MTV LIVE HD UK[/B][/COLOR][COLOR=coral][/COLOR]
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9540
+#EXTINF:-1,[COLOR=coral][B]MTV HITS UK[/B][/COLOR][COLOR=coral][/COLOR]
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683777
+#EXTINF:-1,[COLOR=coral][B]MTV BASE HD UK[/B][/COLOR][COLOR=coral][/COLOR]
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15818
+#EXTINF:-1,[COLOR=coral][B]MTV BASE VIP UK[/B][/COLOR][COLOR=coral][/COLOR]
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9537
+#EXTINF:-1,[COLOR=coral][B]MTV CLASSIC UK[/B][/COLOR][COLOR=coral][/COLOR]
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683898
+#EXTINF:-1,[COLOR=coral][B]MTV 90´S UK[/B][/COLOR][COLOR=coral][/COLOR]
+http://mytv.fun:8080/Oskartest/t4h92jfvp/15845
+#EXTINF:-1,[COLOR=coral][B]MTV 80´S UK[/B][/COLOR][COLOR=coral][/COLOR]
+http://mytv.fun:8080/Oskartest/t4h92jfvp/9509
+#EXTINF:-1,[COLOR=coral][B]MTV 80´S CLASSIC UK[/B][/COLOR][COLOR=coral][/COLOR]
+http://mytv.fun:8080/Oskartest/t4h92jfvp/683778
 
 ######################################################################################
 #EXTINF:-1,[COLOR blue]GRUPO VH1 E MCM[/COLOR]
