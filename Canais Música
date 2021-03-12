@@ -24,7 +24,7 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]POWERHD[/B][/COLOR][COLOR=coral][/COLOR]
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
-#EXTINF:-1,Power Turk HD TR [COLOR=coral][B]POWER TURK HD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=coral][B]POWER TURK HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://mytv.fun:8080/Oskartest/t4h92jfvp/8065
 
 #EXTINF:-1 tvg-id="" tvg-name="NRJ Hits (FR)" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="FRANCE;MUSIK",[COLOR=coral][B]NRJ HITS[/B][/COLOR][COLOR=coral][/COLOR]
@@ -78,7 +78,7 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 #EXTINF:-1,[COLOR=coral][B]4MUSIC UK[/B][/COLOR][COLOR=coral][/COLOR]
 http://mytv.fun:8080/Oskartest/t4h92jfvp/15698
 
-#EXTINF:-1,Del[COLOR=coral][B]DELUXE MUSIC HD DE[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=coral][B]DELUXE MUSIC HD DE[/B][/COLOR][COLOR=coral][/COLOR]
 http://mytv.fun:8080/Oskartest/t4h92jfvp/6255
 
  
