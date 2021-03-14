@@ -51,11 +51,11 @@ http://77.54.145.209:81/play/a02v
 https://000000
 
  
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORTS | Sport TV1 FHD PT" tvg-logo="" group-title="Sports",SPORTS | SPORT TV1 FHD PT (720P)
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORTS | Sport TV1 FHD PT" tvg-logo="" group-title="Sports",SPORTS | SPORT TV1 SD
 http://iptv.rent:8080/kgmxju12/bbvg67u89i0/5442
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORTS | Sport TV2 FHD PT" tvg-logo="" group-title="Sports",SPORTS | SPORT TV2 FHD PT (720P)
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORTS | Sport TV2 FHD PT" tvg-logo="" group-title="Sports",SPORTS | SPORT TV2 SD
 http://iptv.rent:8080/kgmxju12/bbvg67u89i0/5441
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORTS | Sport TV3 FHD PT " tvg-logo="" group-title="Sports",SPORTS | SPORT TV3 FHD PT (720P)
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORTS | Sport TV3 FHD PT " tvg-logo="" group-title="Sports",SPORTS | SPORT TV3 (1080P)
 http://iptv.rent:8080/kgmxju12/bbvg67u89i0/5440
 
  
