@@ -58,6 +58,17 @@ http://iptv.rent:8080/kgmxju12/bbvg67u89i0/5441
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORTS | Sport TV3 FHD PT " tvg-logo="" group-title="Sports",SPORTS | SPORT TV3 (1080P)
 http://iptv.rent:8080/kgmxju12/bbvg67u89i0/5440
 
+#EXTINF:-1,SPORT TV1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
+#EXTINF:-1,SPORT TV2
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
+#EXTINF:-1,SPORT TV3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
+#EXTINF:-1,SPORT TV4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8?zerosix.m3u8
+#EXTINF:-1,SPORT TV5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8?zerosix.m3u8
+
  
 #EXTM3U
  
