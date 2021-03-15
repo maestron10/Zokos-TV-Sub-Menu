@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 14/03/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 15/03/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -30,66 +30,66 @@ http://77.54.145.209:81/play/a032
 #EXTINF:-1 group-title="-" ,BTV SD (720P)
 http://77.54.145.209:81/play/a002
 
+#EXTINF:-1,BTV 1
+http://83.222.34.62:9000/play/a0d9/index.m3u8
+
+#EXTINF:-1,BTV HD
+http://83.222.34.62:9000/play/a0di/index.m3u8
+
  
 ##################################  GRUPO SPORT TV   ###########################################################################
  
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR yellow]MELHORES LINKS SPORT TV 1[/COLOR]
+#EXTINF:-1,[COLOR yellow]LINKS SPORT TV 1[/COLOR]
 https://000000
  
 #EXTINF:-1,SPORT TV 1 SD (476P)
 http://77.54.145.209:81/play/a001
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Portuge Sports",SPORT TV 1 HD (720P)
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+
 #EXTINF:-1,SPORT TV 1 SD (476P)
 http://77.54.145.209:81/play/a02v
 
- 
-#EXTINF:-1,[COLOR yellow]LINKS DE TESTE DIVERSOS[/COLOR]
-https://000000
-
- 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORTS | Sport TV1 FHD PT" tvg-logo="" group-title="Sports",SPORTS | SPORT TV 1 SD
-http://iptv.rent:8080/kgmxju12/bbvg67u89i0/5442
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORTS | Sport TV2 FHD PT" tvg-logo="" group-title="Sports",SPORTS | SPORT TV 2 SD
-http://iptv.rent:8080/kgmxju12/bbvg67u89i0/5441
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORTS | Sport TV3 FHD PT " tvg-logo="" group-title="Sports",SPORTS | SPORT TV 3 (1080P)
-http://iptv.rent:8080/kgmxju12/bbvg67u89i0/5440
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Portuge Sports",SPORT TV 1 HD (720P)
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 
 #EXTINF:-1,SPORT TV 1 (720P)
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
-#EXTINF:-1,SPORT TV 3 (720P)
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
-#EXTINF:-1,SPORT TV 3 (720P)
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
-#EXTINF:-1,SPORT TV 4 (720P)
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8?zerosix.m3u8
-#EXTINF:-1,SPORT TV5 SD
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8?zerosix.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: ELEVEN SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",ELEVEN SPORTS 1 PT
-http://tyciptv.site:8080/393e2766/c723f42a/23514
+#EXTINF:-1,SPORT TV 1 
+http://83.222.34.62:9000/play/a0ev/index.m3u8
+
+#EXTINF:-1,SPORT TV 1
+http://83.222.34.62:9000/play/a0d1/index.m3u8
+
  
-#EXTM3U
- 
-#EXTINF:-1,[COLOR blue]CANAIS SPORT TV[/COLOR]
+#EXTINF:-1,[COLOR yellow]OUTROS LINKS SPORT TV[/COLOR]
 https://000000
 
-#EXTINF:-1,SPORT TV 1 MOBILE SD (476P)
-http://77.54.145.209:81/play/a001
 
-#EXTINF:-1,SPORT TV 1 SD (476P)
-http://77.54.145.209:81/play/a02v
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Portuge Sports",SPORT TV 1 HD (720P)
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORTS | Sport TV2 FHD PT" tvg-logo="" group-title="Sports",SPORTS | SPORT TV 2 SD
+http://iptv.rent:8080/kgmxju12/bbvg67u89i0/5441
 
 #EXTINF:-1,SPORT TV 2 SD
 http://77.54.145.209:81/play/a02j
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="Portuge Sports",SPORT TV 2 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1,SPORT TV 2 HD
+http://83.222.34.62:9000/play/a0de/index.m3u8
+
+#EXTINF:-1,SPORT TV 2 Meo
+http://83.222.34.62:9000/play/a0ew/index.m3u8
+
+#EXTINF:-1,SPORT TV 3 (720P)
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
+
+#EXTINF:-1,SPORT TV 3 (720P)
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
+
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORTS | Sport TV3 FHD PT " tvg-logo="" group-title="Sports",SPORTS | SPORT TV 3 (1080P)
+http://iptv.rent:8080/kgmxju12/bbvg67u89i0/5440
 
 #EXTINF:-1,SPORT TV 3 SD
 http://77.54.145.209:81/play/a02n
@@ -99,8 +99,20 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1,SPORT TV 4 SD
 http://77.54.145.209:81/play/a02o
 
+#EXTINF:-1,SPORT TV 3 HD
+http://83.222.34.62:9000/play/a0df/index.m3u8
+
+#EXTINF:-1,SPORT TV 3 
+http://83.222.34.62:9000/play/a0ex/index.m3u8
+
+#EXTINF:-1,SPORT TV 4 (720P)
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8?zerosix.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg" group-title="Portuge Sports",SPORT TV 4 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1,SPORT TV5 SD
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8?zerosix.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="Portuge Sports",SPORT TV 5 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
@@ -118,8 +130,22 @@ https://000000
 #EXTINF:-1,ELEVEN SPORTS 1 (1080P)
 http://77.54.145.209:81/play/a00a
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: ELEVEN SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",ELEVEN SPORTS 1 PT
+http://tyciptv.site:8080/393e2766/c723f42a/23514
+
+#EXTINF:-1,ELEVEN SPORTS 1 HD 
+http://83.222.34.62:9000/play/a0dr/index.m3u8
+
+#EXTINF:-1,ELEVEN SPORTS 1
+http://83.222.34.62:9000/play/a0dm/index.m3u8
+
 #EXTINF:-1,ELEVEN SPORTS 2 (1080P)
 http://77.54.145.209:81/play/a03d
+
+#EXTINF:-1,ELEVEN SPORTS 2 HD 
+http://83.222.34.62:9000/play/a0dj/index.m3u8
+
+
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
 #EXTM3U
