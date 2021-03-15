@@ -96,8 +96,6 @@ http://77.54.145.209:81/play/a02n
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg" group-title="Portuge Sports",SPORT TV 3 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1,SPORT TV 4 SD
-http://77.54.145.209:81/play/a02o
 
 #EXTINF:-1,SPORT TV 3 HD
 http://83.222.34.62:9000/play/a0df/index.m3u8
@@ -107,6 +105,9 @@ http://83.222.34.62:9000/play/a0ex/index.m3u8
 
 #EXTINF:-1,SPORT TV 4 (720P)
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8?zerosix.m3u8
+
+#EXTINF:-1,SPORT TV 4 SD
+http://77.54.145.209:81/play/a02o
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg" group-title="Portuge Sports",SPORT TV 4 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
