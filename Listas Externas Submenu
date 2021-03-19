@@ -32,10 +32,20 @@
 <info></info>
 </channel>
 </channels
-
  
  
  </channel>
+<channel>
+<name>[COLOR=yellow][B]LISTA DESPORTO MUNDIAL[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<thumbnail>url DA IMAGEM</thumbnail>
+<externallink>https://raw.githubusercontent.com/bebe110781/m3u/main/###%20Sports%20###</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channels
+ 
+  
+</channel>
 <channel>
 <name>[COLOR=yellow][B]ADDON IGOR TV[/B][/COLOR][COLOR=yellow][/COLOR]</name>
 <thumbnail>url DA IMAGEM</thumbnail>
