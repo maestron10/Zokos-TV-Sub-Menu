@@ -23,13 +23,8 @@ https://iptvcat.com/portugal/
 #EXTINF:-1,[COLOR blue]BENFICA TV[/COLOR]
 https://000000
 
-
-#EXTINF:-1,BTV FHD (1080P)
-http://77.54.145.209:81/play/a032
-
-#EXTINF:-1 group-title="-" ,BTV SD (720P)
-http://77.54.145.209:81/play/a002
-
+#EXTINF:-1,NÃO DISPONÍVEIS
+https://0000000000
  
 ##################################  GRUPO SPORT TV   ###########################################################################
  
@@ -50,16 +45,6 @@ https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 
 #EXTINF:-1,SPORT TV 1 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
-
-#EXTINF:-1,[COLOR yellow]LINKS TESTE DESPORTO[/COLOR]
-https://000000
-
-#EXTINF:-1,SPORT TV1 FHD PT
-http://mytv.fun:8080/EdisDeSt/sheki1sheki1/5442
-#EXTINF:-1,SPORT TV2 FHD PT
-http://mytv.fun:8080/EdisDeSt/sheki1sheki1/5441
-#EXTINF:-1,SPORT TV3 FHD PT 
-http://mytv.fun:8080/EdisDeSt/sheki1sheki1/5440
 
 
 #EXTINF:-1,[COLOR yellow]OUTROS LINKS SPORT TV[/COLOR]
