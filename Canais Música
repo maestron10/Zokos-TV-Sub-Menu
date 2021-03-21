@@ -170,24 +170,8 @@ https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3
 #EXTINF:-1,[COLOR blue]GRUPO MTV[/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=coral][B]MTV MUSIC UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://mytv.fun:8080/Oskartest/t4h92jfvp/683776
-#EXTINF:-1,[COLOR=coral][B]MTV LIVE UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://mytv.fun:8080/Oskartest/t4h92jfvp/671334
-#EXTINF:-1,[COLOR=coral][B]MTV LIVE HD UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://mytv.fun:8080/Oskartest/t4h92jfvp/9540
-#EXTINF:-1,[COLOR=coral][B]MTV HITS UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://mytv.fun:8080/Oskartest/t4h92jfvp/683777
-#EXTINF:-1,[COLOR=coral][B]MTV BASE HD UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://mytv.fun:8080/Oskartest/t4h92jfvp/15818
-#EXTINF:-1,[COLOR=coral][B]MTV BASE VIP UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://mytv.fun:8080/Oskartest/t4h92jfvp/9537
-#EXTINF:-1,[COLOR=coral][B]MTV CLASSIC UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://mytv.fun:8080/Oskartest/t4h92jfvp/683898
-#EXTINF:-1,[COLOR=coral][B]MTV 90´S UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://mytv.fun:8080/Oskartest/t4h92jfvp/15845
-#EXTINF:-1,[COLOR=coral][B]MTV 80´S UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://mytv.fun:8080/Oskartest/t4h92jfvp/9509
+#EXTINF:-1,MTV HD BR
+http://187.95.149.94:8000/play/a013/index.m3u8
 
 
 ######################################################################################
