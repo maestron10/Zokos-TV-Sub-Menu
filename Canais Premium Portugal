@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]ESTÁ LISTA FOI REVISTA A: 20/03/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]ESTÁ LISTA FOI REVISTA A: 21/03/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -23,8 +23,18 @@ https://iptvcat.com/portugal/
 #EXTINF:-1,[COLOR blue]BENFICA TV[/COLOR]
 https://000000
 
-#EXTINF:-1,NÃO DISPONÍVEIS
-https://0000000000
+#EXTINF:-1,BENFICA TV
+http://85.203.33.22/B1IYW1eVzOc9422/3lSumD765/3308
+
+#EXTINF:-1,BENFICA TV
+http://85.203.33.22/B1IYW1eVzOc9422/3lSumD765/5541
+
+#EXTINF:-1,BENFICA TV
+http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/2868
+
+#EXTINF:-1,BENFICA TV (720P)
+http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/2670
+
  
 ##################################  GRUPO SPORT TV   ###########################################################################
  
@@ -46,15 +56,41 @@ https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1,SPORT TV 1 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
 
+#EXTINF:-1,SPORT TV 1 HD (720P)
+http://85.203.33.22/B1IYW1eVzOc9422/3lSumD765/3221
+
+#EXTINF:-1,SPORT TV 1 FHD (1080P)
+http://85.203.33.22/B1IYW1eVzOc9422/3lSumD765/17744
+
+#EXTINF:-1,SPORT TV 1 SD
+http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/211
+
+#EXTINF:-1,SPORT TV 1 SD
+http://85.203.33.88/LevPoGw984/DB38UJ86/7846
+
+#EXTINF:-1,SPORT TV 1 HD
+http://85.203.33.88/LevPoGw984/DB38UJ86/3221
+
+#EXTINF:-1,SPORT TV NBA FHD
+http://85.203.33.22/B1IYW1eVzOc9422/3lSumD765/27801
+
+
+##############################################################################################
 
 #EXTINF:-1,[COLOR yellow]OUTROS LINKS SPORT TV[/COLOR]
 https://000000
+
+#EXTINF:-1,SPORT TV 2 FHD
+http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/212
 
 #EXTINF:-1,SPORT TV 2 SD
 http://77.54.145.209:81/play/a02j
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="Portuge Sports",SPORT TV 2 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1,SPORT TV 3 (720P)
+http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/2864
 
 #EXTINF:-1,SPORT TV 3 (720P)
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
@@ -105,6 +141,26 @@ http://83.222.34.62:9000/play/a0dr/index.m3u8
 #EXTINF:-1,ELEVEN SPORTS 1
 http://83.222.34.62:9000/play/a0dm/index.m3u8
 
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://85.203.33.22/B1IYW1eVzOc9422/3lSumD765/23325
+
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://85.203.33.88/LevPoGw984/DB38UJ86/23320
+
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://77.54.145.209:81/play/a03d
+
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://hug.dynu.com:8080/miguelfilho/16jan2018/52290
+
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://hug.dynu.com:8080/miguelfilho/16jan2018/52291
+
+
+
+
+
+
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
 #EXTM3U
@@ -113,8 +169,25 @@ http://83.222.34.62:9000/play/a0dm/index.m3u8
 https://000000
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",NÃO DIPONÍVEIS
-https://0000000000
+#EXTINF:-1,TVCINE TOP
+http://85.203.33.88/LevPoGw984/DB38UJ86/15796
+
+#EXTINF:-1,TVCINE EDITION
+http://85.203.33.88/LevPoGw984/DB38UJ86/15797
+
+#EXTINF:-1,TVCINE EDITION
+http://85.203.33.88/LevPoGw984/DB38UJ86/5546
+
+#EXTINF:-1,TVCINE ACTION HD
+http://85.203.33.88/LevPoGw984/DB38UJ86/15799
+
+#EXTINF:-1,TVCINE ACTION FHD
+http://85.203.33.88/LevPoGw984/DB38UJ86/5548
+
+#EXTINF:-1,TVCINE EMOTION FHD
+http://85.203.33.88/LevPoGw984/DB38UJ86/15798
+
+
 
 
 ##################################  CANAIS PREMIUM ADULTOS PORTUGAL ###################################################################
