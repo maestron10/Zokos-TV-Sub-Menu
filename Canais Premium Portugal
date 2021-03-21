@@ -35,10 +35,6 @@ http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfd
 #EXTINF:-1,BENFICA TV (720P)
 http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/2670
 
-#EXTINF:-1,BENFICA TV (1080P)
-http://50.7.211.37/hls/9f88e434e010f5f517577a947afd0c8b/52306_160.ts
-
-
  
 ##################################  GRUPO SPORT TV   ###########################################################################
  
@@ -60,12 +56,6 @@ https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1,SPORT TV 1 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
 
-#EXTINF:-1,SPORT TV 1 HD (720P)
-http://85.203.33.22/B1IYW1eVzOc9422/3lSumD765/3221
-
-#EXTINF:-1,SPORT TV 1 FHD (1080P)
-http://85.203.33.22/B1IYW1eVzOc9422/3lSumD765/17744
-
 #EXTINF:-1,SPORT TV 1 SD
 http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/211
 
@@ -77,11 +67,6 @@ http://85.203.33.88/LevPoGw984/DB38UJ86/3221
 
 #EXTINF:-1,SPORT TV NBA FHD
 http://85.203.33.22/B1IYW1eVzOc9422/3lSumD765/27801
-
-#EXTINF:-1,SPORT TV 1 SD
-http://50.7.210.76/hls/ecedb654fae9204011e6b97309e82bc9/52270_110.ts
-
-
 
 
 ##############################################################################################
@@ -98,9 +83,6 @@ http://77.54.145.209:81/play/a02j
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="Portuge Sports",SPORT TV 2 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 
-#EXTINF:-1,SPORT TV 2 SD
-http://50.7.210.76/hls/00e15b79bf6aa0df1c9e801ea425893f/52273_180.ts
-
 #EXTINF:-1,SPORT TV 3 (720P)
 http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/2864
 
@@ -112,9 +94,6 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
 
 #EXTINF:-1,SPORT TV 3 SD
 http://77.54.145.209:81/play/a02n
-
-#EXTINF:-1,SPORT TV 3 FHD
-http://50.7.210.77/hls/23ff8fce8222a637709578189d4a52b8/52275_305.ts
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg" group-title="Portuge Sports",SPORT TV 3 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
@@ -143,21 +122,8 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
 https://000000
 
-
-#EXTINF:-1,ELEVEN SPORTS 1 (1080P)
-http://77.54.145.209:81/play/a00a
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: ELEVEN SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",ELEVEN SPORTS 1 PT
-http://tyciptv.site:8080/393e2766/c723f42a/23514
-
 #EXTINF:-1,ELEVEN SPORTS 1 HD 
-http://83.222.34.62:9000/play/a0dr/index.m3u8
-
-#EXTINF:-1,ELEVEN SPORTS 1
-http://83.222.34.62:9000/play/a0dm/index.m3u8
-
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://85.203.33.22/B1IYW1eVzOc9422/3lSumD765/23325
+http://77.54.145.209:81/play/a00a
 
 #EXTINF:-1,ELEVEN SPORTS 2 FHD
 http://85.203.33.88/LevPoGw984/DB38UJ86/23320
@@ -165,18 +131,11 @@ http://85.203.33.88/LevPoGw984/DB38UJ86/23320
 #EXTINF:-1,ELEVEN SPORTS 2 FHD
 http://77.54.145.209:81/play/a03d
 
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://37.9.62.158:25461/hls/40d54248d4e35a02e857460ebfe25b2e/52289_194.ts
-
 #EXTINF:-1,ELEVEN SPORTS 3 FHD
 http://hug.dynu.com:8080/miguelfilho/16jan2018/52290
 
 #EXTINF:-1,ELEVEN SPORTS 3 FHD
 http://hug.dynu.com:8080/miguelfilho/16jan2018/52291
-
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://50.7.210.77/hls/a921d06f8fba2d2892e990ddedd11d2c/52291_408.ts
-
 
 
  
@@ -187,17 +146,12 @@ http://50.7.210.77/hls/a921d06f8fba2d2892e990ddedd11d2c/52291_408.ts
 https://000000
 
 
-#EXTINF:-1,NOS STUDIO SD
-http://50.7.210.77/live/wF8SHT92mh/Pse1zFELbb/52291.m3u8?token=aW9JeDJQZ0U1b2RIV3dM
 
-#EXTINF:-1,NOS STUDIO SD
-http://37.9.62.157:25461/hls/4d5a0c70877a3ffad7a9a931e425ef1a/57326_264.ts
 
 #EXTINF:-1,TVCINE TOP
 http://85.203.33.88/LevPoGw984/DB38UJ86/15796
 
-#EXTINF:-1,TVCINE TOP
-http://37.9.62.158:25461/hls/234f78dbf401f261e8a34f546737db9c/52334_420.ts
+
 
 #EXTINF:-1,TVCINE EDITION
 http://85.203.33.88/LevPoGw984/DB38UJ86/15797
@@ -213,9 +167,6 @@ http://85.203.33.88/LevPoGw984/DB38UJ86/5548
 
 #EXTINF:-1,TVCINE EMOTION FHD
 http://85.203.33.88/LevPoGw984/DB38UJ86/15798
-
-#EXTINF:-1,TVCINE EMOTION SD
-http://37.9.62.156:25461/hls/d4c4230257f7d39902c44a9a32c2ca8b/52338_426.ts
 
 
 ##################################  CANAIS PREMIUM ADULTOS PORTUGAL ###################################################################
