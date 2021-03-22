@@ -170,8 +170,8 @@ https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3
 #EXTINF:-1,[COLOR blue]GRUPO MTV[/COLOR]
 https://000000
 
-#EXTINF:-1,MTV HD BR
-http://187.95.149.94:8000/play/a013/index.m3u8
+#EXTINF:-1,[COLOR=coral][B]NÃO DISPONÍVELV[/B][/COLOR][COLOR=coral][/COLOR]
+http://0000000000
 
 
 ######################################################################################
@@ -313,24 +313,15 @@ https://live2-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]RÁDIO MONTECARLO ITÁLIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]KRONEHITS AUSTRIA[/B][/COLOR][COLOR=coral][/COLOR]
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]Q MUSIC HOLANDA[/B][/COLOR][COLOR=coral][/COLOR]
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]NRJ HITS BÉLGICA[/B][/COLOR][COLOR=coral][/COLOR]
-https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]4FUN TV POLÓNIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:0 tvg-id="RadioItalia.it" group-title="Musicales",[COLOR=coral][B]RÁDIO ITÁLIA TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]OCKO CHÉQUIA[/B][/COLOR][COLOR=coral][/COLOR]
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]OCKO STAR CHÉQUIA[/B][/COLOR][COLOR=coral][/COLOR]
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]OCKO EXPRESS CHÉQUIA[/B][/COLOR][COLOR=coral][/COLOR]
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]M2O ITÁLIA[/B][/COLOR][COLOR=coral][/COLOR]
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",1 MUSIC HUNGRIA
 http://1music.hu/1music.m3u8
@@ -338,8 +329,7 @@ http://1music.hu/1music.m3u8
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",V2BEAT TV EN
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",POWER TV TURQUIA
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",ROCK TV ROMÉNIA
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",RÁDIO 21 ROCK´N POP 
@@ -352,12 +342,10 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",OTTO FM ITÁLIA 
 http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",IBIZA GLOBAL TV
-https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",SONUS FM ALEMANHA
 http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",DANCE STAR TV
-https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",TOP TV BRASIL
 https://5d23bdca513db.streamlock.net/8006/8006/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",30A MUSIC USA
