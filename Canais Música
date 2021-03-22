@@ -293,43 +293,43 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u
 #EXTM3U
  
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",ACTIVA TV ESPANHA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]ACTIVA TV ESPANHA[/B][/COLOR][COLOR=coral][/COLOR]
 https://streamtv.mediasector.es/hls/activatv/1_2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",CADENA ELITE ESPANHA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]CADENA ELITE ESPANHA [/B][/COLOR][COLOR=coral][/COLOR]
 https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",XTRA HITS TV
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]XTRA HITS TV[/B][/COLOR][COLOR=coral][/COLOR] 
 https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",MOLA TV ESPANHA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]MOLA TV ESPANHA[/B][/COLOR][COLOR=coral][/COLOR] 
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",URBAN REVOLUTION ESPANHÃ
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]URBAN REVOLUTION ESPANHA[/B][/COLOR][COLOR=coral][/COLOR] 
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",RTL 102.5 ITÁLIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]RTL 102.5 ITÁLIA[/B][/COLOR][COLOR=coral][/COLOR] 
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",VIRGIN RÁDIO ITÁLIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]VIRGIN RÁDIO ITÁLIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://live2-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",RÁDIO 101 ITÁLIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]RÁDIO 101 ITÁLIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",RÁDIO MONTECARLO ITÁLIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]RÁDIO MONTECARLO ITÁLIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",KRONEHITS AUSTRIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]KRONEHITS AUSTRIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",Q MUSIC HOLANDA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]Q MUSIC HOLANDA[/B][/COLOR][COLOR=coral][/COLOR]
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",NRJ HITS BÉLGICA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]NRJ HITS BÉLGICA[/B][/COLOR][COLOR=coral][/COLOR]
 https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",4FUN TV POLÓNIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]4FUN TV POLÓNIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:0 tvg-id="RadioItalia.it" group-title="Musicales",RÁDIO ITÁLIA TV
+#EXTINF:0 tvg-id="RadioItalia.it" group-title="Musicales",[COLOR=coral][B]RÁDIO ITÁLIA TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",OCKO CHÉQUIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]OCKO CHÉQUIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",OCKO STAR CHÉQUIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]OCKO STAR CHÉQUIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",OCKO EXPRESS CHÉQUIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]OCKO EXPRESS CHÉQUIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",M2O ITÁLIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]M2O ITÁLIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",1 MUSIC HUNGRIA
