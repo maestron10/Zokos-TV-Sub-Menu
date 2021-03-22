@@ -11,12 +11,6 @@ Fontes de Informação:
  
 #EXTM3U
 
-#EXTINF:-1, RTP 1 SD
-http://37.9.62.158:25461/hls/5cd5741e0fe7d3761bc56a31534c4b42/52214_440.ts
-
-#EXTINF:-1, RTP 2 SD
-http://37.9.62.156:25461/hls/d034bb0f835712eeb183cfbce598b2b2/52217_444.ts
-
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC SD
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
@@ -29,10 +23,6 @@ http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",SIC NOTÍCIAS SD [Alternativa]
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 
-#EXTINF:-1, RTP NOTÍCIAS FHD
-http://37.9.62.158:25461/hls/72f992843238600047a9b0df0b391ced/57766_448.ts
-
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="PORTUGAL",Canal Macau
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Igreja Online" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="PORTUGAL",Igreja Online
