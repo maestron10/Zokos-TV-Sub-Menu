@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]ESTÁ LISTA FOI REVISTA A: 21/03/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]ESTÁ LISTA FOI REVISTA A: 23/03/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -16,9 +16,32 @@ https://iptvcat.com/portugal/
 *** FONTE 3 - https://github.com/thanh51/repository.thanh51/blob/master/TV.m3u
 
  
-##################################  BENFICA TV   ###########################################################################
+
+
+#EXTINF:-1,[COLOR red]LINKS DIVERSOS DE TESTE[/COLOR]
+https://000000
  
-#EXTM3U
+ #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",SPORT TV 1
+https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2
+https://sport.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv3.jpg",SPORT TV 3
+https://sport.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv4.jpg",SPORT TV 4
+https://sport.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv5.jpg",SPORT TV 5
+https://sport.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",BENFICA TV HD
+http://77.54.145.209:81/play/a032
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",ELEVEN SPORTS 1 TV 
+http://77.54.145.209:81/play/a00a 
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",ELEVEN SPORTS 2 TV 
+http://77.54.145.209:81/play/a03d 
+ 
+ 
+ 
+##################################  BENFICA TV   ###########################################################################
+ #EXTM3U
  
 #EXTINF:-1,[COLOR blue]BENFICA TV[/COLOR]
 https://000000
