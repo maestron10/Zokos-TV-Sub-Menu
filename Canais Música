@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 #######################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 12/03/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]Lista Revista: 26/03/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ###########################################################################
  
@@ -85,9 +85,6 @@ https://000000
 #EXTINF:-1,[COLOR=coral][B]EURODANCE 90 TV [/B][/COLOR][COLOR=coral][/COLOR]
 http://eurodance.catcast.tv/content/36987/index.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]CLUBLAND TV UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://mytv.fun:8080/Oskartest/t4h92jfvp/15769
-
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]DANCE STAR TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
  
@@ -164,16 +161,11 @@ https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3
  
  
 ######################################################################################
-#EXTINF:-1,[COLOR blue]GRUPO MTV[/COLOR]
+#EXTINF:-1,[COLOR blue]GRUPO MTV, VH1 E MCM[/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=coral][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=coral][/COLOR]
-http://0000000000
-
-
-######################################################################################
-#EXTINF:-1,[COLOR blue]GRUPO VH1 E MCM[/COLOR]
-https://000000
+#EXTINF:-1,[COLOR=coral][B]MTV HITS[/B][/COLOR][COLOR=coral][/COLOR]
+http://194.54.183.85:8000/play/a03g/index.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]VH1[/B][/COLOR][COLOR=coral][/COLOR]
 http://mytv.fun:8080/Oskartest/t4h92jfvp/683778
@@ -200,18 +192,10 @@ https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]TOP LATINO TV PERU[/B][/COLOR][COLOR=coral][/COLOR]
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]LATINO TV 1 SUIÇA[/B][/COLOR][COLOR=coral][/COLOR]
-https://5b38ce71f1f00.streamlock.net/8196/8196/playlist.m3u8
-
 ######################################################################################
 #EXTINF:-1,[COLOR blue]OUTROS GÉNEROS[/COLOR]
 https://000000
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0VFbRNB.png" group-title="",[COLOR=coral][B]BRITASIA TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0VFbRNB.png" group-title="",[COLOR=coral][B]BRITASIA TV[/B][/COLOR][COLOR=coral][/COLOR]
-plugin://plugin.video.dailymotion_com/?url=x6s18p8&mode=playLiveVideo
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="MUSIC",[COLOR=coral][B]RELOAD HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
@@ -249,9 +233,6 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:0,[COLOR=coral][B]OCKO EXPRES[/B][/COLOR][COLOR=coral][/COLOR]
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/chunk.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]MOLA TV SD[/B][/COLOR][COLOR=coral][/COLOR]
-http://ventdelnord.tv:8080/mola/directe.m3u8
- 
 #EXTINF:-1,[COLOR=coral][B]BARAZA CLASSIC[/B][/COLOR][COLOR=coral][/COLOR]
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
  
@@ -269,13 +250,7 @@ https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/chunklist_w296305449.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]RÁDIO TV BEATZ TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://edge9.vedge.infomaniak.com/livecast/rp_tv_1/playlist.m3u8
- 
-#EXTINF:0 tvg-id="ext" group-title="TV",[COLOR=coral][B]SEXY KPOP TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
- 
-#EXTINF:0 tvg-id="ext" group-title="TV",[COLOR=coral][B]FM ITALIA TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://stream2.xdevel.com/fmitalia/fmitalia/playlist.m3u8
- 
+  
 #EXTINF:0 tvg-id="ext" group-title="TV",[COLOR=coral][B]COLOSSAL TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
  
@@ -292,38 +267,37 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]ACTIVA TV ESPANHA[/B][/COLOR][COLOR=coral][/COLOR]
 https://streamtv.mediasector.es/hls/activatv/1_2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]CADENA ELITE ESPANHA [/B][/COLOR][COLOR=coral][/COLOR]
-https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]XTRA HITS TV[/B][/COLOR][COLOR=coral][/COLOR] 
 https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]MOLA TV ESPANHA[/B][/COLOR][COLOR=coral][/COLOR] 
-http://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]URBAN REVOLUTION ESPANHA[/B][/COLOR][COLOR=coral][/COLOR] 
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]RTL 102.5 ITÁLIA[/B][/COLOR][COLOR=coral][/COLOR] 
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]VIRGIN RÁDIO ITÁLIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://live2-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]RÁDIO 101 ITÁLIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]RÁDIO MONTECARLO ITÁLIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]Q MUSIC HOLANDA[/B][/COLOR][COLOR=coral][/COLOR]
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]4FUN TV POLÓNIA[/B][/COLOR][COLOR=coral][/COLOR]
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:0 tvg-id="RadioItalia.it" group-title="Musicales",[COLOR=coral][B]RÁDIO ITÁLIA TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 
-
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]1 MUSIC HUNGRIA[/B][/COLOR][COLOR=coral][/COLOR]
 http://1music.hu/1music.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]HIT MUSIC HUNGRIA[/B][/COLOR][COLOR=coral][/COLOR]
 http://hitmusic.hu/hitmusic.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]V2BEAT TV EN[/B][/COLOR][COLOR=coral][/COLOR]
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
@@ -331,59 +305,58 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]RÁDIO 21 ROCK´N POP[/B][/COLOR][COLOR=coral][/COLOR]
 https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",RÁDIO U TV 
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]RÁDIO U TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",FIRST MUSIC CHANNEL
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]FIRST MUSIC CHANNEL[/B][/COLOR][COLOR=coral][/COLOR]
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",FIRST MUSIC CHANNEL
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]FIRST MUSIC CHANNEL[/B][/COLOR][COLOR=coral][/COLOR]
 http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",OTTO FM ITÁLIA 
+
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]OTTO FM ITÁLIA[/B][/COLOR][COLOR=coral][/COLOR]
 http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",SONUS FM ALEMANHA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]SONUS FM ALEMANHA[/B][/COLOR][COLOR=coral][/COLOR]
 http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",TOP TV BRASIL
-https://5d23bdca513db.streamlock.net/8006/8006/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",30A MUSIC USA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]30A MUSIC USA[/B][/COLOR][COLOR=coral][/COLOR]
 https://30a-tv.com/music.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK TV Serbia
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]MUZZIK TV SERBIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK ROCK & ROLL SÉRBIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]MUZZIK ROCK & ROLL SÉRBIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK CAFE & CLUB SÉRBIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]MUZZIK CAFE & CLUB SÉRBIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK WORLDWIDE SÉRBIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]MUZZIK WORLDWIDE SÉRBIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK JEKA SÉRBIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]MUZZIK JEKA SÉRBIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK MEDITERRÂNIO SÉRBIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]MUZZIK MEDITERRÂNIO SÉRBIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK HIP HOP SÉRBIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]MUZZIK HIP HOP SÉRBIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK GEN Z SÉRBIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]MUZZIK GEN Z SÉRBIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK VISION SÉRBIA
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]MUZZIK VISION SÉRBIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",MUZZIK OKK Serbia
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]MUZZIK OKK SERBIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",LA KARIBENA PERU
-https://cu.onliv3.com/livevd/user1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",TOP LATINO TV PERU
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",ONDA DIGITAL PERU
-http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",LA MEGA MUNDIAL USA
-https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",TELEMUSICA COLOMBIA
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",MUSIC TOP ARGENTINA
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",LATINOS 1 TV
-https://5b38ce71f1f00.streamlock.net/8196/8196/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",DITTY TV USA EN
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]LA KARIBENA PERU[/B][/COLOR][COLOR=coral][/COLOR]
+https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]TOP LATINO TV PERU[/B][/COLOR][COLOR=coral][/COLOR]
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]ONDA DIGITAL PERU[/B][/COLOR][COLOR=coral][/COLOR]
+http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]LA MEGA MUNDIAL USA[/B][/COLOR][COLOR=coral][/COLOR]
+https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]TELEMUSICA COLOMBIA[/B][/COLOR][COLOR=coral][/COLOR]
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]MUSIC TOP ARGENTINA[/B][/COLOR][COLOR=coral][/COLOR]
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]DITTY TV USA EN[/B][/COLOR][COLOR=coral][/COLOR]
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",SPIRIT TV USA EN
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]SPIRIT TV USA EN[/B][/COLOR][COLOR=coral][/COLOR]
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
