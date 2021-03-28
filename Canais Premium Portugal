@@ -70,6 +70,15 @@ https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
 
+#EXTINF:-1,[COLOR=coral][B]SPORT TV 1 SD[/B][/COLOR][COLOR=coral][/COLOR]
+http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/7846
+
+#EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/3221
+
+#EXTINF:-1,[COLOR=coral][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=coral][/COLOR]
+http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/17744
+
 
 ##############################################################################################
 
