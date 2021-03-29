@@ -164,37 +164,8 @@ https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3
 #EXTINF:-1,[COLOR blue]GRUPO MTV, VH1 E MCM[/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=coral][B]MTV HITS[/B][/COLOR][COLOR=coral][/COLOR]
-http://194.54.183.85:8000/play/a03g/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="|USA| MTV 2" tvg-logo="" group-title="USA MUSIC",[COLOR=coral][B]MTV 2[/B][/COLOR][COLOR=coral][/COLOR]
-http://rv.therevenge.co:80/3836282837/8947968945/80990
-
-#EXTINF:-1 tvg-id="" tvg-name="|USA| MTV LIVE" tvg-logo="" group-title="USA MUSIC",[COLOR=coral][B]MTV LIVE[/B][/COLOR][COLOR=coral][/COLOR]
-http://rv.therevenge.co:80/3836282837/8947968945/80989
-
-#EXTINF:-1 tvg-id="" tvg-name="|NL|HEVC| MTV MUSIC24" tvg-logo="" group-title="NETHERLAND H265",[COLOR=coral][B]MTV MUSIC24[/B][/COLOR][COLOR=coral][/COLOR]
-http://rv.therevenge.co:80/3836282837/8947968945/79774
-
-#EXTINF:-1 tvg-id="" tvg-name="|NL|HEVC| VH1 CLASSIC" tvg-logo="" group-title="NETHERLAND H265",[COLOR=coral][B]VH1 CLASSIC[/B][/COLOR][COLOR=coral][/COLOR]
-http://rv.therevenge.co:80/3836282837/8947968945/79773
-
-#EXTINF:-1,[COLOR=coral][B]VH1[/B][/COLOR][COLOR=coral][/COLOR]
-http://mytv.fun:8080/Oskartest/t4h92jfvp/683778
- 
-#EXTINF:-1,[COLOR=coral][B]VH1[/B][/COLOR][COLOR=coral][/COLOR]
-http://95.214.104.25:8000/play/a03n
- 
-#EXTINF:-1,[COLOR=coral][B]VH1 CLASSIC[/B][/COLOR][COLOR=coral][/COLOR]
-http://95.214.104.25:8000/play/a06q
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="|USA| MTV HD" tvg-logo="" group-title="USA MUSIC",[COLOR=coral][B]MTV HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://rv.therevenge.co:80/3836282837/8947968945/80988
-
-#EXTINF:-1 tvg-id="" tvg-name="|USA| VH1 HD" tvg-logo="" group-title="USA MUSIC",[COLOR=coral][B]VH1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://rv.therevenge.co:80/3836282837/8947968945/80987
+#EXTINF:-1,NÃO DISPONÍVEL
+https://00000000
   
 ######################################################################################
 #EXTINF:-1,[COLOR blue]MÚSICA LATINA[/COLOR]
