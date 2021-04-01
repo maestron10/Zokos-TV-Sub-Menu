@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]ESTÁ LISTA FOI REVISTA A: 28/03/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]ESTÁ LISTA FOI REVISTA A: 01/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -102,11 +102,23 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
 https://000000
 
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://85.203.33.88/LevPoGw984/DB38UJ86/23325
+
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/23325
 
 #EXTINF:-1,ELEVEN SPORTS 2 FHD
 http://85.203.33.88/LevPoGw984/DB38UJ86/23320
 
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/23320
 
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://85.203.33.88/LevPoGw984/DB38UJ86/23320
+
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://85.203.33.88/LevPoGw984/DB38UJ86/23321
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
 #EXTM3U
