@@ -23,11 +23,6 @@ https://iptvcat.com/portugal/
 #EXTINF:-1,[COLOR blue]BENFICA TV[/COLOR]
 https://000000
 
-#EXTINF:-1,BENFICA TV HD
-http://85.203.33.22/B1IYW1eVzOc9422/3lSumD765/3308
-
-#EXTINF:-1,BENFICA TV FHD
-http://85.203.33.22/B1IYW1eVzOc9422/3lSumD765/5541
 
 #EXTINF:-1,BENFICA TV FHD
 http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/2868
@@ -58,20 +53,11 @@ https://sport.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,[COLOR yellow]LINKS SPORT TV 1[/COLOR]
 https://000000
  
-#EXTINF:-1,[COLOR=coral][B]SPORT TV 1 SD[/B][/COLOR][COLOR=coral][/COLOR]
-http://77.54.145.209:81/play/a001
-
-#EXTINF:-1,[COLOR=coral][B]SPORT TV 1 SD[/B][/COLOR][COLOR=coral][/COLOR]
-http://77.54.145.209:81/play/a02v
-
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Portuge Sports",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
-
-#EXTINF:-1,[COLOR=coral][B]SPORT TV 1 SD[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/7846
 
 #EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/3221
@@ -85,26 +71,17 @@ http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/17744
 #EXTINF:-1,[COLOR yellow]OUTROS LINKS SPORT TV[/COLOR]
 https://000000
 
-#EXTINF:-1,SPORT TV 2 SD
-http://77.54.145.209:81/play/a02j
-
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="Portuge Sports",SPORT TV 2 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 
 #EXTINF:-1,SPORT TV 3 (720P)
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
 
-#EXTINF:-1,SPORT TV 3 SD
-http://77.54.145.209:81/play/a02n
-
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg" group-title="Portuge Sports",SPORT TV 3 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 
 #EXTINF:-1,SPORT TV 4 (720P)
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8?zerosix.m3u8
-
-#EXTINF:-1,SPORT TV 4 SD
-http://77.54.145.209:81/play/a02o
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg" group-title="Portuge Sports",SPORT TV 4 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
@@ -124,14 +101,10 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
 https://000000
 
-#EXTINF:-1,ELEVEN SPORTS 1 HD 
-http://77.54.145.209:81/play/a00a
 
 #EXTINF:-1,ELEVEN SPORTS 2 FHD
 http://85.203.33.88/LevPoGw984/DB38UJ86/23320
 
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://77.54.145.209:81/play/a03d
 
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
@@ -145,9 +118,6 @@ http://rv.therevenge.co:80/3836282837/8947968945/81802
 
 #EXTINF:-1,TVCINE TOP
 http://85.203.33.88/LevPoGw984/DB38UJ86/15796
-
-#EXTINF:-1,TVCINE EDITION
-http://85.203.33.88/LevPoGw984/DB38UJ86/15797
 
 #EXTINF:-1,TVCINE EDITION
 http://85.203.33.88/LevPoGw984/DB38UJ86/5546
@@ -173,8 +143,7 @@ https://000000
 #EXTINF:-1,VENUS XXX SD
 http://45.5.8.33:8000/play/a03c
 
-#EXTINF:-1,VIVID RED HD
-http://84.22.67.163:12000/play/a004
+
 
 #EXTINF:-1,XXX_Hustler TV HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/282
@@ -186,18 +155,12 @@ http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/284
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/285
 #EXTINF:-1,xxx_BLUE HUSTLER
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/286
-#EXTINF:-1,XXX_PENTHOUSE Gold  HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/288
+
 #EXTINF:-1,XXX_ALBA XXX 1
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/289
 #EXTINF:-1,XXX_PlayBoy HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/290
-#EXTINF:-1,XXX_Scoreland 1 FHD (18 )
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/291
-#EXTINF:-1,XXX_BLUE HUSTLER TV
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/292
-#EXTINF:-1,XXX_Dorcel XXX HD (18 )
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/294
+
 #EXTINF:-1,XXX_Brazzers (Local)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/295
 #EXTINF:-1,XXX_ FILMAX Adult 1 HD
@@ -234,6 +197,7 @@ http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/313
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/314
 #EXTINF:-1,XXX_ Erotica 9 HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/315
+
 #EXTINF:-1,XXX_ XXL 1 HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/316
 #EXTINF:-1,XXX_XXL 2 HD
@@ -244,14 +208,12 @@ http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/318
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/319
 #EXTINF:-1,XXX_Blacked HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/320
-#EXTINF:-1,XXX_Scoreland 3 FHD (18 )
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/321
+
 #EXTINF:-1,XXX_PORN TV HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/322
 #EXTINF:-1,XXX_FAKE TAXI FHD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/323
-#EXTINF:-1,XXX_Scoreland 2 FHD (18 )
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/324
+
 #EXTINF:-1,XXX_czech-massage HD (Local)
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1012
 #EXTINF:-1,XXX_FEMALE FAKE TAXIi FHD (18 )
