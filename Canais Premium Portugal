@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]ESTÁ LISTA FOI REVISTA A: 01/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]ESTÁ LISTA FOI REVISTA A: 28/03/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -14,6 +14,7 @@ https://iptvcat.com/portugal/
 *** FONTE 1 - https://pastebin.com/jzmG9tec
 *** FONTE 2 - https://github.com/saeedygujjar/iptv-sports/blob/main/iptvSportsList.m3u
 *** FONTE 3 - https://github.com/thanh51/repository.thanh51/blob/master/TV.m3u
+*** FONTE 4 - ÁREA DESPORTO MAGELLAN - https://pastebin.com/raw/kdUL7Zap
 
  [COLOR=coral][B]  [/B][/COLOR][COLOR=coral][/COLOR]
  
@@ -23,8 +24,6 @@ https://iptvcat.com/portugal/
 #EXTINF:-1,[COLOR blue]BENFICA TV[/COLOR]
 https://000000
 
-#EXTINF:-1,BENFICA TV HD
-http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/3308
 
 #EXTINF:-1,BENFICA TV FHD
 http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/2868
@@ -55,9 +54,6 @@ https://sport.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,[COLOR yellow]LINKS SPORT TV 1[/COLOR]
 https://000000
  
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Portuge Sports",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://melhordomundo.in:8080/carlos/carlos/43
-
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Portuge Sports",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 
@@ -106,20 +102,9 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
 https://000000
 
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://85.203.33.88/LevPoGw984/DB38UJ86/23325
-
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/23325
 
 #EXTINF:-1,ELEVEN SPORTS 2 FHD
 http://85.203.33.88/LevPoGw984/DB38UJ86/23320
-
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/23320
-
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://85.203.33.88/LevPoGw984/DB38UJ86/23321
 
 
  
