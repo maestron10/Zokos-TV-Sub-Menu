@@ -4,7 +4,7 @@ http://0.0.0.0:0000
 #######################################################################################################################################
  
  
-#EXTINF:-1,[COLOR=yellow][B]Lista Atualizada: 20/12/2020 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 02/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
  
 ##############################################################################################################
@@ -42,14 +42,7 @@ http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=coral][B]VISIT X TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]PLAYBOY TV[/B][/COLOR][COLOR=coral][/COLOR]
-http://91.237.126.50:9001/udp/239.10.12.69:1234?token=test
- 
-#EXTINF:-1,[COLOR=coral][B]BLUE HUSTLER[/B][/COLOR][COLOR=coral][/COLOR]
-http://91.237.126.50:9001/udp/239.10.12.83:1234?token=test
- 
-#EXTINF:0 tvg-id="ext" group-title="XXX",ANAL
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=coral][B]AST TV 1[/B][/COLOR][COLOR=coral][/COLOR]
 http://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=coral][B]AST TV 1[/B][/COLOR][COLOR=coral][/COLOR]
@@ -99,7 +92,5 @@ http://live.redtraffic.xyz/cuckold.m3u8
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:0 tvg-id="ext" group-title="XXX",REDTRAFFIC 16
 http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:0 tvg-id="SuperOne.ero" group-title="XXX",SUPER ONE HD
-http://188.35.9.5:10007/stolen/246r/parasite.install
- 
+
  
