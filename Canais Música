@@ -25,11 +25,8 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]POWERHD[/B][/COLOR][COLOR=coral][/COLOR]
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits (FR)" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="FRANCE;MUSIK",[COLOR=coral][B]NRJ HITS[/B][/COLOR][COLOR=coral][/COLOR]
-https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
-
 #EXTINF:-1,[COLOR=coral][B]NRJ HITS[/B][/COLOR][COLOR=coral][/COLOR]
-https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/chunklist_w1755996922_b3817472.m3u8
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/index.m3u8
 
 #EXTINF:0,[COLOR=coral][B]1MUSIC TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
@@ -73,8 +70,15 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http:
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]ON TV PORTUGAL[/B][/COLOR][COLOR=coral][/COLOR]
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]DELUXE MUSIC HD DE[/B][/COLOR][COLOR=coral][/COLOR]
-http://mytv.fun:8080/Oskartest/t4h92jfvp/6255
+#EXTINF:-1,[COLOR=coral][B]NUMBER 1 TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://stream-06.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDG_xwrmo7fx8pPYg-6ESWf8)/dm/3/x67c77j/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
+
+#EXTINF:-1,[COLOR=coral][B]HITV[/B][/COLOR][COLOR=coral][/COLOR]
+https://rosshow.gcdn.co/streams/1410_287/1080n/index.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]MIX TV BR[/B][/COLOR][COLOR=coral][/COLOR]
+https://srv5.zcast.com.br/canalmix/canalmix/chunklist_w675939785.m3u8
+
 
  
 ###########################################################################################
