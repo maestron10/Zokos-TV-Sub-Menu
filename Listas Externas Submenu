@@ -101,28 +101,5 @@
 <info></info>
 </channel>
 </channels
-
- 
-</channel>
-<channel>
-<name>[COLOR=yellow][B]FREE2VIEW STREAMS TV[/B][/COLOR][COLOR=yellow][/COLOR]</name>
-<thumbnail>url DA IMAGEM</thumbnail>
-<externallink>https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Remote.m3u</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channels
- 
- 
- </channel>
-<channel>
-<name>[COLOR=yellow][B]UK RADIOS[/B][/COLOR][COLOR=yellow][/COLOR]</name>
-<thumbnail>url DA IMAGEM</thumbnail>
-<externallink>http://fantazyrepo.uk/addonimages/fido.addon/radio/ukradio.xml</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channels
- 
  
 
