@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layoutype>list</layoutype>
+ 
+ 
+<channels>
+<channel>
+<name>[COLOR yellow]|||||[/COLOR][COLOR deeppink]|||||[/COLOR][COLOR orangered]|||||[/COLOR] [COLOR white] CANAIS DE TV ZOKOS - LISTAS DIVERSAS[/COLOR] [COLOR orangered]||||||[/COLOR][COLOR deeppink]||||||[/COLOR][COLOR yellow]||||||[/COLOR]</name>
+<thumbnail>https://ia601402.us.archive.org/5/items/canais-tv-sub-menu/Canais%20TV%20Sub-Menu.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info>
+ 
+<channels>
+<channel>
+<name>[COLOR=gold][B]Canais de Música 1[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601403.us.archive.org/26/items/canais-musica/Canais%20M%C3%BAsica.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20M%C3%BAsica</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+ 
+ 
+<channels>
+<channel>
+<name>[COLOR=gold][B]Canais de Música 2[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia801807.us.archive.org/15/items/musica-lista-externa/M%C3%BAsica%20-%20Lista%20Externa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Free-IPTV/Countries/master/YZ001_MUSIC.m3u</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+ 
+ 
+ 
+ 
+<channels>
+<channel>
+<name>[COLOR=gold][B]TV e Rádio Música[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601403.us.archive.org/26/items/canais-musica/Canais%20M%C3%BAsica.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/music.m3u</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+ 
+ 
+<channels>
+<channel>
+<name>[COLOR=gold][B]Canais Premium PT[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601407.us.archive.org/16/items/premium-desporto/Premium%20Desporto.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20Premium%20Portugal</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+ 
+ 
+<channels>
+<channel>
+<name>[COLOR=gold][B]Desporto Mundial 1[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601504.us.archive.org/29/items/desporto-mundial/Desporto%20Mundial.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/c0P6cV3A</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+ 
+ 
+<channels>
+<channel>
+<name>[COLOR=gold][B]Canais TV Portugal[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601403.us.archive.org/35/items/canais-portugal/Canais%20Portugal.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20Portugal</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+ 
+ 
+<channels>
+<channel>
+<name>[COLOR=gold][B]Canais TV Diversos[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601504.us.archive.org/16/items/canais-tv-diversos/Canais%20TV%20Diversos.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/f7qRrkb6</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+ 
+ 
+<channels>
+<channel>
+<name>[COLOR=gold][B]Canais XXX Adultos[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20XXX%20Adultos</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+ 
+<channels>
+<channel>
+<name>[COLOR=gold][B]Canais TV Mundiais[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia801703.us.archive.org/2/items/paises_20201209/paises.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/M51FaCem</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+ 
+ 
+<channels>
+<channel>
+<name>[COLOR=gold][B]Streaming Grátis[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia801702.us.archive.org/26/items/streaming-gratis/Streaming%20Gr%C3%A1tis.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/iNcLbSLq</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+ 
