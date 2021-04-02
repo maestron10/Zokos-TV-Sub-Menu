@@ -171,18 +171,20 @@ https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3
 #EXTINF:-1,[COLOR blue]GRUPO MTV, VH1 E MCM[/COLOR]
 https://000000
 
-
 #EXTINF:-1,[COLOR=coral][B]MTV BIGGEST POP[/B][/COLOR][COLOR=coral][/COLOR]
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]MTV PT[/B][/COLOR][COLOR=coral][/COLOR]
-http://85.203.33.88/LevPoGw984/DB38UJ86/9478
+#EXTINF:-1,[COLOR=coral][B]MTV HITS[/B][/COLOR][COLOR=coral][/COLOR]
+http://85.14.32.15:8800/udp/239.100.10.65:5000
 
-#EXTINF:-1,[COLOR=coral][B]MTV 80´S[/B][/COLOR][COLOR=coral][/COLOR]
-http://85.203.33.88/LevPoGw984/DB38UJ86/9475
+#EXTINF:-1,[COLOR=coral][B]MTV 90´S[/B][/COLOR][COLOR=coral][/COLOR]
+http://85.14.32.15:8800/udp/239.100.10.66:5000
 
+#EXTINF:-1,[COLOR=coral][B]MTV[/B][/COLOR][COLOR=coral][/COLOR]
+http://85.14.32.15:8800/udp/239.100.10.67:5000
 
-
+#EXTINF:-1,[COLOR=coral][B]VH1[/B][/COLOR][COLOR=coral][/COLOR]
+http://85.14.32.15:8800/udp/239.100.10.105:5000
 
   
 ######################################################################################
