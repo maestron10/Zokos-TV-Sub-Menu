@@ -77,6 +77,8 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http:
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]ON TV PORTUGAL[/B][/COLOR][COLOR=coral][/COLOR]
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 
+#EXTINF:-1,[COLOR=coral][B]MULTISHOW HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://187.32.214.221:8003/play/a021/index.m3u8
 
 
  
