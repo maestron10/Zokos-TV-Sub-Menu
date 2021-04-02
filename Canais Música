@@ -16,6 +16,13 @@ Fonte de Informação - https://github.com/Free-IPTV/Countries/blob/master/YZ001
 https://000000
 
 
+
+#EXTINF:-422,[COLOR=coral][B]ZAPPING MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+https://zmlive.zappingtv.com/zm_free/zm.smil/chunklist_b1828000_sles.m3u8
+
+#EXTINF:-418,[COLOR=coral][B]ON CLUBBING TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e551-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=70bc0c2a-93a5-4713-b658-cad49ec55f38&userId=&serverSideAds=true
+
 #EXTINF:-1,[COLOR=coral][B]BOX HITS SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxTV-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
