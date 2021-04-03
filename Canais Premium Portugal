@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]ESTÁ LISTA FOI REVISTA A: 01/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]ESTÁ LISTA FOI REVISTA A: 03/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -31,11 +31,21 @@ http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfd
 #EXTINF:-1,BENFICA TV HD
 http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/2670
 
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 1" tvg-logo="http://picon-platinium.ddns.net/piconscesar/btv.png" group-title="PORTUGAL",BTV 1
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052961
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 1 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/btv_hd.png" group-title="PORTUGAL",BTV 1 HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052960
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 1 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/btv_hd.png" group-title="PORTUGAL",BTV 1 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052959
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052999
+
 ######################################################################################################################
 #EXTINF:-1,[COLOR red]LINKS DIVERSOS DE TESTE[/COLOR]
 https://000000
  
- #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",[COLOR=coral][B]SPORT TV 2 SD[/B][/COLOR][COLOR=coral][/COLOR]
 https://sport.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
@@ -66,17 +76,33 @@ http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/17744
 #EXTINF:-1,SPORT TV 1 SD
 http://163.172.59.251:8080/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/211?token=GUYOVUQJFVtHVAMPAQRTVFYGUVQOBFFWWlNYVgUDAlgBXQAGVFAHB1xHHRpAQEVTVF86WVxADgEJBk1HRhUESz0NAhYNQwNRR0kTTFpZUhQPA1MBD1YABw0GVUkRFghdQF5EBgNTBlRHSRNdS0BSRFtTCW9cB0JaW1JDX10TDVVORglaaAVSDAQLVRoJFgcUGRAMQ0hADhFoY0EmXAsUVwsHB1dYBERBNktwFhEYFVRcRhdRTAcWCRoEVlUDRE0bAQsTWkMTTkNfR2FsERgVU01GAF5LC1tdGg1DEUBETRsLFzlGUhJDEwAEXF1BFg0UBBBJElUDTGxbWA8LVgUVUA0KFRYNQwFRR0kTVVxaXkJaQDpAUQYWCRoGV1QDUUNE
 
+#EXTINF:-1,SPORT TV 1 SD
+http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/7846
+
+#EXTINF:-1,SPORT TV 1 SD
+http://diretogo.com:80/daniel21/21daniel/10052993
+
+#EXTINF:-1,SPORT TV 1 HD
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1,SPORT TV 1 HD
+http://diretogo.com:80/daniel21/21daniel/10052992
+
 #EXTINF:-1,SPORT TV 1 FHD
 http://163.172.213.29:8080/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/2863?token=GUYOVUQJFVtHBFRdBVYDVVMDB1ULAQMECQJSAQNVVA9XVVBWVgABV1NHHRpAQEVTVF86WVxADgEAAVJJERMSXBA7D1AVWxVVVUcdGkddWlMXCFQGCVUABwwCV1QfRBFQBkZcFgZSAlZQRx0aVkxDU0dcBFxnBlFFUVQERwkIFFUOSERbWT5TBAgEX1wRDhUGFx5HWUsSFgkaZzVFcAkMTAwNBVVUDlISRTYfeR0WGxRXWxFCWRZREQIVV1ECUUMVQAcJQVkVRRhHXxNoZxYbFFBKEVVWEV1cVhVbR0cVQxVADRVrRQREFRcAUFVWRhUMFwNHHBoPVUtnVA4LXQMCTQsLCEcVWxVXVUcdGl5bWV9BXRdvSAtQEQIVUFQBUFIbHw==
 
-#EXTINF:-1,SPORT TV 1 HD
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,SPORT TV 1 FHD
+http://diretogo.com:80/daniel21/21daniel/10052991
 
-#EXTINF:-1,SPORT TV 1 HD
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv1.png" group-title="PORTUGAL",SPORT TV 1
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052993
 
-#EXTINF:-1,SPORT TV 1 SD
-http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/7846
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv1_hd.png" group-title="PORTUGAL",SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052992
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv1_hd.png" group-title="PORTUGAL",SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052991
+
 
 
 
@@ -91,6 +117,14 @@ https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1,SPORT TV 2 FHD
 http://163.172.59.251:8080/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/212?token=GUYOVUQJFVtHBAQNUQRWBFZQB1MLWwFXAAAHVgQEB11QVV8AVFNWAwBHHRpAQEVTVF86WVxADgEJBU1HRhUESz0NAhYNQwNRR0kTTFpZUhQPA1MBD1YABw4HWEkRFghdQF5EBQ5XAFRHSRNdS0BSRFtTCW9cB0JaW1JDX10TDVVORglaaAVSDAQLVRoJFgcUGRAMQ0hADhFoY0EmXAsUVwsHB1dYBERBNktwFhEYFVRcRhdRTAcWCRoDVlwCRE0bAQsTWkMTTkNfR2FsERgVU01GAF5LC1tdGg1DEUBETRsLFzlGUhJDEwAEXF1BFg0UBBBJElUDTGxbWA8LVgUVUA0KFRYNQwFRR0kTVVxaXkJaQDpAUQYWCRoGV1QCVkNE
 
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv2.png" group-title="PORTUGAL",SPORT TV 2
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052990
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv2_hd.png" group-title="PORTUGAL",SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052989
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv2_hd.png" group-title="PORTUGAL",SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052988
 
 #EXTINF:-1,SPORT TV 3 (720P)
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
@@ -98,17 +132,39 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg" group-title="Portuge Sports",SPORT TV 3 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv3.png" group-title="PORTUGAL",SPORT TV 3
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052987
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv3_hd.png" group-title="PORTUGAL",SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052986
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv3_hd.png" group-title="PORTUGAL",SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052985
+
 #EXTINF:-1,SPORT TV 4 (720P)
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8?zerosix.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg" group-title="Portuge Sports",SPORT TV 4 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv4.png" group-title="PORTUGAL",SPORT TV 4
+plugin://plugin.video.f4mTester/?name=streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052984
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv4.png" group-title="PORTUGAL",SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052983
+
 #EXTINF:-1,SPORT TV5 SD
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8?zerosix.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="Portuge Sports",SPORT TV 5 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SPORTV%205.png" group-title="PORTUGAL",SPORT TV 5
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052982
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SPORTV%205%20HD.png" group-title="PORTUGAL",SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052981
+
 
 
  
@@ -136,6 +192,33 @@ http://85.203.33.88/LevPoGw984/DB38UJ86/23320
 
 #EXTINF:-1,ELEVEN SPORTS 3 FHD
 http://85.203.33.88/LevPoGw984/DB38UJ86/23321
+
+#EXTINF:-1 tvg-ID="Eleven Sports 1" tvg-name="ELEVEN SPORTS 1 LOW BITRATE" tvg-logo="http://myfilestvhd.dynu.net/png/ELEVEN%20SPORTS%201%20HD.png" group-title="LOWBITRATE (Net Lentas)",ELEVEN SPORTS 1 LOW BITRATE
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://glorioso.quicksytes.com:8080/live/laranjeiro/laranjeiro/18826.m3u8
+#EXTINF:-1 tvg-ID="Eleven Sports 2" tvg-name="ELEVEN SPORTS 2 LOW BITRATE" tvg-logo="http://myfilestvhd.dynu.net/png/ELEVEN%20SPORTS%202%20HD.png" group-title="LOWBITRATE (Net Lentas)",ELEVEN SPORTS 2 LOW BITRATE
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://glorioso.quicksytes.com:8080/live/laranjeiro/laranjeiro/18824.m3u8
+#EXTINF:-1 tvg-ID="MACAU TV" tvg-name="ELEVEN SPORTS 3 LOW BITRATE" tvg-logo="http://myfilestvhd.dynu.net/png/ELEVEN%20SPORTS%203%20FULLHD.png" group-title="LOWBITRATE (Net Lentas)",ELEVEN SPORTS 3 LOW BITRATE
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://glorioso.quicksytes.com:8080/live/laranjeiro/laranjeiro/21329.m3u8
+#EXTINF:-1 tvg-ID="Eleven Sports 4" tvg-name="ELEVEN SPORTS 4 LOW BITRATE" tvg-logo="http://myfilestvhd.dynu.net/png/ELEVEN%20SPORTS%204%20FULLHD.png" group-title="LOWBITRATE (Net Lentas)",ELEVEN SPORTS 4 LOW BITRATE
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://glorioso.quicksytes.com:8080/live/laranjeiro/laranjeiro/21330.m3u8
+#EXTINF:-1 tvg-ID="Eleven Sports 5" tvg-name="ELEVEN SPORTS 5 LOW BITRATE" tvg-logo="http://myfilestvhd.dynu.net/png/ELEVEN%20SPORTS%205%20FULLHD.png" group-title="LOWBITRATE (Net Lentas)",ELEVEN SPORTS 5 LOW BITRATE
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://glorioso.quicksytes.com:8080/live/laranjeiro/laranjeiro/21331.m3u8
+#EXTINF:-1 tvg-ID="Eleven Sports 6" tvg-name="ELEVEN SPORTS 6 LOW BITRATE" tvg-logo="http://myfilestvhd.dynu.net/png/ELEVEN%20SPORTS%206%20FULLHD.png" group-title="LOWBITRATE (Net Lentas)",ELEVEN SPORTS 6 LOW BITRATE
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://glorioso.quicksytes.com:8080/live/laranjeiro/laranjeiro/21332.m3u8
+
+#EXTINF:-1,Eleven Sports 1 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/abcd/123456/1081
+#EXTINF:-1,Eleven Sports 2 FHD 
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/abcd/123456/1082
+#EXTINF:-1,Eleven Sports 3 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/abcd/123456/1083
+#EXTINF:-1,Eleven Sports 4 HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/abcd/123456/1084
+#EXTINF:-1,Eleven Sports 5 FHD 
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/abcd/123456/1085
+#EXTINF:-1,Eleven Sports 6 HD 
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/abcd/123456/1086
+
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
 #EXTM3U
@@ -146,18 +229,51 @@ https://000000
 #EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| NOS STUDIO HD" tvg-logo="" group-title="PORTUGAL H265",NOS STUDIO HD
 http://rv.therevenge.co:80/3836282837/8947968945/81802
 
-#EXTINF:-1,TVCINE TOP
-http://85.203.33.88/LevPoGw984/DB38UJ86/15796
+#EXTINF:-1,NOS STUDIO HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053033
 
-#EXTINF:-1,TVCINE EDITION
-http://85.203.33.88/LevPoGw984/DB38UJ86/5546
+#EXTINF:-1,NOS STUDIO FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053032
 
-#EXTINF:-1,TVCINE ACTION HD
-http://85.203.33.88/LevPoGw984/DB38UJ86/15799
+#EXTINF:-1,TV CINE TOP
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053046
 
-#EXTINF:-1,TVCINE ACTION FHD
-http://85.203.33.88/LevPoGw984/DB38UJ86/5548
+#EXTINF:-1,TV CINE TOP HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053045
 
-#EXTINF:-1,TVCINE EMOTION FHD
-http://85.203.33.88/LevPoGw984/DB38UJ86/15798
+#EXTINF:-1,TV CINE TOP FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053044
+
+#EXTINF:-1,TV CINE EDITION
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053043
+
+#EXTINF:-1,TV CINE EDITION HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053042
+
+#EXTINF:-1,TV CINE EDITION FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053041
+
+#EXTINF:-1,TV CINE EMOTION
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053040
+
+#EXTINF:-1,TV CINE EMOTION HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053039
+
+#EXTINF:-1,TV CINE EMOTION FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053038
+
+#EXTINF:-1,TV CINE ACTION
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053037
+
+#EXTINF:-1,TV CINE ACTION HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053036
+
+#EXTINF:-1,TV CINE ACTION FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053035
+
+#EXTINF:-1,NOS STUDIOS
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053034
+
+
+
 
