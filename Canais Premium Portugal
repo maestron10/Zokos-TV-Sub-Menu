@@ -271,8 +271,6 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://ak
 #EXTINF:-1,TV CINE ACTION FHD
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053035
 
-#EXTINF:-1,NOS STUDIOS
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053034
 
 
 
