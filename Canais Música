@@ -79,6 +79,9 @@ https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kerrang (UK)" tvg-logo="https://i.imgur.com/z8T3Q48.png" group-title="MUSIC",[COLOR=coral][B]KERRANG UK[/B][/COLOR][COLOR=coral][/COLOR]
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tqU3k2I.png" group-title="",[COLOR=coral][B]100% VIVA[/B][/COLOR][COLOR=coral][/COLOR]
+https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
  
 ###########################################################################################
  
@@ -284,10 +287,6 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u
   
 #EXTM3U
  
-
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]ACTIVA TV ESPANHA[/B][/COLOR][COLOR=coral][/COLOR]
-https://streamtv.mediasector.es/hls/activatv/1_2/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]XTRA HITS TV[/B][/COLOR][COLOR=coral][/COLOR] 
 https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/index.m3u8
 
