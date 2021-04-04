@@ -25,9 +25,6 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]POWERHD[/B][/COLOR][COLOR=coral][/COLOR]
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]TV VIRGIN RÁDIO[/B][/COLOR][COLOR=coral][/COLOR]
-https://live3-radio-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(ew)/1605079119475item-04item_Segment-3184196280878146.m4v
-
 #EXTINF:0,[COLOR=coral][B]1MUSIC TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
  
@@ -78,7 +75,6 @@ https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Kerrang (UK)" tvg-logo="https://i.imgur.com/z8T3Q48.png" group-title="MUSIC",[COLOR=coral][B]KERRANG UK[/B][/COLOR][COLOR=coral][/COLOR]
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tqU3k2I.png" group-title="",[COLOR=coral][B]100% VIVA[/B][/COLOR][COLOR=coral][/COLOR]
 https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
