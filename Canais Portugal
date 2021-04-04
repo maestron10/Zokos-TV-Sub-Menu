@@ -41,8 +41,6 @@ plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxt
 plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/116.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="http://galaxtv.art:80/images/82f5c1c9be89c68344d5c6bcf404c804.jpg" group-title="Portugal",SIC FHD
 plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIC - OPTO" tvg-logo="" group-title="Portugal",[B][COLOR lime][COLOR yellow]ALADO [/B] [/COLOR]   SIC - OPTO
-plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/19473.m3u8
 #EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="http://galaxtv.art:80/images/1ccfa497eed9b6fee8947b68609861a0.png" group-title="Portugal",TVI
 plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/118.m3u8
 #EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI HD" tvg-logo="http://galaxtv.art:80/images/1ccfa497eed9b6fee8947b68609861a0.png" group-title="Portugal",TVI HD
