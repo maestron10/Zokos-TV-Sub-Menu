@@ -73,11 +73,15 @@ https://zmlive.zappingtv.com/zm_free/zm.smil/chunklist_b1828000_sles.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cadena Elite (ES)" tvg-logo="https://i.imgur.com/eGvnKf2.png" group-title="MUSIC",[COLOR=coral][B]CADENA ELITE[/B][/COLOR][COLOR=coral][/COLOR]
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Kerrang (UK)" tvg-logo="https://i.imgur.com/z8T3Q48.png" group-title="MUSIC",[COLOR=coral][B]KERRANG UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tqU3k2I.png" group-title="",[COLOR=coral][B]100% VIVA[/B][/COLOR][COLOR=coral][/COLOR]
 https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kerrang (UK)" tvg-logo="https://i.imgur.com/z8T3Q48.png" group-title="MUSIC",[COLOR=coral][B]KERRANG UK[/B][/COLOR][COLOR=coral][/COLOR]
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+
+#EXTINF:-1,[COLOR=coral][B]PURO ROCK TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/25
  
 ###########################################################################################
  
@@ -139,7 +143,20 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Tropical" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIC",[COLOR=coral][B]MIX 24/7 HITS - TROPICAL[/B][/COLOR][COLOR=coral][/COLOR]
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
 
-
+#EXTINF:-1,[COLOR=coral][B]MIX 24/7 HITS[/B][/COLOR][COLOR=coral][/COLOR]
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/1
+#EXTINF:-1,[COLOR=coral][B]MIX 24/7 HITS - TOP 100[/B][/COLOR][COLOR=coral][/COLOR]
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/2
+#EXTINF:-1,[COLOR=coral][B]MIX 24/7 HITS - TROPICAL[/B][/COLOR][COLOR=coral][/COLOR]
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/3
+#EXTINF:-1,[COLOR=coral][B]MIX 24/7 HITS - RETRO[/B][/COLOR][COLOR=coral][/COLOR]
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/4
+#EXTINF:-1,[COLOR=coral][B]MIX 24/7 HITS - POP[/B][/COLOR][COLOR=coral][/COLOR]
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/5
+#EXTINF:-1,[COLOR=coral][B]MIX 24/7 - VINTAGE[/B][/COLOR][COLOR=coral][/COLOR]
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/6
+#EXTINF:-1,[COLOR=coral][B]MIX 24/7 - CONCIERTOS LIVE[/B][/COLOR][COLOR=coral][/COLOR]
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/7
 
 
 ######################################################################################
