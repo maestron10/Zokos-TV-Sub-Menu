@@ -11,6 +11,58 @@ Fontes de Informação:
  
 #EXTM3U
 
+#EXTINF:-1,FOX COMEDY FHD
+http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/4810
+
+#EXTINF:-1,FOX COMEDY FHD
+http://mag.clientportal.link/VGRWXc29731/YkpdPq8695/20260
+
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="FOX COMEDY" tvg-logo="http://galaxtv.art:80/images/7e3e53b1f102aa7f9f315ae1e9c92abf.png" group-title="Portugal",FOX COMEDY
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/226.m3u8
+
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="FOX COMEDY HD" tvg-logo="http://galaxtv.art:80/images/7e3e53b1f102aa7f9f315ae1e9c92abf.png" group-title="Portugal",FOX COMEDY HD
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/227.m3u8
+
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="http://galaxtv.art:80/images/065faae9e5e3db4facfc04670ec26eed.jpg" group-title="Portugal",RTP 1
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/109.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 HD" tvg-logo="http://galaxtv.art:80/images/eb4c652e30905f6c8679e63dfd0da55e.jpg" group-title="Portugal",RTP 1 HD
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/110.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 FHD" tvg-logo="http://galaxtv.art:80/images/eb4c652e30905f6c8679e63dfd0da55e.jpg" group-title="Portugal",RTP 1 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/111.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2" tvg-logo="http://galaxtv.art:80/images/d5f72a699cdb4503e6ec0c5d38e06891.jpg" group-title="Portugal",RTP 2
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/112.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 HD" tvg-logo="http://galaxtv.art:80/images/d5f72a699cdb4503e6ec0c5d38e06891.jpg" group-title="Portugal",RTP 2 HD
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/113.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 FHD" tvg-logo="http://galaxtv.art:80/images/d5f72a699cdb4503e6ec0c5d38e06891.jpg" group-title="Portugal",RTP 2 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/114.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="http://galaxtv.art:80/images/82f5c1c9be89c68344d5c6bcf404c804.jpg" group-title="Portugal",SIC
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/115.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC HD" tvg-logo="http://galaxtv.art:80/images/82f5c1c9be89c68344d5c6bcf404c804.jpg" group-title="Portugal",SIC HD
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/116.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="http://galaxtv.art:80/images/82f5c1c9be89c68344d5c6bcf404c804.jpg" group-title="Portugal",SIC FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC - OPTO" tvg-logo="" group-title="Portugal",[B][COLOR lime][COLOR yellow]ALADO [/B] [/COLOR]   SIC - OPTO
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/19473.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="http://galaxtv.art:80/images/1ccfa497eed9b6fee8947b68609861a0.png" group-title="Portugal",TVI
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/118.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI HD" tvg-logo="http://galaxtv.art:80/images/1ccfa497eed9b6fee8947b68609861a0.png" group-title="Portugal",TVI HD
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/119.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI FHD" tvg-logo="http://galaxtv.art:80/images/1ccfa497eed9b6fee8947b68609861a0.png" group-title="Portugal",TVI FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/120.m3u8
+
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24" tvg-logo="http://galaxtv.art:80/images/308f622e81a570ac50d2eb6357b1b10c.jpg" group-title="Portugal",TVI 24
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/137.m3u8
+#EXTINF:-1 tvg-id="Tvi24.pt" tvg-name="TVI 24 FHD" tvg-logo="http://galaxtv.art:80/images/f49d5861c0b01322fe34f97e05574335.png" group-title="Portugal",TVI 24 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/22093.m3u8
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="http://galaxtv.art:80/images/de44a37544fc74d9f8a29d0c97b1d129.jpg" group-title="Portugal",CMTV
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/138.m3u8
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV HD" tvg-logo="http://galaxtv.art:80/images/de44a37544fc74d9f8a29d0c97b1d129.jpg" group-title="Portugal",CMTV HD
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/139.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP 3" tvg-logo="http://galaxtv.art:80/images/8ec1a710aa4177f020d177d6eebba0ad.png" group-title="Portugal",RTP 3
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/140.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP 3 FHD" tvg-logo="http://galaxtv.art:80/images/8ec1a710aa4177f020d177d6eebba0ad.png" group-title="Portugal",RTP 3 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://galaxtv.art:80/live/h/h/141.m3u8
+
 #EXTINF:-1,RTP INTERNACIONAL HD
 http://mags.vip:2086/live/Bernadette/12345/92055.ts
 
