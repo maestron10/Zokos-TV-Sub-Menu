@@ -59,8 +59,6 @@ https://sport.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,SPORT TV SD (IMAGEM FRACA E SEM SOM)
 https://edge4.xmediaget.com/hls-live/xmlive/_definst_/5232841/5232841.m3u8?refId=1
 
-#EXTINF:-1,SPORT TV SD (IMAGEM FRACA E SEM SOM)
-https://edge5.xmediaget.com/hls-live/xmlive/_definst_/5232841/5232841.m3u8?refId=1
  
 ##################################  GRUPO SPORT TV   ###########################################################################
  
@@ -79,12 +77,15 @@ https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
 #EXTINF:-1,[COLOR=coral][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/17744
 
-#EXTINF:-1,SPORT TV 1 HD
-http://rv.flysat.live:80/307200111632/307200111632/81652
-#EXTINF:-1,SPORT TV 1 HD NOS
-http://rv.flysat.live:80/307200111632/307200111632/81651
-#EXTINF:-1,SPORT TV 1
-http://rv.flysat.live:80/307200111632/307200111632/81650
+
+/////////////////////  FONTE: http://www.messitv.net/2020/05/sport-tv-1-hd.html  /////////
+
+#EXTINF:-1,SPORT TV
+https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=rSgon5izPB_aLiHRJ_frFQ&e=1617668926
+
+#EXTINF:-1,SPORT TV
+https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=lHZ2gKo_QCzwmhnHivJczg&e=1617669118
+
 
 ##############################################################################################
 
