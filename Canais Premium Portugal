@@ -142,59 +142,13 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://di
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
 https://000000
 
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://85.203.33.88/LevPoGw984/DB38UJ86/23325
-
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/23325
-
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://85.203.33.88/LevPoGw984/DB38UJ86/23320
-
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/23320
-
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://85.203.33.88/LevPoGw984/DB38UJ86/23320
-
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://85.203.33.88/LevPoGw984/DB38UJ86/23321
-
-#EXTINF:-1 tvg-ID="Eleven Sports 1" tvg-name="ELEVEN SPORTS 1 LOW BITRATE" tvg-logo="http://myfilestvhd.dynu.net/png/ELEVEN%20SPORTS%201%20HD.png" group-title="LOWBITRATE (Net Lentas)",ELEVEN SPORTS 1 LOW BITRATE
-plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://glorioso.quicksytes.com:8080/live/laranjeiro/laranjeiro/18826.m3u8
-#EXTINF:-1 tvg-ID="Eleven Sports 2" tvg-name="ELEVEN SPORTS 2 LOW BITRATE" tvg-logo="http://myfilestvhd.dynu.net/png/ELEVEN%20SPORTS%202%20HD.png" group-title="LOWBITRATE (Net Lentas)",ELEVEN SPORTS 2 LOW BITRATE
-plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://glorioso.quicksytes.com:8080/live/laranjeiro/laranjeiro/18824.m3u8
-#EXTINF:-1 tvg-ID="MACAU TV" tvg-name="ELEVEN SPORTS 3 LOW BITRATE" tvg-logo="http://myfilestvhd.dynu.net/png/ELEVEN%20SPORTS%203%20FULLHD.png" group-title="LOWBITRATE (Net Lentas)",ELEVEN SPORTS 3 LOW BITRATE
-plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://glorioso.quicksytes.com:8080/live/laranjeiro/laranjeiro/21329.m3u8
-#EXTINF:-1 tvg-ID="Eleven Sports 4" tvg-name="ELEVEN SPORTS 4 LOW BITRATE" tvg-logo="http://myfilestvhd.dynu.net/png/ELEVEN%20SPORTS%204%20FULLHD.png" group-title="LOWBITRATE (Net Lentas)",ELEVEN SPORTS 4 LOW BITRATE
-plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://glorioso.quicksytes.com:8080/live/laranjeiro/laranjeiro/21330.m3u8
-#EXTINF:-1 tvg-ID="Eleven Sports 5" tvg-name="ELEVEN SPORTS 5 LOW BITRATE" tvg-logo="http://myfilestvhd.dynu.net/png/ELEVEN%20SPORTS%205%20FULLHD.png" group-title="LOWBITRATE (Net Lentas)",ELEVEN SPORTS 5 LOW BITRATE
-plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://glorioso.quicksytes.com:8080/live/laranjeiro/laranjeiro/21331.m3u8
-#EXTINF:-1 tvg-ID="Eleven Sports 6" tvg-name="ELEVEN SPORTS 6 LOW BITRATE" tvg-logo="http://myfilestvhd.dynu.net/png/ELEVEN%20SPORTS%206%20FULLHD.png" group-title="LOWBITRATE (Net Lentas)",ELEVEN SPORTS 6 LOW BITRATE
-plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://glorioso.quicksytes.com:8080/live/laranjeiro/laranjeiro/21332.m3u8
-
-#EXTINF:-1,Eleven Sports 1 FHD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/abcd/123456/1081
-#EXTINF:-1,Eleven Sports 2 FHD 
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/abcd/123456/1082
-#EXTINF:-1,Eleven Sports 3 FHD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/abcd/123456/1083
-#EXTINF:-1,Eleven Sports 4 HD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/abcd/123456/1084
-#EXTINF:-1,Eleven Sports 5 FHD 
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/abcd/123456/1085
-#EXTINF:-1,Eleven Sports 6 HD 
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/abcd/123456/1086
-
+#EXTINF:-1,NÃO DISPONÍVEIS
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
 #EXTM3U
  
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM CINEMA[/COLOR]
 https://000000
-
-#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| NOS STUDIO HD" tvg-logo="" group-title="PORTUGAL H265",NOS STUDIO HD
-http://rv.therevenge.co:80/3836282837/8947968945/81802
 
 #EXTINF:-1,NOS STUDIO HD
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053033
@@ -211,9 +165,6 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://ak
 #EXTINF:-1,TV CINE TOP FHD
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053044
 
-#EXTINF:-1,TV CINE EDITION
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053043
-
 #EXTINF:-1,TV CINE EDITION HD
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053042
 
@@ -228,9 +179,6 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://ak
 
 #EXTINF:-1,TV CINE EMOTION FHD
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053038
-
-#EXTINF:-1,TV CINE ACTION
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053037
 
 #EXTINF:-1,TV CINE ACTION HD
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053036
