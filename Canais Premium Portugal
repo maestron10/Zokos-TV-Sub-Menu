@@ -12,9 +12,12 @@ https://iptvcat.com/portugal/
 
 ÚLTIMAS FONTES VÁLIDAS: 
 *** FONTE 1 - https://pastebin.com/jzmG9tec
-*** FONTE 3 - https://github.com/thanh51/repository.thanh51/blob/master/TV.m3u
-*** FONTE 4 - ÁREA DESPORTO MAGELLAN - https://pastebin.com/raw/kdUL7Zap
-*** FONTE 5 - https://m3u-premium.blogspot.com/2021/03/portugal-iptv-channels-28032021.html
+*** FONTE 2 - https://github.com/thanh51/repository.thanh51/blob/master/TV.m3u
+*** FONTE 3 - ÁREA DESPORTO MAGELLAN - https://pastebin.com/raw/kdUL7Zap
+
+LINKS DE CAPTURA DE CANAIS STREAMING LIVE
+*** FONTE 1 - https://m3u-premium.blogspot.com/2021/03/portugal-iptv-channels-28032021.html
+*** FONTE 2 - https://sportshub.fan
 
  [COLOR=coral][B]  [/B][/COLOR][COLOR=coral][/COLOR]
  
@@ -78,13 +81,16 @@ https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
 http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/17744
 
 
-/////////////////////  FONTE: http://www.messitv.net/2020/05/sport-tv-1-hd.html  /////////
+/////////////////////  FONTE: http://www.messitv.net/2020/05/sport-tv-1-hd.html E https://sportshub.fan  /////////
 
 #EXTINF:-1,SPORT TV HD
 https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=rSgon5izPB_aLiHRJ_frFQ&e=1617668926
 
 #EXTINF:-1,SPORT TV HD
 https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=lHZ2gKo_QCzwmhnHivJczg&e=1617669118
+
+#EXTINF:-1,BENFICA TV 
+http://87.120.36.57:8080/hls/streama134994/index.m3u8?cst=e6479fb18b996b7336bccc84cb041a4b
 
 
 ##############################################################################################
