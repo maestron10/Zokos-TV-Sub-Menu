@@ -12,9 +12,9 @@ https://iptvcat.com/portugal/
 
 ÚLTIMAS FONTES VÁLIDAS: 
 *** FONTE 1 - https://pastebin.com/jzmG9tec
-*** FONTE 2 - https://github.com/saeedygujjar/iptv-sports/blob/main/iptvSportsList.m3u
 *** FONTE 3 - https://github.com/thanh51/repository.thanh51/blob/master/TV.m3u
 *** FONTE 4 - ÁREA DESPORTO MAGELLAN - https://pastebin.com/raw/kdUL7Zap
+*** FONTE 5 - https://m3u-premium.blogspot.com/2021/03/portugal-iptv-channels-28032021.html
 
  [COLOR=coral][B]  [/B][/COLOR][COLOR=coral][/COLOR]
  
@@ -80,10 +80,10 @@ http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/17744
 
 /////////////////////  FONTE: http://www.messitv.net/2020/05/sport-tv-1-hd.html  /////////
 
-#EXTINF:-1,SPORT TV
+#EXTINF:-1,SPORT TV HD
 https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=rSgon5izPB_aLiHRJ_frFQ&e=1617668926
 
-#EXTINF:-1,SPORT TV
+#EXTINF:-1,SPORT TV HD
 https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=lHZ2gKo_QCzwmhnHivJczg&e=1617669118
 
 
