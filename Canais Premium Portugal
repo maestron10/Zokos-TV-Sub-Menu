@@ -57,16 +57,16 @@ http://www.messitv.net/2020/05/sport-tv-1-hd.html
 #EXTINF:-1,BENFICA TV 
 http://87.120.36.57:8080/hls/streama134994/index.m3u8?cst=e6479fb18b996b7336bccc84cb041a4b
 
-#EXTINF:-1,SPORT TV HD
+#EXTINF:-1,BENFICA TV 
+http://87.120.36.57:8080/hls/streama134994/index.m3u8?cst=e6479fb18b996b7336bccc84cb041a4b
+
+#EXTINF:-1,SPORT TV 1 HD
 https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=vbVstpRE3BcsX2Acw6SHjA&e=1617754367
 
-#EXTINF:-1,SPORT TV HD
-https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=vbVstpRE3BcsX2Acw6SHjA&e=1617754367
-
-#EXTINF:-1,SPORT TV HD
+#EXTINF:-1,SPORT TV 1 HD
 https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=rSgon5izPB_aLiHRJ_frFQ&e=1617668926
 
-#EXTINF:-1,SPORT TV HD
+#EXTINF:-1,SPORT TV 1 HD
 https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=lHZ2gKo_QCzwmhnHivJczg&e=1617669118
 
 #EXTINF:-1,ELEVEN SPORT 1 HD
