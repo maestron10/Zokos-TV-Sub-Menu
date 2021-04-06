@@ -104,20 +104,10 @@ https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1,SPORT TV 2 FHD
 http://163.172.59.251:8080/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/212?token=GUYOVUQJFVtHBAQNUQRWBFZQB1MLWwFXAAAHVgQEB11QVV8AVFNWAwBHHRpAQEVTVF86WVxADgEJBU1HRhUESz0NAhYNQwNRR0kTTFpZUhQPA1MBD1YABw4HWEkRFghdQF5EBQ5XAFRHSRNdS0BSRFtTCW9cB0JaW1JDX10TDVVORglaaAVSDAQLVRoJFgcUGRAMQ0hADhFoY0EmXAsUVwsHB1dYBERBNktwFhEYFVRcRhdRTAcWCRoDVlwCRE0bAQsTWkMTTkNfR2FsERgVU01GAF5LC1tdGg1DEUBETRsLFzlGUhJDEwAEXF1BFg0UBBBJElUDTGxbWA8LVgUVUA0KFRYNQwFRR0kTVVxaXkJaQDpAUQYWCRoGV1QCVkNE
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv2.png" group-title="PORTUGAL",SPORT TV 2
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052990
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv2_hd.png" group-title="PORTUGAL",SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052989
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv2_hd.png" group-title="PORTUGAL",SPORT TV 2 FHD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052988
-
-
-#EXTINF:-1,PT|HEVC| SPORT TV 2 HD
+#EXTINF:-1,SPORT TV 2 HD
 http://rv.flysat.live:80/307200111632/307200111632/81780
 
-#EXTINF:-1,PT|HEVC| SPORT TV 3 HD
+#EXTINF:-1,SPORT TV 3 HD
 http://rv.flysat.live:80/307200111632/307200111632/81779
 
 #EXTINF:-1,SPORT TV 3 (720P)
@@ -126,26 +116,11 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg" group-title="Portuge Sports",SPORT TV 3 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv3.png" group-title="PORTUGAL",SPORT TV 3
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052987
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv3_hd.png" group-title="PORTUGAL",SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052986
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv3_hd.png" group-title="PORTUGAL",SPORT TV 3 FHD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052985
-
 #EXTINF:-1,SPORT TV 4 (720P)
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8?zerosix.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg" group-title="Portuge Sports",SPORT TV 4 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv4.png" group-title="PORTUGAL",SPORT TV 4
-plugin://plugin.video.f4mTester/?name=streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052984
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv4.png" group-title="PORTUGAL",SPORT TV 4 FHD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052983
 
 #EXTINF:-1,SPORT TV5 SD
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8?zerosix.m3u8
@@ -153,11 +128,7 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8?zerosix.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="Portuge Sports",SPORT TV 5 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SPORTV%205.png" group-title="PORTUGAL",SPORT TV 5
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052982
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SPORTV%205%20HD.png" group-title="PORTUGAL",SPORT TV 5 FHD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052981
 
 
 
