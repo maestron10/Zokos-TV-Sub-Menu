@@ -45,31 +45,6 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://di
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052999
 
 
-#EXTINF:-1,[COLOR yellow]LINKS DESPORTO CAPTURADO[/COLOR]
-https://000000
-
-
-FONTES DE INFORMAÇÃO:
-
-https://www.stream2watch.one
-http://www.messitv.net/2020/05/sport-tv-1-hd.html
-
-
-#EXTINF:-1,BENFICA TV 
-http://87.120.36.57:8080/hls/streama134994/index.m3u8?cst=e6479fb18b996b7336bccc84cb041a4b
-
-#EXTINF:-1,SPORT TV 1 HD
-https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=vbVstpRE3BcsX2Acw6SHjA&e=1617754367
-
-#EXTINF:-1,SPORT TV 1 HD
-https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=lHZ2gKo_QCzwmhnHivJczg&e=1617669118
-
-#EXTINF:-1,ELEVEN SPORT 1 HD
-https://njaqqa3dw3ntwkfr.ezcdn462.net:8443/hls/ue6j6b8ks4.m3u8?s=EAD51fuF6EHIt1Kt99wRvQ&e=1617754581
-
-
-
-
 ######################################################################################################################
 #EXTINF:-1,[COLOR red]LINKS DIVERSOS DE TESTE[/COLOR]
 https://000000
