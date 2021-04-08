@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 02/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 08/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #########################################################################################################################################################################
  
@@ -15,6 +15,8 @@ Fonte de Informação - https://github.com/Free-IPTV/Countries/blob/master/YZ001
 #EXTINF:-1,[COLOR blue]TOP HITS[/COLOR]
 https://000000
 
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]MOLA TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]BOX HITS SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxTV-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
@@ -102,21 +104,6 @@ https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=coral][B]ASOT TV[/B][/COLOR][COLOR=coral][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
 
-#EXTINF:-1 tvg-name="DanceTrippin TV " tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/GyxXMDv.png",[COLOR=coral][B]DANCE TRIPPIN TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://10999-2.b.cdn13.com/live/master.m3u8
-
-#EXTINF:-1 tvg-name="DeepHouse District" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/GyxXMDv.png",[COLOR=coral][B]DEEPHOUSE DISTRICT TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-
-#EXTINF:-1 tvg-name="Chill AF" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",[COLOR=coral][B]CHILL AF TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://10999-1.b.cdn13.com/streams/masters-v3/djset/654.m3u8
-
-#EXTINF:-1 tvg-name="EDM Mainstage" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",[COLOR=coral][B]EDM MAINSTAGE TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://10999-1.b.cdn13.com/streams/masters-v3/djset/417.m3u8
-
-#EXTINF:-1 tvg-name="House Floor" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",[COLOR=coral][B]HOUSE FLOOR[/B][/COLOR][COLOR=coral][/COLOR]
-https://10999-1.b.cdn13.com/hls/new/community/community-542.mp4/index.m3u8
-
 #EXTINF:-418,[COLOR=coral][B]ON CLUBBING TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e551-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=70bc0c2a-93a5-4713-b658-cad49ec55f38&userId=&serverSideAds=true
 
@@ -143,21 +130,8 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Tropical" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIC",[COLOR=coral][B]MIX 24/7 HITS - TROPICAL[/B][/COLOR][COLOR=coral][/COLOR]
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]MIX 24/7 HITS[/B][/COLOR][COLOR=coral][/COLOR]
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/1
-#EXTINF:-1,[COLOR=coral][B]MIX 24/7 HITS - TOP 100[/B][/COLOR][COLOR=coral][/COLOR]
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/2
-#EXTINF:-1,[COLOR=coral][B]MIX 24/7 HITS - TROPICAL[/B][/COLOR][COLOR=coral][/COLOR]
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/3
-#EXTINF:-1,[COLOR=coral][B]MIX 24/7 HITS - RETRO[/B][/COLOR][COLOR=coral][/COLOR]
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/4
-#EXTINF:-1,[COLOR=coral][B]MIX 24/7 HITS - POP[/B][/COLOR][COLOR=coral][/COLOR]
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/5
 #EXTINF:-1,[COLOR=coral][B]MIX 24/7 - VINTAGE[/B][/COLOR][COLOR=coral][/COLOR]
 http://159.69.56.148:25461/M3UMix247/89ph5uifoi/6
-#EXTINF:-1,[COLOR=coral][B]MIX 24/7 - CONCIERTOS LIVE[/B][/COLOR][COLOR=coral][/COLOR]
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/7
-
 
 ######################################################################################
 #EXTINF:-1,[COLOR blue]MÚSICA ANTIGA[/COLOR]
@@ -227,6 +201,12 @@ https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]TOP LATINO TV PERU[/B][/COLOR][COLOR=coral][/COLOR]
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]HITS 360 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]LATIDO MUSIC HD[/B][/COLOR][COLOR=coral][/COLOR]
+https://vidaprimo-distroscale.amagi.tv/playlist720p.m3u8
 
 ######################################################################################
 #EXTINF:-1,[COLOR blue]OUTROS GÉNEROS[/COLOR]
@@ -420,8 +400,7 @@ https://sc.id-tv.kz/1hd_34_35.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",1Music Channel Hungary
 http://1music.hu/1music.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",30A Music
-https://30a-tv.com/music.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Music",4 Turk Billboard
 http://51.210.199.29/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",4 Turk Music
@@ -580,8 +559,7 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 https://live.siete.us:19360/bestcablehatuntv/bestcablehatuntv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",Hip Hop Bangers (US)
 https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/ed8212a6-b4f2-46e7-8386-eab377eb0607/3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Hits 360 HD
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Music",HITV (1080p)
 https://strm.yandex.ru/kal/hittv/hittv0.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",Hottest of the Hot (US)
@@ -626,8 +604,9 @@ https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
 https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",Latido Music (US)
 https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/720x404_1460800/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Latido Music HD
-https://vidaprimo-distroscale.amagi.tv/playlist720p.m3u8
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Music",Latinos 1 HD
 https://5b38ce71f1f00.streamlock.net/8196/8196/.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",Latinos UP
@@ -684,8 +663,7 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MM TV (BG)
 https://streamer103.neterra.tv/mmtv/mmtv.smil/chunklist_w1574446231_b2628000_slbul.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",molaTV
-http://ventdelnord.tv:8080/mola/directe.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Music",Music Baeble (1080p)
 https://dai.google.com/linear/hls/event/HuoWULBBQFKJalbtsd7qPw/master.m3u8
 #EXTINF:0 tvg-id="mb-russia" group-title="Music",Music Box Russia (1080p)
@@ -990,32 +968,6 @@ https://strm.yandex.ru/kal/muztv_supres/muztv_supres0.m3u8
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",Новое радио (1080p)
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Первый Музыкальный BY
-http://rtmp.one.by:1200
-#EXTINF:0 tvg-id="ext" group-title="Music",Первый Музыкальный BY
-http://rtmp.one.by:1300
-#EXTINF:0 tvg-id="muzika1" group-title="Music",Первый Музыкальный RU
-http://rtmp.one.by:2200
-#EXTINF:0 tvg-id="muzika1" group-title="Music",Первый Музыкальный RU
-http://rtmp.one.by:2300
-#EXTINF:0 tvg-id="ext" group-title="Music",Радио Шансон (720p)
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Радио Шансон
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Страна FM (720p)
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="shansontv" group-title="Music",Шансон ТВ (512p)
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="shansontv" group-title="Music",Шансон ТВ (576p)
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="shansontv" group-title="Music",Шансон ТВ (576p)
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="shansontv" group-title="Music",Шансон ТВ (576p)
-http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="shansontv" group-title="Music",Шансон ТВ (480p)
-http://ott-cdn.ucom.am/s43/index.m3u8
-#EXTINF:0 tvg-id="shansontv" group-title="Music",Шансон ТВ (576p)
-https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 
 
 
