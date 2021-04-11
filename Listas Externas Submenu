@@ -133,14 +133,18 @@
 </channels
  
  
-  </channel>
+ 
+ 
+ </channel>
 <channel>
-<name>[COLOR=yellow][B]WEB CAM[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<name>[COLOR=yellow][B]WEB CAM MUNDIAIS[/B][/COLOR][COLOR=yellow][/COLOR]</name>
 <thumbnail>url DA IMAGEM</thumbnail>
 <externallink>https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Youtube/Explore.org/EXPLORE.org.m3u</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
 </channel>
 </channels
+ 
+ 
  
 
