@@ -45,6 +45,29 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://di
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052999
 
 
+##################################  GRUPO SPORT TV   ###########################################################################
+
+#EXTM3U
+ 
+#EXTINF:-1,[COLOR yellow]LINKS SPORT TV 1[/COLOR]
+https://000000
+ 
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Portuge Sports",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Extra Sport",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+
 ######################################################################################################################
 #EXTINF:-1,[COLOR red]LINKS DIVERSOS DE TESTE[/COLOR]
 https://000000
@@ -87,21 +110,8 @@ https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
  
-##################################  GRUPO SPORT TV   ###########################################################################
 
-#EXTM3U
- 
-#EXTINF:-1,[COLOR yellow]LINKS SPORT TV 1[/COLOR]
-https://000000
- 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Portuge Sports",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
-
-#EXTINF:-1,[COLOR=coral][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno/xavi160618/uK4ctK1176/17744
 
 ##############################################################################################
 
