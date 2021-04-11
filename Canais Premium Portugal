@@ -70,6 +70,15 @@ https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD (SPORTCAST)[/B][/COLOR][COLOR=coral][/COLOR]
 https://cdn102.thatisme.xyz/hls/cast7/index.m3u8?st=By82F1__r3zL4wYW7kPq9Q&e=1618150092
 
+#EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://45.94.149.172:9981/stream/channelid/734516007
+
+#EXTINF:-1,[COLOR=coral][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=coral][/COLOR]
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/8818
+
+#EXTINF:-1,[COLOR=coral][B]SPORT TV 1[/B][/COLOR][COLOR=coral][/COLOR]
+http://tvlatina.homeip.net:25461/3aGQJjnsaL/EM0mdXoq0o/460
+
 
 
 ######################################################################################################################
