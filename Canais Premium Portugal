@@ -45,6 +45,74 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://di
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052999
 
 
+##################################  LISTA PLAYLIST FINDER    ###########################################################################
+
+#EXTM3U
+ 
+#EXTINF:-1,[COLOR yellow]LISTA PLAYLIST FINDER 12 ABRIL 2021[/COLOR]
+https://000000
+
+
+#EXTINF:-1,BTV 1
+http://2.83.79.71:8080/play/a055/index.m3u8
+#EXTINF:-1,BTV 1 HD
+http://2.83.79.71:8080/play/a053/index.m3u8
+#EXTINF:-1,BTV HD
+http://2.83.79.71:8080/play/a05i/index.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://2.83.79.71:8080/play/a07r/index.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://2.83.79.71:8080/play/a05j/index.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3
+http://2.83.79.71:8080/play/a05k/index.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4
+http://2.83.79.71:8080/play/a07t/index.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5
+http://2.83.79.71:8080/play/a07u/index.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6
+http://2.83.79.71:8080/play/a05m/index.m3u8
+#EXTINF:-1,NBA TV HD
+http://2.83.79.71:8080/play/a07v/index.m3u8
+#EXTINF:-1,SPORT TV +
+http://2.83.79.71:8080/play/a03b/index.m3u8
+#EXTINF:-1,SPORT TV 1
+http://2.83.79.71:8080/play/a06f/index.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+http://2.83.79.71:8080/play/a05b/index.m3u8
+#EXTINF:-1,SPORT TV 2
+http://2.83.79.71:8080/play/a06g/index.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://2.83.79.71:8080/play/a05c/index.m3u8
+#EXTINF:-1,SPORT TV 3
+http://2.83.79.71:8080/play/a06h/index.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://2.83.79.71:8080/play/a05d/index.m3u8
+#EXTINF:-1,SPORT TV 4
+http://2.83.79.71:8080/play/a06i/index.m3u8
+#EXTINF:-1,SPORT TV 5
+http://2.83.79.71:8080/play/a0a2/index.m3u8
+
+#EXTINF:-1,TVCINE ACTION HD
+http://2.83.79.71:8080/play/a08n/index.m3u8
+#EXTINF:-1,TVCINE EDITION HD
+http://2.83.79.71:8080/play/a07w/index.m3u8
+#EXTINF:-1,TVCINE EMOTION HD
+http://2.83.79.71:8080/play/a07x/index.m3u8
+#EXTINF:-1,TVCINE TOP HD
+http://2.83.79.71:8080/play/a08m/index.m3u8
+#EXTINF:-1,NOS STUDIOS HD
+http://2.83.79.71:8080/play/a08i/index.m3u8
+
+#EXTINF:-1,HOT
+http://2.83.79.71:8080/play/a0a4/index.m3u8
+
+#EXTINF:-1,PLAYBOY TV
+http://2.83.79.71:8080/play/a06z/index.m3u8
+
+#EXTINF:-1,VENUS
+http://2.83.79.71:8080/play/a08y/index.m3u8
+
+
 ##################################  GRUPO SPORT TV   ###########################################################################
 
 #EXTM3U
