@@ -99,3 +99,180 @@ https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mana 1" tvg-logo="https://cdn.teleon.tv/logo/tv_mana_1_pt.png" group-title="PORTUGAL",TV MANA 1
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1,[COLOR=yellow][B]LISTA 2 ADICIONADA: 12/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+
+#EXTINF:-1,11
+http://2.83.79.71:8080/play/a025/index.m3u8
+#EXTINF:-1,A Bola TV
+http://2.83.79.71:8080/play/a034/index.m3u8
+#EXTINF:-1,AMC
+http://2.83.79.71:8080/play/a0b3/index.m3u8
+#EXTINF:-1,AMC HD
+http://2.83.79.71:8080/play/a02p/index.m3u8
+#EXTINF:-1,AXN HD
+http://2.83.79.71:8080/play/a02e/index.m3u8
+#EXTINF:-1,AlmaLusa HD
+http://2.83.79.71:8080/play/a03a/index.m3u8
+#EXTINF:-1,BBC Entertainment
+http://2.83.79.71:8080/play/a032/index.m3u8
+#EXTINF:-1,BBC World News
+http://2.83.79.71:8080/play/a038/index.m3u8
+#EXTINF:-1,BFM TV
+http://2.83.79.71:8080/play/a03i/index.m3u8
+
+#EXTINF:-1,Baby TV
+http://2.83.79.71:8080/play/a03t/index.m3u8
+#EXTINF:-1,Biggs
+http://2.83.79.71:8080/play/a02k/index.m3u8
+#EXTINF:-1,Bloomberg
+http://2.83.79.71:8080/play/a035/index.m3u8
+#EXTINF:-1,CBS Reality
+http://2.83.79.71:8080/play/a04u/index.m3u8
+#EXTINF:-1,CCTV 4
+http://2.83.79.71:8080/play/a02r/index.m3u8
+#EXTINF:-1,CGTN
+http://2.83.79.71:8080/play/a03h/index.m3u8
+#EXTINF:-1,CMTV
+http://2.83.79.71:8080/play/a026/index.m3u8
+#EXTINF:-1,Canal Panda
+http://2.83.79.71:8080/play/a030/index.m3u8
+#EXTINF:-1,Canal Q
+http://2.83.79.71:8080/play/a02d/index.m3u8
+#EXTINF:-1,Casa e Cozinha HD
+http://2.83.79.71:8080/play/a07j/index.m3u8
+#EXTINF:-1,CaĿa e Pesca
+http://2.83.79.71:8080/play/a086/index.m3u8
+#EXTINF:-1,CaĿavision
+http://2.83.79.71:8080/play/a04r/index.m3u8
+#EXTINF:-1,Cinemundo
+http://2.83.79.71:8080/play/a03r/index.m3u8
+#EXTINF:-1,Cinemundo HD
+http://2.83.79.71:8080/play/a02o/index.m3u8
+#EXTINF:-1,Crime+Investigation
+http://2.83.79.71:8080/play/a03d/index.m3u8
+#EXTINF:-1,Disney Channel
+http://2.83.79.71:8080/play/a02j/index.m3u8
+#EXTINF:-1,Disney Júnior
+http://2.83.79.71:8080/play/a02y/index.m3u8
+#EXTINF:-1,E! Entertainment
+http://2.83.79.71:8080/play/a06r/index.m3u8
+#EXTINF:-1,EEC Secundário
+http://2.83.79.71:8080/play/a02v/index.m3u8
+
+#EXTINF:-1,Eurosport 1
+http://2.83.79.71:8080/play/a072/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://2.83.79.71:8080/play/a028/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://2.83.79.71:8080/play/a06m/index.m3u8
+#EXTINF:-1,FOX HD
+http://2.83.79.71:8080/play/a02c/index.m3u8
+#EXTINF:-1,FTV
+http://2.83.79.71:8080/play/a037/index.m3u8
+#EXTINF:-1,Fox Comedy
+http://2.83.79.71:8080/play/a05l/index.m3u8
+#EXTINF:-1,France 24 (F)
+http://2.83.79.71:8080/play/a02g/index.m3u8
+#EXTINF:-1,Fuel TV HD
+http://2.83.79.71:8080/play/a039/index.m3u8
+#EXTINF:-1,Gametoon HD
+http://2.83.79.71:8080/play/a029/index.m3u8
+#EXTINF:-1,Globo
+http://2.83.79.71:8080/play/a02s/index.m3u8
+#EXTINF:-1,Globo Now
+http://2.83.79.71:8080/play/a08u/index.m3u8
+
+#EXTINF:-1,Hollywood
+http://2.83.79.71:8080/play/a05t/index.m3u8
+#EXTINF:-1,Hollywood HD
+http://2.83.79.71:8080/play/a02q/index.m3u8
+#EXTINF:-1,ID Investigation Discovery
+http://2.83.79.71:8080/play/a07a/index.m3u8
+#EXTINF:-1,Jim Jam
+http://2.83.79.71:8080/play/a02z/index.m3u8
+#EXTINF:-1,Kuriakos TV
+http://2.83.79.71:8080/play/a0a9/index.m3u8
+#EXTINF:-1,Kuriakos TV HD
+http://2.83.79.71:8080/play/a09l/index.m3u8
+#EXTINF:-1,Localvisão TV HD
+http://2.83.79.71:8080/play/a02l/index.m3u8
+#EXTINF:-1,Motorvision
+http://2.83.79.71:8080/play/a08e/index.m3u8
+
+#EXTINF:-1,NHK World Japan
+http://2.83.79.71:8080/play/a03j/index.m3u8
+
+#EXTINF:-1,National Geographic WILD
+http://2.83.79.71:8080/play/a07c/index.m3u8
+#EXTINF:-1,Nick Jr.
+http://2.83.79.71:8080/play/a087/index.m3u8
+#EXTINF:-1,PFC
+http://2.83.79.71:8080/play/a064/index.m3u8
+
+#EXTINF:-1,Porto Canal
+http://2.83.79.71:8080/play/a03c/index.m3u8
+#EXTINF:-1,RTP Açores
+http://2.83.79.71:8080/play/a02t/index.m3u8
+#EXTINF:-1,RTP Madeira
+http://2.83.79.71:8080/play/a02u/index.m3u8
+#EXTINF:-1,RTP Memória
+http://2.83.79.71:8080/play/a02a/index.m3u8
+#EXTINF:-1,RTP África
+http://2.83.79.71:8080/play/a033/index.m3u8
+#EXTINF:-1,RTP1
+http://2.83.79.71:8080/play/a01z/index.m3u8
+#EXTINF:-1,RTP2
+http://2.83.79.71:8080/play/a020/index.m3u8
+#EXTINF:-1,RTP3
+http://2.83.79.71:8080/play/a024/index.m3u8
+#EXTINF:-1,SIC
+http://2.83.79.71:8080/play/a021/index.m3u8
+#EXTINF:-1,SIC Caras
+http://2.83.79.71:8080/play/a02n/index.m3u8
+#EXTINF:-1,SIC K
+http://2.83.79.71:8080/play/a02h/index.m3u8
+#EXTINF:-1,SIC Mulher
+http://2.83.79.71:8080/play/a02i/index.m3u8
+#EXTINF:-1,SIC Notícias
+http://2.83.79.71:8080/play/a022/index.m3u8
+#EXTINF:-1,SIC Radical
+http://2.83.79.71:8080/play/a02w/index.m3u8
+
+#EXTINF:-1,SYFY
+http://2.83.79.71:8080/play/a09k/index.m3u8
+#EXTINF:-1,Sporting TV HD
+http://2.83.79.71:8080/play/a027/index.m3u8
+#EXTINF:-1,SyFy HD
+http://2.83.79.71:8080/play/a02f/index.m3u8
+#EXTINF:-1,TRT World
+http://2.83.79.71:8080/play/a03f/index.m3u8
+
+#EXTINF:-1,TV5 Monde
+http://2.83.79.71:8080/play/a036/index.m3u8
+#EXTINF:-1,TVI
+http://2.83.79.71:8080/play/a0by/index.m3u8
+#EXTINF:-1,TVI Ficção
+http://2.83.79.71:8080/play/a02x/index.m3u8
+#EXTINF:-1,TVI Reality - Big Brother
+http://2.83.79.71:8080/play/a0a8/index.m3u8
+#EXTINF:-1,TVI24
+http://2.83.79.71:8080/play/a02b/index.m3u8
+#EXTINF:-1,Toros TV
+http://2.83.79.71:8080/play/a09h/index.m3u8
+#EXTINF:-1,Toros TV
+http://2.83.79.71:8080/play/a0a3/index.m3u8
+#EXTINF:-1,Trace Toca
+http://2.83.79.71:8080/play/a083/index.m3u8
+#EXTINF:-1,Trace Toca
+http://2.83.79.71:8080/play/a08s/index.m3u8
+#EXTINF:-1,Trace Urban
+http://2.83.79.71:8080/play/a07z/index.m3u8
+#EXTINF:-1,Travel Channel HD
+http://2.83.79.71:8080/play/a076/index.m3u8
+#EXTINF:-1,UM Europa
+http://2.83.79.71:8080/play/a02m/index.m3u8
+
+#EXTINF:-1,ZAP Viva HD
+http://2.83.79.71:8080/play/a08h/index.m3u8
