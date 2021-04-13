@@ -172,36 +172,6 @@ https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w590134734.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]VINTAGE MUSIC TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
  
- 
-######################################################################################
-#EXTINF:-1,[COLOR blue]GRUPO MTV, VH1 E MCM[/COLOR]
-https://000000
-
-
-#EXTINF:-1,[COLOR=coral][B]MTV DANCE[/B][/COLOR][COLOR=coral][/COLOR]
-http://85.14.32.15:8800/udp/239.10.10.160:5000
-
-#EXTINF:-1,[COLOR=coral][B]MTV BIGGEST POP 1[/B][/COLOR][COLOR=coral][/COLOR]
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BO2eaCO.png" group-title="",[COLOR=coral][B]MTV BIGGEST POP 2[/B][/COLOR][COLOR=coral][/COLOR]
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS05/master.m3u8
-
-#EXTINF:-1,[COLOR=coral][B]MTV HITS[/B][/COLOR][COLOR=coral][/COLOR]
-http://85.14.32.15:8800/udp/239.100.10.65:5000
-
-#EXTINF:-1,[COLOR=coral][B]MTV 90´S[/B][/COLOR][COLOR=coral][/COLOR]
-http://85.14.32.15:8800/udp/239.100.10.66:5000
-
-#EXTINF:-1,[COLOR=coral][B]MTV[/B][/COLOR][COLOR=coral][/COLOR]
-http://85.14.32.15:8800/udp/239.100.10.67:5000
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BO2eaCO.png" group-title="",[COLOR=coral][B]MTV YO 2[/B][/COLOR][COLOR=coral][/COLOR]
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
-
-#EXTINF:-1,[COLOR=coral][B]VH1[/B][/COLOR][COLOR=coral][/COLOR]
-http://85.14.32.15:8800/udp/239.100.10.105:5000
-
   
 ######################################################################################
 #EXTINF:-1,[COLOR blue]MÚSICA LATINA[/COLOR]
