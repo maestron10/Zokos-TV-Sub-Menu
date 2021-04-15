@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]ESTÁ LISTA FOI REVISTA A: 07/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 15/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -45,74 +45,6 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://di
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052999
 
 
-##################################  LISTA PLAYLIST FINDER    ###########################################################################
-
-#EXTM3U
- 
-#EXTINF:-1,[COLOR yellow]LISTA PLAYLIST FINDER 12 ABRIL 2021[/COLOR]
-https://000000
-
-
-#EXTINF:-1,BTV 1
-http://2.83.79.71:8080/play/a055/index.m3u8
-#EXTINF:-1,BTV 1 HD
-http://2.83.79.71:8080/play/a053/index.m3u8
-#EXTINF:-1,BTV HD
-http://2.83.79.71:8080/play/a05i/index.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://2.83.79.71:8080/play/a07r/index.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://2.83.79.71:8080/play/a05j/index.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3
-http://2.83.79.71:8080/play/a05k/index.m3u8
-#EXTINF:-1,ELEVEN SPORTS 4
-http://2.83.79.71:8080/play/a07t/index.m3u8
-#EXTINF:-1,ELEVEN SPORTS 5
-http://2.83.79.71:8080/play/a07u/index.m3u8
-#EXTINF:-1,ELEVEN SPORTS 6
-http://2.83.79.71:8080/play/a05m/index.m3u8
-#EXTINF:-1,NBA TV HD
-http://2.83.79.71:8080/play/a07v/index.m3u8
-#EXTINF:-1,SPORT TV +
-http://2.83.79.71:8080/play/a03b/index.m3u8
-#EXTINF:-1,SPORT TV 1
-http://2.83.79.71:8080/play/a06f/index.m3u8
-#EXTINF:-1,SPORT TV 1 HD
-http://2.83.79.71:8080/play/a05b/index.m3u8
-#EXTINF:-1,SPORT TV 2
-http://2.83.79.71:8080/play/a06g/index.m3u8
-#EXTINF:-1,SPORT TV 2 HD
-http://2.83.79.71:8080/play/a05c/index.m3u8
-#EXTINF:-1,SPORT TV 3
-http://2.83.79.71:8080/play/a06h/index.m3u8
-#EXTINF:-1,SPORT TV 3 HD
-http://2.83.79.71:8080/play/a05d/index.m3u8
-#EXTINF:-1,SPORT TV 4
-http://2.83.79.71:8080/play/a06i/index.m3u8
-#EXTINF:-1,SPORT TV 5
-http://2.83.79.71:8080/play/a0a2/index.m3u8
-
-#EXTINF:-1,TVCINE ACTION HD
-http://2.83.79.71:8080/play/a08n/index.m3u8
-#EXTINF:-1,TVCINE EDITION HD
-http://2.83.79.71:8080/play/a07w/index.m3u8
-#EXTINF:-1,TVCINE EMOTION HD
-http://2.83.79.71:8080/play/a07x/index.m3u8
-#EXTINF:-1,TVCINE TOP HD
-http://2.83.79.71:8080/play/a08m/index.m3u8
-#EXTINF:-1,NOS STUDIOS HD
-http://2.83.79.71:8080/play/a08i/index.m3u8
-
-#EXTINF:-1,HOT
-http://2.83.79.71:8080/play/a0a4/index.m3u8
-
-#EXTINF:-1,PLAYBOY TV
-http://2.83.79.71:8080/play/a06z/index.m3u8
-
-#EXTINF:-1,VENUS
-http://2.83.79.71:8080/play/a08y/index.m3u8
-
-
 ##################################  GRUPO SPORT TV   ###########################################################################
 
 #EXTM3U
@@ -132,22 +64,11 @@ https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Extra Sport",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-
 #EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD (SPORTCAST)[/B][/COLOR][COLOR=coral][/COLOR]
 https://cdn102.thatisme.xyz/hls/cast7/index.m3u8?st=By82F1__r3zL4wYW7kPq9Q&e=1618150092
 
 #EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://45.94.149.172:9981/stream/channelid/734516007
-
-#EXTINF:-1,[COLOR=coral][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=coral][/COLOR]
-http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/8818
-
-#EXTINF:-1,[COLOR=coral][B]SPORT TV 1[/B][/COLOR][COLOR=coral][/COLOR]
-http://tvlatina.homeip.net:25461/3aGQJjnsaL/EM0mdXoq0o/460
-
-
 
 ######################################################################################################################
 #EXTINF:-1,[COLOR red]LINKS DIVERSOS DE TESTE[/COLOR]
@@ -190,9 +111,6 @@ https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Extra Sport",Sport TV 5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
- 
-
-
 
 ##############################################################################################
 
@@ -201,15 +119,6 @@ https://000000
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="Portuge Sports",SPORT TV 2 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1,SPORT TV 2 FHD
-http://163.172.59.251:8080/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/212?token=GUYOVUQJFVtHBAQNUQRWBFZQB1MLWwFXAAAHVgQEB11QVV8AVFNWAwBHHRpAQEVTVF86WVxADgEJBU1HRhUESz0NAhYNQwNRR0kTTFpZUhQPA1MBD1YABw4HWEkRFghdQF5EBQ5XAFRHSRNdS0BSRFtTCW9cB0JaW1JDX10TDVVORglaaAVSDAQLVRoJFgcUGRAMQ0hADhFoY0EmXAsUVwsHB1dYBERBNktwFhEYFVRcRhdRTAcWCRoDVlwCRE0bAQsTWkMTTkNfR2FsERgVU01GAF5LC1tdGg1DEUBETRsLFzlGUhJDEwAEXF1BFg0UBBBJElUDTGxbWA8LVgUVUA0KFRYNQwFRR0kTVVxaXkJaQDpAUQYWCRoGV1QCVkNE
-
-#EXTINF:-1,SPORT TV 2 HD
-http://rv.flysat.live:80/307200111632/307200111632/81780
-
-#EXTINF:-1,SPORT TV 3 HD
-http://rv.flysat.live:80/307200111632/307200111632/81779
 
 #EXTINF:-1,SPORT TV 3 (720P)
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
@@ -228,10 +137,6 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8?zerosix.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="Portuge Sports",SPORT TV 5 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-
-
-
-
 
  
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
