@@ -94,6 +94,9 @@ http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]MOLA TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="USA",[COLOR=coral][B]30A MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+http://30a-tv.com/music.m3u8?fluxustv.m3u8
  
 ###########################################################################################
  
