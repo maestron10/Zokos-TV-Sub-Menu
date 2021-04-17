@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 15/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 17/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -28,22 +28,8 @@ LINKS DE CAPTURA DE CANAIS STREAMING LIVE
 https://000000
 
 
-#EXTINF:-1,BENFICA TV FHD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/2868
-
-#EXTINF:-1,BENFICA TV HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/2670
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 1" tvg-logo="http://picon-platinium.ddns.net/piconscesar/btv.png" group-title="PORTUGAL",BTV 1
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052961
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 1 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/btv_hd.png" group-title="PORTUGAL",BTV 1 HD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052960
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 1 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/btv_hd.png" group-title="PORTUGAL",BTV 1 FHD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052959
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://diretogo.com:80/daniel21/21daniel/10052999
-
+#EXTINF:-1,NÃO DISPONIVEL
+https://000000
 
 ##################################  GRUPO SPORT TV   ###########################################################################
 
@@ -64,15 +50,27 @@ https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD (SPORTCAST)[/B][/COLOR][COLOR=coral][/COLOR]
-https://cdn102.thatisme.xyz/hls/cast7/index.m3u8?st=By82F1__r3zL4wYW7kPq9Q&e=1618150092
-
 #EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://45.94.149.172:9981/stream/channelid/734516007
 
 ######################################################################################################################
-#EXTINF:-1,[COLOR red]LINKS DIVERSOS DE TESTE[/COLOR]
+#EXTINF:-1,[COLOR yellow]LINKS DIVERSOS[/COLOR]
 https://000000
+
+#EXTINF:0 tvg-id="ext" group-title="Extra Sport",SPORT TV 1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Extra Sport",SPORT TV 2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Extra Sport",SPORT TV 3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Extra Sport",SPORT TV 4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Extra Sport",SPORT TV 5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
  
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
@@ -96,20 +94,6 @@ https://sport.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="Extra Sport",Sport TV 1
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Extra Sport",Sport TV 2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Extra Sport",Sport TV 3
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Extra Sport",Sport TV 4
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Extra Sport",Sport TV 5
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 
 ##############################################################################################
@@ -147,6 +131,7 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 https://000000
 
 #EXTINF:-1,NÃO DISPONÍVEIS
+https://000000
  
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
 #EXTM3U
@@ -154,43 +139,6 @@ https://000000
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM CINEMA[/COLOR]
 https://000000
 
-#EXTINF:-1,NOS STUDIO HD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053033
-
-#EXTINF:-1,NOS STUDIO FHD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053032
-
-#EXTINF:-1,TV CINE TOP
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053046
-
-#EXTINF:-1,TV CINE TOP HD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053045
-
-#EXTINF:-1,TV CINE TOP FHD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053044
-
-#EXTINF:-1,TV CINE EDITION HD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053042
-
-#EXTINF:-1,TV CINE EDITION FHD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053041
-
-#EXTINF:-1,TV CINE EMOTION
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053040
-
-#EXTINF:-1,TV CINE EMOTION HD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053039
-
-#EXTINF:-1,TV CINE EMOTION FHD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053038
-
-#EXTINF:-1,TV CINE ACTION HD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053036
-
-#EXTINF:-1,TV CINE ACTION FHD
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://akamaizedx.com:80/kaka123/kaka321/10053035
-
-
-
-
+#EXTINF:-1,NÃO DISPONÍVEIS
+https://000000
 
