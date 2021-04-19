@@ -126,10 +126,6 @@ https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:-418,[COLOR=coral][B]ON CLUBBING TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e551-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=70bc0c2a-93a5-4713-b658-cad49ec55f38&userId=&serverSideAds=true
 
-# https://www.youtube.com/channel/UCpDJl2EmP7Oh90Vylx0dZtA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q6UYRng.png" group-title="",[COLOR=coral][B]SPINNIG TV[/B][/COLOR][COLOR=coral][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=BD_guK9b64k
-
 
 ######################################################################################
 #EXTINF:-1,[COLOR blue]ESPECIAL MIX 24/7[/COLOR]
