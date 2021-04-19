@@ -95,11 +95,8 @@ http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]MOLA TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="USA",[COLOR=coral][B]30A MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
-http://30a-tv.com/music.m3u8?fluxustv.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]RADIO KARLOVAC[/B][/COLOR][COLOR=coral][/COLOR]
-https://5b57bb229a2e6.streamlock.net/live/_definst_/karlovac/playlist.m3u8
+#EXTINF:-1 tvg-id="BritAsiaTV.uk" tvg-name="Brit Asia TV" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",[COLOR=coral][B]BRIT ASIA TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
  
 ###########################################################################################
  
@@ -109,6 +106,9 @@ https://000000
  
 #EXTINF:-1,[COLOR=coral][B]BARAZA DANCE  HITS[/B][/COLOR][COLOR=coral][/COLOR]
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="",[COLOR=coral][B]CLUBBING TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]EURODANCE 90 TV [/B][/COLOR][COLOR=coral][/COLOR]
 http://eurodance.catcast.tv/content/36987/index.m3u8
@@ -212,6 +212,14 @@ http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 #EXTINF:-1,[COLOR blue]OUTROS GÉNEROS[/COLOR]
 https://000000
 
+#EXTINF:-1,[COLOR=coral][B]SEXY KPOP TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w330920962.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="USA",[COLOR=coral][B]30A MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+http://30a-tv.com/music.m3u8?fluxustv.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]RADIO KARLOVAC[/B][/COLOR][COLOR=coral][/COLOR]
+https://5b57bb229a2e6.streamlock.net/live/_definst_/karlovac/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="MUSIC",[COLOR=coral][B]RELOAD HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
