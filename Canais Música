@@ -109,6 +109,9 @@ https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="",[COLOR=coral][B]CLUBBING TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-418,[COLOR=coral][B]CLUBBING TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e551-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=70bc0c2a-93a5-4713-b658-cad49ec55f38&userId=&serverSideAds=true
  
 #EXTINF:-1,[COLOR=coral][B]EURODANCE 90 TV [/B][/COLOR][COLOR=coral][/COLOR]
 http://eurodance.catcast.tv/content/36987/index.m3u8
@@ -123,8 +126,6 @@ plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8Ak6qR.png" group-title="",[COLOR=coral][B]IBIZA GLOBAL TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 
-#EXTINF:-418,[COLOR=coral][B]ON CLUBBING TV[/B][/COLOR][COLOR=coral][/COLOR]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e551-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=70bc0c2a-93a5-4713-b658-cad49ec55f38&userId=&serverSideAds=true
 
 
 ######################################################################################
