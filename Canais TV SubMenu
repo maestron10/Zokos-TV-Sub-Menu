@@ -49,15 +49,6 @@
  
 <channels>
 <channel>
-<name>[COLOR=gold][B]Simple TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia601407.us.archive.org/16/items/premium-desporto/Premium%20Desporto.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/SimpleTV.m3u</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
- 
- 
-<channels>
-<channel>
 <name>[COLOR=gold][B]Desporto Mundial 1[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601504.us.archive.org/29/items/desporto-mundial/Desporto%20Mundial.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/c0P6cV3A</externallink>
