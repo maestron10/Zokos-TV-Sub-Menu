@@ -71,7 +71,8 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http:
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]ON TV PORTUGAL[/B][/COLOR][COLOR=coral][/COLOR]
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 
-
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]ON TV PORTUGAL[/B][/COLOR][COLOR=coral][/COLOR]
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/chunklist_w981017434.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cadena Elite (ES)" tvg-logo="https://i.imgur.com/eGvnKf2.png" group-title="MUSIC",[COLOR=coral][B]CADENA ELITE[/B][/COLOR][COLOR=coral][/COLOR]
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
