@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 17/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 22/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -35,80 +35,48 @@ https://000000
 
 #EXTM3U
  
-#EXTINF:-1,[COLOR yellow]LINKS SPORT TV 1[/COLOR]
+#EXTINF:-1,[COLOR yellow]LINKS SPORT TV ONLINE[/COLOR]
 https://000000
  
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Portuge Sports",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
-
-#EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://45.94.149.172:9981/stream/channelid/734516007
-
-######################################################################################################################
-#EXTINF:-1,[COLOR yellow]LINKS DIVERSOS[/COLOR]
-https://000000
 
 #EXTINF:0 tvg-id="ext" group-title="Extra Sport",SPORT TV 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Extra Sport",SPORT TV 2
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",[COLOR=coral][B]SPORT TV 2 SD[/B][/COLOR][COLOR=coral][/COLOR]
+https://sport.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Extra Sport",SPORT TV 3
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv3.jpg",[COLOR=coral][B]SPORT TV 3 HD[/B][/COLOR][COLOR=coral][/COLOR]
+https://sport.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Extra Sport",SPORT TV 4
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Extra Sport",SPORT TV 5
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
- 
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",[COLOR=coral][B]SPORT TV 2 SD[/B][/COLOR][COLOR=coral][/COLOR]
-https://sport.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg",[COLOR=coral][B]SPORT TV 2 SD[/B][/COLOR][COLOR=coral][/COLOR]
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv3.jpg",[COLOR=coral][B]SPORT TV 3 HD[/B][/COLOR][COLOR=coral][/COLOR]
-https://sport.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg",[COLOR=coral][B]SPORT TV 3 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv4.jpg",[COLOR=coral][B]SPORT TV 4 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://sport.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg",[COLOR=coral][B]SPORT TV 4 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+
+
+
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv5.jpg",[COLOR=coral][B]SPORT TV 5 SD[/B][/COLOR][COLOR=coral][/COLOR]
 https://sport.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg",[COLOR=coral][B]SPORT TV 5 SD[/B][/COLOR][COLOR=coral][/COLOR]
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 
 
-
-##############################################################################################
-
-#EXTINF:-1,[COLOR yellow]OUTROS LINKS SPORT TV[/COLOR]
-https://000000
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="Portuge Sports",SPORT TV 2 HD (720P)
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 
 #EXTINF:-1,SPORT TV 3 (720P)
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8?zerosix.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg" group-title="Portuge Sports",SPORT TV 3 HD (720P)
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+
 
 #EXTINF:-1,SPORT TV 4 (720P)
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8?zerosix.m3u8
@@ -121,6 +89,56 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8?zerosix.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="Portuge Sports",SPORT TV 5 HD (720P)
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+######################################################################################################################
+#EXTINF:-1,[COLOR yellow]LINKS DIVERSOS SPORT TV OFFLINE[/COLOR]
+https://000000
+
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg" group-title="Portuge Sports",SPORT TV 3 HD (720P)
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="Portuge Sports",SPORT TV 2 HD (720P)
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Extra Sport",SPORT TV 5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Portuge Sports",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8?zerosix.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://45.94.149.172:9981/stream/channelid/734516007
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg",[COLOR=coral][B]SPORT TV 2 SD[/B][/COLOR][COLOR=coral][/COLOR]
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg",[COLOR=coral][B]SPORT TV 3 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg",[COLOR=coral][B]SPORT TV 4 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg",[COLOR=coral][B]SPORT TV 5 SD[/B][/COLOR][COLOR=coral][/COLOR]
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+##############################################################################################
+
+#EXTINF:-1,[COLOR yellow]OUTROS LINKS SPORT TV[/COLOR]
+https://000000
+
+
 
  
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
