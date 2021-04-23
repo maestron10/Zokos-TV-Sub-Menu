@@ -49,6 +49,9 @@ https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mana 1" tvg-logo="https://cdn.teleon.tv/logo/tv_mana_1_pt.png" group-title="PORTUGAL",TV MANA 1
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
 
+#EXTINF:-1,[COLOR blue]LISTA ADICIONADA 22 ABRIL 2021[/COLOR]
+https://000000
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: RTP 1 HD @1080p_hevc
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1051
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: RTP 2 HD @1080p_hevc
