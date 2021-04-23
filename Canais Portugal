@@ -88,14 +88,7 @@ http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1066
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1067
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICLAO @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: TVI FICLAO @576_hevc
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1068
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE TOP HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: TVCINE TOP HD @1080p_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1069
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EDITION HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: TVCINE EDITION HD @1080p_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1070
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EMOTION HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: TVCINE EMOTION HD @1080p_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1071
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE ACTION HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: TVCINE ACTION HD @1080p_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1072
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: HOLLYWOOD HD @1080p_hevc
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1073
 #EXTINF:-1 tvg-id="" tvg-name="PT: AMC HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: AMC HD @1080p_hevc
@@ -126,46 +119,19 @@ http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1087
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1088
 #EXTINF:-1 tvg-id="" tvg-name="PT: Cinemundo @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: Cinemundo @576_hevc
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1089
-#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIO HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: NOS STUDIO HD @1080p_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1090
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: TV GLOBO @576_hevc
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1091
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO NOW @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: TV GLOBO NOW @576_hevc
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1092
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: CANAL 11 HD @1080p_hevc
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1093
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: SPORT TV 1 HD @1080p_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1094
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: SPORT TV 2 HD @1080p_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1095
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: SPORT TV 3 HD @1080p_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1096
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: SPORT TV 4 @576_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1097
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: SPORT TV 5 @576_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1098
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+ @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: SPORT TV+ @576_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1099
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: SPORT TV NBA HD @1080p_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1100
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: ELEVEN SPORT 1 HD @1080p_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1102
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: ELEVEN SPORT 2 HD @1080p_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1103
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 3 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: ELEVEN SPORT 3 @576_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1104
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: ELEVEN SPORT 4 @576_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1105
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 5 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: ELEVEN SPORT 5 @576_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1106
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: ELEVEN SPORT 6 @576_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1107
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: EUROSPORT 1 HD @1080p_hevc
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1108
 #EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: EUROSPORT 2 @576_hevc
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1109
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 1 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: BTV 1 HD @1080p_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1110
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: PFC INTERNACIONAL @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: PFC INTERNACIONAL @576_hevc
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1111
 #EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: MOTORVISION @576_hevc
@@ -288,24 +254,7 @@ http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2384
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2385
 #EXTINF:-1 tvg-id="" tvg-name="PT: FTV @576p" tvg-logo="" group-title="PORTUGAL HD",PT: FTV @576p
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2386
-#EXTINF:-1 tvg-id="" tvg-name="PT: HOT ®" tvg-logo="" group-title="PORTUGAL FHD",PT: HOT ®
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2387
-#EXTINF:-1 tvg-id="" tvg-name="PT: HOT @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: HOT @576_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2388
-#EXTINF:-1 tvg-id="" tvg-name="PT: HOT @576p" tvg-logo="" group-title="PORTUGAL HD",PT: HOT @576p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2389
-#EXTINF:-1 tvg-id="" tvg-name="PT: Playboy TV ®" tvg-logo="" group-title="PORTUGAL FHD",PT: Playboy TV ®
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2390
-#EXTINF:-1 tvg-id="" tvg-name="PT: PlayboyTV @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: PlayboyTV @576_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2391
-#EXTINF:-1 tvg-id="" tvg-name="PT: PlayboyTV @576p" tvg-logo="" group-title="PORTUGAL HD",PT: PlayboyTV @576p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2392
-#EXTINF:-1 tvg-id="" tvg-name="PT: Venus ®" tvg-logo="" group-title="PORTUGAL FHD",PT: Venus ®
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2393
-#EXTINF:-1 tvg-id="" tvg-name="PT: Venus @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: Venus @576_hevc
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2394
-#EXTINF:-1 tvg-id="" tvg-name="PT: Venus @576p" tvg-logo="" group-title="PORTUGAL HD",PT: Venus @576p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2395
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 @720p" tvg-logo="" group-title="PORTUGAL HD",PT: RTP 1 @720p
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1167
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 @720p" tvg-logo="" group-title="PORTUGAL HD",PT: RTP 2 @720p
@@ -342,14 +291,7 @@ http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1182
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1183
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICLAO @576p" tvg-logo="" group-title="PORTUGAL HD",PT: TVI FICLAO @576p
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1184
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE TOP @720p" tvg-logo="" group-title="PORTUGAL HD",PT: TVCINE TOP @720p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1185
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EDITION @720p" tvg-logo="" group-title="PORTUGAL HD",PT: TVCINE EDITION @720p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1186
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EMOTION @720p" tvg-logo="" group-title="PORTUGAL HD",PT: TVCINE EMOTION @720p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1187
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE ACTION @720p" tvg-logo="" group-title="PORTUGAL HD",PT: TVCINE ACTION @720p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1188
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD @720p" tvg-logo="" group-title="PORTUGAL HD",PT: HOLLYWOOD @720p
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1189
 #EXTINF:-1 tvg-id="" tvg-name="PT: AMC @720p" tvg-logo="" group-title="PORTUGAL HD",PT: AMC @720p
@@ -380,40 +322,14 @@ http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1202
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1203
 #EXTINF:-1 tvg-id="" tvg-name="PT: Cinemundo @576p" tvg-logo="" group-title="PORTUGAL HD",PT: Cinemundo @576p
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1204
-#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIO @720p" tvg-logo="" group-title="PORTUGAL HD",PT: NOS STUDIO @720p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1205
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO @576p" tvg-logo="" group-title="PORTUGAL HD",PT: TV GLOBO @576p
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1206
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO NOW @576p" tvg-logo="" group-title="PORTUGAL HD",PT: TV GLOBO NOW @576p
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1207
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 @720p" tvg-logo="" group-title="PORTUGAL HD",PT: CANAL 11 @720p
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1208
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 @720p" tvg-logo="" group-title="PORTUGAL HD",PT: SPORT TV 1 @720p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1209
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 @720p" tvg-logo="" group-title="PORTUGAL HD",PT: SPORT TV 2 @720p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1210
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 @720p" tvg-logo="" group-title="PORTUGAL HD",PT: SPORT TV 3 @720p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1211
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 @576p" tvg-logo="" group-title="PORTUGAL HD",PT: SPORT TV 4 @576p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1212
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 @576p" tvg-logo="" group-title="PORTUGAL HD",PT: SPORT TV 5 @576p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1213
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+ @576p" tvg-logo="" group-title="PORTUGAL HD",PT: SPORT TV+ @576p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1214
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA @720p" tvg-logo="" group-title="PORTUGAL HD",PT: SPORT TV NBA @720p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1215
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1 @720p" tvg-logo="" group-title="PORTUGAL HD",PT: ELEVEN SPORT 1 @720p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1217
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2 @720p" tvg-logo="" group-title="PORTUGAL HD",PT: ELEVEN SPORT 2 @720p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1218
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 3 @576p" tvg-logo="" group-title="PORTUGAL HD",PT: ELEVEN SPORT 3 @576p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1219
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4 @576p" tvg-logo="" group-title="PORTUGAL HD",PT: ELEVEN SPORT 4 @576p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1220
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 5 @576p" tvg-logo="" group-title="PORTUGAL HD",PT: ELEVEN SPORT 5 @576p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1221
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6 @576p" tvg-logo="" group-title="PORTUGAL HD",PT: ELEVEN SPORT 6 @576p
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1222
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 @720p" tvg-logo="" group-title="PORTUGAL HD",PT: EUROSPORT 1 @720p
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1223
 #EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 @576p" tvg-logo="" group-title="PORTUGAL HD",PT: EUROSPORT 2 @576p
