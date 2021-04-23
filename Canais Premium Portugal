@@ -31,6 +31,9 @@ https://000000
 #EXTINF:-1 tvg-id="" tvg-name="PT: BTV 1 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]BTV 1 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1110
 
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 1 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]BTV 1 FHD[/B][/COLOR][COLOR=coral][/COLOR]
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1110
+
 ##################################  GRUPO SPORT TV   ###########################################################################
 
 #EXTM3U
@@ -109,6 +112,36 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 
 
+##############################################################################################
+
+#EXTINF:-1,[COLOR yellow]OUTROS LINKS SPORT TV ONLINE[/COLOR]
+https://000000
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: SPORT TV 1 HD @1080p_hevc
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1094
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: SPORT TV 2 HD @1080p_hevc
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1095
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: SPORT TV 3 HD @1080p_hevc
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1096
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: SPORT TV 4 @576_hevc
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1097
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: SPORT TV 5 @576_hevc
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1098
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+ @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: SPORT TV+ @576_hevc
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1099
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 @720p" tvg-logo="" group-title="PORTUGAL HD",PT: SPORT TV 1 @720p
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1209
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 @720p" tvg-logo="" group-title="PORTUGAL HD",PT: SPORT TV 2 @720p
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1210
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 @720p" tvg-logo="" group-title="PORTUGAL HD",PT: SPORT TV 3 @720p
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1211
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 @576p" tvg-logo="" group-title="PORTUGAL HD",PT: SPORT TV 4 @576p
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1212
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 @576p" tvg-logo="" group-title="PORTUGAL HD",PT: SPORT TV 5 @576p
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1213
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+ @576p" tvg-logo="" group-title="PORTUGAL HD",PT: SPORT TV+ @576p
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1214
+
 
 ######################################################################################################################
 #EXTINF:-1,[COLOR yellow]LINKS DIVERSOS SPORT TV OFFLINE[/COLOR]
@@ -125,14 +158,6 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8?zerosix.m3u8
 
 #EXTINF:-1,SPORT TV 1 HD - OFFLINE
 http://45.94.149.172:9981/stream/channelid/734516007
-
-
-##############################################################################################
-
-#EXTINF:-1,[COLOR yellow]OUTROS LINKS SPORT TV[/COLOR]
-https://000000
-
-
 
  
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
