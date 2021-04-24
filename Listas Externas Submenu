@@ -4,27 +4,14 @@
  
 <channels>
 <channel>
-<name>[COLOR yellow]|||||[/COLOR][COLOR deeppink]|||||[/COLOR][COLOR orangered]|||||[/COLOR] [COLOR white] DIVERSAS LISTAS EXTERNAS[/COLOR] [COLOR orangered]||||||[/COLOR][COLOR deeppink]||||||[/COLOR][COLOR yellow]||||||[/COLOR]</name>
+<name>[COLOR yellow]|||||[/COLOR][COLOR deeppink]|||||[/COLOR][COLOR orangered]|||||[/COLOR] [COLOR white]DIVERSAS LISTAS EXTERNAS[/COLOR] [COLOR orangered]||||||[/COLOR][COLOR deeppink]||||||[/COLOR][COLOR yellow]||||||[/COLOR]</name>
 <thumbnail>https://ia601402.us.archive.org/1/items/listas-externas-sub-menu/Listas%20Externas%20sub-menu.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info>
  
  
- 
-  
-</channel>
-<channel>
-<name>[COLOR=yellow][B]LISTA CANAIS DIVERSOS[/B][/COLOR][COLOR=yellow][/COLOR]</name>
-<thumbnail>url DA IMAGEM</thumbnail>
-<externallink>https://raw.githubusercontent.com/sasuki2/IPTV/main/NEdaLJB.m3u</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channels
- 
- 
- 
+
  
 </channel>
 <channel>
