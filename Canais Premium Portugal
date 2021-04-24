@@ -161,6 +161,10 @@ http://45.94.149.172:9981/stream/channelid/734516007
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
 https://000000
 
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: ELEVEN SPORT 1 HD 
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1102
+
 #EXTINF:-1, NÃO DISPONÍVEL
 http://00000000
 
