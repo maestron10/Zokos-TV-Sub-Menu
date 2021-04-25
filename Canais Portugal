@@ -31,6 +31,8 @@ http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1128
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",FOX COMEDY SD
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1082
+#EXTINF:-1,PT: FOX COMEDY FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1465
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: EEC SecundÆrio @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",EEC SECUNDÁRIO
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1075
@@ -80,4 +82,432 @@ https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mana 1" tvg-logo="https://cdn.teleon.tv/logo/tv_mana_1_pt.png" group-title="PORTUGAL",TV MANA 1
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
+
+############################################################################################################################################
+ 
+#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA: 25/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+Fontes de Informação: https://raw.githubusercontent.com/jedi-sambora/playlist/main/iptvtree.net.m3u
+ 
+ 
+#EXTM3U
+
+#EXTINF:-1,PT: 1+1
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/187601
+#EXTINF:-1,PT: 11 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1480
+#EXTINF:-1,PT: 24 Kitchen FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/2025
+#EXTINF:-1,PT 24 Kitchen FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/274341
+#EXTINF:-1,PT: A BOLA HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1420
+
+#EXTINF:-1,PT AFRO MUSIC
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/274810
+#EXTINF:-1,PT: ALMA LUSA HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/264642
+#EXTINF:-1,PT: AMC FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1473
+#EXTINF:-1,PT: AR TV HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/9629
+#EXTINF:-1,PT: AXN Black
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/278653
+#EXTINF:-1,PT: AXN FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1469
+#EXTINF:-1,PT: AXN Movies FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1471
+#EXTINF:-1,PT: AXN White FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1467
+#EXTINF:-1,PT: AZORES TV
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/227045
+#EXTINF:-1,PT: BABY TV FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1441
+#EXTINF:-1,PT BABY TV FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/274320
+#EXTINF:-1,PT: BBC ENTERTAINEMENT
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/5937
+#EXTINF:-1,PT: BBC World News FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/11972
+#EXTINF:-1,PT: Benfica TV FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1497
+#EXTINF:-1,PT: BIGGS HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1439
+#EXTINF:-1,PT: BLAZE FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/3996
+#EXTINF:-1,PT A&E FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/275189
+#EXTINF:-1,PT: Bloomberg HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/5933
+#EXTINF:-1,PT: BOOMERANG
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/24529
+#EXTINF:-1,PT: BTV FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/8042
+#EXTINF:-1,PT: CAMPO PEQUENO HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/28029
+#EXTINF:-1,PT: CANAL 180
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/146057
+#EXTINF:-1,PT: CANAL NOVA
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/9700
+#EXTINF:-1,PT: CANAL PANDA HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1438
+#EXTINF:-1,PT: Canal Porto
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/53940
+#EXTINF:-1,PT: CANAL Q FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1430
+#EXTINF:-1,PT: Canal Ricos
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/197868
+#EXTINF:-1,PT: Cartoon Network FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1440
+#EXTINF:-1,PT CARTOON NETWORK FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/50923
+#EXTINF:-1,PT: CASA E COZINHA HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/6097
+#EXTINF:-1,PT: CASA Y PESCA HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1524
+#EXTINF:-1,PT: CBC Reality
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/278437
+#EXTINF:-1,PT: CBS REALITY FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1528
+#EXTINF:-1,PT: CGTN
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/162161
+#EXTINF:-1,PT: CINEMUNDO FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1477
+#EXTINF:-1,PT: Clubbing TV
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/11018
+#EXTINF:-1,PT: CM TV FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1412
+#EXTINF:-1,PT: CNBC FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/8038
+#EXTINF:-1,PT: CNN
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/9703
+#EXTINF:-1,PT: Crime+ Investigation HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/5928
+#EXTINF:-1,PT Crime+ Investigation HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/273251
+#EXTINF:-1,PT: Discovery Channel FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/278435
+#EXTINF:-1,PT: Discovery Showcase HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1527
+#EXTINF:-1,PT Discovery Channel FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/273679
+#EXTINF:-1,PT: Disney Channel FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1434
+#EXTINF:-1,PT Disney Channel FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/274525
+#EXTINF:-1,PT: Disney JUNIOR FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1435
+#EXTINF:-1,PT Disney JUNIOR FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/50901
+#EXTINF:-1,PT: DOG FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/9699
+#EXTINF:-1,PT: DW
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/146060
+#EXTINF:-1,PT: E! FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1526
+#EXTINF:-1,PT E! HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/50950
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1499
+#EXTINF:-1,PT ELEVEN SPORTS 1 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/37196
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1503
+#EXTINF:-1,PT ELEVEN SPORTS 2 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/37197
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1506
+#EXTINF:-1,PT ELEVEN SPORTS 3 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/37198
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1509
+#EXTINF:-1,PT ELEVEN SPORTS 4 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/37199
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1512
+#EXTINF:-1,PT ELEVEN SPORTS 5 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/37200
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1515
+#EXTINF:-1,PT ELEVEN SPORTS 6 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/37201
+#EXTINF:-1,PT: ESTUDOS EM CASA
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/278688
+#EXTINF:-1,PT: euronews HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/4007
+#EXTINF:-1,PT: EUROSPORT 1 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1517
+#EXTINF:-1,PT EUROSPORT 1 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/273583
+#EXTINF:-1,PT: EUROSPORT 2 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1518
+#EXTINF:-1,PT EUROSPORT 2 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/273584
+#EXTINF:-1,PT: FASHION TV HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/2656
+#EXTINF:-1,PT: FATIMA HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/53924
+#EXTINF:-1,PT: FIGHT BOX HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/151882
+#EXTINF:-1,PT FIGHT BOX HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/273941
+#EXTINF:-1,PT: FIGHT Network HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/9650
+#EXTINF:-1,PT: FOOD NETWORK FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/2044
+#EXTINF:-1,PT: FOX Comedy FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1465
+#EXTINF:-1,PT: FOX Crime FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1463
+#EXTINF:-1,PT: FOX FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1461
+#EXTINF:-1,PT: FOX Life FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1459
+#EXTINF:-1,PT FOX Life FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/273954
+#EXTINF:-1,PT: FOX Movies FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1457
+#EXTINF:-1,PT: FOX News HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/278445
+#EXTINF:-1,PT: FOX SPORTS
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/40345
+#EXTINF:-1,PT: france 24
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/11019
+#EXTINF:-1,PT: FUEL HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1521
+#EXTINF:-1,PT: GALICIA FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/8028
+#EXTINF:-1,PT: Gametoon HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/265257
+#EXTINF:-1,PT: GINX HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/15913
+#EXTINF:-1,PT: GLOBO BRAZIL
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/173449
+#EXTINF:-1,PT: GLOBO FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1433
+#EXTINF:-1,PT: GLOBO PORTUGAL HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/5915
+#EXTINF:-1,PT: HBO HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/24515
+#EXTINF:-1,PT: HISTORIA
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1525
+#EXTINF:-1,PT Historia
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/274307
+#EXTINF:-1,PT: Hollywood FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1455
+#EXTINF:-1,PT: Investigation Discovery FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/5914
+#EXTINF:-1,PT Investigation Discovery FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/273716
+#EXTINF:-1,PT: JimJam FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1442
+#EXTINF:-1,PT JimJam FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/274405
+#EXTINF:-1,PT: KOMBAT SPORT FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1520
+#EXTINF:-1,PT: KURIAKOS FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/9697
+#EXTINF:-1,PT: KURIAKOS KIDS HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/10828
+#EXTINF:-1,PT: LOCALVISAO HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/10335
+#EXTINF:-1,PT: Lolly Kids HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/265254
+#EXTINF:-1,PT: MAS CHIC
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/11421
+#EXTINF:-1,PT: MCM POP FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/8027
+#EXTINF:-1,PT MCM Pop
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/37240
+#EXTINF:-1,PT: MCM TOP
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/272483
+#EXTINF:-1,PT MCM TOP
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/274302
+#EXTINF:-1,PT: MEO Destaques
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/265256
+#EXTINF:-1,PT: MEO Videoclube
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/265255
+#EXTINF:-1,PT: MEZZO HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/8022
+#EXTINF:-1,PT: MOTORVISION FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/4012
+#EXTINF:-1,PT: MTV PORTUGAL
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1534
+#EXTINF:-1,PT: NAT GEO FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1530
+#EXTINF:-1,PT NAT GEO FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/274083
+#EXTINF:-1,PT: NAT GEO Wild FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1531
+#EXTINF:-1,PT NAT GEO Wild FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/274084
+#EXTINF:-1,PT: NETFLIX FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/24517
+#EXTINF:-1,PT: NHK World
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/81971
+#EXTINF:-1,PT: Nick Junior FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/9693
+#EXTINF:-1,PT Nick Junior FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/274454
+#EXTINF:-1,PT: nickelodeon HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1436
+#EXTINF:-1,PT nickelodeon FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/274924
+#EXTINF:-1,PT: Nicklelodeon HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/278392
+#EXTINF:-1,PT: NOS STUDIO FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1454
+#EXTINF:-1,PT: ODISSEIA FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1532
+#EXTINF:-1,PT: OPTO SIC HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/264644
+#EXTINF:-1,PT: PANDA BIGGS
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/278401
+#EXTINF:-1,PT: PORTO CANAL FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1419
+#EXTINF:-1,PT: QYOU
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/146066
+#EXTINF:-1,PT: REAL MADRID TV HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/9653
+#EXTINF:-1,PT: Record News
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/10988
+#EXTINF:-1,PT: Record TV FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/13295
+#EXTINF:-1,PT: RED BULL TV
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/13305
+#EXTINF:-1,PT: RTP 1 HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1404
+#EXTINF:-1,PT: RTP 2 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1406
+#EXTINF:-1,PT: RTP 3 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1418
+#EXTINF:-1,PT: RTP ACORES FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/2055
+#EXTINF:-1,PT: RTP AFRICA FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1424
+#EXTINF:-1,PT: RTP INTERNACIONAL
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/278418
+#EXTINF:-1,PT: RTP Memoria FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1425
+#EXTINF:-1,PT: S+ HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/198681
+#EXTINF:-1,PT: SIC CARAS FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/5910
+#EXTINF:-1,PT: SIC FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1408
+#EXTINF:-1,PT: SIC K HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/4021
+#EXTINF:-1,PT: SIC KIDS FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1443
+#EXTINF:-1,PT: SIC Mulher FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1427
+#EXTINF:-1,PT: SIC NOTICIAS FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1416
+#EXTINF:-1,PT: SIC RADICAL FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1429
+#EXTINF:-1,PT: Sky News
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/6100
+#EXTINF:-1,PT: SPORT TV + FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1481
+#EXTINF:-1,PT SPORT TV + HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/273473
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1483
+#EXTINF:-1,PT SPORT TV 1 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/37186
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1486
+#EXTINF:-1,PT SPORT TV 2 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/37187
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1489
+#EXTINF:-1,PT SPORT TV 3 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/37188
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1492
+#EXTINF:-1,PT SPORT TV 4 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/37189
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1495
+#EXTINF:-1,PT SPORT TV 5 HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/273474
+#EXTINF:-1,PT: SPORT TV NBA FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/2051
+#EXTINF:-1,PT: Sporting HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1519
+#EXTINF:-1,PT: SYFY FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1475
+#EXTINF:-1,PT: TCV
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/264640
+#EXTINF:-1,PT: TIJI HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/197616
+#EXTINF:-1,PT: TLC FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1479
+#EXTINF:-1,PT: TOROS TV FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1523
+#EXTINF:-1,PT: TPA
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/278687
+#EXTINF:-1,PT: TPA INTERNACIONAL
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/187605
+#EXTINF:-1,PT: TRACE TOCA
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/278560
+#EXTINF:-1,PT: TRACE URBAN
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1537
+#EXTINF:-1,PT: Travel Channel FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1529
+#EXTINF:-1,PT Travel Channel FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/274367
+#EXTINF:-1,PT: TV BNO
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/197873
+#EXTINF:-1,PT: TV Cancao Nova
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/8007
+#EXTINF:-1,PT: TV Globo HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1432
+#EXTINF:-1,PT: TV GLOBO PREMIUM
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/278652
+#EXTINF:-1,PT: TV Man
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/166324
+#EXTINF:-1,PT: TV PAI ETERNO
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/197869
+#EXTINF:-1,PT: TV Record FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1431
+#EXTINF:-1,PT: TV5 MONDE EUROPE
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/146307
+#EXTINF:-1,PT: TVC News
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/151883
+#EXTINF:-1,PT: TVCine Action FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1452
+#EXTINF:-1,PT: TVCINE EDITIOMN HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/278654
+#EXTINF:-1,PT: TVCine Edition FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/82254
+#EXTINF:-1,PT: TVCine Emotion FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1448
+#EXTINF:-1,PT: TVCine Top FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1446
+#EXTINF:-1,PT: TVCine+ HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/278686
+#EXTINF:-1,PT: TVE 24H
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/28853
+#EXTINF:-1,PT: TVE Internacional
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/5943
+#EXTINF:-1,PT: TVI 24 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1414
+#EXTINF:-1,PT: TVI FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1410
+#EXTINF:-1,PT: TVI FICCAO FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1421
+#EXTINF:-1,PT: tvi Fisclo
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/200802
+#EXTINF:-1,PT: TVI Reality FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1423
+#EXTINF:-1,PT: TVI REALITY MOSAICO
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/162154
+#EXTINF:-1,PT: VH1 HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1533
+#EXTINF:-1,PT VH1 HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/275137
+#EXTINF:-1,PT: WWE NETWORK HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/198737
+#EXTINF:-1,PT: ZAP VIVA FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/2067
 
