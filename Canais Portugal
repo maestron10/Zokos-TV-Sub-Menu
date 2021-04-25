@@ -12,24 +12,24 @@ Fontes de Informação:
  
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",RTP 1 HD 
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",RTP 1 FHD 
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1051
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",RTP 2 HD 
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",RTP 2 FHD 
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1052
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",SIC HD 
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",SIC FHD 
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1054
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",TVI FHD
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1058
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",SIC NOTICIAS
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1146
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",RTP 3
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",RTP 3 SD
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1053
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24 @576p" tvg-logo="" group-title="PORTUGAL HD",PT: TVI 24 
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24 @576p" tvg-logo="" group-title="PORTUGAL HD",TVI 24 SD
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1259
-#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",CMTV
+#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",CMTV SD
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1128
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",FOX COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",FOX COMEDY SD
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1082
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: EEC SecundÆrio @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",EEC SECUNDÁRIO
