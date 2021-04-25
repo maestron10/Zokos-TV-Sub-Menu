@@ -1,0 +1,421 @@
+##############################################################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  CANAIS DIVERSOS APP WATCH LIST (TESTE)  /////////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+http://0.0.0.0:0000
+##############################################################################################################################################################################
+ 
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| PORTUGAL",##### |PT|HEVC| PORTUGAL #####
+http://rv.therevenge.co:80/307250011110/307250011110/81833
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| PORTUGAL",|PT|HEVC| RTP 1 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81832
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| PORTUGAL",|PT|HEVC| RTP 2 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81831
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| PORTUGAL",|PT|HEVC| RTP 3 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81830
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| PORTUGAL",|PT|HEVC| SIC HD
+http://rv.therevenge.co:80/307250011110/307250011110/81829
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| PORTUGAL",|PT|HEVC| SIC MULHER HD
+http://rv.therevenge.co:80/307250011110/307250011110/81828
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| PORTUGAL",|PT|HEVC| SIC NOTICIAS HD
+http://rv.therevenge.co:80/307250011110/307250011110/81827
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| PORTUGAL",|PT|HEVC| SIC RADICAL HD
+http://rv.therevenge.co:80/307250011110/307250011110/81826
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| PORTUGAL",|PT|HEVC| SIC CARAS HD
+http://rv.therevenge.co:80/307250011110/307250011110/81825
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| PORTUGAL",|PT|HEVC| TVI FICCAO HD
+http://rv.therevenge.co:80/307250011110/307250011110/81824
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| PORTUGAL",|PT|HEVC| TVI HD
+http://rv.therevenge.co:80/307250011110/307250011110/81823
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| PORTUGAL",|PT|HEVC| TVI24 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81822
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| PORTUGAL",|PT|HEVC| PORTO CANAL HD
+http://rv.therevenge.co:80/307250011110/307250011110/81821
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| PORTUGAL",|PT|HEVC| GLOBO PORTUGAL HD
+http://rv.therevenge.co:80/307250011110/307250011110/81820
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| PORTUGAL",|PT|HEVC| ZAP VIVA HD
+http://rv.therevenge.co:80/307250011110/307250011110/81819
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| PORTUGAL",|PT|HEVC| E! ENTERTAINMENT HD
+http://rv.therevenge.co:80/307250011110/307250011110/81818
+
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| FILMES",##### |PT|HEVC| FILMES #####
+http://rv.therevenge.co:80/307250011110/307250011110/81817
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| FILMES",|PT|HEVC| AMC HD
+http://rv.therevenge.co:80/307250011110/307250011110/81816
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| FILMES",|PT|HEVC| AXN HD
+http://rv.therevenge.co:80/307250011110/307250011110/81815
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| FILMES",|PT|HEVC| AXN WHITE HD
+http://rv.therevenge.co:80/307250011110/307250011110/81814
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| FILMES",|PT|HEVC| AXN MOVIES HD
+http://rv.therevenge.co:80/307250011110/307250011110/81813
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| FILMES",|PT|HEVC| TV CINE TOP HD
+http://rv.therevenge.co:80/307250011110/307250011110/81812
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| FILMES",|PT|HEVC| TV CINE EDITION HD
+http://rv.therevenge.co:80/307250011110/307250011110/81811
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| FILMES",|PT|HEVC| TV CINE EMOTION HD
+http://rv.therevenge.co:80/307250011110/307250011110/81810
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| FILMES",|PT|HEVC| TV CINE ACTION HD
+http://rv.therevenge.co:80/307250011110/307250011110/81809
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| FILMES",|PT|HEVC| FOX HD
+http://rv.therevenge.co:80/307250011110/307250011110/81808
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| FILMES",|PT|HEVC| FOX MOVIES HD
+http://rv.therevenge.co:80/307250011110/307250011110/81807
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| FILMES",|PT|HEVC| FOX CRIME HD
+http://rv.therevenge.co:80/307250011110/307250011110/81806
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| FILMES",|PT|HEVC| FOX LIFE HD
+http://rv.therevenge.co:80/307250011110/307250011110/81805
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| FILMES",|PT|HEVC| SYFY HD
+http://rv.therevenge.co:80/307250011110/307250011110/81804
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| FILMES",|PT|HEVC| BLAZE TV HD
+http://rv.therevenge.co:80/307250011110/307250011110/81803
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| FILMES",|PT|HEVC| NOS STUDIO HD
+http://rv.therevenge.co:80/307250011110/307250011110/81802
+
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| SERIES",##### |PT|HEVC| SERIES #####
+http://rv.therevenge.co:80/307250011110/307250011110/81801
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| SERIES",|PT|HEVC| HOLLYWOOD HD
+http://rv.therevenge.co:80/307250011110/307250011110/81800
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| SERIES",|PT|HEVC| CINEMUNDO HD
+http://rv.therevenge.co:80/307250011110/307250011110/81799
+
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| CULTURA",##### |PT|HEVC| CULTURA #####
+http://rv.therevenge.co:80/307250011110/307250011110/81798
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| CULTURA",|PT|HEVC| NATIONAL GEOGRAPHIC HD
+http://rv.therevenge.co:80/307250011110/307250011110/81797
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| CULTURA",|PT|HEVC| NAT GEO WILD HD
+http://rv.therevenge.co:80/307250011110/307250011110/81796
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| CULTURA",|PT|HEVC| ID INVESTIGATION DISCOVERY HD
+http://rv.therevenge.co:80/307250011110/307250011110/81795
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| CULTURA",|PT|HEVC| TRAVEL CHANNEL HD
+http://rv.therevenge.co:80/307250011110/307250011110/81794
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| CULTURA",|PT|HEVC| HISTORIA HD
+http://rv.therevenge.co:80/307250011110/307250011110/81793
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| CULTURA",|PT|HEVC| FINE LIVING NETWORK HD
+http://rv.therevenge.co:80/307250011110/307250011110/81792
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| CULTURA",|PT|HEVC| DOG TV HD
+http://rv.therevenge.co:80/307250011110/307250011110/81791
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| CULTURA",|PT|HEVC| ODISSEIA HD
+http://rv.therevenge.co:80/307250011110/307250011110/81790
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| CULTURA",|PT|HEVC| 24 KITCHEN HD
+http://rv.therevenge.co:80/307250011110/307250011110/81789
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| CULTURA",|PT|HEVC| CASA E COZINHA HD
+http://rv.therevenge.co:80/307250011110/307250011110/81788
+
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",##### |PT|HEVC| DESPORTO #####
+http://rv.therevenge.co:80/307250011110/307250011110/81787
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| BTV 1 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81786
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| A BOLA TV HD
+http://rv.therevenge.co:80/307250011110/307250011110/81785
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| SPORTING TV HD
+http://rv.therevenge.co:80/307250011110/307250011110/81784
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| EUROSPORT 1 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81783
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| SPORT TV + HD
+http://rv.therevenge.co:80/307250011110/307250011110/81782
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| SPORT TV 1 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81781
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| SPORT TV 2 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81780
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| SPORT TV 3 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81779
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| SPORT TV NBA HD
+http://rv.therevenge.co:80/307250011110/307250011110/81778
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| ELEVEN SPORTS 1 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81777
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| ELEVEN SPORTS 2 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81776
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| ELEVEN SPORTS  3 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81775
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| ELEVEN SPORTS 4 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81774
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| ELEVEN SPORTS 5 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81773
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| ELEVEN SPORTS 6 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81772
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| FIGHT NETWORK HD
+http://rv.therevenge.co:80/307250011110/307250011110/81771
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| CANAL 11 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81770
+#EXTINF:0 tvg-id="ext" group-title="|PT|HEVC| DESPORTO",|PT|HEVC| CMTV HD
+http://rv.therevenge.co:80/307250011110/307250011110/81769
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| PORTUGAL",##### |PT| PORTUGAL #####
+http://rv.therevenge.co:80/307250011110/307250011110/81768
+#EXTINF:0 tvg-id="ext" group-title="|PT| PORTUGAL",|PT| CORONA VIRUS INFO
+http://rv.therevenge.co:80/307250011110/307250011110/81767
+#EXTINF:0 tvg-id="rtp1.pt" group-title="|PT| PORTUGAL",|PT| RTP 1 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81766
+#EXTINF:0 tvg-id="rtp2.pt" group-title="|PT| PORTUGAL",|PT| RTP 2 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81765
+#EXTINF:0 tvg-id="rtp1.pt" group-title="|PT| PORTUGAL",|PT| RTP 1
+http://rv.therevenge.co:80/307250011110/307250011110/81764
+#EXTINF:0 tvg-id="rtp2.pt" group-title="|PT| PORTUGAL",|PT| RTP 2
+http://rv.therevenge.co:80/307250011110/307250011110/81763
+#EXTINF:0 tvg-id="RTP3.pt" group-title="|PT| PORTUGAL",|PT| RTP 3
+http://rv.therevenge.co:80/307250011110/307250011110/81762
+#EXTINF:0 tvg-id="ext" group-title="|PT| PORTUGAL",|PT| RTP INTERNATIONAL
+http://rv.therevenge.co:80/307250011110/307250011110/81761
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="|PT| PORTUGAL",|PT| RTP ACORES
+http://rv.therevenge.co:80/307250011110/307250011110/81760
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="|PT| PORTUGAL",|PT| RTP AFRICA
+http://rv.therevenge.co:80/307250011110/307250011110/81759
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="|PT| PORTUGAL",|PT| RTP MADEIRA
+http://rv.therevenge.co:80/307250011110/307250011110/81758
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="|PT| PORTUGAL",|PT| RTP MEMORIA
+http://rv.therevenge.co:80/307250011110/307250011110/81757
+#EXTINF:0 tvg-id="sic.pt" group-title="|PT| PORTUGAL",|PT| SIC
+http://rv.therevenge.co:80/307250011110/307250011110/81756
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="|PT| PORTUGAL",|PT| SIC MULHER
+http://rv.therevenge.co:80/307250011110/307250011110/81755
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="|PT| PORTUGAL",|PT| SIC NOTICIAS
+http://rv.therevenge.co:80/307250011110/307250011110/81754
+#EXTINF:0 tvg-id="sicradical.pt" group-title="|PT| PORTUGAL",|PT| SIC RADICAL
+http://rv.therevenge.co:80/307250011110/307250011110/81753
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="|PT| PORTUGAL",|PT| SIC CARAS
+http://rv.therevenge.co:80/307250011110/307250011110/81752
+#EXTINF:0 tvg-id="SicK.pt" group-title="|PT| PORTUGAL",|PT| SIC K
+http://rv.therevenge.co:80/307250011110/307250011110/81751
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="|PT| PORTUGAL",|PT| CANAL Q
+http://rv.therevenge.co:80/307250011110/307250011110/81750
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="|PT| PORTUGAL",|PT| PORTO CANAL
+http://rv.therevenge.co:80/307250011110/307250011110/81749
+#EXTINF:0 tvg-id="TVE24h.pt" group-title="|PT| PORTUGAL",|PT| TVE 24H
+http://rv.therevenge.co:80/307250011110/307250011110/81748
+#EXTINF:0 tvg-id="TVI.pt" group-title="|PT| PORTUGAL",|PT| TVI
+http://rv.therevenge.co:80/307250011110/307250011110/81747
+#EXTINF:0 tvg-id="TVI24.pt" group-title="|PT| PORTUGAL",|PT| TVI 24
+http://rv.therevenge.co:80/307250011110/307250011110/81746
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="|PT| PORTUGAL",|PT| TVI FICCAO
+http://rv.therevenge.co:80/307250011110/307250011110/81745
+#EXTINF:0 tvg-id="MCSExtreme.pt" group-title="|PT| PORTUGAL",|PT| MCS EXTREME
+http://rv.therevenge.co:80/307250011110/307250011110/81744
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="|PT| PORTUGAL",|PT| TVI REALITY
+http://rv.therevenge.co:80/307250011110/307250011110/81743
+#EXTINF:0 tvg-id="tvrecord.pt" group-title="|PT| PORTUGAL",|PT| TV RECORD
+http://rv.therevenge.co:80/307250011110/307250011110/81742
+#EXTINF:0 tvg-id="ext" group-title="|PT| PORTUGAL",|PT| ZAP VIVA HD
+http://rv.therevenge.co:80/307250011110/307250011110/81741
+#EXTINF:0 tvg-id="ext" group-title="|PT| PORTUGAL",|PT| KURIAKOS TV
+http://rv.therevenge.co:80/307250011110/307250011110/81740
+#EXTINF:0 tvg-id="ext" group-title="|PT| PORTUGAL",|PT| TCV CABO
+http://rv.therevenge.co:80/307250011110/307250011110/81739
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| INFANTIL",##### |PT| INFANTIL #####
+http://rv.therevenge.co:80/307250011110/307250011110/81738
+#EXTINF:0 tvg-id="BabyTV.pt" group-title="|PT| INFANTIL",|PT| BABY TV
+http://rv.therevenge.co:80/307250011110/307250011110/81737
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="|PT| INFANTIL",|PT| CANAL PANDA
+http://rv.therevenge.co:80/307250011110/307250011110/81736
+#EXTINF:0 tvg-id="disneychannel.pt" group-title="|PT| INFANTIL",|PT| DISNEY CHANNEL
+http://rv.therevenge.co:80/307250011110/307250011110/81735
+#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="|PT| INFANTIL",|PT| DISNEY JUNIOR
+http://rv.therevenge.co:80/307250011110/307250011110/81734
+#EXTINF:0 tvg-id="cartoon.pt" group-title="|PT| INFANTIL",|PT| CARTOON NETWORK
+http://rv.therevenge.co:80/307250011110/307250011110/81733
+#EXTINF:0 tvg-id="JimJam.pt" group-title="|PT| INFANTIL",|PT| JIM JAM
+http://rv.therevenge.co:80/307250011110/307250011110/81732
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="|PT| INFANTIL",|PT| BIGGS
+http://rv.therevenge.co:80/307250011110/307250011110/81731
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="|PT| INFANTIL",|PT| NICKELODEON
+http://rv.therevenge.co:80/307250011110/307250011110/81730
+#EXTINF:0 tvg-id="NickJr.pt" group-title="|PT| INFANTIL",|PT| NICK JR.
+http://rv.therevenge.co:80/307250011110/307250011110/81729
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| ENTRETENIMENTO",##### |PT| ENTRETENIMENTO #####
+http://rv.therevenge.co:80/307250011110/307250011110/81728
+#EXTINF:0 tvg-id="eentertainment.pt" group-title="|PT| ENTRETENIMENTO",|PT| E! ENTERTAINMENT
+http://rv.therevenge.co:80/307250011110/307250011110/81727
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| FILMES",##### |PT| FILMES #####
+http://rv.therevenge.co:80/307250011110/307250011110/81726
+#EXTINF:0 tvg-id="AMC.pt" group-title="|PT| FILMES",|PT| AMC HD
+http://rv.therevenge.co:80/307250011110/307250011110/81725
+#EXTINF:0 tvg-id="AMC.pt" group-title="|PT| FILMES",|PT| AMC
+http://rv.therevenge.co:80/307250011110/307250011110/81724
+#EXTINF:0 tvg-id="axn.pt" group-title="|PT| FILMES",|PT| AXN HD
+http://rv.therevenge.co:80/307250011110/307250011110/81723
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="|PT| FILMES",|PT| AXN WHITE HD
+http://rv.therevenge.co:80/307250011110/307250011110/81722
+#EXTINF:0 tvg-id="ext" group-title="|PT| FILMES",|PT| AXN MOVIES HD
+http://rv.therevenge.co:80/307250011110/307250011110/81721
+#EXTINF:0 tvg-id="ext" group-title="|PT| FILMES",|PT| TVCINE TOP HD
+http://rv.therevenge.co:80/307250011110/307250011110/81720
+#EXTINF:0 tvg-id="ext" group-title="|PT| FILMES",|PT| TVCINE EDITION HD
+http://rv.therevenge.co:80/307250011110/307250011110/81719
+#EXTINF:0 tvg-id="ext" group-title="|PT| FILMES",|PT| TVCINE EMOTION HD
+http://rv.therevenge.co:80/307250011110/307250011110/81718
+#EXTINF:0 tvg-id="ext" group-title="|PT| FILMES",|PT| TVCINE ACTION HD
+http://rv.therevenge.co:80/307250011110/307250011110/81717
+#EXTINF:0 tvg-id="ext" group-title="|PT| FILMES",|PT| TVCINE EDITION
+http://rv.therevenge.co:80/307250011110/307250011110/81716
+#EXTINF:0 tvg-id="ext" group-title="|PT| FILMES",|PT| TVCINE ACTION
+http://rv.therevenge.co:80/307250011110/307250011110/81715
+#EXTINF:0 tvg-id="fox.pt" group-title="|PT| FILMES",|PT| FOX HD
+http://rv.therevenge.co:80/307250011110/307250011110/81714
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="|PT| FILMES",|PT| FOX MOVIES
+http://rv.therevenge.co:80/307250011110/307250011110/81713
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="|PT| FILMES",|PT| FOX COMEDY
+http://rv.therevenge.co:80/307250011110/307250011110/81712
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="|PT| FILMES",|PT| FOX CRIME HD
+http://rv.therevenge.co:80/307250011110/307250011110/81711
+#EXTINF:0 tvg-id="foxlife.pt" group-title="|PT| FILMES",|PT| FOX LIFE HD
+http://rv.therevenge.co:80/307250011110/307250011110/81710
+#EXTINF:0 tvg-id="SyFy.pt" group-title="|PT| FILMES",|PT| SYFY
+http://rv.therevenge.co:80/307250011110/307250011110/81709
+#EXTINF:0 tvg-id="ext" group-title="|PT| FILMES",|PT| NOS STUDIO HD
+http://rv.therevenge.co:80/307250011110/307250011110/81708
+#EXTINF:0 tvg-id="ext" group-title="|PT| FILMES",|PT| NOS STUDIOS HD
+http://rv.therevenge.co:80/307250011110/307250011110/81707
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTERNACIONAIS",##### |PT| INTERNACIONAIS #####
+http://rv.therevenge.co:80/307250011110/307250011110/81706
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTERNACIONAIS",|PT| GLOBO HD
+http://rv.therevenge.co:80/307250011110/307250011110/81705
+#EXTINF:0 tvg-id="GloboPremium.pt" group-title="|PT| INTERNACIONAIS",|PT| GLOBO PREMIUM
+http://rv.therevenge.co:80/307250011110/307250011110/81704
+#EXTINF:0 tvg-id="TVGalicia.pt" group-title="|PT| INTERNACIONAIS",|PT| TV GALICIA
+http://rv.therevenge.co:80/307250011110/307250011110/81703
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTERNACIONAIS",|PT| CNN
+http://rv.therevenge.co:80/307250011110/307250011110/81702
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTERNACIONAIS",|PT| SKY NEWS
+http://rv.therevenge.co:80/307250011110/307250011110/81701
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTERNACIONAIS",|PT| CNBC
+http://rv.therevenge.co:80/307250011110/307250011110/81700
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTERNACIONAIS",|PT| EURONEWS
+http://rv.therevenge.co:80/307250011110/307250011110/81699
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTERNACIONAIS",|PT| TV5 MONDE
+http://rv.therevenge.co:80/307250011110/307250011110/81698
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTERNACIONAIS",|PT| BBC WORLD NEWS
+http://rv.therevenge.co:80/307250011110/307250011110/81697
+#EXTINF:0 tvg-id="CBSReality.pt" group-title="|PT| INTERNACIONAIS",|PT| CBS REALITY
+http://rv.therevenge.co:80/307250011110/307250011110/81696
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTERNACIONAIS",|PT| BLOOMBERG
+http://rv.therevenge.co:80/307250011110/307250011110/81695
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTERNACIONAIS",|PT| FTV
+http://rv.therevenge.co:80/307250011110/307250011110/81694
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTERNACIONAIS",|PT| CANACAO NOVA
+http://rv.therevenge.co:80/307250011110/307250011110/81693
+#EXTINF:0 tvg-id="FoxNews.pt" group-title="|PT| INTERNACIONAIS",|PT| FOX NEWS
+http://rv.therevenge.co:80/307250011110/307250011110/81692
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| MUSICA",##### |PT| MUSICA #####
+http://rv.therevenge.co:80/307250011110/307250011110/81691
+#EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="|PT| MUSICA",|PT| TRACE URBAN
+http://rv.therevenge.co:80/307250011110/307250011110/81690
+#EXTINF:0 tvg-id="ext" group-title="|PT| MUSICA",|PT| TRACE TOCA
+http://rv.therevenge.co:80/307250011110/307250011110/81689
+#EXTINF:0 tvg-id="vh1.pt" group-title="|PT| MUSICA",|PT| VH1
+http://rv.therevenge.co:80/307250011110/307250011110/81688
+#EXTINF:0 tvg-id="ext" group-title="|PT| MUSICA",|PT| VH1 CLASSIC
+http://rv.therevenge.co:80/307250011110/307250011110/81687
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="|PT| MUSICA",|PT| AFRO MUSIC
+http://rv.therevenge.co:80/307250011110/307250011110/81686
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="|PT| MUSICA",|PT| MTV PORTUGAL
+http://rv.therevenge.co:80/307250011110/307250011110/81685
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="|PT| MUSICA",|PT| MCM POP
+http://rv.therevenge.co:80/307250011110/307250011110/81684
+#EXTINF:0 tvg-id="mezzo.pt" group-title="|PT| MUSICA",|PT| MEZZO
+http://rv.therevenge.co:80/307250011110/307250011110/81683
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| SERIES",##### |PT| SERIES  #####
+http://rv.therevenge.co:80/307250011110/307250011110/81682
+#EXTINF:0 tvg-id="hollywood.pt" group-title="|PT| SERIES",|PT| HOLLYWOOD HD
+http://rv.therevenge.co:80/307250011110/307250011110/81681
+#EXTINF:0 tvg-id="hollywood.pt" group-title="|PT| SERIES",|PT| HOLLYWOOD
+http://rv.therevenge.co:80/307250011110/307250011110/81680
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="|PT| SERIES",|PT| CINEMUNDO
+http://rv.therevenge.co:80/307250011110/307250011110/81679
+#EXTINF:0 tvg-id="TVSeries.pt" group-title="|PT| SERIES",|PT| TV SERIES HD
+http://rv.therevenge.co:80/307250011110/307250011110/81678
+#EXTINF:0 tvg-id="TVSeries.pt" group-title="|PT| SERIES",|PT| TV SERIES
+http://rv.therevenge.co:80/307250011110/307250011110/81677
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| CULTURA",##### |PT| CULTURA #####
+http://rv.therevenge.co:80/307250011110/307250011110/81676
+#EXTINF:0 tvg-id="discoverychannel.pt" group-title="|PT| CULTURA",|PT| DISCOVERY CHANNEL
+http://rv.therevenge.co:80/307250011110/307250011110/81675
+#EXTINF:0 tvg-id="DiscoveryHDShowcase.pt" group-title="|PT| CULTURA",|PT| DISCOVERY HD SHOWCASE
+http://rv.therevenge.co:80/307250011110/307250011110/81674
+#EXTINF:0 tvg-id="ext" group-title="|PT| CULTURA",|PT| NAT GEO GEOGRAPHIC HD
+http://rv.therevenge.co:80/307250011110/307250011110/81673
+#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="|PT| CULTURA",|PT| NAT GEO WILD
+http://rv.therevenge.co:80/307250011110/307250011110/81672
+#EXTINF:0 tvg-id="ext" group-title="|PT| CULTURA",|PT| CRIME INVESTIGATION
+http://rv.therevenge.co:80/307250011110/307250011110/81671
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="|PT| CULTURA",|PT| TRAVEL CHANNEL HD
+http://rv.therevenge.co:80/307250011110/307250011110/81670
+#EXTINF:0 tvg-id="odisseia.pt" group-title="|PT| CULTURA",|PT| ODISSEIA
+http://rv.therevenge.co:80/307250011110/307250011110/81669
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="|PT| CULTURA",|PT| 24 KITCHEN HD
+http://rv.therevenge.co:80/307250011110/307250011110/81668
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="|PT| CULTURA",|PT| HISTORIA
+http://rv.therevenge.co:80/307250011110/307250011110/81667
+#EXTINF:0 tvg-id="TLC.pt" group-title="|PT| CULTURA",|PT| TLC
+http://rv.therevenge.co:80/307250011110/307250011110/81666
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",##### |PT| DESPORTO #####
+http://rv.therevenge.co:80/307250011110/307250011110/81665
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="|PT| DESPORTO",|PT| BTV 1 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81664
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="|PT| DESPORTO",|PT| A BOLA TV
+http://rv.therevenge.co:80/307250011110/307250011110/81663
+#EXTINF:0 tvg-id="KombatSport.pt" group-title="|PT| DESPORTO",|PT| KOMBAT SPORT
+http://rv.therevenge.co:80/307250011110/307250011110/81662
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="|PT| DESPORTO",|PT| SPORTING TV
+http://rv.therevenge.co:80/307250011110/307250011110/81661
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="|PT| DESPORTO",|PT| FUEL TV
+http://rv.therevenge.co:80/307250011110/307250011110/81660
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="|PT| DESPORTO",|PT| EUROSPORT 1 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81659
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="|PT| DESPORTO",|PT| EUROSPORT 1
+http://rv.therevenge.co:80/307250011110/307250011110/81658
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="|PT| DESPORTO",|PT| EUROSPORT 2
+http://rv.therevenge.co:80/307250011110/307250011110/81657
+#EXTINF:0 tvg-id="pfc.pt" group-title="|PT| DESPORTO",|PT| PFC
+http://rv.therevenge.co:80/307250011110/307250011110/81656
+#EXTINF:0 tvg-id="CMTV.pt" group-title="|PT| DESPORTO",|PT| CMTV
+http://rv.therevenge.co:80/307250011110/307250011110/81655
+#EXTINF:0 tvg-id="TorosTV.pt" group-title="|PT| DESPORTO",|PT| TOROS TV
+http://rv.therevenge.co:80/307250011110/307250011110/81654
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="|PT| DESPORTO",|PT| SPORT TV
+http://rv.therevenge.co:80/307250011110/307250011110/81653
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="|PT| DESPORTO",|PT| SPORT TV 1 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81652
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",|PT| SPORT TV 1 HD NOS
+http://rv.therevenge.co:80/307250011110/307250011110/81651
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="|PT| DESPORTO",|PT| SPORT TV 1
+http://rv.therevenge.co:80/307250011110/307250011110/81650
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="|PT| DESPORTO",|PT| SPORT TV 2 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81649
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="|PT| DESPORTO",|PT| SPORT TV 2
+http://rv.therevenge.co:80/307250011110/307250011110/81648
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="|PT| DESPORTO",|PT| SPORT TV 3 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81647
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="|PT| DESPORTO",|PT| SPORT TV 3
+http://rv.therevenge.co:80/307250011110/307250011110/81646
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="|PT| DESPORTO",|PT| SPORT TV 4
+http://rv.therevenge.co:80/307250011110/307250011110/81645
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="|PT| DESPORTO",|PT| SPORT TV 5
+http://rv.therevenge.co:80/307250011110/307250011110/81644
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",|PT| NBA TV
+http://rv.therevenge.co:80/307250011110/307250011110/81643
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",|PT| ELEVEN SPORTS 1 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81642
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",|PT| ELEVEN SPORTS 2 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81641
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",|PT| ELEVEN SPORTS 3 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81640
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",|PT| ELEVEN SPORTS 4 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81639
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",|PT| ELEVEN SPORTS 5 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81638
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",|PT| ELEVEN SPORTS 6 HD
+http://rv.therevenge.co:80/307250011110/307250011110/81637
+#EXTINF:0 tvg-id="Motorvision.pt" group-title="|PT| DESPORTO",|PT| MOTORVISION
+http://rv.therevenge.co:80/307250011110/307250011110/81636
+#EXTINF:0 tvg-id="RealMadridTV.pt" group-title="|PT| DESPORTO",|PT| REAL MADRID TV
+http://rv.therevenge.co:80/307250011110/307250011110/81635
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",|PT| CANAL 11
+http://rv.therevenge.co:80/307250011110/307250011110/81634
