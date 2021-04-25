@@ -3,13 +3,45 @@
 http://0.0.0.0:0000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 15/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 25/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fontes de Informação: 
 * https://gist.github.com/homemdasneves/cf622bc2feef035ae532c8397f2c054f  
 * http://www.cxtv.com.br/tv/paises/portugal
+* https://github.com/sasuki2/IPTV/blob/main/NEdaLJB.m3u
 * 
  
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",RTP 1 HD 
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1051
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",RTP 2 HD 
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1052
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",SIC HD 
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1054
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",TVI FHD
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1058
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",SIC NOTICIAS
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1146
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",RTP 3
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1053
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24 @576p" tvg-logo="" group-title="PORTUGAL HD",PT: TVI 24 
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1259
+#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",CMTV
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1128
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",FOX COMEDY
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1082
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: EEC SecundÆrio @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",EEC SECUNDÁRIO
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1075
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",ZAP VIVA HD
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1088
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO NOW @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",TV GLOBO NOW
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1092
+#EXTINF:-1 tvg-id="" tvg-name="PT: CACA E PESCA @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",CAÇA E PESCA
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1123
+
 
 
 
