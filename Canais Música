@@ -12,10 +12,26 @@ Fonte de Informação - https://github.com/Free-IPTV/Countries/blob/master/YZ001
  
 #EXTM3U
  
+#EXTINF:-1,[COLOR blue]CANAIS MÚSICA PT[/COLOR]
+https://000000
+  
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV PORTUGAL @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",MTV PORTUGAL 
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1161
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE URBAN @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",TRACE URBAN 
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1162
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE TOCA @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",TRACE TOCA 
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1163
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM POP @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",MCM POP
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1164
+#EXTINF:-1 tvg-id="" tvg-name="PT: VH1 CLASSIC @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",VH1 CLASSIC
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1165
+#EXTINF:-1 tvg-id="" tvg-name="PT: MEZZO @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",MEZZO 
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1166
+#EXTINF:-1 tvg-id="" tvg-name="PT: Afro Music ®" tvg-logo="" group-title="PORTUGAL FHD",AFRO MUSIC
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2381
+ 
 #EXTINF:-1,[COLOR blue]TOP HITS[/COLOR]
 https://000000
-
-
 
 #EXTINF:-1,[COLOR=coral][B]BOX HITS SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxTV-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
