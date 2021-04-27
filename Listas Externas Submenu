@@ -22,29 +22,6 @@
 </channel>
 </channels
  
- 
-  </channel>
-<channel>
-<name>[COLOR=yellow][B]LISTA WISEPLAY TV[/B][/COLOR][COLOR=yellow][/COLOR]</name>
-<thumbnail>url DA IMAGEM</thumbnail>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/WiseplayTV.m3u</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channels
- 
- 
- 
- </channel>
-<channel>
-<name>[COLOR=yellow][B]SIMPLE TV[/B][/COLOR][COLOR=yellow][/COLOR]</name>
-<thumbnail>url DA IMAGEM</thumbnail>
-<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/SimpleTV.m3u</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channels
-
 
  
 </channel>
@@ -101,16 +78,6 @@
 </channel>
 </channels
  
- 
- </channel>
-<channel>
-<name>[COLOR=yellow][B]LISTAS FILMES[/B][/COLOR][COLOR=yellow][/COLOR]</name>
-<thumbnail>url DA IMAGEM</thumbnail>
-<externallink>https://raw.githubusercontent.com/santos246/santos246IPTVFILMESGITHUB/main/santos246IPTVFILMESGITHUB.m3u</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channels
   
  
 </channel>
@@ -124,36 +91,6 @@
 </channels
  
  
- </channel>
-<channel>
-<name>[COLOR=yellow][B]LISTA TV PT + FILMES E SÉRIES[/B][/COLOR][COLOR=yellow][/COLOR]</name>
-<thumbnail>url DA IMAGEM</thumbnail>
-<externallink>https://raw.githubusercontent.com/leandro-brandao96/leandro-brandao96_Playlist/main/leandro-brandao96_Playlist_Public.m3u</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channels
- 
-  
-</channel>
-<channel>
-<name>[COLOR=yellow][B]LISTA CANAIS LATINO[/B][/COLOR][COLOR=yellow][/COLOR]</name>
-<thumbnail>url DA IMAGEM</thumbnail>
-<externallink>https://pastebin.com/raw/NYShzeEt</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channels
- 
- 
-</channel>
-<channel>
-<name>[COLOR=yellow][B]LISTA CANAIS DIVERSOS 1[/B][/COLOR][COLOR=yellow][/COLOR]</name>
-<thumbnail>url DA IMAGEM</thumbnail>
-<externallink>https://raw.githubusercontent.com/rolandosegundo/tv2/main/README.m3u</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channels
+
   
 
