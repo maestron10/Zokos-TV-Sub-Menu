@@ -16,7 +16,19 @@
 <channel>
 <name>[COLOR=yellow][B]LISTA CANAIS PT E OUTROS[/B][/COLOR][COLOR=yellow][/COLOR]</name>
 <thumbnail>url DA IMAGEM</thumbnail>
-<externallink>https://raw.githubusercontent.com/sasuki2/IPTV/main/NEdaLJB(YouTube).m3u</externallink>
+<externallink>https://raw.githubusercontent.com/sasuki2/IPTV/main/NEdaLJB.m3u</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channels
+ 
+ 
+ 
+  </channel>
+<channel>
+<name>[COLOR=yellow][B]MENU SPHINXROOT[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<thumbnail>url DA IMAGEM</thumbnail>
+<externallink>https://raw.githubusercontent.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/master/Menu</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
 </channel>
