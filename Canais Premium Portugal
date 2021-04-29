@@ -5,14 +5,14 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 25/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 29/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
 
 ÚLTIMAS FONTES VÁLIDAS: 
 *** FONTE 1 - https://github.com/sasuki2/IPTV/blob/main/NEdaLJB.m3u
-*** FONTE 2 -https://raw.githubusercontent.com/jedi-sambora/playlist/main/iptvtree.net.m3u
+*** FONTE 2 - https://raw.githubusercontent.com/jedi-sambora/playlist/main/iptvtree.net.m3u
 *** FONTE 3 - https://pastebin.com/jzmG9tec
 *** FONTE 4 - https://github.com/thanh51/repository.thanh51/blob/master/TV.m3u
 *** FONTE 5 - ÁREA DESPORTO MAGELLAN - https://pastebin.com/raw/kdUL7Zap
@@ -29,11 +29,9 @@ LINKS DE CAPTURA DE CANAIS STREAMING LIVE
 #EXTINF:-1,[COLOR blue]BENFICA TV[/COLOR]
 https://000000
 
+#EXTINF:-1,NÃO DISPONÍVEIS
+http://000000
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 1 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]BTV 1 FHD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1110
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 1 @720p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]BTV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1225
 
 
 ##################################  GRUPO SPORT TV   ###########################################################################
@@ -105,35 +103,6 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8?zerosix.m3u8
 #EXTINF:-1,[COLOR yellow]LINKS DIVERSOS SPORT TV ONLINE[/COLOR]
 https://000000
 
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+ @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]SPORT TV +[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1099
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV+ @576p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]SPORT TV +[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1214
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]SPORT TV NBA HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1100
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1094
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 @720p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1209
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]SPORT TV 2 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1095
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 @720p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]SPORT TV 2 HD[/B][/COLOR][COLOR=coral][/COLOR] 
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1210
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]SPORT TV 3 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1096
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 @720p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]SPORT TV 3 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1211
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]SPORT TV 4 HD[/B][/COLOR][COLOR=coral][/COLOR] 
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1097
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 @576p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]SPORT TV 4 HD[/B][/COLOR][COLOR=coral][/COLOR] 
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1212
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]SPORT TV 5 HD[/B][/COLOR][COLOR=coral][/COLOR] 
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1098
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 @576p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]SPORT TV 5 HD[/B][/COLOR][COLOR=coral][/COLOR] 
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1213
-
-
 #EXTINF:-1,SPORT TV 1 HD (OFFLINE)
 http://45.94.149.172:9981/stream/channelid/734516007
 
@@ -146,30 +115,8 @@ http://45.94.149.172:9981/stream/channelid/734516007
 https://000000
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]ELEVEN SPORT 1 FHD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1102
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1 @720p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]ELEVEN SPORT 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1217
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]ELEVEN SPORT 2 FHD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1103
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2 @720p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]ELEVEN SPORT 2 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1218
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 3 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]ELEVEN SPORT 3 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1104
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 3 @576p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]ELEVEN SPORT 3 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1219
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]ELEVEN SPORT 4 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1105
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4 @576p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]ELEVEN SPORT 4 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1220
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 5 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]ELEVEN SPORT 5 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1106
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 5 @576p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]ELEVEN SPORT 5 HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1221
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]ELEVEN SPORT 6 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1107
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6 @576p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]ELEVEN SPORT 6 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1222
 
 
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
@@ -178,41 +125,26 @@ http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1222
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM CINEMA[/COLOR]
 https://000000
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIO HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]NOS STUDIO FHD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1090
-#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIO @720p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]NOS STUDIO HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1205
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE TOP HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]TVCINE TOP HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1069
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE TOP @720p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]TVCINE TOP HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1185
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EDITION HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]TVCINE EDITION HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1070
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EDITION @720p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]TVCINE EDITION HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1186
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EMOTION HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1071
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EMOTION @720p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1187
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE ACTION HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]TVCINE ACTION HD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE ACTION HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",PT: TVCINE ACTION HD @1080p_hevc
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1072
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE ACTION HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]TVCINE ACTION FHD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1072
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE TOP @720p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]TVCINE TOP[/B][/COLOR][COLOR=coral][/COLOR]
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1185
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EDITION @720p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]TVCINE EDITION[/B][/COLOR][COLOR=coral][/COLOR]
+http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1186
+
+
 
 
 
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM ADULTOS[/COLOR]
 https://000000
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: HOT @576p" tvg-logo="" group-title="PORTUGAL HD",HOT HD
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2389
-#EXTINF:-1 tvg-id="" tvg-name="PT: Playboy TV ®" tvg-logo="" group-title="PORTUGAL FHD",PLAYBOY TV HD
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2390
-#EXTINF:-1 tvg-id="" tvg-name="PT: Venus ®" tvg-logo="" group-title="PORTUGAL FHD",VENUS HD
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2393
-#EXTINF:-1 tvg-id="" tvg-name="PT: Venus @576p" tvg-logo="" group-title="PORTUGAL HD",VENUS HD 
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2395
-
+#EXTINF:-1,NÃO DISPONÍVEIS
+http://000000
 
 
 
