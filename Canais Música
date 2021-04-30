@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 26/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 30/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #########################################################################################################################################################################
  
@@ -22,20 +22,14 @@ http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1162
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1163
 #EXTINF:-1 tvg-id="" tvg-name="PT: MCM POP @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]MCM POP[/B][/COLOR][COLOR=coral][/COLOR]
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1164
-#EXTINF:-1 tvg-id="" tvg-name="PT: VH1 CLASSIC @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]VH1 CLASSIC[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1165
-#EXTINF:-1 tvg-id="" tvg-name="PT: MEZZO @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]MEZZO[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1166
-#EXTINF:-1 tvg-id="" tvg-name="PT: Afro Music ®" tvg-logo="" group-title="PORTUGAL FHD",[COLOR=coral][B]AFRO MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2381
+
  
 #EXTINF:-1,[COLOR blue]TOP HITS[/COLOR]
 https://000000
 
 #EXTINF:-1,[COLOR=coral][B]TRACE BRAZUCA[/B][/COLOR][COLOR=coral][/COLOR]
 https://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
-#EXTINF:-1,[COLOR=coral][B][V] HD[/B][/COLOR][COLOR=coral][/COLOR]
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1,[COLOR=coral][B]NRG 91[/B][/COLOR][COLOR=coral][/COLOR]
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 
@@ -112,9 +106,6 @@ http://159.69.56.148:25461/M3UMix247/89ph5uifoi/25
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]MOLA TV[/B][/COLOR][COLOR=coral][/COLOR]
-http://ventdelnord.tv:8080/mola/directe.m3u8
-
 #EXTINF:-1 tvg-id="BritAsiaTV.uk" tvg-name="Brit Asia TV" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",[COLOR=coral][B]BRIT ASIA TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
  
@@ -130,9 +121,6 @@ https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="",[COLOR=coral][B]CLUBBING TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-418,[COLOR=coral][B]CLUBBING TV[/B][/COLOR][COLOR=coral][/COLOR]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e551-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=70bc0c2a-93a5-4713-b658-cad49ec55f38&userId=&serverSideAds=true
- 
 #EXTINF:-1,[COLOR=coral][B]EURODANCE 90 TV [/B][/COLOR][COLOR=coral][/COLOR]
 http://eurodance.catcast.tv/content/36987/index.m3u8
 
@@ -167,7 +155,6 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Tropical" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIC",[COLOR=coral][B]MIX 24/7 HITS - TROPICAL[/B][/COLOR][COLOR=coral][/COLOR]
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
-
 #EXTINF:-1,[COLOR=coral][B]MIX 24/7 - VINTAGE[/B][/COLOR][COLOR=coral][/COLOR]
 http://159.69.56.148:25461/M3UMix247/89ph5uifoi/6
 
@@ -210,9 +197,6 @@ https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]TELERITMO[/B][/COLOR][COLOR=coral][/COLOR]
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6Z3uZLtG4Pw/maxresdefault.jpg" group-title="Without category",[COLOR=coral][B]EURO LATINO TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]TOP LATINO TV PERU[/B][/COLOR][COLOR=coral][/COLOR]
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 
@@ -295,7 +279,7 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u
 
 #############################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA 2 REVISTA: 22/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 2 REVISTA: 30/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
   
 #EXTM3U
  
@@ -370,18 +354,14 @@ https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]MUZZIK OKK SERBIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]LA KARIBENA PERU[/B][/COLOR][COLOR=coral][/COLOR]
-https://cu.onliv3.com/livevd/user1.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]TOP LATINO TV PERU[/B][/COLOR][COLOR=coral][/COLOR]
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]ONDA DIGITAL PERU[/B][/COLOR][COLOR=coral][/COLOR]
 http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]LA MEGA MUNDIAL USA[/B][/COLOR][COLOR=coral][/COLOR]
 https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]TELEMUSICA COLOMBIA[/B][/COLOR][COLOR=coral][/COLOR]
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]MUSIC TOP ARGENTINA[/B][/COLOR][COLOR=coral][/COLOR]
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]DITTY TV USA EN[/B][/COLOR][COLOR=coral][/COLOR]
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
