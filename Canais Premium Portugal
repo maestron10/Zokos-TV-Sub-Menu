@@ -103,18 +103,9 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8?zerosix.m3u8
 #EXTINF:-1,[COLOR yellow]LINKS DIVERSOS SPORT TV ONLINE[/COLOR]
 https://000000
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",SPORT TV 1 HD
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1094
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",SPORT TV 2 HD 
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1095
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",SPORT TV 3 HD 
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1096
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",SPORT TV 4
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1097
+#EXTINF:-1, NÃO DISPONÍVEIS
+http://000000
 
-
-#EXTINF:-1,SPORT TV 1 HD (OFFLINE)
-http://45.94.149.172:9981/stream/channelid/734516007
 
  
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -153,9 +144,8 @@ http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1186
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM ADULTOS[/COLOR]
 https://000000
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: HOT ®" tvg-logo="" group-title="PORTUGAL FHD",HOT HD
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/2387
-
+#EXTINF:-1, NÃO DISPONÍVEIS
+http://000000
 
 
 
