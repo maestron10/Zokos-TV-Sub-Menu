@@ -112,6 +112,17 @@
 </channels
  
  
+ </channel>
+<channel>
+<name>[COLOR=yellow][B]LISTA TESTE PAÍSES[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<thumbnail>url DA IMAGEM</thumbnail>
+<externallink>https://raw.githubusercontent.com/boomski/TV/master/TV%20INDEX/iptv.org.xml</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channels
+ 
+ 
 
   
 
