@@ -9,10 +9,9 @@ Fonte de informação: http://iptv-world-link.blogspot.com/2020/04/iptv-sport-ur
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA 1 REVISTA: 30/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 1 REVISTA: 08/05/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
-#EXTINF:0 tvg-id="Esport3.es" group-title="Deportivos",Esport 3
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
+
 #EXTINF:-1,RACING.COM 
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1,BEK SPORTS WEST 
@@ -53,8 +52,7 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",BEK SPORTS WEST
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",CCTV
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+
 #EXTINF:0 tvg-id="DDSports.in" group-title="Sport",DD SPORTS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:0 tvg-id="DDSports.in" group-title="Sport",DD SPORTS
@@ -72,15 +70,11 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 #EXTINF:0 tvg-id="ext" group-title="Sport",DUBAI SPORTS 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
  
-#EXTINF:0 tvg-id="ext" group-title="Sport",ESPORT CLUB
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",FOX SPORTS HD 1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",FOX SPORTS NEWS
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
  
-#EXTINF:0 tvg-id="ext" group-title="Sport",NEW JAPAN PRO WRESTLING WORLD
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",OMAN SPORT
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",RACING.COM
@@ -89,9 +83,6 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",RED BULL TV
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 
- 
-#EXTINF:0 tvg-id="ext" group-title="Sport",TELECARIBE DEPORTES
-https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",TURKMENISTAN SPORT
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
@@ -100,7 +91,7 @@ https://persik.tv/stream/3602/287583/10249.m3u8
  
  
 #################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]LISTA 2 ADICIONADA: 30/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 2 REVISTA: 08/05/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
  
@@ -170,7 +161,7 @@ https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",EDGE SPORTS (1080p)
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Sport",ELEVEN SPORTS
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Sport",WORLD POKER TOUR
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ESPN.uk" group-title="Sport",ESPN (720p)
 https://gma2.blab.email/fs2.m3u8
@@ -180,14 +171,11 @@ https://gma2.blab.email/espn2.m3u8
 https://gma2.blab.email/espnews.m3u8
 #EXTINF:0 tvg-id="ESPNU.us" group-title="Sport",ESPN U (720p)
 https://gma2.blab.email/espnu.m3u8
-#EXTINF:0 tvg-id="Esport3.es" group-title="Sport",ESPORT 3 (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
-#EXTINF:0 tvg-id="Esport3.es" group-title="Sport",ESPORT 3 (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Sport",FC BAYERN MUNCHEN TV (1080p)
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/master.m3u8
  
-#EXTINF:0 tvg-id="Fightnetwork.gr" group-title="Sport",Fight Network
+#EXTINF:0 tvg-id="Fightnetwork.gr" group-title="Sport",FIGHT NETWORK
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="Sport",FOX SPORTS 2 ASIA (720p)
@@ -198,8 +186,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",FOX SPORTS HD 1 (720p)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",GEM Fit [Geo-blocked]
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist_960x540_2000k.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Sport",GOLF NETWORK
 http://203.162.235.41:16924
 #EXTINF:0 tvg-id="ext" group-title="Sport",GRVTY
@@ -237,8 +224,6 @@ https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",MONTERRICO TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",NEW JAPAN PRO WRESTING WORLD
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="Sport",OMAN SPORT (1080p)
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
@@ -313,16 +298,15 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:0 tvg-id="viasat-sport" group-title="Sport",VIASAT SPORT EAST
 https://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",Win Sports+
+#EXTINF:0 tvg-id="ext" group-title="Sport",WIN SPORTS +
 http://saypopular.com:25461/oscar/20gar/52853
-#EXTINF:0 tvg-id="ext" group-title="Sport",Wired2Fish
+#EXTINF:0 tvg-id="ext" group-title="Sport",WIRED2FISH
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",WORLD OF FREESPORTS
+#EXTINF:0 tvg-id="ext" group-title="Sport",WORLD OF FREE SPORTS
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",WORLD OF FREESPORTS
+#EXTINF:0 tvg-id="ext" group-title="Sport",WORLD OF FREE SPORTS
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",WORLD OF FREESPORTS
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Sport",WORLD POKER TOUR (1080p)
 https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",YAS TV (1080p)
