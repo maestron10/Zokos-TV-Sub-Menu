@@ -135,11 +135,14 @@ https://000000
 #EXTINF:-1,[COLOR=coral][B]BARAZA DANCE HITS - OFFLINE[/B][/COLOR][COLOR=coral][/COLOR]
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]DANCE TRIPPING TV - BEST OF DANCE[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=coral][B]DANCE TV - BEST OF DANCE[/B][/COLOR][COLOR=coral][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]DANCE TRIPPING TV - BEST OF TECNHO[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=coral][B]DANCE TV - BEST OF TECNHO[/B][/COLOR][COLOR=coral][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionthree/2/dancetelevisionthree.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]DANCE TV - DEEP HOUSE[/B][/COLOR][COLOR=coral][/COLOR]
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="",[COLOR=coral][B]CLUBBING TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
@@ -147,8 +150,8 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]EURODANCE 90 TV [/B][/COLOR][COLOR=coral][/COLOR]
 http://eurodance.catcast.tv/content/36987/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]DANCE STAR TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]DANCE STAR TV HD[/B][/COLOR][COLOR=coral][/COLOR]
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]DANCE STAR TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_540p.m3u8
@@ -156,6 +159,10 @@ https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_540p.m3u8
 # https://www.youtube.com/channel/UCalCDSmZAYD73tqVZ4l8yJg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=coral][B]ASOT TV[/B][/COLOR][COLOR=coral][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
+
+# https://www.youtube.com/channel/UCGZXYc32ri4D0gSLPf2pZXQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=coral][B]ARMADA TV LIVE[/B][/COLOR][COLOR=coral][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=A28cWFMxvWg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8Ak6qR.png" group-title="",[COLOR=coral][B]IBIZA GLOBAL TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
