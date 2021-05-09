@@ -164,6 +164,10 @@ plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=coral][B]ARMADA TV LIVE[/B][/COLOR][COLOR=coral][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=A28cWFMxvWg
 
+# https://www.youtube.com/watch?v=I83XWCSBgSc&ab_channel=Spinnin%27Records
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=coral][B]SPINNING RECORD TV[/B][/COLOR][COLOR=coral][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=I83XWCSBgSc
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8Ak6qR.png" group-title="",[COLOR=coral][B]IBIZA GLOBAL TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 
