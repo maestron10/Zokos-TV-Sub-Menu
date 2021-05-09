@@ -24,11 +24,14 @@ http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1163
 http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1164
 
  
-#EXTINF:-1,[COLOR blue]TOP HITS[/COLOR]
+#EXTINF:-1,[COLOR blue]BEST TOP HITS[/COLOR]
 https://000000
 
 #EXTINF:-1,[COLOR=coral][B]TRACE BRAZUCA[/B][/COLOR][COLOR=coral][/COLOR]
 https://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]V2BEAT TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://abr.de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]NRG 91[/B][/COLOR][COLOR=coral][/COLOR]
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
@@ -111,12 +114,32 @@ https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
  
 ###########################################################################################
  
+#EXTINF:-1,[COLOR blue]GRUPO TRACE TV FRANCÊS[/COLOR]
+https://000000
+ 
+#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca" tvg-country="FR" tvg-language="" tvg-logo="" group-title="Music",[COLOR=coral][B]TRACE BRAZUCA[/B][/COLOR][COLOR=coral][/COLOR]
+https://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="Trace Latina" tvg-country="FR" tvg-language="" tvg-logo="" group-title="Music",[COLOR=coral][B]TRACE LATINA[/B][/COLOR][COLOR=coral][/COLOR]
+https://mj1b2xsspj.singularcdn.net.br/trace/latina/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="TraceToca.fr" tvg-name="Trace Toca" tvg-country="FR" tvg-language="" tvg-logo="" group-title="Music",[COLOR=coral][B]TRACE TOCA[/B][/COLOR][COLOR=coral][/COLOR]
+https://mj1b2xsspj.singularcdn.net.br/trace/toca/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" tvg-country="FR" tvg-language="" tvg-logo="" group-title="Music",[COLOR=coral][B]TRACE URBAN[/B][/COLOR][COLOR=coral][/COLOR]
+https://mj1b2xsspj.singularcdn.net.br/trace/urbanint/6/prog_index.m3u8
+ 
+ ###########################################################################################
+ 
 #EXTINF:-1,[COLOR blue]MÚSICA ELECTRÓNICA[/COLOR]
 https://000000
 
  
-#EXTINF:-1,[COLOR=coral][B]BARAZA DANCE  HITS[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=coral][B]BARAZA DANCE HITS - OFFLINE[/B][/COLOR][COLOR=coral][/COLOR]
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]DANCE TRIPPING TV - BEST OF DANCE[/B][/COLOR][COLOR=coral][/COLOR]
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]DANCE TRIPPING TV - BEST OF TECNHO[/B][/COLOR][COLOR=coral][/COLOR]
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/2/dancetelevisionthree.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="",[COLOR=coral][B]CLUBBING TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
@@ -126,6 +149,9 @@ http://eurodance.catcast.tv/content/36987/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]DANCE STAR TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]DANCE STAR TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_540p.m3u8
  
 # https://www.youtube.com/channel/UCalCDSmZAYD73tqVZ4l8yJg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=coral][B]ASOT TV[/B][/COLOR][COLOR=coral][/COLOR]
@@ -213,6 +239,9 @@ http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 #EXTINF:-1,[COLOR blue]OUTROS GÉNEROS[/COLOR]
 https://000000
 
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/6Yr0Axp.png",[COLOR=coral][B]CHOISE TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://vod.streams.ovh:3528/stream/play.m3u8
+
 #EXTINF:-1,[COLOR=coral][B]SEXY KPOP TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w330920962.m3u8
 
@@ -233,9 +262,6 @@ http://hitmusic.hu/hitmusic.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]CMC[/B][/COLOR][COLOR=coral][/COLOR]
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,[COLOR=coral][B]V2BEAT TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://abr.de1se01.v2beat.live/playlist.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]DEEJAY TV SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
