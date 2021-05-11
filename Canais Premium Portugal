@@ -98,18 +98,6 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,[COLOR=coral][B]SPORT TV 5 SD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8?zerosix.m3u8
 
-
-#################################################################################################################################################
-#EXTINF:-1,[COLOR yellow]OUTROS CANAIS ONDE DÁ A BOLA[/COLOR]
-https://000000
-
-
-#EXTINF:-1, RTP INTERNACIONAL (STREAMS)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8
-
-#EXTINF:-1, RTP INTERNACIONAL (STREAMS)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
-
 #################################################################################################################################################
 #EXTINF:-1,[COLOR yellow]LINKS DIVERSOS SPORT TV OFFLINE[/COLOR]
 https://000000
