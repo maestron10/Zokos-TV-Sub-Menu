@@ -40,7 +40,7 @@ http://000000
  
 #EXTINF:-1,[COLOR yellow]LINKS SPORT TV ONLINE[/COLOR]
 https://000000
- 
+
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",[COLOR=coral][B]SPORT TV 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 
@@ -98,6 +98,17 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,[COLOR=coral][B]SPORT TV 5 SD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8?zerosix.m3u8
 
+
+#################################################################################################################################################
+#EXTINF:-1,[COLOR yellow]OUTROS CANAIS ONDE DÁ A BOLA[/COLOR]
+https://000000
+
+
+#EXTINF:-1, RTP INTERNACIONAL (STREAMS)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8
+
+#EXTINF:-1, RTP INTERNACIONAL (STREAMS)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 
 #################################################################################################################################################
 #EXTINF:-1,[COLOR yellow]LINKS DIVERSOS SPORT TV OFFLINE[/COLOR]
