@@ -12,7 +12,7 @@
  
 <channels>
 <channel>
-<name>[COLOR=gold][B]Canais de Música 1[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]CANAIS DE MÚSICA[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601408.us.archive.org/15/items/canais-musica-2/Canais%20Musica%202.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20M%C3%BAsica</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
@@ -21,7 +21,7 @@
  
 <channels>
 <channel>
-<name>[COLOR=gold][B]TV e Rádio Música[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]TV E RÁDIOS MÚSICA[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601404.us.archive.org/30/items/tv-e-radio-musica/TV%20e%20R%C3%A1dio%20Musica.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/music.m3u</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
@@ -30,7 +30,7 @@
  
  <channels>
 <channel>
-<name>[COLOR=gold][B]TDTChannels[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]TDTCHANNELS[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601502.us.archive.org/34/items/tdt-channels_202104/TDT%20Channels.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/TDTChannels</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
@@ -40,7 +40,7 @@
  
 <channels>
 <channel>
-<name>[COLOR=gold][B]Canais Premium PT[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]CANAIS PREMIUM PT[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601407.us.archive.org/16/items/premium-desporto/Premium%20Desporto.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20Premium%20Portugal</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
@@ -49,7 +49,7 @@
  
 <channels>
 <channel>
-<name>[COLOR=gold][B]Desporto Mundial 1[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]DESPORTO MUNDIAL[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601504.us.archive.org/29/items/desporto-mundial/Desporto%20Mundial.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20desporto%20Mundial</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
@@ -58,7 +58,7 @@
  
 <channels>
 <channel>
-<name>[COLOR=gold][B]Canais TV Portugal[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]CANAIS TV PT[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601405.us.archive.org/33/items/canais-pt/Canais%20PT.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20Portugal</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
@@ -67,7 +67,7 @@
  
 <channels>
 <channel>
-<name>[COLOR=gold][B]Canais TV Diversos[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]CANAIS TV DIVERSOS[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601504.us.archive.org/16/items/canais-tv-diversos/Canais%20TV%20Diversos.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/f7qRrkb6</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
@@ -77,7 +77,7 @@
  
 <channels>
 <channel>
-<name>[COLOR=gold][B]Canais TV Mundiais[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]CANAIS TV PAÍSES[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601400.us.archive.org/27/items/canais-mundiais-2/Canais%20Mundiais%202.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/M51FaCem</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
@@ -86,7 +86,7 @@
  
 <channels>
 <channel>
-<name>[COLOR=gold][B]Streaming Grátis[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]STREAMING GRÁTIS[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia801702.us.archive.org/26/items/streaming-gratis/Streaming%20Gr%C3%A1tis.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/iNcLbSLq</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
