@@ -7,16 +7,20 @@ http://0.0.0.0:0000
 #EXTM3U
  
 
-#EXTINF:-1,[COLOR blue]FESTA DO TÍTULO 20/21[/COLOR]
+#EXTINF:-1,[COLOR blue]FESTA DO TÍTULO 2020/2021[/COLOR]
 https://000000
 
 #EXTINF:-1,SPORTING CAMPEÃO 2020/2021 - DENTRO DO ESTÁDIO 
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xzNI_SMGzy0&ab_channel=FutebolaoRubroFutebolaoRubro
  
- #EXTINF:-1,SPORTING CAMPEÃO 2020/2021 - ADEPTOS A FESTEJAR
- https://video.sicnoticias.pt/sicnot/2021-05-12/e727df19-b68c-4be5-a213-5551c4c43d55_clip-festa-sporting/432p.m3u8
+#EXTINF:-1,SPORTING CAMPEÃO 2020/2021 - FESTA CONFERÊNCIA IMPRENSA 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iouPQa-qP2U&ab_channel=S%C3%B3eusei
+ 
+#EXTINF:-1,SIC NOTICIAS 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=U5uEay1xKzI&ab_channel=SportingJovemSportingJovem
 
-
+#EXTINF:-1,RTP 3 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iouPQa-qP2U&ab_channel=S%C3%B3eusei
 
 #EXTINF:-1,[COLOR blue]HINOS DO SPORTING[/COLOR]
 https://000000
