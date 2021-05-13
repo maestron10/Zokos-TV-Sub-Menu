@@ -6,22 +6,40 @@ http://0.0.0.0:0000
 
 #EXTM3U
  
- 
-#EXTINF:-1,SPORTING CAMPEÃO 2020/2021 - FESTA 
+
+#EXTINF:-1,[COLOR blue]FESTA DO TÍTULO 20/21[/COLOR]
+https://000000
+
+#EXTINF:-1,SPORTING CAMPEÃO 2020/2021 - DENTRO DO ESTÁDIO 
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xzNI_SMGzy0&ab_channel=FutebolaoRubroFutebolaoRubro
  
+ #EXTINF:-1,SPORTING CAMPEÃO 2020/2021 - ADEPTOS A FESTEJAR
+ https://video.sicnoticias.pt/sicnot/2021-05-12/e727df19-b68c-4be5-a213-5551c4c43d55_clip-festa-sporting/432p.m3u8
+
+
+
+#EXTINF:-1,[COLOR blue]HINOS DO SPORTING[/COLOR]
+https://000000
+
+#EXTINF:-1,SPORTING, FAÇAM-NOS ACREDITAR 2020/21 (MARÇO 2021)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3NfSkL6rtz8
+
+#EXTINF:-1,SPORTING...SÓ EU SEI - PAULO FERNANDES (MÚSICA FEV. 2016)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8cr8Al9qUC4&ab_channel=PauloFernandes
+
+#EXTINF:-1,HINO OFICIAL DO SPORTING POR MARIA JOSÉ VALÉRIO (LETRA) 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GBtd_W6n5pQ&ab_channel=HimnosFutbolChile
+ 
+
+#EXTINF:-1,[COLOR blue]SPORTING[/COLOR]
+https://000000
+
 #EXTINF:-1,HISTÓRIA DO SCP E CONQUISTAS (VÍDEO)
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cBXViDOI9EM&ab_channel=Deadlylucifer
  
 #EXTINF:-1,HISTÓRIA DO FUTEBOL DO SPORTING (DOCUMENTÁRIO)
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sjLr0DHBKCE&ab_channel=Sóeusei
- 
-#EXTINF:-1,HINO DO SPORTING POR MARIA JOSÉ VALÉRIO (LETRA) 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GBtd_W6n5pQ&ab_channel=HimnosFutbolChile
- 
-#EXTINF:-1,SPORTING...SÓ EU SEI - PAULO FERNANDES (MÚSICA)
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8cr8Al9qUC4&ab_channel=PauloFernandes
- 
+
 #EXTINF:-1,ONDE TU FORES JOGAR - VIDEO OFICIAL 2015
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YhmdbMNCn28&ab_channel=DIRECTIVOULTRASXXI
  
@@ -36,4 +54,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rpBI4X
  
 #EXTINF:-1,NOS BASTIDORES DO CAMPEÃO: SPORTING 2001/2002
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=307Y4vjyNOo&ab_channel=Sóeusei
- 
+
+
+
