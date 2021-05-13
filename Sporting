@@ -16,9 +16,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xzNI_S
 #EXTINF:-1,SPORTING CAMPEÃO,FESTA CONFERÊNCIA IMPRENSA 
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iouPQa-qP2U&ab_channel=Sv4DbOOizgA&ab_channel=CMCTV
  
-#EXTINF:-1,SIC NOTICIAS 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=U5uEay1xKzI&ab_channel=SportingJovemSportingJovem
-
 #EXTINF:-1,RTP 3 
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iouPQa-qP2U&ab_channel=S%C3%B3eusei
 
