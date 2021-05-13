@@ -6,6 +6,10 @@ http://0.0.0.0:0000
 
 #EXTM3U
  
+ 
+#EXTINF:-1,SPORTING CAMPEÃO 2020/2021 - FESTA 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xzNI_SMGzy0&ab_channel=FutebolaoRubroFutebolaoRubro
+ 
 #EXTINF:-1,HISTÓRIA DO SCP E CONQUISTAS (VÍDEO)
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cBXViDOI9EM&ab_channel=Deadlylucifer
  
