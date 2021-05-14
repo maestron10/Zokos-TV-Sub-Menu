@@ -1,0 +1,277 @@
+####################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]/////////////////  CANAIS DIVERSOS 1 //////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+http://0.0.0.0:000000
+####################################################################################################################################
+ 
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 30/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+ 
+##########################################################################################################################
+ 
+#EXTM3U
+ 
+#EXTINF:-1,[COLOR blue]CANAIS DE DESPORTO[/COLOR]
+https://000000
+ 
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=coral][B]RED BULL TV FHD[/B][/COLOR][COLOR=coral][/COLOR]
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+ 
+#EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=coral][B]RED BULL TV HD[/B][/COLOR][COLOR=coral][/COLOR]
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="UK",[COLOR=coral][B]EDGE SPORTS UK[/B][/COLOR][COLOR=coral][/COLOR]
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="USA",[COLOR=coral][B]EDGE SPORTS USA[/B][/COLOR][COLOR=coral][/COLOR]
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sjOIOkK.png" group-title="USA DISTRO",[COLOR=coral][B]HORIZON SPORTS[/B][/COLOR][COLOR=coral][/COLOR]
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CzsBnvf.png" group-title="USA",[COLOR=coral][B]HORIZON SPORTS[/B][/COLOR][COLOR=coral][/COLOR]
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oitvOug.png" group-title="USA DISTRO",[COLOR=coral][B]WORLD OF FREE SPORTS TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oitvOug.png" group-title="UK",[COLOR=coral][B]WORLD OF FREE SPORTS TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+ 
+#EXTINF: -1,[COLOR=coral][B]ADVENTURE SPORTS NETWORK[/B][/COLOR][COLOR=coral][/COLOR]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+ 
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=coral][B]CANAL MOTOR HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=coral][B]GOLF NETWORK[/B][/COLOR][COLOR=coral][/COLOR]
+http://203.162.235.41:16924
+ 
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=coral][B]GRVTY[/B][/COLOR][COLOR=coral][/COLOR]
+https://outsidetv-grvty-localnow.amagi.tv/localnow.m3u8
+ 
+#EXTINF:0 tvg-id="insight-tv-hd" group-title="Sport",[COLOR=coral][B]INSIGHT TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://insight-localnow.amagi.tv/playlist.m3u8
+ 
+#EXTINF: -1,[COLOR=coral][B]ALL SPORTS BR[/B][/COLOR][COLOR=coral][/COLOR]
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hhd6zx6.png" group-title="",[COLOR=coral][B]TENNIS PLUS 1 TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="https://i.imgur.com/hhd6zx6.png",[COLOR=coral][B]TENNIS PLUS 2 TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Sports & Recreation",[COLOR=coral][B]HARLEY DAVIDSON TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="USA/Canada",[COLOR=coral][B]HARLEY DAVIDSON RACING TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
+ 
+##########################################################################################################################
+#EXTINF:-1,[COLOR blue]CANAIS DE MÚSICA[/COLOR]
+https://000000
+ 
+#EXTINF: -1,[COLOR=coral][B]CARINA TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]CAROLINA TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]TU MUSICA HD[/B][/COLOR][COLOR=coral][/COLOR]
+https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]AFROBEAT - ÁFRICA[/B][/COLOR][COLOR=coral][/COLOR]
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]AFROBIT ÁFRICA[/B][/COLOR][COLOR=coral][/COLOR]
+http://connectiktv.ddns.net:8080/afrobit/index.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]RELOAD RADIO MUSIC POWER HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+ 
+##########################################################################################################################
+#EXTINF:-1,[COLOR blue]CANAIS KURIAKOS TV[/COLOR]
+https://000000
+ 
+#EXTINF:-1,[COLOR=coral][B]KURIAKOS TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://kuriakos-cine.com/wp-content/uploads/2017/07/cropped-512x512_cine_v1-270x270.png" group-title="PORTUGAL",[COLOR=coral][B]KURIAKOS CINE[/B][/COLOR][COLOR=coral][/COLOR]
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="PORTUGAL",[COLOR=coral][B]KURIAKOS KIDS[/B][/COLOR][COLOR=coral][/COLOR]
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q6K4S0N.png" group-title="PORTUGAL",[COLOR=coral][B]KURIAKOS MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8
+ 
+##########################################################################################################################
+#EXTINF:-1,[COLOR blue]CANAIS MODA E TEMPO[/COLOR]
+https://000000
+ 
+#EXTINF:-1,[COLOR=coral][B]WEATHER SPY (AUSTRÁLIA)[/B][/COLOR][COLOR=coral][/COLOR]
+https://jukin-weatherspy-2-au.samsung.wurl.com/manifest/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]WEATHER NATION (USA)[/B][/COLOR][COLOR=coral][/COLOR]
+https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
+ 
+ 
+#EXTINF:-1,[COLOR=coral][B]FASHION TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]FASHION TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]FASHION TEEN[/B][/COLOR][COLOR=coral][/COLOR]
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]FASHION TV PARIS[/B][/COLOR][COLOR=coral][/COLOR]
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]FASHION TV MIDNIGHT SECRETS[/B][/COLOR][COLOR=coral][/COLOR]
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]FASHION & LIFE STYLE HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+ 
+##########################################################################################################################
+#EXTINF:-1,[COLOR blue]CANAIS PRAIA E OCEANO[/COLOR]
+https://000000
+ 
+#EXTINF:-1,[COLOR=coral][B]OCEAN TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://72.255.34.227:8000/play/a02v/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="USA",[COLOR=coral][B]BEACH TV PAWLEYS ISLAND[/B][/COLOR][COLOR=coral][/COLOR]
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="USA",[COLOR=coral][B]BEACH TV 30A[/B][/COLOR][COLOR=coral][/COLOR]
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="USA",[COLOR=coral][B]BEACH TV PANAMA CITY[/B][/COLOR][COLOR=coral][/COLOR]
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+ 
+#EXTINF:-1 tvg-name="Beach TV - Florida - Alabama" tvg-id="Beach TV Florida" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/qjzj4TJ.png",[COLOR=coral][B]BEACH TV FLORIDA ALABAMA[/B][/COLOR][COLOR=coral][/COLOR]
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="BeachTVCSULB.us" tvg-name="Beach TV (CSULB)" tvg-country="US" tvg-language="English" tvg-logo="http://www.cla.csulb.edu/departments/polisci/wp-content/uploads/2016/01/Beach-TV-Logo-300x169.jpg" group-title="Education",[COLOR=coral][B]BEACH TV (CSULB)[/B][/COLOR][COLOR=coral][/COLOR]
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="BeachTVKeyWestFloridaKeys.us" tvg-name="Beach TV - Key West - Florida Keys" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/p2YKsil.png" group-title="Local",[COLOR=coral][B]BEACH TV FLORIDA[/B][/COLOR][COLOR=coral][/COLOR]
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="BeachTVMyrtleBeachGrandStrand.us" tvg-name="Beach TV - Myrtle Beach - Grand Strand" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LddMCWt.png" group-title="Local",[COLOR=coral][B]BEACH TV MYRTLE BEACH[/B][/COLOR][COLOR=coral][/COLOR]
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+ 
+ 
+##########################################################################################################################
+#EXTINF:-1,[COLOR blue]CANAIS EXPRESSÃO PT[/COLOR]
+https://000000
+ 
+#EXTINF:-1,[COLOR=coral][B]MACAU TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]MOÇAMBIQUE TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]TVM INTERNACIONAL[/B][/COLOR][COLOR=coral][/COLOR]
+http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]MUNDO TV BR[/B][/COLOR][COLOR=coral][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w895377817.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]RETRO CARTOONS TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1578064597.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]VINTAGE TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1129240952.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]SUMMER TV BR[/B][/COLOR][COLOR=coral][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w2045803547.m3u8
+ 
+##########################################################################################################################
+#EXTINF:-1,[COLOR blue]OUTROS CANAIS[/COLOR]
+https://000000
+ 
+#EXTINF: -1,[COLOR=coral][B]TMZ[/B][/COLOR][COLOR=coral][/COLOR]
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+ 
+#EXTINF:155,[COLOR=coral][B]PEOPLE TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://peopletv-oo.akamaized.net/playlist480p.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]GARATE TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1681918945_b1296000_sleng.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]UN WEB TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]WIXLAR[/B][/COLOR][COLOR=coral][/COLOR]
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=coral][B]THE DESIGN NETWORK[/B][/COLOR][COLOR=coral][/COLOR]
+https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]NASA TV 1[/B][/COLOR][COLOR=coral][/COLOR]
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nasatv-269x151.jpg" group-title="",[COLOR=coral][B]NASA TV 2[/B][/COLOR][COLOR=coral][/COLOR]
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+ 
+#EXTINF:-1 group-title="Religious",[COLOR=coral][B]BETTER HEALTH TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Religious",[COLOR=coral][B]BETTER LIFE TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Religious",[COLOR=coral][B]BETTER NATURE TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]MAGELLAN TV NOW[/B][/COLOR][COLOR=coral][/COLOR]
+https://magellantv-1.samsung.wurl.com/manifest/playlist.m3u8
+ 
+ 
+##########################################################################################################################
+#EXTINF:-1,[COLOR blue]CANAIS DE CINEMA[/COLOR]
+https://000000
+ 
+#EXTINF:-1,[COLOR=coral][B]PRIVÉ HD MOVIES[/B][/COLOR][COLOR=coral][/COLOR]
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]MOVIES TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]ZEE MUNDO TV[/B][/COLOR][COLOR=coral][/COLOR] 
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]STIRR MOVIES[/B][/COLOR][COLOR=coral][/COLOR]
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+ 
+##########################################################################################################################
+#EXTINF:-1,[COLOR blue]CANAIS DE NOTÍCIAS[/COLOR]
+https://000000
+ 
+ 
+#EXTINF:-1,[COLOR=coral][B]SKY NEWS[/B][/COLOR][COLOR=coral][/COLOR]
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+ 
+#EXTINF:-1,[COLOR=coral][B]FRANCE 24 ENGLISH[/B][/COLOR][COLOR=coral][/COLOR]
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]RT UK[/B][/COLOR][COLOR=coral][/COLOR]
+https://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
+ 
+#EXTINF:-1,[COLOR=coral][B]AL JAZEERA ENGLISH[/B][/COLOR][COLOR=coral][/COLOR]
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]3 NEWS NOW (KMTV-TV)[/B][/COLOR][COLOR=coral][/COLOR]
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+ 
+#EXTINF:-1,[COLOR=coral][B]CBN NEWS[/B][/COLOR][COLOR=coral][/COLOR]
+https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
