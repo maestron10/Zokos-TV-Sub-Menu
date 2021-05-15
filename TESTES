@@ -32,8 +32,15 @@ https://hls.uniquestream.net/media/shared/29f1b376e28a43a181550ea1bcdb28d7.m3u8
 #EXTINF:-1,SÉRIE BARBARIAN AND THE TROLL 2021
 https://hls.uniquestream.net/media/shared/83be1aba9c11f925a76ca42785ecc1db.m3u8
 
+DESPORTO LIVE 
+http://livetv.unblckd.pw/pt/eventinfo/1068979_desportivo_chaves_leixoes/#webplayer_alieztv%7C159378%7C1068979%7C1605282%7C170%7C1%7Cpt
+
 #EXTINF:-1,LIVE TV SPORT TV 1
 http://45.95.235.105:8080/hls/streama159378/index.m3u8?cst=3e0a352170fecc0f8491d8a5a1f827ca
- 
+
 #EXTINF:-1,LIVE TV SPORT TV 1
 http://45.95.235.151:8080/hls/streama159378/index.m3u8?cst=d7211b7be906d208099c5e87e12285fd
+
+#EXTINF:-1,LIVE TV SPORT TV 1
+http://185.233.186.249:8080/hls/streama159380/index.m3u8?cst=00537e0b23a039312d453968d4eeeca7
+
