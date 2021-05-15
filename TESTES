@@ -4,28 +4,12 @@ http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
 #EXTM3U
- 
-
-#EXTINF:-1,SOUTH PARK 24H
-https://sv0.data-stream.top/c2cd0894e98a98902ee551c4b1bdb812ec12a50575f53cc2ac2b46a181a9233e/hls/spark.m3u8
-
-#EXTINF:-1,THE SIMPSONS 24H
-https://sv0.data-stream.top/c2cd0894e98a98902ee551c4b1bdb812ec12a50575f53cc2ac2b46a181a9233e/hls/simpsons.m3u8
-
-#EXTINF:-1,FAMILY GUY 24H
-https://sv7.data-stream.top/c2cd0894e98a98902ee551c4b1bdb812ec12a50575f53cc2ac2b46a181a9233e/hls/familyguy.m3u8
 
 #EXTINF:-1,ROCK TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w410092834_b1600000.m3u8?publisher=83
 
 #EXTINF:-1,Street Music 4U Live
-https://r6---sn-2vgu0b5auxaxjvh-v2vd.googlevideo.com/videoplayback?expire=1621088419&ei=Q4SfYNLFM43KyQXDkJeIDg&ip=45.138.100.42&id=o-AGLg0Hb1qDhe6d353KfAzjkDRn7iWY7WY7aMoT-58gJM&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=eZ2MxSowEUMBeGsAgkMuVYIF&ratebypass=yes&dur=194.258&lmt=1550834785924815&fexp=24001373%2C24007246&c=WEB&txp=2216222&n=2b6N3IhUoXbpd7_-&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgJW0lGIUC9DQ0S4hnAddshY0QrRIbZ3N0TIE-T_fxcZcCIQDTf_3LoeIiADz20iHl1pwHNchHpDw5qnKSp80HVEbDZg%3D%3D&cms_redirect=yes&mh=nd&mip=2001:8a0:b8ca:4901:c00c:6197:5ac0:3ac5&mm=31&mn=sn-2vgu0b5auxaxjvh-v2vd&ms=au&mt=1621071744&mv=u&mvi=6&pl=53&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgKX6Yw6U6Di_gSnXuO35xAZyrVlWFq-JKKkAOE7cY_uoCIGEj7DPM4Wzzypd6vcmfcw-qWgYmCkmWIZzg_DgE0lIx
-
-#EXTINF:-1,Street Music 4U Live
 https://broadcast.mytvtogo.net/streetmusic/streetmusic/chunklist_w3213456.m3u8
-
-#EXTINF:-1,Radio Capital TV Live
-https://r6---sn-2vgu0b5auxaxjvh-v2vd.googlevideo.com/videoplayback?expire=1621088419&ei=Q4SfYNLFM43KyQXDkJeIDg&ip=45.138.100.42&id=o-AGLg0Hb1qDhe6d353KfAzjkDRn7iWY7WY7aMoT-58gJM&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=eZ2MxSowEUMBeGsAgkMuVYIF&ratebypass=yes&dur=194.258&lmt=1550834785924815&fexp=24001373%2C24007246&c=WEB&txp=2216222&n=2b6N3IhUoXbpd7_-&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgJW0lGIUC9DQ0S4hnAddshY0QrRIbZ3N0TIE-T_fxcZcCIQDTf_3LoeIiADz20iHl1pwHNchHpDw5qnKSp80HVEbDZg%3D%3D&cms_redirect=yes&mh=nd&mip=2001:8a0:b8ca:4901:c00c:6197:5ac0:3ac5&mm=31&mn=sn-2vgu0b5auxaxjvh-v2vd&ms=au&mt=1621072122&mv=m&mvi=6&pl=53&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhANBIt8EaBYHj0IohwqOZ7he2bHp08XAYJKIe-FZRNzEaAiEA3SxnD5bexEy6dgXjmC70zByF44qqPriFZW7mRbR9gnk%3D
 
 #EXTINF:-1,Radio Capital TV Live
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on
@@ -34,16 +18,7 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&r
 https://r6---sn-2vgu0b5auxaxjvh-v2vd.googlevideo.com/videoplayback?expire=1621088419&ei=Q4SfYNLFM43KyQXDkJeIDg&ip=45.138.100.42&id=o-AGLg0Hb1qDhe6d353KfAzjkDRn7iWY7WY7aMoT-58gJM&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=eZ2MxSowEUMBeGsAgkMuVYIF&ratebypass=yes&dur=194.258&lmt=1550834785924815&fexp=24001373%2C24007246&c=WEB&txp=2216222&n=2b6N3IhUoXbpd7_-&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgJW0lGIUC9DQ0S4hnAddshY0QrRIbZ3N0TIE-T_fxcZcCIQDTf_3LoeIiADz20iHl1pwHNchHpDw5qnKSp80HVEbDZg%3D%3D&cms_redirect=yes&mh=nd&mip=2001:8a0:b8ca:4901:c00c:6197:5ac0:3ac5&mm=31&mn=sn-2vgu0b5auxaxjvh-v2vd&ms=au&mt=1621072122&mv=m&mvi=6&pl=53&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAJrSmp8Ot_8MKdm2CENogFwhbVgr7PK2_8sl6EFKD52UAiABJrgqc8Emk40xtqr3oN5Pwphje61bhDO2RcRN_V8V1A%3D%3D
 
 #EXTINF:-1,Action Sports 4U Live
-https://r6---sn-2vgu0b5auxaxjvh-v2vd.googlevideo.com/videoplayback?expire=1621088419&ei=Q4SfYNLFM43KyQXDkJeIDg&ip=45.138.100.42&id=o-AGLg0Hb1qDhe6d353KfAzjkDRn7iWY7WY7aMoT-58gJM&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=eZ2MxSowEUMBeGsAgkMuVYIF&ratebypass=yes&dur=194.258&lmt=1550834785924815&fexp=24001373%2C24007246&c=WEB&txp=2216222&n=2b6N3IhUoXbpd7_-&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgJW0lGIUC9DQ0S4hnAddshY0QrRIbZ3N0TIE-T_fxcZcCIQDTf_3LoeIiADz20iHl1pwHNchHpDw5qnKSp80HVEbDZg%3D%3D&cms_redirect=yes&mh=nd&mip=2001:8a0:b8ca:4901:c00c:6197:5ac0:3ac5&mm=31&mn=sn-2vgu0b5auxaxjvh-v2vd&ms=au&mt=1621072354&mv=m&mvi=6&pl=53&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgLBOw2o2rMH5AP8aq6b894l3aSUzU55Ad9ZpojhKWJakCIQCqTHdndIWOuVndh35lh9arVamLzv9wgnnBD5l_Pv1dhQ%3D%3D
-
-#EXTINF:-1,Action Sports 4U Live
 https://broadcast.mytvtogo.net/actionsports4you/actionsports4you/chunklist_w378642016.m3u8
-
-#EXTINF:-1,NRJ  12 FRANCE
-https://sv4.data-stream.top/c2cd0894e98a98902ee551c4b1bdb812ec12a50575f53cc2ac2b46a181a9233e/hls/nrj12fr.m3u8
 
 #EXTINF:-1,VIVID RED HD LIVE CAM
 http://galleryn0.awemdia.com/f8d2e11bd6c43618af00d6f28c91232a11/786ab77d14123999bf25cf7c21143883.mp4?pstool=319_1&psid=oklivetv
-
-#EXTINF:-1,SPORT 1 GERMANY
-https://edge-1192-ch-gv.filmon.com/live/4121.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3e58a39ac8a35e15b06bf7e3364b9dee4486cada800f97454eda99a2e21a58d5ea515168c257df3b99c9d6a903fdc998572e666759f0a7444d8af55fcc2d92753fd729c47b63465d437e1f742fd31b368798fc32640c6989493e6f75184105454e96f50e7c66abc688cf372ea3fc812f3ad6b830162430e58
