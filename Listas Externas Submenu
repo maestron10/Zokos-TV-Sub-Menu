@@ -13,13 +13,14 @@
  
 </channel>
 <channel>
-<name>[COLOR=yellow][B]FLECHA NEGRA CANAIS PT[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<name>[COLOR=yellow][B]DARK ANGEL PORTUGAL PT[/B][/COLOR][COLOR=yellow][/COLOR]</name>
 <thumbnail>url DA IMAGEM</thumbnail>
-<externallink>http://flechanegra.atspace.cc/addonflechanegra/portugal-1</externallink>
+<externallink>http://milhano.pt/ftp-milhano/darkangel/Ad_DarkAngel/Portugal/PORTUGAL_TV1.txt</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
 </channel>
 </channels
+ 
  
  
  
@@ -45,17 +46,7 @@
 </channels
  
  
-</channel>
-<channel>
-<name>[COLOR=yellow][B]ADDON MAGELLAN DESPORTO[/B][/COLOR][COLOR=yellow][/COLOR]</name>
-<thumbnail>url DA IMAGEM</thumbnail>
-<externallink>https://pastebin.com/raw/kdUL7Zap</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channels
- 
- 
+
  
  </channel>
 <channel>
@@ -91,26 +82,5 @@
 </channels
  
   
- 
-</channel>
-<channel>
-<name>[COLOR=yellow][B]ADDON RAMALHO TV[/B][/COLOR][COLOR=yellow][/COLOR]</name>
-<thumbnail>url DA IMAGEM</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/base-addon/master/README.md</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channels
- 
- 
- </channel>
-<channel>
-<name>[COLOR=yellow][B]CANAIS PAÍSES[/B][/COLOR][COLOR=yellow][/COLOR]</name>
-<thumbnail>url DA IMAGEM</thumbnail>
-<externallink>https://raw.githubusercontent.com/boomski/TV/master/TV%20INDEX/iptv.org.xml</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channels
  
  
