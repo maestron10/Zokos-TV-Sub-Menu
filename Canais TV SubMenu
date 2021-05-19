@@ -84,6 +84,15 @@
 <info></info>
  
  
+ <channels>
+<channel>
+<name>[COLOR=gold][B]CANAIS TV PAÍSES DIVERSOS[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601400.us.archive.org/27/items/canais-mundiais-2/Canais%20Mundiais%202.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+ 
+ 
 <channels>
 <channel>
 <name>[COLOR=gold][B]STREAMING GRÁTIS[/B][/COLOR][COLOR=gold][/COLOR]</name>
