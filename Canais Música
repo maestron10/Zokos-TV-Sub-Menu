@@ -33,6 +33,12 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]POWERHD[/B][/COLOR][COLOR=coral][/COLOR]
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
+#EXTINF:0 tvg-id="4fun.pl" group-title="Channels",[COLOR=coral][B]4FUN TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]BARAZA TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
+
 #EXTINF:0,[COLOR=coral][B]1MUSIC TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
  
@@ -204,6 +210,9 @@ http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 ######################################################################################
 #EXTINF:-1,[COLOR blue]OUTROS GÉNEROS[/COLOR]
 https://000000
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]BARAZA TV GREEK HITS[/B][/COLOR][COLOR=coral][/COLOR]
+https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/6Yr0Axp.png",[COLOR=coral][B]CHOISE TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://vod.streams.ovh:3528/stream/play.m3u8
