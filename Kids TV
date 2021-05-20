@@ -11,6 +11,49 @@ http://0.0.0.0:00000
 
 #EXTM3U
 
+
+#EXTINF:-1,CARTOON NETWORK
+http://ztvuk.com:8080/mohsin/mohsin123/12060
+
+#EXTINF:-1,CARTOONITO
+http://ztvuk.com:8080/mohsin/mohsin123/89010
+
+#EXTINF:-1,DAVE AND AVA
+http://ztvuk.com:8080/mohsin/mohsin123/14768
+
+#EXTINF:-1,DIANA AND ROMA
+http://ztvuk.com:8080/mohsin/mohsin123/39808
+
+#EXTINF:-1,DISNEY CHANNEL
+http://ztvuk.com:8080/mohsin/mohsin123/12052
+
+#EXTINF:-1,HOOPLA KIDS
+http://ztvuk.com:8080/mohsin/mohsin123/93041
+
+#EXTINF:-1,NICK FHD
+http://ztvuk.com:8080/mohsin/mohsin123/12070
+
+#EXTINF:-1,NICK JUNIOR HD
+http://ztvuk.com:8080/mohsin/mohsin123/89338
+
+#EXTINF:-1,NICK JUNIOR +1
+http://ztvuk.com:8080/mohsin/mohsin123/89012
+
+#EXTINF:-1,NICK JUNIOR TOO
+http://ztvuk.com:8080/mohsin/mohsin123/30068
+
+#EXTINF:-1,NICKTOONS 
+http://ztvuk.com:8080/mohsin/mohsin123/12065
+
+#EXTINF:-1,POP MAX
+http://ztvuk.com:8080/mohsin/mohsin123/92995
+
+#EXTINF:-1,PBS KIDS HD
+http://ztvuk.com:8080/mohsin/mohsin123/13954
+
+#EXTINF:-1,FAMILY JUNIOR HD
+http://ztvuk.com:8080/mohsin/mohsin123/14136
+
 #EXTINF:0 tvg-id="Boomerang.us" group-title="Kids",BOOMERANG
 http://27.254.130.56:80/live01/ch18.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",CARTOON NETWORK ARABIC (1080p)
