@@ -1,15 +1,13 @@
 
 
 ############################################################################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  TDT CHANNELS CANAIS TV DIVERSOS E GRATUITOS   //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  CANAIS TDT CHANNELS - DIVERSOS E GRATUITOS   //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:000000000
 ############################################################################################################################################################################################
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA: 10/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
- 
-
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 23/05/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 FONTE DE INFORMAÇÃO: https://www.tdtchannels.com/listas
 
 
@@ -20,18 +18,8 @@ https://000000
 
 #EXTINF:0 tvg-id="LA1.es" group-title="Generalistas",La 1
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
-#EXTINF:0 tvg-id="LA1.es" group-title="Generalistas",La 1 GEO
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8
-#EXTINF:0 tvg-id="LA1.es" group-title="Generalistas",La 1
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:0 tvg-id="LA2.es" group-title="Generalistas",La 2
-https://rtvelivestream.akamaized.net/la2_dvr.m3u8
-#EXTINF:0 tvg-id="LA2.es" group-title="Generalistas",La 2 GEO
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 #EXTINF:0 tvg-id="LA2.es" group-title="Generalistas",La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:0 tvg-id="Atreseries.es" group-title="Generalistas",Atreseries
-https://livestartover.atresmedia.com/a3series/master.m3u8
 #EXTINF:0 tvg-id="Trece.es" group-title="Generalistas",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ElToro.es" group-title="Generalistas",El Toro TV
@@ -50,45 +38,18 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/03.m3u8
 #EXTINF:0 tvg-id="russia-today" group-title="Informativos",RT
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Informativos",EuropaPress TV
-https://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Informativos",Negocios TV
 https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 
 #EXTINF:-1,[COLOR blue]DESPORTIVOS[/COLOR]
 https://000000
 
-
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="Deportivos",Teledeporte GEO
-https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="Deportivos",Teledeporte GEO
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
-#EXTINF:0 tvg-id="Esport3.es" group-title="Deportivos",Esport 3 GEO CAT
-https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8
-#EXTINF:0 tvg-id="Esport3.es" group-title="Deportivos",Esport 3 GEO
-https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist_DVR.m3u8
-#EXTINF:0 tvg-id="Esport3.es" group-title="Deportivos",Esport 3
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportivos",ETB Deportes
-https://live-dvr.eitb-fastly.cross-media.es/live-content/oka2hd-hls/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportivos",Aragón Deporte
-https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportivos",Aragón Deporte
-https://hls-aragontv-events2.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportivos",Aragón Deporte
-https://cartv.streaming.aranova.es/hls/live/adeportes_deporte3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Deportivos",UD Las Palmas TV
 https://cdn041.fractalmedia.es/stream/live/udtv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Deportivos",Cádiz CF TV
-https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR blue]INFANTIS[/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="ClanTVE.es" group-title="Infantiles",Clan
-https://rtvelivestream.akamaized.net/clan_dvr.m3u8
-#EXTINF:0 tvg-id="ClanTVE.es" group-title="Infantiles",Clan
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Infantiles",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
@@ -103,22 +64,8 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586403/master.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586404/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Eventuales",+24
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586405/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Eventuales",+tdp
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125699/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Eventuales",+tdp
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125702/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Eventuales",+tdp
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125698/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Eventuales",+tdp
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@143656/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Eventuales",+tdp
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125703/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Eventuales",Atresplayer 1
 https://livestartover.atresmedia.com/eventos15/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Eventuales",Atresplayer 2
-https://livestartover.atresmedia.com/eventos26/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Eventuales",Atresplayer 3
-https://livestartover.atresmedia.com/eventos37/master.m3u8
 #EXTINF:0 tvg-id="ARTV.pt" group-title="Eventuales",Canal Parlamento
 https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Eventuales",Congreso de los Diputados
@@ -129,34 +76,16 @@ https://congresodirecto-f.akamaihd.net/i/congreso2_1@72033/master.m3u8
 https://congresodirecto-f.akamaihd.net/i/congreso3_1@72034/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Eventuales",Congreso de los Diputados
 https://congresodirecto-f.akamaihd.net/i/congreso4_1@53937/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Eventuales",Congreso de los Diputados
-https://congresodirecto-f.akamaihd.net/i/congreso5_1@51923/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Eventuales",La Moncloa (Presidente)
-https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=y3-IxQxNk4XjlfJDtBjIh7tfO628d9gbkd010uKioms&output=ginkIjHWeyffMLRZNMVovht3RnH_feedjshkMm7sr14&channel=D1tXjvcs_5NeEEMxP6mrmSggh3Uyu3kE5jyqGlgCZ4A&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
-#EXTINF:0 tvg-id="ext" group-title="Eventuales",La Moncloa (Ministros)
-https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=o0RCNMRf-BPdBiuDSId7vbxANj4YFVpbXkxNkFKm35s&output=z3mwepuDBMOnja63VsgAcCGwmmOPD-I5yFYOiyCvBcc&channel=FBDoImE2NP77XpNbdycjnwCkI0YjxLeqTKr8QGV9bAI&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
-#EXTINF:0 tvg-id="ext" group-title="Eventuales",Radio Nacional
-https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/irtve08_lv3_aosv4_gl0/irtve08_lv3_aosv4_gl0.isml/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Eventuales",Radio Nacional
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586409/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Eventuales",Radio 3
 https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/rne_c201_lv3_aosv4_gl0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Eventuales",Radio 5
-https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c102_lv3_aosv4_gl0/rne_c102_lv3_aosv4_gl0.isml/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Eventuales",Del 40 al 1
-https://40al1-lh.akamaihd.net/i/directo40al1_x@764444/master.m3u8
 
 #EXTINF:-1,[COLOR blue]ANDALUZIA[/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="Andalucía",Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Andalucía",La 1 Andalucía
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@321466/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Andalucía",101TV Málaga
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Andalucía",Mijas 3.40 TV
-https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Andalucía",Onda Cádiz
 https://adc-hls.flumotion.com/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Andalucía",M95 Marbella
@@ -173,6 +102,9 @@ http://217.125.136.93:8080/canalsierradecadiz720.m3u8
 http://217.125.136.93:8080/canalsierradecadiz576.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Andalucía",Costa Noroeste TV
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+
+#################### REVISTO ATÉ AQUI ##############################
+
 #EXTINF:0 tvg-id="ext" group-title="Andalucía",Córdoba TV
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Andalucía",Teleonuba
