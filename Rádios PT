@@ -5,7 +5,7 @@ http://0.0.0.0:000000
  
  
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA 1 REVISTA: 04/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 1 REVISTA: 23/05/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
  
@@ -315,8 +315,10 @@ http://centova.radios.pt:8419/stream
  
 #EXTINF:-0,[COLOR=coral][B]ANTENA LIVRE 89.7 FM[/B][/COLOR][COLOR=coral][/COLOR]
 http://centova.radios.pt:8571/stream
- 
-#EXTINF:-1,[COLOR=yellow][B]LISTA 2 REVISTA: 05/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+
+################################################################################################################################################
+
+#EXTINF:-1,[COLOR=yellow][B]LISTA 2 REVISTA: 23/05/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTINF:-0,ANTENA NOVE 91.3 FM HORTA
 http://centova.radios.pt:8565/stream
