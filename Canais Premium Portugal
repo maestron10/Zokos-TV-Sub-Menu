@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 11/05/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 23/05/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -29,7 +29,7 @@ LINKS DE CAPTURA DE CANAIS STREAMING LIVE
 #EXTINF:-1,[COLOR blue]BENFICA TV[/COLOR]
 https://000000
 
-#EXTINF:-1,NÃO DISPONÍVEIS
+#EXTINF:-1,[COLOR=coral][B]NÃO DISPONÍVEIS[/B][/COLOR][COLOR=coral][/COLOR]
 http://000000
 
 
@@ -98,18 +98,7 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,[COLOR=coral][B]SPORT TV 5 SD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8?zerosix.m3u8
 
-#################################################################################################################################################
-#EXTINF:-1,[COLOR yellow]LINKS DIVERSOS SPORT TV OFFLINE[/COLOR]
-https://000000
 
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a450.png" group-title="Sport", SPORT TV 1
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/3221
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a451.png" group-title="Sport", SPORT TV 2 FHD
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/3222
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="Sport", SPORT TV 3 FHD
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/3223
-
- 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
  
 #EXTM3U
@@ -117,9 +106,9 @@ http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/3223
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
 https://000000
 
+#EXTINF:-1,[COLOR=coral][B]NÃO DISPONÍVEIS[/B][/COLOR][COLOR=coral][/COLOR]
+http://000000
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 5 @576p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]ELEVEN SPORT 5 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1221
 
 
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
@@ -128,17 +117,8 @@ http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1221
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM CINEMA[/COLOR]
 https://000000
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EMOTION HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1071
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EMOTION @720p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1187
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE ACTION HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",[COLOR=coral][B]TVCINE ACTION HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1072
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE TOP @720p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]TVCINE TOP[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1185
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EDITION @720p" tvg-logo="" group-title="PORTUGAL HD",[COLOR=coral][B]TVCINE EDITION[/B][/COLOR][COLOR=coral][/COLOR]
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1186
-
+#EXTINF:-1,[COLOR=coral][B]NÃO DISPONÍVEIS[/B][/COLOR][COLOR=coral][/COLOR]
+http://000000
 
 
 
@@ -146,11 +126,11 @@ http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1186
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM ADULTOS[/COLOR]
 https://000000
 
-#EXTINF:-1,PLAYBOY HD
+#EXTINF:-1,[COLOR=coral][B]PLAYBOY HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://187.188.147.142:8000/play/a00l/index.m3u8
 
-#EXTINF:-1,SEXTREME
+#EXTINF:-1,[COLOR=coral][B]SEXTREME[/B][/COLOR][COLOR=coral][/COLOR]
 http://187.188.147.142:8000/play/a012/index.m3u8
 
-#EXTINF:-1,VENUS
+#EXTINF:-1,[COLOR=coral][B]VENUS[/B][/COLOR][COLOR=coral][/COLOR]
 http://187.188.147.142:8000/play/a01d/index.m3u8
