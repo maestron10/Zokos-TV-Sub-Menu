@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 29/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 23/05/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fontes de Informação: 
 * https://gist.github.com/homemdasneves/cf622bc2feef035ae532c8397f2c054f  
 * http://www.cxtv.com.br/tv/paises/portugal
@@ -13,18 +13,6 @@ Fontes de Informação:
 #EXTM3U
 
 #EXTINF:-1,[COLOR blue]LISTA 1[/COLOR]
-https://000000
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MADEIRA @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",RTP MADEIRA 
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1063
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",FOX LIFE HD
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1080
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME HD @1080p_hevc" tvg-logo="" group-title="PORTUGAL H.265",FOX CRIME HD
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1081
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES @576_hevc" tvg-logo="" group-title="PORTUGAL H.265",FOX MOVIES 
-http://maxiptv.info:80/Ramon_user/olA@PEK6!OHS!!GBY7890@/1083
-
-#EXTINF:-1,[COLOR blue]LISTA 2[/COLOR]
 https://000000
 
 
