@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 30/04/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 23/05/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ##########################################################################################################################
  
@@ -24,17 +24,6 @@ https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="USA",[COLOR=coral][B]EDGE SPORTS USA[/B][/COLOR][COLOR=coral][/COLOR]
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sjOIOkK.png" group-title="USA DISTRO",[COLOR=coral][B]HORIZON SPORTS[/B][/COLOR][COLOR=coral][/COLOR]
-https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CzsBnvf.png" group-title="USA",[COLOR=coral][B]HORIZON SPORTS[/B][/COLOR][COLOR=coral][/COLOR]
-https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oitvOug.png" group-title="USA DISTRO",[COLOR=coral][B]WORLD OF FREE SPORTS TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oitvOug.png" group-title="UK",[COLOR=coral][B]WORLD OF FREE SPORTS TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
  
 #EXTINF: -1,[COLOR=coral][B]ADVENTURE SPORTS NETWORK[/B][/COLOR][COLOR=coral][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
@@ -47,10 +36,7 @@ http://203.162.235.41:16924
  
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=coral][B]GRVTY[/B][/COLOR][COLOR=coral][/COLOR]
 https://outsidetv-grvty-localnow.amagi.tv/localnow.m3u8
- 
-#EXTINF:0 tvg-id="insight-tv-hd" group-title="Sport",[COLOR=coral][B]INSIGHT TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://insight-localnow.amagi.tv/playlist.m3u8
- 
+  
 #EXTINF: -1,[COLOR=coral][B]ALL SPORTS BR[/B][/COLOR][COLOR=coral][/COLOR]
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
  
@@ -143,9 +129,6 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1,[COLOR blue]CANAIS PRAIA E OCEANO[/COLOR]
 https://000000
  
-#EXTINF:-1,[COLOR=coral][B]OCEAN TV[/B][/COLOR][COLOR=coral][/COLOR]
-http://72.255.34.227:8000/play/a02v/index.m3u8
- 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="USA",[COLOR=coral][B]BEACH TV PAWLEYS ISLAND[/B][/COLOR][COLOR=coral][/COLOR]
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
  
@@ -190,8 +173,6 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1578064597.m3u8
 #EXTINF:-1,[COLOR=coral][B]VINTAGE TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1129240952.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]SUMMER TV BR[/B][/COLOR][COLOR=coral][/COLOR]
-https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w2045803547.m3u8
  
 ##########################################################################################################################
 #EXTINF:-1,[COLOR blue]OUTROS CANAIS[/COLOR]
@@ -209,15 +190,6 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
  
 #EXTINF:155,[COLOR=coral][B]PEOPLE TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://peopletv-oo.akamaized.net/playlist480p.m3u8
- 
-#EXTINF:-1,[COLOR=coral][B]GARATE TV[/B][/COLOR][COLOR=coral][/COLOR]
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1681918945_b1296000_sleng.m3u8
-
-#EXTINF:-1,[COLOR=coral][B]MOTORVISION UK TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
-
-#EXTINF:-1,[COLOR=coral][B]MOTORCICLIST TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]UN WEB TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
@@ -295,9 +267,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1,[COLOR=coral][B]3 NEWS NOW (KMTV-TV)[/B][/COLOR][COLOR=coral][/COLOR]
 https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]CBN NEWS[/B][/COLOR][COLOR=coral][/COLOR]
-https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
- 
+
  
  
  
