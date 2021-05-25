@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ###################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 14/05/2021 - 19 CAM OFFLINE[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 25/05/2021 - 16 CAM OFFLINE[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ####################################################################
  
@@ -68,7 +68,7 @@ https://video-auth1.iol.pt/beachcam/supertubos/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]SANTA CRUZ[/B][/COLOR][COLOR=coral][/COLOR]
 https://video-auth1.iol.pt/beachcam/santacruz/playlist.m3u8
  
-OFFLINE: 1
+OFFLINE: 0
  
 #EXTINF:-1,[COLOR blue]PRAIAS DE LISBOA[/COLOR]
 https://video-auth1.iol.pt
@@ -114,7 +114,7 @@ https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]PRAIA FOZ DO LIZARDO[/B][/COLOR][COLOR=coral][/COLOR]
 https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8
  
-OFFLINE: 3
+OFFLINE: 1
  
 #EXTINF:-1,[COLOR blue]PRAIAS DE SINTRA[/COLOR]
 https://video-auth1.iol.pt
@@ -176,7 +176,7 @@ https://video-auth1.iol.pt/beachcam/caxias/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]CAXIAS 2[/B][/COLOR][COLOR=coral][/COLOR]
 https://video-auth1.iol.pt/beachcam/caxias/playlist.m3u8
  
-OFFLINE: 1
+OFFLINE: 2
  
 #EXTINF:-1,[COLOR blue]PRAIAS DE ALMADA[/COLOR]
 https://video-auth1.iol.pt
@@ -236,7 +236,7 @@ https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]VILAMOURA[/B][/COLOR][COLOR=coral][/COLOR]
 https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
  
-OFFLINE: 6
+OFFLINE: 4
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PzeLlzw.png" group-title="PORTUGAL",[COLOR=coral][B]SAGRES[/B][/COLOR][COLOR=coral][/COLOR]
 https://camsecure.co/HLS/sagressholidays.m3u8
