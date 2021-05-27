@@ -13,10 +13,7 @@ https://database.freetuxtv.net/WebStream/index?WebStreamSearchForm%5BName%5D=&We
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",01TV
-https://dai.ly/x7pctg0
-#EXTINF:0 tvg-id="ext" group-title="Channels",1TV
-http://1tv.ambra.ro
+
 #EXTINF:0 tvg-id="2MMaroc.ma" group-title="Channels",2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",3ABN
@@ -29,22 +26,8 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",7 R. de Murcia
 https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:0 tvg-id="8-kanal" group-title="Channels",8 TV
-rtmp://84.47.171.205:1935/rr/stream
-#EXTINF:0 tvg-id="ext" group-title="Channels",8 TV (RU)
-rtmp://air.8tv.ru:1935/stream
-#EXTINF:0 tvg-id="ext" group-title="Channels",9 Vollna TV
-rtmp://176.9.127.102:1935/live/myStream_1
-#EXTINF:0 tvg-id="ext" group-title="Channels",9X Jhakaas TV
-rtmp://cdn.m.yupptv.tv:1935/liveorigin/etvuk1
-#EXTINF:0 tvg-id="ext" group-title="Channels",Abkhazia TV
-rtmp://at.cdnvideo.ru:1935/at-live/at.sdp
-#EXTINF:0 tvg-id="ext" group-title="Channels",ABN
-rtsp://cdn.m.yupptv.tv/liveorigin/abn1
 #EXTINF:0 tvg-id="ext" group-title="Channels",ABN KIDS
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ABN TV (India)
-rtmp://cdn.rtmp1.yupptv.tv:1935/nwk/abn
 #EXTINF:0 tvg-id="AbuDhabiTV.uk" group-title="Channels",Abu Dhabi TV
 https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ActpTv
@@ -63,98 +46,36 @@ https://www.youtube.com/embed/nWPSbCuwZaM
 https://dai.ly/x5dk3kj
 #EXTINF:0 tvg-id="ext" group-title="Channels",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/player.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Aksu TV
-rtmp://yayin.tvdunyasi.tv:1935/live/maras_aksutv
 #EXTINF:0 tvg-id="ext" group-title="Channels",Al Racheed
 http://77.67.107.89/alrasheedtv
 #EXTINF:0 tvg-id="ext" group-title="Channels",Al Rasheed
 http://livedroos.com:8080/live/alrashid_1mbps/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Alaan TV
-rtsp://media10.lsops.net/live/alaan_ar_high.sdp
-#EXTINF:0 tvg-id="ext" group-title="Channels",Alb UK HD
-rtmp://188.138.17.8:1935/albuk/albuk.stream
-#EXTINF:0 tvg-id="ext" group-title="Channels",alekhbariya
-mmsh://38.96.148.75/Ekhbariya?MSWMExt=.asf
 #EXTINF:0 tvg-id="ext" group-title="Channels",ALEX Berlin (Offener Kanal Wedding)
 https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
-#EXTINF:0 tvg-id="AlfaOmegaTV.ro" group-title="Channels",Alfa Omega TV
-rtmp://s5.alfaomega.tv:1935/alfaomega/alfaomega2.sdp
 #EXTINF:0 tvg-id="ext" group-title="Channels",Alfa TV (Spain)
 https://595b85410a151.streamlock.net:443/8144/8144/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ALfayhaa TV
-mmsh://77.67.107.89/al-fayhaa
 #EXTINF:0 tvg-id="ext" group-title="Channels",ALHAYAT 2
 http://cdn-streamer2.magictvbox.com/63.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Alhurra Tv
-rtmp://cp51007.live.edgefcs.net:1935/live/Alhurra_Flash@15
-#EXTINF:0 tvg-id="ext" group-title="Channels",Alhurra_ Iraq TV
-rtmp://110.164.253.197:1935/live?_fcs_vhost=cp51007.live.edgefcs.net&akmfv=1.8/Alhurra_Iraq_Flash@7095
 #EXTINF:0 tvg-id="ext" group-title="Channels",ALHURRIA
 http://cdn-streamer2.magictvbox.com/35.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Aliman TV
-mmsh://66.113.139.60/aliman
 #EXTINF:0 tvg-id="ext" group-title="Channels",ALIRAQIA
 http://cdn-streamer2.magictvbox.com/39.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Aljazeera Documentary TV
-rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high
 #EXTINF:0 tvg-id="ext" group-title="Channels",ALKARAZA
 http://cdn-streamer2.magictvbox.com/58.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",alkass TV (updated)
-rtsp://78.100.44.238/live-kass/kass
 #EXTINF:0 tvg-id="ext" group-title="Channels",Alkawthar TV
 http://live.irib.ir/asx/alkawthar.asx
 #EXTINF:0 tvg-id="AlMaghribia.ma" group-title="Channels",ALMAGHRIBIA
 http://cdn-streamer2.magictvbox.com/30.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ALmanar TV
-rtmp://38.96.175.90:1935/live/livestream
-#EXTINF:0 tvg-id="ext" group-title="Channels",Almasar TV
-rtsp://almasarmob.nanocdn.com:1935/live/almasar256
-#EXTINF:0 tvg-id="ext" group-title="Channels",almayadeen
-rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p
-#EXTINF:0 tvg-id="ext" group-title="Channels",Almayadeen Tv (updated)
-rtmp://mentis.netromedia.net:1935/mentis1/mentis1
 #EXTINF:0 tvg-id="alpha.gr" group-title="Channels",ALPHA GR
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ALQAHIRA WA NASS 2
 http://cdn-streamer1.magictvbox.com/live/10170.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ALrajaa'a TV
-rtmp://174.127.80.84:1935/HopeSat/livestream
-#EXTINF:0 tvg-id="ext" group-title="Channels",AlRayyan TV (updated)
-rtsp://78.100.44.238/live-rayyantv/rtv
 #EXTINF:0 tvg-id="ext" group-title="Channels",ALSACE 20 [france]
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8?IPTVCOTIA
-#EXTINF:0 tvg-id="ext" group-title="Channels",ALsalam TV
-mms://198.64.249.20/salam
-#EXTINF:0 tvg-id="AlsatM.al" group-title="Channels",Alsat M
-rtsp://fms.zulu.mk/zulu/alsat_2
-#EXTINF:0 tvg-id="ext" group-title="Channels",Alsharqiya DRAMA TV (Thaherq)
-rtmp://ns8.indexforce.com:1935/highres/mystream
-#EXTINF:0 tvg-id="ext" group-title="Channels",Alsharqiya Tv
-rtmp://ns8.indexforce.com:1935/alsharqiyalive/mystream
-#EXTINF:0 tvg-id="ext" group-title="Channels",Alsharqiya Tv
-rtmp://ns8.indexforce.com:1935/home/mystream
-#EXTINF:0 tvg-id="ext" group-title="Channels",Altaghier TV
-rtmp://50.62.142.164:1935/live/tag
-#EXTINF:0 tvg-id="ext" group-title="Channels",ALtareeq TV (Way tv)
-rtmp://174.138.160.6:1935/atvsatlive/atvsatlive
-#EXTINF:0 tvg-id="ext" group-title="Channels",Altas TV
-rtmp://tv.tvdunyasi.tv:1935/live/ordu_altastv
 #EXTINF:0 tvg-id="ext" group-title="Channels",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Alualua TV
-rtsp://media4.lsops.net/live/bbcarab1_ar_high.sdp
-#EXTINF:0 tvg-id="ext" group-title="Channels",ALwatan Ghanawi TV
-rtmp://cp142128.live.edgefcs.net:1935/live/ghanawi_1@43535
-#EXTINF:0 tvg-id="ext" group-title="Channels",ALwatan Plus TV
-rtmp://cp142128.live.edgefcs.net:1935/live/alwaplus_1@44627
 #EXTINF:0 tvg-id="avi" group-title="Channels",América Sports
 https://youtu.be/1SmKEIpmcLU
-#EXTINF:0 tvg-id="ext" group-title="Channels",Amouzesh TV Network
-rtmp://50.7.241.82:1935/totalstreamer/learning-256.sdp
-#EXTINF:0 tvg-id="ext" group-title="Channels",AMTV
-rtsp://mms.amtv.ru/BizOne
-#EXTINF:0 tvg-id="ext" group-title="Channels",ANN TV
-rtmp://ns8.indexforce.com:1935/ann/ann
 #EXTINF:0 tvg-id="ext" group-title="Channels",ANNAHAR
 http://cdn-streamer1.magictvbox.com/live/10150.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ANNAHAR DRAMA
@@ -163,106 +84,62 @@ http://cdn-delay1.magictvbox.com/11.m3u8
 http://cdn-streamer1.magictvbox.com/live/10151.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ANT1.gr" group-title="Channels",ANT1
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ANTV
-rtsp://cdn.mivo.tv/mivotvjkt/antv2
 #EXTINF:0 tvg-id="AragonTVsat.sp" group-title="Channels",Aragon TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:0 tvg-id="ARD-alpha.de" group-title="Channels",ARD-alpha
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Arena Liga BH
 http://bos.00387.info/ArenaLigaBH/index.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="Channels",ARM
-rtsp://www.tvarm.ru:1935/live/myStream1.sdp
-#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",Arte
-rtmp://lm01.everyon.tv:1935/ptv/pld35
 #EXTINF:0 tvg-id="ext" group-title="Channels",Arte direct (FR)
 http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
 #EXTINF:0 tvg-id="ARTE.de" group-title="Channels",Arte HD
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
 #EXTINF:0 tvg-id="ARTE.de" group-title="Channels",Arte HD
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Asia N
-rtmp://lm01.everyon.tv:1935/ptv/pld433
 #EXTINF:0 tvg-id="AsianetNews.in" group-title="Channels",asianet news
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Aspara TV
-rtsp://203.176.130.114:5656/live///apsaratv_100k.stream
-#EXTINF:0 tvg-id="ext" group-title="Channels",Assirat TV
-rtsp://assiratlive.nanocdn.com:1935/live/assirat256
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ato moto TV
-mms://100automoto.tv/100livesport
 #EXTINF:0 tvg-id="ext" group-title="Channels",ATTARIK
 http://cdn-streamer2.magictvbox.com/43.m3u8
 #EXTINF:0 tvg-id="ATV.am" group-title="Channels",ATV
 https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:0 tvg-id="AutoMotoTV.it" group-title="Channels",Auto Moto TV
 http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8
-#EXTINF:0 tvg-id="AutoMotoTV.it" group-title="Channels",AutoMoto
-rtmp://95.215.2.55:1935/live/1autotv3
-#EXTINF:0 tvg-id="ext" group-title="Channels",Autoru.tv TV
-rtmp://ms1.autoru.tv:1935/live/360p
 #EXTINF:0 tvg-id="ext" group-title="Channels",AZHARI TV
 http://cdn-streamer1.magictvbox.com/live/10171.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",baden tv sued
 https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Baeble Music
 https://dai1.xumo.com/bmneuerw7j9k5lfc/9999231/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Baghdad TV
-rtmp://212.7.196.88:1935/live/baghdad
-#EXTINF:0 tvg-id="BahrainTV.net" group-title="Channels",Bahrain Tv
-rtmp://155.obj.netromedia.net:1935/alayam/alayam
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bakthi TV
-rtsp://cdn.m.yupptv.tv/liveorigin/bhakti9001
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bali TV
-rtsp://202.134.6.130/lives/channel66_3
-#EXTINF:0 tvg-id="ext" group-title="Channels",Banat TV
-rtmp://81.18.66.155:1935/live/banat-tv
 #EXTINF:0 tvg-id="ext" group-title="Channels",Banovina TV
 https://5b57bb229a2e6.streamlock.net/live/televizija/playlist.m3u8
 #EXTINF:0 tvg-id="Baraem.net" group-title="Channels",Baraem
 http://www.elahmad.com/seo/baraem.swf
 #EXTINF:0 tvg-id="ext" group-title="Channels",barazatv hd
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bardejov
-rtmp://s1.media-planet.sk:80/live/bardejov1
-#EXTINF:0 tvg-id="ext" group-title="Channels",BARICADA TV
-rtmp://86.106.82.47:1935/baricadatv_live/livestream
-#EXTINF:0 tvg-id="ext" group-title="Channels",Baris Tv
-mms://yayin.canlitv.com/baristv
 #EXTINF:0 tvg-id="ext" group-title="Channels",Bars TV
 http://ftp.barstv.ru:4080
 #EXTINF:0 tvg-id="ext" group-title="Channels",Basta Crer
 http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Bayon TV
 http://208.53.158.111/bayon
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bazar TV
-rtmp://50.7.241.82:1935/totalstreamer/bazar-256.sdp
 #EXTINF:0 tvg-id="BBCArabic.net" group-title="Channels",BBC Arabic
 http://www.bbc.co.uk/arabic/meta/tx/live/atv_live_bb.asx
 #EXTINF:0 tvg-id="ext" group-title="Channels",BELEDIYE TV
 http://77.223.131.83:82/bant
 #EXTINF:0 tvg-id="ext" group-title="Channels",BENGÜTÜRK TV
 http://yayin3.canliyayin.org/benguturk
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bereket TV
-rtsp://fl1.sz.xlcdn.com:80/live/_definst_/sz=berekettv=berekettv_3
 #EXTINF:0 tvg-id="ext" group-title="Channels",Berita Satu TV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",BFM Lyon
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
 #EXTINF:0 tvg-id="BFMParis.fr" group-title="Channels",BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bhakti
-rtsp://67.228.150.141:1935/liveorigin/bhakti9001
 #EXTINF:0 tvg-id="BipTV.fr" group-title="Channels",Bip TV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",BLK Regional TV
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
 #EXTINF:0 tvg-id="BNTV.svn" group-title="Channels",BN TV
 https://dns2.rtvbn.com:8080/live/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",bnptv
-mms://bnptv.info:10801/
-#EXTINF:0 tvg-id="ext" group-title="Channels",bollywoodmovies
-rtsp://46.249.213.87/broadcast/bollywoodmovies-tablet.3gp
 #EXTINF:0 tvg-id="ext" group-title="Channels",Bonum
 http://cdn.y5.hu/stream/bonum/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR Fernsehen Nord HD
@@ -273,12 +150,6 @@ https://mcdn.br.de/bfs_sued/de/master.m3u8
 https://br_hdslive-f.akamaihd.net/i/brbfssued_ut_de@127380/index_1_av-p.m3u8
 #EXTINF:0 tvg-id="brodilo" group-title="Channels",Brodilo TV HD
 http://brodilo.tv:8100
-#EXTINF:0 tvg-id="ext" group-title="Channels",BRT TV1
-mms://bms.brtk.net/brttv
-#EXTINF:0 tvg-id="ext" group-title="Channels",BRT tv2
-mms://bms.brtk.net/brt2
-#EXTINF:0 tvg-id="baltijos-lt" group-title="Channels",BTV
-mms://123.30.108.114/BTVTruyenhinh
 #EXTINF:0 tvg-id="BulgariaOnAir.bg" group-title="Channels",Bulgaria on air
 http://lb-hls.cdn.bg/2006/fls/bonair.stream/playlist.m3u8
 #EXTINF:0 tvg-id="CNews.fr" group-title="Channels",C News
@@ -289,8 +160,6 @@ http://cdn-streamer2.magictvbox.com/55.m3u8
 https://dai.ly/x5gv5v0
 #EXTINF:0 tvg-id="C8.fr" group-title="Channels",C8
 https://dai.ly/x5gv5rr
-#EXTINF:0 tvg-id="ext" group-title="Channels",Çagri TV
-rtmp://yayin5.canliyayin.org:1935/live/cagritv
 #EXTINF:0 tvg-id="ext" group-title="Channels",CAIRO DRAMA
 http://cdn-delay1.magictvbox.com/3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",canal 10
@@ -303,8 +172,6 @@ https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/master.m3u8
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Canal 4 Mancha Centro
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",canal 53 bandaancha
-mms://streaming.uanl.mx/canal53bandaancha/
 #EXTINF:0 tvg-id="ext" group-title="Channels",Canal 7
 http://tele-plus.canal7.ro:8080
 #EXTINF:0 tvg-id="avi" group-title="Channels",Canal KZO
@@ -315,16 +182,12 @@ http://cda2.streaming.ws/elrural/live/playlist.m3u8
 https://www.canal10.tv/live/movil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Canalcosta TV
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/WXP6YT/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CanalDelConocimiento
-mms://148.234.13.58/canal53bandaancha
 #EXTINF:0 tvg-id="ext" group-title="Channels",Canale Dieci
 https://canale10.cloud:33443/ch10live/high.stream/playlist.m3u8
 #EXTINF:0 tvg-id="CancaoNova.br" group-title="Channels",Canção Nova
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 #EXTINF:0 tvg-id="CancaoNova.br" group-title="Channels",Canção Nova
 https://www.youtube.com/embed/FCxeG89jFqo
-#EXTINF:0 tvg-id="ext" group-title="Channels",Caspio Net
-rtmp://212.154.153.109:1938/live/caspionet
 #EXTINF:0 tvg-id="cbc" group-title="Channels",CBC
 http://cdn-streamer1.magictvbox.com/live/10148.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="CBSDrama.uk" group-title="Channels",CBC DRAMA
@@ -333,98 +196,46 @@ http://cdn-delay1.magictvbox.com/6.m3u8
 http://cdn-streamer1.magictvbox.com/live/10149.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",CBN LIVE [USA]
 http://bcoveliveios-i.akamaihd.net/hls/live/201594/734546207001_3/master.m3u8
-#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="Channels",CBS
-mms://118.107.165.119/cbs_tv_live34
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cbs korea
-mms://vod2.cbs.co.kr/cbs_tv_live34
 #EXTINF:0 tvg-id="cctv" group-title="Channels",CCTV news
 http://www.cctv-9.com/2005/asx/live/live_300.asx
 #EXTINF:0 tvg-id="CGTNFrancais.cn" group-title="Channels",CGTN Français
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ch 21
 http://switch3.castup.net/cunet/gm.asp?ClipMediaID=35541
-#EXTINF:0 tvg-id="ext" group-title="Channels",Changchun TV 1
-mms://221.8.74.28/ctv
-#EXTINF:0 tvg-id="ext" group-title="Channels",Channel 12 Lions
-mmsh://89.187.1.165/LVIV?MSWMExt=.asf
 #EXTINF:0 tvg-id="ext" group-title="Channels",Channel One
 http://38.117.88.148/Channel1Link
-#EXTINF:0 tvg-id="ext" group-title="Channels",Chaozhou Public
-mms://125.91.226.153/cztv2
 #EXTINF:0 tvg-id="ext" group-title="Channels",Chaula TV
 https://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Chaula TV Rīga
 https://video.chaula.tv/hls/live/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Chaula TV Rīga
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Children's TV
-mms://streamer.uvcm.de:1080/tv
 #EXTINF:0 tvg-id="ext" group-title="Channels",China gamers TV1
 http://gslb.tv.sohu.com/live?cid=57
 #EXTINF:0 tvg-id="ext" group-title="Channels",China Gamers TV2
 http://gslb.tv.sohu.com/live?cid=61
-#EXTINF:0 tvg-id="ext" group-title="Channels",CHOSUN SPECIAL
-rtmp://lm02.everyon.tv:1935/ptv2/pld561
-#EXTINF:0 tvg-id="ext" group-title="Channels",Citruss TV [Thaherq]
-rtmp://live.citrusstv.com:1935/live//watch
-#EXTINF:0 tvg-id="ext" group-title="Channels",ÇİZGİ FİLM TV
-mms://yayin.networkbil.com/cizgifilmtv
-#EXTINF:0 tvg-id="ext" group-title="Channels",CJB SBS
-mms://tv.cjb.kr/cjb_tv
 #EXTINF:0 tvg-id="ext" group-title="Channels",CLASSIQUE TV
 http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?CANAISGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNA SAT TV
-rtmp://str81.creacast.com:80/cna/live.sdp
 #EXTINF:0 tvg-id="ext" group-title="Channels",CNBC india
 http://bglive-a.bitgravity.com/web18/secure/feed01?e=2607646344%26h=a3b7d81f159a802f448da7333b16ab6e&start=0
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNL Europa
-mms://stream.cnl.tv/cnl-eu
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNL-Украина
-mms://stream.cnl.tv/cnl-ukr
 #EXTINF:0 tvg-id="CNNTURK.tr" group-title="Channels",CNN Turk
 http://212.224.108.80/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:0 tvg-id="CNNTURK.tr" group-title="Channels",CNN Türk
-rtmp://live.dtv.cubecdn.net:80/cnnturktv/CNNTurk3
-#EXTINF:0 tvg-id="ext" group-title="Channels",Conexaobr Tv
-rtmp://srvvenus.canaldoboi.com:1935/livecx/livestream
 #EXTINF:0 tvg-id="ext" group-title="Channels",Congreso de los Diputados 1
 https://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Congreso de los Diputados 2
 https://congresodirecto-f.akamaihd.net/i/congreso2_1@72033/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Copticsat TV
-rtmp://154.obj.netromedia.net:1935/Copticsat/Copticsat
-#EXTINF:0 tvg-id="CredoTV.ro" group-title="Channels",Credo TV
-rtmp://38.115.166.99:1935/livecredo/livestream
 #EXTINF:0 tvg-id="ext" group-title="Channels",CRO TV HD
 http://92.204.40.139/crotvhd-auroratv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CRT TV
-rtmp://yayin5.canliyayin.org:1935/live/crttv1
-#EXTINF:0 tvg-id="ext" group-title="Channels",CSPN-China
-mms://58.48.156.93/hubeitiyu
 #EXTINF:0 tvg-id="ext" group-title="Channels",CYC
 http://cdn-streamer2.magictvbox.com/34.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",CZBTV Chaozhou news
 http://www.czbtv.com/vod/zxst/DSZB_XWZHPD.ASX
-#EXTINF:0 tvg-id="ext" group-title="Channels",CZTV Changzhou city
-mms://vod1.cztv.tv/cztv02
-#EXTINF:0 tvg-id="ext" group-title="Channels",CZTV Changzhou movie
-mms://vod1.cztv.tv/cztv03
-#EXTINF:0 tvg-id="ext" group-title="Channels",CZTV Changzhou news
-mms://vod1.cztv.tv/cztv01
-#EXTINF:0 tvg-id="ext" group-title="Channels",DAAI TV
-rtsp://cdn.mivo.tv/mivotvjkt/daaitv2
 #EXTINF:0 tvg-id="ARD.de" group-title="Channels",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Das Wort TV
 https://stream.daswort.tv/live/high.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dawn
-rtsp://dawnstream.hostingmadeeasy.com/dawn
 #EXTINF:0 tvg-id="Deltatv.gr" group-title="Channels",Delta TV
 https://cdn.onestreaming.com/deltatv/deltatv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dena TV
-mms://77.36.254.190:1011
-#EXTINF:0 tvg-id="ext" group-title="Channels",Destan TV
-mms://yayin.canlitv.com/destantv
 #EXTINF:0 tvg-id="dwelle" group-title="Channels",Deutsche Welle
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Deutsche Welle+
@@ -441,16 +252,12 @@ http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/playlist.m3u8
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",DPRK TV
 http://112.170.78.145:50000/chosun
-#EXTINF:0 tvg-id="ext" group-title="Channels",DR Update
-rtsp://rtsplive.dr.dk/livestream32.sdp
 #EXTINF:0 tvg-id="ext" group-title="Channels",DR4 TV
 http://media.xstream.dk/dk4_live_10
 #EXTINF:0 tvg-id="ext" group-title="Channels",Dream 1
 http://www.elahmad.com/seo/Dream1.swf
 #EXTINF:0 tvg-id="ext" group-title="Channels",DRT TV
 http://www.biziizle.com/player/SAlone.asp?id=74
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Racing Tv
-rtsp://stream4.dmi.ae/live4/dubairacing
 #EXTINF:0 tvg-id="ext" group-title="Channels",Dubai TV ARB
 https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="DeutscheWelle.de" group-title="Channels",DW NEWS
@@ -465,24 +272,10 @@ http://dwstream32-lh.akamaihd.net/i/dwstream32_live@500520/master.m3u8
 https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",EbS+ Live (Europe by Satellite)
 https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Eco Bulgaria TV
-mms://stream.ecobulgaria.tv/EcoBulgariaTV
-#EXTINF:0 tvg-id="ext" group-title="Channels",Edirne TV
-rtmp://radyo.sistemhost.com:1935/etv/live
-#EXTINF:0 tvg-id="EgeTV.tr" group-title="Channels",EGE TV
-mms://213.142.142.213/ege tv
 #EXTINF:0 tvg-id="Ei.br" group-title="Channels",EI
 http://cdn-streamer2.magictvbox.com/59.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",El TV
-mms://livetv.regiontv.az/eltv
-#EXTINF:0 tvg-id="ext" group-title="Channels",Elazig Canal 23
-rtmp://yayin.tvdunyasi.tv:1935/live/elazig_kanale
 #EXTINF:0 tvg-id="ext" group-title="Channels",ELBEKANAL
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Elektrika TV
-rtmp://rtmp.elektrika.cz:1935/live/myStream.sdp
-#EXTINF:0 tvg-id="ext" group-title="Channels",EMTV
-mms://93.152.172.201/emtv
 #EXTINF:0 tvg-id="ext" group-title="Channels",Eqtisadia
 http://38.96.148.75/Eqtisadia
 #EXTINF:0 tvg-id="ext" group-title="Channels",Eqtisadia
@@ -493,20 +286,10 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_wwmedium.m3u8
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_wwmedium.m3u8
 #EXTINF:0 tvg-id="avi" group-title="Channels",ERT3
 https://www.youtube.com/embed/TNVdb0tT0PM
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ertsulovneba
-mms://208.75.225.90/live
-#EXTINF:0 tvg-id="ext" group-title="Channels",ERTV
-rtmp://89.105.159.67:1935/ertv
 #EXTINF:0 tvg-id="ext" group-title="Channels",Espansione TV
 https://srvx1.selftv.video/espansione/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",EST TV
-rtmp://89.43.159.2:1935/live/esttv
-#EXTINF:0 tvg-id="ext" group-title="Channels",Estonian ETV2
-rtmp://193.40.133.138:1935/live/etv2
 #EXTINF:0 tvg-id="ETV.ee" group-title="Channels",ETV
 https://sb.err.ee/live/etv.m3u8
-#EXTINF:0 tvg-id="ETV2.ee" group-title="Channels",ETV 2
-rtsp://cdn.m.yupptv.tv/liveorigin/etv21
 #EXTINF:0 tvg-id="ETVPlus.ee" group-title="Channels",ETV+
 https://yogurt.err.ee/live/etvpluss-kval2/index.m3u8
 #EXTINF:0 tvg-id="avi" group-title="Channels",Euronews deutsch
@@ -519,28 +302,16 @@ https://www.youtube.com/embed/Q-5_Bg1z5QQ
 https://www.youtube.com/embed/pnaF6XIU-yQ
 #EXTINF:0 tvg-id="avi" group-title="Channels",euronews português
 https://www.youtube.com/embed/s-4hPNkiDq8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Euronews Russian
-rtsp://fr-par-5.stream-relay.hexaglobe.net:1935/rtpeuronewslive/ru_video750_flash_all.sdp
 #EXTINF:0 tvg-id="avi" group-title="Channels",Euronews Ελληνικά
 https://www.youtube.com/embed/tcXtSgrC7CU
 #EXTINF:0 tvg-id="avi" group-title="Channels",Euronews русски
 https://www.youtube.com/embed/twVHyUlD_Ns
-#EXTINF:0 tvg-id="europa-plus" group-title="Channels",Europa Plus TV
-rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp
 #EXTINF:0 tvg-id="esp2" group-title="Channels",Eurosport 2
 http://hrv.00387.info/Eurosport2HD/index.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="Channels",Expert TV
-rtmp://expert.ru:1935/live/experttv
 #EXTINF:0 tvg-id="ext" group-title="Channels",FAAP
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fadak TV
-rtmp://46.137.95.126:1935/fadaktv/hb9
-#EXTINF:0 tvg-id="ext" group-title="Channels",Familie TV
-rtmp://lvs.wowza.jay.net:1935/kkrtv-ipad/origin.stream
 #EXTINF:0 tvg-id="ext" group-title="Channels",family.tv
 https://cdn.icu.de/rtplive/bwf.stream/chunklist_w901052002.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fanatik tv
-rtmp://live.fanatik.cubecdn.net:1935/fanatiktv/stream_720
 #EXTINF:0 tvg-id="fashion-one" group-title="Channels",Fashion One TV
 http://77.51.249.89:8103
 #EXTINF:0 tvg-id="fashion" group-title="Channels",Fashion TV
@@ -549,10 +320,6 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Filstalwelle
 https://586c58b20c86e.streamlock.net/filstalwelle-live/_definst_/mp4:livestream/chunklist_w788671625.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FIX TV HD
-rtmp://video.fixhd.tv:1935/fix/hd.stream
-#EXTINF:0 tvg-id="Fox.hr" group-title="Channels",FOX TV
-rtmp://yayin.canlitv.com:1935/live/foxtv
 #EXTINF:0 tvg-id="france24" group-title="Channels",France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:0 tvg-id="france24" group-title="Channels",France 24
@@ -563,160 +330,55 @@ http://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8?
 #EXTINF:0 tvg-id="Franceinfo.fr" group-title="Channels",France Info
 https://dai.ly/x4rdeu6
-#EXTINF:0 tvg-id="ext" group-title="Channels",FRESHTV. TV
-rtmp://www.planeta-online.tv:1936/live/channel_4
 #EXTINF:0 tvg-id="ext" group-title="Channels",Frikanalen
 https://frikanalen.no/stream/stream_2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fujairah TV
-rtmp://fujmedia.dyndns.org:4425/live/live
-#EXTINF:0 tvg-id="ext" group-title="Channels",fujian children
-mms://video.fjtv.net/fjtv9?ZHVob25n
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fujian city
-mms://video.fjtv.net/fjtv6?ZHVob25n
-#EXTINF:0 tvg-id="ext" group-title="Channels",fujian economy
-mms://video.fjtv.net/fjtv7?ZHVob25n
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fujian General
-mms://video.fjtv.net/fjtv1?ZHVob25n
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fujian News
-mms://video.fjtv.net/fjtv4?ZHVob25n
-#EXTINF:0 tvg-id="ext" group-title="Channels",fujian public
-mms://video.fjtv.net/fjtv3?ZHVob25n
-#EXTINF:0 tvg-id="ext" group-title="Channels",fujian sat
-mms://video.fjtv.net/fjtv10?ZHVob25n
-#EXTINF:0 tvg-id="ext" group-title="Channels",Futian tv
-mms://video.fjtv.net/setv?ZHVob25n
 #EXTINF:0 tvg-id="FutureTV.net" group-title="Channels",Future TV
 http://www.elahmad.com/seo/Future.swf
-#EXTINF:0 tvg-id="ext" group-title="Channels",Galargo TV
-rtmp://rtmp.galargo.tv:1935/wowzaapp1/1_360p
-#EXTINF:0 tvg-id="ext" group-title="Channels",Gamma TV
-mms://89.187.1.165/gamma
 #EXTINF:0 tvg-id="ext" group-title="Channels",Gansu TV
 http://gslb.tv.sohu.com/live?cid=34
-#EXTINF:0 tvg-id="ext" group-title="Channels",Gaziantep Olay TV
-rtmp://stream.taksimbilisim.com:1935/olaytv/bant1
-#EXTINF:0 tvg-id="GENCTV.tr" group-title="Channels",Genç TV
-rtmp://212.175.65.69:1935/live/BQ2HJKN
-#EXTINF:0 tvg-id="ext" group-title="Channels",Global TV (Thaherq)
-rtsp://cdn.mivo.tv/mivotvjkt/globaltv2
-#EXTINF:0 tvg-id="globalstar" group-title="Channels",GlobalStar TV
-rtmp://195.91.248.43:1935/rtplive/mpegts.stream
-#EXTINF:0 tvg-id="ext" group-title="Channels",Gospel Channel Scandinavia
-rtmp://149.3.141.18:80/beint/gospelno
 #EXTINF:0 tvg-id="ext" group-title="Channels",Gospel Music Television
 http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Gözyasi fm
-mms://yayin3.canliyayin.org/gozyasitv
 #EXTINF:0 tvg-id="ext" group-title="Channels",Greek Voice TV (wzra)
 http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Guizhou Satellite TV
 http://gslb.tv.sohu.com/live?cid=32
 #EXTINF:0 tvg-id="ext" group-title="Channels",Gunaz Tv
 http://v1.webcasting.granicus.com/webcasting_gunaz
-#EXTINF:0 tvg-id="ext" group-title="Channels",Gypsy TV
-mms://93.152.172.201/gypsy
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hainan News
-mms://40.bluehn.com/LIVECAM2
-#EXTINF:0 tvg-id="ext" group-title="Channels",Halis TV
-mms://yayin5.canliyayin.org/halistv
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hamedan TV
-mms://217.219.194.22:8080/
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hamoon
-mms://81.12.49.190:1048/
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hangulat TV-rtvstat.hu
-rtmp://extondemand.livestream.com:1935/ondemand/trans/dv15/mogulus-user-files/chhangulattv/2013/10/23/01a71dd6-306c-4de4-9d88-c3ccc76c770e
-#EXTINF:0 tvg-id="hd-life" group-title="Channels",Hard Life
-rtmp://86.62.75.60:1935/live/hardlife
 #EXTINF:0 tvg-id="HAYATTVBIH.hr" group-title="Channels",Hayat tv
 http://bos.00387.info:27979/MAGLAJ/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-id="HAYATTVBIH.hr" group-title="Channels",Hayat Tv
 http://www.canlitv.com/asx.php?id=11503
-#EXTINF:0 tvg-id="HAYATTVBIH.hr" group-title="Channels",HAYAT TV
-mms://yayin.canlitv.com/hayattv
 #EXTINF:0 tvg-id="ext" group-title="Channels",HB TV
 http://www.elahmad.com/tv/sport/ESPN-China.asx
-#EXTINF:0 tvg-id="ext" group-title="Channels",HD Process TV
-rtmp://hdimages.cdnvideo.ru:1935/rr/HDprocessCDN
-#EXTINF:0 tvg-id="ext" group-title="Channels",HD Travel TV
-rtmp://hdimages.cdnvideo.ru:1935/rr/HDtravelCDN
 #EXTINF:0 tvg-id="ext" group-title="Channels",hellenic parliament (WebTV-1)
 https://streamer-cache.grnet.gr/parliament/hls/webtv_1280_960x540/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",hellenic parliament (WebTV-2)
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Heya TV (Arabic Woman Channel)
-mms://tor-strm02.jumptv.com/heya?WMThinning=0&Customer_ID=1152538&Product_ID=4021&Asset_ID=1086&Stream_ID=20000&User_Token=41f28ff6c0f673344ef85855264b9575
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hilal Tv
-mms://yayin3.canliyayin.org/hilaltv
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",HK FINANCE NEWS CHANNEL HD
 http://metroradio-f.akamaihd.net/mmc_h_300@63?v=2.1.20&fp=WIN11&r=OVYUW&g=VBQQIRDWCJDW&seek=NaN
 #EXTINF:0 tvg-id="ext" group-title="Channels",HK TV
 http://zb.v.qq.com:1863/?progid=2584831218
-#EXTINF:0 tvg-id="ext" group-title="Channels",HKS
-rtmp://live.hkstv.hk.lxdns.com:1935/live/hks
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",HLJ TV
 http://www.wcetv.com/asx/LIB/LIB100697_v5.asx
-#EXTINF:0 tvg-id="ext" group-title="Channels",HMTV
-rtsp://cdn.m.yupptv.tv/liveorigin/hmtv1
+
 #EXTINF:0 tvg-id="HopeChannel.de" group-title="Channels",Hope Channel
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="HR.de" group-title="Channels",hr-fernsehen
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Huainan TV
-mms://space.hngd.gov.cn/live1
-#EXTINF:0 tvg-id="ext" group-title="Channels",Huainan TV2
-mms://space.hngd.gov.cn/live2
-#EXTINF:0 tvg-id="ext" group-title="Channels",Huesca TV
-rtmp://streaming2.radiohuesca.com:1935/live/huescatv
-#EXTINF:0 tvg-id="ext" group-title="Channels",I Film
-mms://93.190.24.114/ifilmtv
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",IBN7 TV
 http://bglive-a.bitgravity.com/web18/secure/feed02?e=2628858938&h=ab0786cd59d98441ebac2c70c625863c
-#EXTINF:0 tvg-id="ext" group-title="Channels",İctimai Televiziya
-rtsp://85.132.71.4:1935/bakutv/itv.stream
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ictimai Televiziyon
-mmsh://85.132.78.130:12345
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ifilm
-rtmp://50.7.241.82:1935/totalstreamer/ifilm-256.sdp
-#EXTINF:0 tvg-id="ext" group-title="Channels",IFilm Farsi
-mms://217.218.64.53/live
-#EXTINF:0 tvg-id="ext" group-title="Channels",Imam Hussein  TV
-rtmp://ca.live.imamhussein.tv:1935/live2/iht03
-#EXTINF:0 tvg-id="ext" group-title="Channels",Imam Hussein 2 TV
-rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203
-#EXTINF:0 tvg-id="impact" group-title="Channels",Impact TV
-mms://live.itnlive.org/impacthq
+
 #EXTINF:0 tvg-id="impact" group-title="Channels",Impact TV
 http://www.webtelek.com/media/impact900.asx
 #EXTINF:0 tvg-id="ext" group-title="Channels",IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:0 tvg-id="zee" group-title="Channels",India TV
-mms://a1601.l12454743600.c124547.a.lm.akamaistream.net/D/1601/124547/v0001/reflector:43600
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infinity TV
-rtmp://www.teledunet.com:1935/teledunet/infinity
-#EXTINF:0 tvg-id="ext" group-title="Channels",Info RU Tv
-rtmp://fl1.sz.xlcdn.com:1935/live/sz=rtvd=flash
-#EXTINF:0 tvg-id="ext" group-title="Channels",InterAz
-rtmp://cdn4.video.az:1935/live/interaz
-#EXTINF:0 tvg-id="ext" group-title="Channels",Inva TV
-rtmp://invatv.cdnvideo.ru:1935/invatv-live/invatv.sdp
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Iraq Sport
 http://www.elahmad.com/tv/iraq-sport.asx
-#EXTINF:0 tvg-id="ext" group-title="Channels",Iraqi Media Network
-mms://212.7.196.74/iraqia
-#EXTINF:0 tvg-id="ext" group-title="Channels",Irib
-http://www2.irib.ir/live/tv1.asx
-#EXTINF:0 tvg-id="ext" group-title="Channels",IRIB Pooya
-rtmp://live.iransima.ir:1935/live/pooya-udp-500k.stream
-#EXTINF:0 tvg-id="ext" group-title="Channels",IRIB TV1
-mms://live.iransima.ir/irib1
-#EXTINF:0 tvg-id="ext" group-title="Channels",IRIB TV2
-http://www2.irib.ir/live/tv2.asx
-#EXTINF:0 tvg-id="ext" group-title="Channels",IRIB TV2
-mms://live.iransima.ir/irib2
-#EXTINF:0 tvg-id="ext" group-title="Channels",IRIB TV4
-mms://live.iransima.ir/irib4
-#EXTINF:0 tvg-id="ext" group-title="Channels",IRIB TV5
-mms://live.iransima.ir/irib5
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Isaac Tv Pakistan
 https://livecdn.live247stream.com/isaac/tv/isaac/stream2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Istweb TV (HQ)
