@@ -51,3 +51,274 @@ https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mana 1" tvg-logo="https://cdn.teleon.tv/logo/tv_mana_1_pt.png" group-title="PORTUGAL",TV MANA 1
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
+
+#EXTINF:-1,[COLOR blue]LISTA 2 - LISTA 29/05/2021[/COLOR]
+https://000000
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",RTP 1
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/152
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",RTP 1 HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/153
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",RTP 2
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/154
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",RTP 2 HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/155
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/162
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/165
+#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",TVI
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/221
+#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",TVI HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/224
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",SIC Notícias
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/170
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",RTP 3
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/156
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",RTP 3 HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/157
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",CMTV
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/70
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",CMTV HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/71
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",TVI 24
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/222
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",Porto Canal
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/148
+#EXTINF:0 tvg-id="ext" group-title="Channels",Porto Canal HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/2456
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",RTP Memória
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/161
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",RTP Açores
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/158
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",RTP África
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/159
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",TVI Reality
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/225
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",TVI FICÇÃO
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/223
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",SIC Radical
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/172
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",SIC Mulher
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/168
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",SIC Caras
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/163
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",Canal Q
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/63
+#EXTINF:0 tvg-id="RecordTV.uk" group-title="Channels",Record TV
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/210
+#EXTINF:0 tvg-id="RecordNews.pt" group-title="Channels",Record News
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/151
+#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",Globo
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/115
+#EXTINF:0 tvg-id="GloboNow.pt" group-title="Channels",Globo Now
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/114
+#EXTINF:0 tvg-id="tpa.sp" group-title="Channels",TPA Internacional
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/203
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="Channels",CAÇAVISION
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/59
+#EXTINF:0 tvg-id="cazaepesca.pt" group-title="Channels",Caça e Pesca
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/58
+#EXTINF:0 tvg-id="SportTV1.svn" group-title="Channels",SPORT TV1
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/177
+#EXTINF:0 tvg-id="SportTV1.svn" group-title="Channels",SPORT TV1 HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/179
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",Sport TV 1 (LOW)
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/23
+#EXTINF:0 tvg-id="SportTV2.svn" group-title="Channels",SPORT TV2
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/180
+#EXTINF:0 tvg-id="SportTV2.svn" group-title="Channels",SPORT TV2 HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/182
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",Sport TV 2 (LOW)
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/24
+#EXTINF:0 tvg-id="Sportv3.br" group-title="Channels",SPORT TV3
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/183
+#EXTINF:0 tvg-id="SportTV3.svn" group-title="Channels",SPORT TV3 HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/185
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV4
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/186
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV4 HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/188
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV5
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/189
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV5 HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/191
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV+
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/175
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV+ HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/176
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport TV NBA
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/193
+#EXTINF:0 tvg-id="baltijos-lt" group-title="Channels",BTV
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/51
+#EXTINF:0 tvg-id="baltijos-lt" group-title="Channels",BTV HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/53
+#EXTINF:0 tvg-id="baltijos-lt" group-title="Channels",BTV (LOW)
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/4
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",ELEVEN SPORTS 1 HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/83
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",Eleven Sports 1 (LOW)
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/8
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",ELEVEN SPORTS 2 HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/85
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",Eleven Sports 2 (LOW)
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/9
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",ELEVEN SPORTS 3
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/86
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",ELEVEN SPORTS 3 HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/17717
+#EXTINF:0 tvg-id="elevensports4.pt" group-title="Channels",ELEVEN SPORTS 4
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/88
+#EXTINF:0 tvg-id="elevensports5.pt" group-title="Channels",ELEVEN SPORTS 5
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/90
+#EXTINF:0 tvg-id="elevensports6.pt" group-title="Channels",ELEVEN SPORTS 6
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/91
+#EXTINF:0 tvg-id="Canal11.pt" group-title="Channels",Canal 11 HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/38
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",Sporting TV
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/194
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",Sporting TV HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/195
+#EXTINF:0 tvg-id="pfc.pt" group-title="Channels",PFC
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/146
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",A BOLA TV
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/41
+#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",SIC K
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/166
+#EXTINF:0 tvg-id="jimjam" group-title="Channels",JimJam
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/121
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",Biggs
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/54
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",Disney Junior
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/78
+#EXTINF:0 tvg-id="nick-jr" group-title="Channels",NICK JR
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/139
+#EXTINF:0 tvg-id="disney" group-title="Channels",Disney Channel
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/77
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",Nickelodeon
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/140
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/65
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",Canal Panda
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/62
+#EXTINF:0 tvg-id="baby-tv" group-title="Channels",Baby TV
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/48
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Top HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/213
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Edition HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/215
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Emotion HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/217
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Action HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/218
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOS Studios HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/141
+#EXTINF:0 tvg-id="HBO.hu" group-title="Channels",HBO HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/2183
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",Canal Hollywood
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/117
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",Canal Hollywood HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/118
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",AXN White HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/47
+#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/43
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",AMC HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/44
+#EXTINF:0 tvg-id="AXN.it" group-title="Channels",AXN HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/46
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN Movies HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/45
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",Cinemundo
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/67
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",Syfy HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/198
+#EXTINF:0 tvg-id="fox-hd" group-title="Channels",FOX HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/105
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX Movies
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/107
+#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",FOX Life HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/106
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX Crime HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/104
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="Channels",FOX Comedy
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/102
+#EXTINF:0 tvg-id="CBSReality.ru" group-title="Channels",CBS Reality
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/66
+#EXTINF:0 tvg-id="Crime+Investigation.ca" group-title="Channels",Crime + Investigation
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/74
+#EXTINF:0 tvg-id="id-extra" group-title="Channels",ID Investigation Discovery
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/120
+#EXTINF:0 tvg-id="natgeo" group-title="Channels",National Geographic
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/137
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",National Geographic HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/138
+#EXTINF:0 tvg-id="natgeowild" group-title="Channels",National Geographic Wild
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/135
+#EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",Odisseia
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/142
+#EXTINF:0 tvg-id="History.uk" group-title="Channels",História
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/61
+#EXTINF:0 tvg-id="24Kitchen.svn" group-title="Channels",24 Kitchen
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/39
+#EXTINF:0 tvg-id="CasaCozinha.pt" group-title="Channels",Casa e Cozinha HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/2587
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",Discovery Channel
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/75
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",Discovery HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/76
+#EXTINF:0 tvg-id="travel-hd" group-title="Channels",Travel Channel HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/208
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="Channels",Blaze
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/55
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",Fuel TV
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/111
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Channels",Toros TV
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/201
+#EXTINF:0 tvg-id="E.blt" group-title="Channels",E! Entertainment
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/80
+#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/200
+#EXTINF:0 tvg-id="MotorvisionChannel.gr" group-title="Channels",Motorvision
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/130
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gametoon
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/113
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lolly Kids HD
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/17781
+#EXTINF:0 tvg-id="TraceUrban.ru" group-title="Channels",Trace Urban
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/205
+#EXTINF:0 tvg-id="TraceToca.fr" group-title="Channels",Trace Toca
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/204
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",MTV Portugal
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/132
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",Afro Music Channel
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/42
+#EXTINF:0 tvg-id="mcm-top" group-title="Channels",MCM Top
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/128
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="Channels",MCM Pop
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/127
+#EXTINF:0 tvg-id="vh1-europe" group-title="Channels",VH1
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/234
+#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="Channels",Clubbing TV
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/69
+#EXTINF:0 tvg-id="mezzo" group-title="Channels",Mezzo
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/129
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="Channels",Canção Nova
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/64
+#EXTINF:0 tvg-id="france24" group-title="Channels",France 24
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/110
+#EXTINF:0 tvg-id="FoxNews.it" group-title="Channels",Fox News
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/109
+#EXTINF:0 tvg-id="Skynews.gr" group-title="Channels",Sky News
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/174
+#EXTINF:0 tvg-id="bbc-world" group-title="Channels",BBC World News
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/50
+#EXTINF:0 tvg-id="cnn" group-title="Channels",CNN
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/73
+#EXTINF:0 tvg-id="cnbc" group-title="Channels",CNBC
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/72
+#EXTINF:0 tvg-id="DW.al" group-title="Channels",DW
+http://myskype.eu:8880/pachoescobar/fn0lBc1Sjk/79
+
