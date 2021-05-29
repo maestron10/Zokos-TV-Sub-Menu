@@ -15,11 +15,17 @@ http://0.0.0.0:00000
 #EXTINF:-1,[COLOR blue]BEST TOP HITS[/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=coral][B]V2BEAT TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1,[COLOR=coral][B]TRACE URBAN[/B][/COLOR][COLOR=coral][/COLOR]
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]NRG 91[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/VevoPop_190x190.png?raw=true",[COLOR=coral][B]VEVO[/B][/COLOR][COLOR=coral][/COLOR]
+https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Vevo_R&B_190x190.png?raw=true",[COLOR=coral][B]VEVO R&B[/B][/COLOR][COLOR=coral][/COLOR]
+https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Vevo_HipHop_190x190.png?raw=true",[COLOR=coral][B]VEVO HIP HOP[/B][/COLOR][COLOR=coral][/COLOR]
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/Vevo_Holiday_190X190.png?raw=true",[COLOR=coral][B]VEVO HOLIDAY[/B][/COLOR][COLOR=coral][/COLOR]
+https://5dcc69bb1621dc5de50b1db7-s-1.ssai.zype.com/5dcc69bb1621dc5de50b1db7-s-1/manifest.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]BOX HITS SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxTV-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
@@ -32,6 +38,9 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]POWERHD[/B][/COLOR][COLOR=coral][/COLOR]
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]POWERTURK HD[/B][/COLOR][COLOR=coral][/COLOR]
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]BARAZA TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
@@ -56,6 +65,12 @@ http://rtmp.one.by:2300
  
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=coral][B]FIRST 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://rtmp.one.by:1300
+
+#EXTINF:-1,[COLOR=coral][B]V2BEAT TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]NRG 91[/B][/COLOR][COLOR=coral][/COLOR]
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]KISS TV SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
@@ -111,10 +126,16 @@ https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1,[COLOR=coral][B]DANCE TV - BEST OF TECNHO[/B][/COLOR][COLOR=coral][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionthree/2/dancetelevisionthree.m3u8
 
+#EXTINF:-1,[COLOR=coral][B]TECHNO WAREHOUSE[/B][/COLOR][COLOR=coral][/COLOR]
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+
 #EXTINF:-1,[COLOR=coral][B]DANCE TV - DEEP HOUSE[/B][/COLOR][COLOR=coral][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="",[COLOR=coral][B]CLUBBING TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]CLUBBING TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]DANCE STAR TV HD[/B][/COLOR][COLOR=coral][/COLOR]
@@ -180,6 +201,15 @@ https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w590134734.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]VINTAGE MUSIC TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]NOW 70'S[/B][/COLOR][COLOR=coral][/COLOR]
+https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]NOW 80'S[/B][/COLOR][COLOR=coral][/COLOR]
+https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]NOW 90'S[/B][/COLOR][COLOR=coral][/COLOR]
+https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
  
   
 ######################################################################################
