@@ -12,6 +12,10 @@ http://0.0.0.0:000000
 #EXTINF:-1,[COLOR blue]CANAIS DE DESPORTO[/COLOR]
 https://000000
  
+
+#EXTINF:-1,[COLOR=coral][B]TRACE SPORTS STARS[/B][/COLOR][COLOR=coral][/COLOR]
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+ 
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=coral][B]RED BULL TV FHD[/B][/COLOR][COLOR=coral][/COLOR]
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
  
@@ -23,13 +27,30 @@ https://edgesport-samsunguk.amagi.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="USA",[COLOR=coral][B]EDGE SPORTS USA[/B][/COLOR][COLOR=coral][/COLOR]
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]HORIZON SPORTS[/B][/COLOR][COLOR=coral][/COLOR]
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
  
+#EXTINF:-1,[COLOR=coral][B]FREE SPORTS TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]SPORTS CHANNEL NETWORK[/B][/COLOR][COLOR=coral][/COLOR]
+https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
  
 #EXTINF: -1,[COLOR=coral][B]ADVENTURE SPORTS NETWORK[/B][/COLOR][COLOR=coral][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=coral][B]CANAL MOTOR HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]MOTORSPORTS TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]SWISS SPORT TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]RUGBY WORLD TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=coral][B]GOLF NETWORK[/B][/COLOR][COLOR=coral][/COLOR]
 http://203.162.235.41:16924
@@ -67,6 +88,9 @@ http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]TU MUSICA HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]LATIDO MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+https://vidaprimo-plex.amagi.tv/playlist.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]AFROBEAT - ÁFRICA[/B][/COLOR][COLOR=coral][/COLOR]
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
@@ -76,6 +100,9 @@ http://connectiktv.ddns.net:8080/afrobit/index.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]RELOAD RADIO MUSIC POWER HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]PERSIANA MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+http://51.210.199.24/hls/stream.m3u8
 
  
 ##########################################################################################################################
@@ -126,9 +153,19 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
  
 ##########################################################################################################################
-#EXTINF:-1,[COLOR blue]CANAIS PRAIA E OCEANO[/COLOR]
+#EXTINF:-1,[COLOR blue]CANAIS PRAIA E NAUTICOS[/COLOR]
 https://000000
  
+ 
+#EXTINF:-1,[COLOR=coral][B]MY SURF TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://alchimie-mysurf-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/06232020/SURF_NOW_TV_190x190.png?raw=true",[COLOR=coral][B]SURF NOW TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://1091-surfnowtv-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]THE BEACH TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="USA",[COLOR=coral][B]BEACH TV PAWLEYS ISLAND[/B][/COLOR][COLOR=coral][/COLOR]
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
  
@@ -185,6 +222,12 @@ https://newidco-babysharktv-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="duck" group-title="Channels",[COLOR=coral][B]DUCK TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1,[COLOR=coral][B]PEOPLE ARE AWESOME[/B][/COLOR][COLOR=coral][/COLOR]
+https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]POWER NATION TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://rtmtv-samsung.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF: -1,[COLOR=coral][B]TMZ[/B][/COLOR][COLOR=coral][/COLOR]
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
  
@@ -211,6 +254,9 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
  
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nasatv-269x151.jpg" group-title="",[COLOR=coral][B]NASA TV 2[/B][/COLOR][COLOR=coral][/COLOR]
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]NASA TV PUBLIC[/B][/COLOR][COLOR=coral][/COLOR]
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
  
 #EXTINF:-1 group-title="Religious",[COLOR=coral][B]BETTER HEALTH TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
