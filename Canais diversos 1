@@ -31,6 +31,9 @@ https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]HORIZON SPORTS[/B][/COLOR][COLOR=coral][/COLOR]
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oitvOug.png" group-title="UK",[COLOR=coral][B]WORLD OF FREE SPORTS[/B][/COLOR][COLOR=coral][/COLOR]
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+ 
 #EXTINF:-1,[COLOR=coral][B]FREE SPORTS TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 
