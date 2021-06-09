@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 23/05/21[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 09/06/21[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #########################################################################################################################################################################
  
@@ -17,15 +17,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=coral][B]TRACE URBAN[/B][/COLOR][COLOR=coral][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/VevoPop_190x190.png?raw=true",[COLOR=coral][B]VEVO[/B][/COLOR][COLOR=coral][/COLOR]
-https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Vevo_R&B_190x190.png?raw=true",[COLOR=coral][B]VEVO R&B[/B][/COLOR][COLOR=coral][/COLOR]
-https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Vevo_HipHop_190x190.png?raw=true",[COLOR=coral][B]VEVO HIP HOP[/B][/COLOR][COLOR=coral][/COLOR]
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/Vevo_Holiday_190X190.png?raw=true",[COLOR=coral][B]VEVO HOLIDAY[/B][/COLOR][COLOR=coral][/COLOR]
-https://5dcc69bb1621dc5de50b1db7-s-1.ssai.zype.com/5dcc69bb1621dc5de50b1db7-s-1/manifest.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]BOX HITS SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxTV-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
@@ -114,6 +105,15 @@ http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 
 #EXTINF:-1 tvg-id="BritAsiaTV.uk" tvg-name="Brit Asia TV" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",[COLOR=coral][B]BRIT ASIA TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/VevoPop_190x190.png?raw=true",[COLOR=coral][B]VEVO[/B][/COLOR][COLOR=coral][/COLOR]
+https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Vevo_R&B_190x190.png?raw=true",[COLOR=coral][B]VEVO R&B[/B][/COLOR][COLOR=coral][/COLOR]
+https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Vevo_HipHop_190x190.png?raw=true",[COLOR=coral][B]VEVO HIP HOP[/B][/COLOR][COLOR=coral][/COLOR]
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/Vevo_Holiday_190X190.png?raw=true",[COLOR=coral][B]VEVO HOLIDAY[/B][/COLOR][COLOR=coral][/COLOR]
+https://5dcc69bb1621dc5de50b1db7-s-1.ssai.zype.com/5dcc69bb1621dc5de50b1db7-s-1/manifest.m3u8
   
  ######################################################################################################
  
@@ -222,9 +222,6 @@ https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]TELERITMO[/B][/COLOR][COLOR=coral][/COLOR]
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
  
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]TOP LATINO TV PERU[/B][/COLOR][COLOR=coral][/COLOR]
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]HITS 360 HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 
@@ -286,9 +283,6 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/chunk.
 #EXTINF:-1,[COLOR=coral][B]M2 TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://live.m2.tv/hls3/stream.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]KRAL TV[/B][/COLOR][COLOR=coral][/COLOR]
-http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
- 
 #EXTINF:-1,[COLOR=coral][B]CHAULA TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://video.chaula.tv/hls/live/high/playlist_high.m3u8?checkedby:iptvcat.com
  
@@ -307,7 +301,7 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u
 
 #############################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA 2 REVISTA: 23/05/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 2 REVISTA: 09/06/2021[/B][/COLOR][COLOR=yellow][/COLOR]
   
 #EXTM3U
  
@@ -375,8 +369,7 @@ https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]MUZZIK OKK SERBIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]TOP LATINO TV PERU[/B][/COLOR][COLOR=coral][/COLOR]
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]ONDA DIGITAL PERU[/B][/COLOR][COLOR=coral][/COLOR]
 http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]LA MEGA MUNDIAL USA[/B][/COLOR][COLOR=coral][/COLOR]
