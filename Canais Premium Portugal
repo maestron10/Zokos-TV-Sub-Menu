@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 23/05/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 09/06/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -29,8 +29,8 @@ LINKS DE CAPTURA DE CANAIS STREAMING LIVE
 #EXTINF:-1,[COLOR blue]BENFICA TV[/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=coral][B]NÃO DISPONÍVEIS[/B][/COLOR][COLOR=coral][/COLOR]
-http://000000
+#EXTINF:-1,BTV FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/8042
 
 
 
@@ -106,8 +106,31 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8?zerosix.m3u8
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS[/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=coral][B]NÃO DISPONÍVEIS[/B][/COLOR][COLOR=coral][/COLOR]
-http://000000
+
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1499
+#EXTINF:-1,PT ELEVEN SPORTS 1 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/37196
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1503
+#EXTINF:-1,PT ELEVEN SPORTS 2 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/37197
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1506
+#EXTINF:-1,PT ELEVEN SPORTS 3 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/37198
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1509
+#EXTINF:-1,PT ELEVEN SPORTS 4 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/37199
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1512
+#EXTINF:-1,PT ELEVEN SPORTS 5 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/37200
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1515
+#EXTINF:-1,PT ELEVEN SPORTS 6 FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/37201
 
 
 
@@ -120,7 +143,14 @@ https://000000
 #EXTINF:-1,[COLOR=coral][B]NÃO DISPONÍVEIS[/B][/COLOR][COLOR=coral][/COLOR]
 http://000000
 
-
+#EXTINF:-1,PT: TVCINE ACTION FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1452
+#EXTINF:-1,PT: TVCINE EDITION FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/82254
+#EXTINF:-1,PT: TVCINE EMOTION FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1448
+#EXTINF:-1,PT: TVCINE TOP FHD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/1446
 
 
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM ADULTOS[/COLOR]
