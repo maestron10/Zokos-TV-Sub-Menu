@@ -63,8 +63,8 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]NRG 91[/B][/COLOR][COLOR=coral][/COLOR]
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]KISS TV SD - OFFLINE[/B][/COLOR][COLOR=coral][/COLOR]
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1,[COLOR=coral][B]KISS TV SD[/B][/COLOR][COLOR=coral][/COLOR]
+https://cast.cdnseguro.com:19360/8094/8094.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]M2O TV SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
@@ -78,8 +78,8 @@ https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GO-RTV (NL)" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="NETHERLANDS;MUSIK",[COLOR=coral][B]GO TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="Magic (UK)" tvg-logo="https://i.imgur.com/HXfKkwj.png" group-title="UK;MUSIK",[COLOR=coral][B]MAGIC TV - OFFLINE[/B][/COLOR][COLOR=coral][/COLOR]
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+#EXTINF:-1 tvg-id="" tvg-name="Magic (UK)" tvg-logo="https://i.imgur.com/HXfKkwj.png" group-title="UK;MUSIK",[COLOR=coral][B]MAGIC TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]ON TV PORTUGAL[/B][/COLOR][COLOR=coral][/COLOR]
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
@@ -105,6 +105,13 @@ http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 
 #EXTINF:-1 tvg-id="BritAsiaTV.uk" tvg-name="Brit Asia TV" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",[COLOR=coral][B]BRIT ASIA TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]QELLO CONCERTS LIVE[/B][/COLOR][COLOR=coral][/COLOR]
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]RADIO KISS KISS TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/VevoPop_190x190.png?raw=true",[COLOR=coral][B]VEVO[/B][/COLOR][COLOR=coral][/COLOR]
 https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
