@@ -16,48 +16,41 @@ Fontes de Informação:
 https://000000
 
 
-#EXTINF:-1,RTP INTERNACIONAL HD
+#EXTINF:-1,[COLOR=coral][B]RTP INTERNACIONAL HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://mags.vip:2086/live/Bernadette/12345/92055.ts
 
-#EXTINF:-1,RTP INTERNACIONAL
+#EXTINF:-1,[COLOR=coral][B]RTP INTERNACIONAL HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://210.210.155.35/qwr9ew/s/s38/index.m3u8
 
-#EXTINF:-1,RTP AÇORES
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-
-#EXTINF:-1,RTP ÁFRICA
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC SD
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",[COLOR=coral][B]SIC SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC SD
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",[COLOR=coral][B]SIC SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://live.impresa.pt/live/sic/sic.m3u8
 
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",SIC NOTÍCIAS SD
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",[COLOR=coral][B]SIC NOTÍCIAS SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",SIC NOTÍCIAS SD
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",[COLOR=coral][B]SIC NOTÍCIAS SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="PORTUGAL",CANAL MACAU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="PORTUGAL",[COLOR=coral][B]CANAL MACAU[/B][/COLOR][COLOR=coral][/COLOR]
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Igreja Online" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="PORTUGAL",IGREJA ONLINE
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Online" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="PORTUGAL",[COLOR=coral][B]IGREJA ONLINE[/B][/COLOR][COLOR=coral][/COLOR]
 http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Cine" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="PORTUGAL",KURIAKOS CINE
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Cine" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="PORTUGAL",[COLOR=coral][B]KURIAKOS CINE[/B][/COLOR][COLOR=coral][/COLOR]
 http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="PORTUGAL",KURIAKOS KIDS
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="PORTUGAL",[COLOR=coral][B]KURIAKOS KIDS[/B][/COLOR][COLOR=coral][/COLOR]
 http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Music" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="PORTUGAL",KURIAKOS MUSICA
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Music" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="PORTUGAL",[COLOR=coral][B]KURIAKOS MÚSICA[/B][/COLOR][COLOR=coral][/COLOR]
 http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="PORTUGAL",KURIAKOS TV
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="PORTUGAL",[COLOR=coral][B]KURIAKOS TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="PORTUGAL",SOBRENATURAL TV
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="PORTUGAL",[COLOR=coral][B]SOBRENATURAL TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Porto Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/300px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",PORTO CANAL
+#EXTINF:-1 tvg-id="" tvg-name="Porto Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/300px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",[COLOR=coral][B]PORTO CANAL[/B][/COLOR][COLOR=coral][/COLOR]
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Fatima" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="PORTUGAL",TV FÁTIMA
-https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Mana 1" tvg-logo="https://cdn.teleon.tv/logo/tv_mana_1_pt.png" group-title="PORTUGAL",TV MANA 1
+#EXTINF:-1 tvg-id="" tvg-name="TV Fatima" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="PORTUGAL",[COLOR=coral][B]TV FÁTIMA[/COLOR][COLOR=coral][/COLOR]
+https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8 
+#EXTINF:-1,[COLOR=coral][B]TV MANA[/COLOR][COLOR=coral][/COLOR]
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
