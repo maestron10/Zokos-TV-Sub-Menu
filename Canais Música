@@ -34,77 +34,69 @@ https://000000
  
 #EXTINF:-1,4FUN Dance
 http://91.218.60.3:8001/play/a008
-#EXTINF:-1,4FUN Kids
-http://91.218.60.3:8001/play/a009
-#EXTINF:-1,90s Loop (1080p)
-https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Galáctica TV (Peru)
+#EXTINF:-1,GALACTICA TV (PERU)
 https://envivo.galacticatv.com:3913/stream/play.m3u8
-#EXTINF:-1,Local Now Music
+#EXTINF:-1,LOCAL NOW MUSIC
 https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8 
-#EXTINF:-1,Magic TV (360p)
+#EXTINF:-1,MAGIC TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1,Music Channel Romania (576p)
+#EXTINF:-1,MUSIC CHANNEL ROMÊNIA
 https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
-#EXTINF:-1,ONE1 Music (1080p)
-https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
-#EXTINF:-1,ONE1 Slovenija (1080p)
-https://serve-first.folxplay.tv/folx/ch-6/master.m3u8
-#EXTINF:-1,Oxigeno TV (230p)
+#EXTINF:-1,OXIGENIO
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
-#EXTINF:-1,DeeJay TV
+#EXTINF:-1,DEEJAY TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1,Jhanjar Music [Not 24/7]
+#EXTINF:-1,JHANJAR MUSIC
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-#EXTINF:-1,KurdMax Music (1080p)
+#EXTINF:-1,KURDMAX MUSIC
 https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8
-#EXTINF:-1,La Mega Mundial (720p)
+#EXTINF:-1,LA MEGA MUNDIAL
 https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1,MH1 Music (360p)
+#EXTINF:-1,MH1 MUSIC
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-#EXTINF:-1,Music India
+#EXTINF:-1,MUSIC INDIA
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
-#EXTINF:-1,NG (612p)
+#EXTINF:-1,NG
 http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
-#EXTINF:-1,Pluto TV VEVO 2K (1080p)
+#EXTINF:-1,PLUTO TV VEVO 2K
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1,Polsat Music (1080p)
+#EXTINF:-1,POLSAT MUSIC
 http://91.218.60.3:8001/play/a04t
-#EXTINF:-1,Portalfoxmix (720p)
+#EXTINF:-1,PORTAL FOX MIX
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1,Qello Concerts (1080p)
+#EXTINF:-1,QELLO CONCERTS
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-#EXTINF:-1,Radio Javan TV (1080p)
+#EXTINF:-1,RADIO JAVAN TV
 https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b2892000.m3u8
-#EXTINF:-1,Radio Piter Pan TV (720p)
+#EXTINF:-1,RADIO PITER PAN 
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1,Radio San Borja TV [Not 24/7]
+#EXTINF:-1,RADIO SAN BORJA 
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1,Radio U TV
+#EXTINF:-1,RADIO U TV
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
-#EXTINF:-1,Radionorba TV
+#EXTINF:-1,RADIONORBA TV
 http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
-#EXTINF:-1,Reload (720p)
+#EXTINF:-1,RELOAD
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
-#EXTINF:-1,RTL 102.5 (432p)
+#EXTINF:-1,RTL 102.5
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:-1,TMA
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1,UpperA Balkan TV (AT)
+#EXTINF:-1,UPPER BALKAN 
 http://89.187.168.245:8080/live/sUPPERchannel2/tracks-v1a1/index.m3u8
-#EXTINF:-1,VEVO 2K (US) (1080p)
+#EXTINF:-1,VEVO 2K 
 https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
-#EXTINF:-1,Video Tour Channel
+#EXTINF:-1,VIDEO TOUR CHANNEL 
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-#EXTINF:-1,Videorola HD (1080p)
+#EXTINF:-1,VIDEOROLA HD
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1,World Street Music
+#EXTINF:-1,WORLD STREET MUSIC
 https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
-#EXTINF:-1,Xalastra TV (240p)
+#EXTINF:-1,XALASTRA 
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
-#EXTINF:-1,XITE (BE)
+#EXTINF:-1,XITE 
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1,Xtra TV HD
+#EXTINF:-1,XTRA TV HD
 https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/playlist.m3u8
 
 #EXTINF:-1,[COLOR blue]BEST TOP HITS[/COLOR]
