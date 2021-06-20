@@ -20,7 +20,7 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rlsXwFT.jpg" group-title="",[COLOR=coral][B]BOX UPFRONT[/B][/COLOR][COLOR=coral][/COLOR]
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fthebox%2f
 
-#EXTINF:-1 tvg-id="" tvg-name="Kerrang (UK)" tvg-logo="https://i.imgur.com/z8T3Q48.png" group-title="MUSIC",[COLOR=coral][B]KERRANG UK - OFFLINE[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Kerrang (UK)" tvg-logo="https://i.imgur.com/z8T3Q48.png" group-title="MUSIC",[COLOR=coral][B]KERRANG UK[/B][/COLOR][COLOR=coral][/COLOR]
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
  
 #######################################################################################################################
