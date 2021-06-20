@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 09/06/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 20/06/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fontes de Informação: 
 * https://gist.github.com/homemdasneves/cf622bc2feef035ae532c8397f2c054f  
 * http://www.cxtv.com.br/tv/paises/portugal
@@ -18,6 +18,16 @@ https://000000
 
 #EXTINF:-1,RTP INTERNACIONAL HD
 http://mags.vip:2086/live/Bernadette/12345/92055.ts
+
+#EXTINF:-1,RTP INTERNACIONAL
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+
+#EXTINF:-1,RTP AÇORES
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+
+#EXTINF:-1,RTP ÁFRICA
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC SD
 http://live.impresa.pt/live/sic/sic540p.m3u8
