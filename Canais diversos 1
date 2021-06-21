@@ -253,7 +253,7 @@ https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1129240952.m3u8
 https://000000
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",HiperTV (720p) [COLOR=coral][B]HIPER TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]HIPER TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=coral][B]PEOPLE ARE AWESOME[/B][/COLOR][COLOR=coral][/COLOR]
