@@ -242,8 +242,11 @@ https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Музыкальные",[COLOR=coral][B]HIT MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
 http://hitmusic.hu/hitmusic.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]CMC[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=coral][B]CMC 1[/B][/COLOR][COLOR=coral][/COLOR]
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]CMC 2[/B][/COLOR][COLOR=coral][/COLOR]
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]DEEJAY TV SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
