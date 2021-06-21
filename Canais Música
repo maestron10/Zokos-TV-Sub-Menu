@@ -7,7 +7,7 @@ http://0.0.0.0:00000
 
 #EXTM3U
 ##############################################################################################################################
-#EXTINF:-1,[COLOR yellow]CANAIS OFFLINE[/COLOR]
+#EXTINF:-1,[COLOR red]CANAIS OFFLINE[/COLOR]
 https://000000
  
  
@@ -30,47 +30,50 @@ https://000000
 #EXTINF:-1,[COLOR=coral][B]TRACE URBAN[/B][/COLOR][COLOR=coral][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,[COLOR=coral][B]KRONEHITS HD[/B][/COLOR][COLOR=coral][/COLOR]
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]POWERHD[/B][/COLOR][COLOR=coral][/COLOR]
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]POWERTURK HD[/B][/COLOR][COLOR=coral][/COLOR]
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]BARAZA TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=coral][B]FIRST 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://rtmp.one.by:1300
 
 #EXTINF:0,[COLOR=coral][B]1MUSIC TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]M20 TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]XTRA HITS TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hit Music Channel (HU)" tvg-logo="https://i.imgur.com/n6zkLpb.png" group-title="MUSIC",[COLOR=coral][B]HIT MUSIC CHANNEL[/B][/COLOR][COLOR=coral][/COLOR]
+http://hitmusic.hu/hitmusic.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="XITE (BE)" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="MUSIC",[COLOR=coral][B]XITE[/B][/COLOR][COLOR=coral][/COLOR]
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]BARAZA TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]MUSIC TOP[/B][/COLOR][COLOR=coral][/COLOR]
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]KRONEHITS HD[/B][/COLOR][COLOR=coral][/COLOR]
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
- 
 #EXTINF:0,[COLOR=coral][B]1MUSIC CHANNEL[/B][/COLOR][COLOR=coral][/COLOR]
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
- 
-#EXTINF:0,[COLOR=coral][B]FIRST SD[/B][/COLOR][COLOR=coral][/COLOR]
-http://rtmp.one.by:1200
- 
-#EXTINF:-1,[COLOR=coral][B]FIRST HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://rtmp.one.by:2300
- 
-#EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=coral][B]FIRST 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://rtmp.one.by:1300
 
 #EXTINF:-1,[COLOR=coral][B]V2BEAT TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]NRG 91[/B][/COLOR][COLOR=coral][/COLOR]
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]NRG 91[/B][/COLOR][COLOR=coral][/COLOR]
+https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]KISS TV SD[/B][/COLOR][COLOR=coral][/COLOR]
 https://cast.cdnseguro.com:19360/8094/8094.m3u8
- 
-#EXTINF:-1,[COLOR=coral][B]M2O TV SD[/B][/COLOR][COLOR=coral][/COLOR]
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]COMPANY TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
@@ -111,6 +114,14 @@ https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/Vevo_Holiday_190X190.png?raw=true",[COLOR=coral][B]VEVO HOLIDAY[/B][/COLOR][COLOR=coral][/COLOR]
 https://5dcc69bb1621dc5de50b1db7-s-1.ssai.zype.com/5dcc69bb1621dc5de50b1db7-s-1/manifest.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]POWERTURK HD[/B][/COLOR][COLOR=coral][/COLOR]
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]RADIO MAXIMA 94.9 FM[/B][/COLOR][COLOR=coral][/COLOR]
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]RADIO MONTECARLO[/B][/COLOR][COLOR=coral][/COLOR]
+https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(BB)/index.m3u8
   
  ######################################################################################################
  
