@@ -17,25 +17,6 @@
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20M%C3%BAsica</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
-  
- 
-<channels>
-<channel>
-<name>[COLOR=gold][B]TV E RÁDIOS MÚSICA[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia601404.us.archive.org/30/items/tv-e-radio-musica/TV%20e%20R%C3%A1dio%20Musica.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/music.m3u</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
- 
- 
- <channels>
-<channel>
-<name>[COLOR=gold][B]TV TDTCHANNELS[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia601502.us.archive.org/34/items/tdt-channels_202104/TDT%20Channels.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/TDTChannels</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
- 
  
  
 <channels>
@@ -83,18 +64,7 @@
 <info></info>
  
  
- 
-<channels>
-<channel>
-<name>[COLOR=gold][B]CANAIS TV INFANTIS[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Kids%20TV</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
- 
- 
- 
- 
+
 <channels>
 <channel>
 <name>[COLOR=gold][B]CANAIS TV PAÍSES[/B][/COLOR][COLOR=gold][/COLOR]</name>
