@@ -22,27 +22,24 @@
 <info></info>
 </channel>
 </channels
+  
  
- 
-  </channel>
+</channel>
 <channel>
-<name>[COLOR=yellow][B]FLECHA NEGRA DESPORTO ONLINE[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<name>[COLOR=yellow][B]FLECHA NEGRA DESPORTO BR 1[/B][/COLOR][COLOR=yellow][/COLOR]</name>
 <thumbnail>url DA IMAGEM</thumbnail>
-<externallink>http://flechanegra.atspace.cc/addonflechanegra/desporto-oline</externallink>
+<externallink>http://flechanegra.atspace.cc/addonflechanegra/desporto-brasil</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
 </channel>
 </channels
  
  
-
- 
- 
-</channel>
+ </channel>
 <channel>
-<name>[COLOR=yellow][B]FLECHA NEGRA DESPORTO BR[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<name>[COLOR=yellow][B]FLECHA NEGRA DESPORTO BR 2[/B][/COLOR][COLOR=yellow][/COLOR]</name>
 <thumbnail>url DA IMAGEM</thumbnail>
-<externallink>http://flechanegra.atspace.cc/addonflechanegra/desporto-brasil</externallink>
+<externallink>http://flechanegra.atspace.cc/addonflashbrasi/entrada%20tv/desporto-br</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
 </channel>
