@@ -39,11 +39,22 @@
  
 <channels>
 <channel>
-<name>[COLOR=gold][B]CANAIS TV PT[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]CANAIS PT 1[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601405.us.archive.org/33/items/canais-pt/Canais%20PT.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20Portugal</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
+ 
+ 
+ </channel>
+<channel>
+<name>[COLOR=yellow][B]CANAIS PT 2[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<thumbnail>https://ia601405.us.archive.org/33/items/canais-pt/Canais%20PT.jpg</thumbnail>
+<externallink>http://milhano.pt/ftp-milhano/darkangel/Ad_DarkAngel/Portugal/PORTUGAL_TV1.txt</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channels
  
  
 <channels>
@@ -51,6 +62,17 @@
 <name>[COLOR=gold][B]CANAIS TV DIVERSOS[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601504.us.archive.org/16/items/canais-tv-diversos/Canais%20TV%20Diversos.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20diversos%201</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+ 
+ 
+ 
+ 
+ <channels>
+<channel>
+<name>[COLOR=gold][B]TDT CHANNELS[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601805.us.archive.org/10/items/tdt-channels_202104/TDT%20Channels.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/TDTChannels</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
  
