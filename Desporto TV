@@ -7,7 +7,7 @@
 <info>
 
 
- </channel>
+</channel>
 <channel>
 <name>[COLOR=yellow][B]CANAIS PREMIUM PT[/B][/COLOR][COLOR=yellow][/COLOR]</name>
 <thumbnail>url DA IMAGEM</thumbnail>
@@ -26,6 +26,17 @@
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
  
+
+
+ </channel>
+<channel>
+<name>[COLOR=yellow][B]MAGELLAN DESPORTO TV[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<thumbnail>url DA IMAGEM</thumbnail>
+<externallink>https://pastebin.com/raw/kdUL7Zap</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channels
 
 
  </channel>
@@ -50,6 +61,19 @@
 </channel>
 </channels
  
+ 
+ 
+ </channel>
+<channel>
+<name>[COLOR=yellow][B]ZEUS DESPORTO PT[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<thumbnail>url DA IMAGEM</thumbnail>
+<externallink>http://milhano.pt/ftp-milhano/zeustv/Zeus/MENU..DESPORTO/MENU.DESPORTO.txt</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channels
+  
+    
   
 </channel>
 <channel>
@@ -60,3 +84,6 @@
 <info></info>
 </channel>
 </channels
+
+
+
