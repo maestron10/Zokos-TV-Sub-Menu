@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR yellow]|||||[/COLOR][COLOR deeppink]|||||[/COLOR][COLOR orangered]|||||[/COLOR] [COLOR white] DESPORTO TV - LINKS EXTERNOS [/COLOR] [COLOR orangered]||||||[/COLOR][COLOR deeppink]||||||[/COLOR][COLOR yellow]||||||[/COLOR]</name>
+<name>[COLOR yellow]|||||[/COLOR][COLOR deeppink]|||||[/COLOR][COLOR orangered]|||||[/COLOR] [COLOR white] DESPORTO TV - LINKS [/COLOR] [COLOR orangered]||||||[/COLOR][COLOR deeppink]||||||[/COLOR][COLOR yellow]||||||[/COLOR]</name>
 <thumbnail>https://ia601405.us.archive.org/17/items/desporto-tv-links-externos/Desporto%20Tv%20Links%20Externos.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
@@ -28,8 +28,7 @@
 <info></info>
  
 
-
- </channel>
+</channel>
 <channel>
 <name>[COLOR=yellow][B]MAGELLAN DESPORTO TV[/B][/COLOR][COLOR=yellow][/COLOR]</name>
 <thumbnail>url DA IMAGEM</thumbnail>
@@ -40,7 +39,7 @@
 </channels
 
 
- </channel>
+</channel>
 <channel>
 <name>[COLOR=yellow][B]DARK ANGEL DESPORTO PT[/B][/COLOR][COLOR=yellow][/COLOR]</name>
 <thumbnail>url DA IMAGEM</thumbnail>
@@ -64,7 +63,7 @@
  
  
  
- </channel>
+</channel>
 <channel>
 <name>[COLOR=yellow][B]ZEUS DESPORTO PT[/B][/COLOR][COLOR=yellow][/COLOR]</name>
 <thumbnail>url DA IMAGEM</thumbnail>
@@ -74,8 +73,20 @@
 </channel>
 </channels
   
-    
   
+  
+</channel>
+<channel>
+<name>[COLOR=yellow][B]FLECHA NEGRA DESPORTO PT[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<thumbnail>url DA IMAGEM</thumbnail>
+<externallink>http://flechanegra.atspace.cc/addonflechanegra/desporto-pt</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channels
+    
+    
+     
 </channel>
 <channel>
 <name>[COLOR=yellow][B]ZEUS ELEVEN SPORTS PT[/B][/COLOR][COLOR=yellow][/COLOR]</name>
