@@ -158,6 +158,31 @@ https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 
 
 ######################################################################################
+#EXTINF:-1,[COLOR blue]GRUPO CANAIS 24/7 MIX[/COLOR]
+https://000000
+
+#EXTINF:-1,MIX 24/7 MIX - RETRO TV
+http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/1.m3u8
+
+#EXTINF:-1,MIX 24/7 MIX - LATINO MUSIC
+http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/2.m3u8
+
+#EXTINF:-1,MIX 24/7 MIX - TROPICAL
+http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/3.m3u8
+
+#EXTINF:-1,MIX 24/7 MIX - TOP 100
+http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/4.m3u8
+
+#EXTINF:-1,MIX 24/7 MIX - HOT HITS
+http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/5.m3u8
+
+#EXTINF:-1,MIX 24/7 MIX - TOP CHARTS
+http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/6.m3u8
+
+#EXTINF:-1,MIX 24/7 MIX - CONCERTOS
+http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/7.m3u8
+
+######################################################################################
 #EXTINF:-1,[COLOR blue]MÚSICA ANTIGA[/COLOR]
 https://000000
 
