@@ -161,25 +161,25 @@ https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:-1,[COLOR blue]GRUPO CANAIS 24/7 MIX[/COLOR]
 https://000000
 
-#EXTINF:-1,MIX 24/7 MIX - RETRO TV
+#EXTINF:-1,[COLOR=coral][B]MIX 24/7 MIX - RETRO TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/1.m3u8
 
-#EXTINF:-1,MIX 24/7 MIX - LATINO MUSIC
+#EXTINF:-1,[COLOR=coral][B]MIX 24/7 MIX - LATINO MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
 http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/2.m3u8
 
-#EXTINF:-1,MIX 24/7 MIX - TROPICAL
+#EXTINF:-1,[COLOR=coral][B]MIX 24/7 MIX - TROPICAL[/B][/COLOR][COLOR=coral][/COLOR]
 http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/3.m3u8
 
-#EXTINF:-1,MIX 24/7 MIX - TOP 100
+#EXTINF:-1,[COLOR=coral][B]MIX 24/7 MIX - TOP 100[/B][/COLOR][COLOR=coral][/COLOR]
 http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/4.m3u8
 
-#EXTINF:-1,MIX 24/7 MIX - HOT HITS
+#EXTINF:-1,[COLOR=coral][B]MIX 24/7 MIX - HOT HITS[/B][/COLOR][COLOR=coral][/COLOR]
 http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/5.m3u8
 
-#EXTINF:-1,MIX 24/7 MIX - TOP CHARTS
+#EXTINF:-1,[COLOR=coral][B]MIX 24/7 MIX - TOP CHARTS[/B][/COLOR][COLOR=coral][/COLOR]
 http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/6.m3u8
 
-#EXTINF:-1,MIX 24/7 MIX - CONCERTOS
+#EXTINF:-1,[COLOR=coral][B]MIX 24/7 MIX - CONCERTOS[/B][/COLOR][COLOR=coral][/COLOR]
 http://159.69.56.148:25461/live/Mix2472WEB/5tr5seg/7.m3u8
 
 ######################################################################################
