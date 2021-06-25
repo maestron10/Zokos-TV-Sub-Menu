@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]CANAIS MUNDIAIS REVISTOS: 20/05/21[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 25/06/21[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #########################################################################################################################################################################
  
@@ -17,31 +17,6 @@ https://newidco-babysharktv-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-id="duck" group-title="Channels",DUCK TV
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-
-
-#EXTINF:-1,CBEEBIES HD 
-http://46.105.112.116/?watch=EX/CBeebies_HD-uk
- 
-#EXTINF:-1,NICK JUNIOR TOO 
-http://46.105.112.116/?watch=EX/Nick_Jr_Too-uk 
- 
-#EXTINF:-1,NICK JUNIOR
-http://46.105.112.116/?watch=EX/Nick_Junior-uk
- 
-#EXTINF:-1,POP +1 
-http://46.105.112.116/?watch=EX/Pop_Plus_1-uk
- 
-#EXTINF:-1,TINY POP  
-http://46.105.112.116/?watch=NL/tinypop-uk
- 
-#EXTINF:-1,TINY POP +1 
-http://46.105.112.116/?watch=EX/Tiny_Pop_Plus_1-uk
- 
-#EXTINF:-1,POP MAX  
-http://46.105.112.116/?watch=NL/popmax-uk 
- 
-#EXTINF:-1,POP MAX +1 
-http://46.105.112.116/?watch=EX/POP_Max_Plus_1-uk
 
 #EXTINF:0 tvg-id="Boomerang.us" group-title="Kids",BOOMERANG
 http://27.254.130.56:80/live01/ch18.m3u8
@@ -59,8 +34,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist_960x540_2000k.m3u
 https://autopilot.catcast.tv/content/38105/index.m3u8
 #EXTINF:0 tvg-id="Gulli.fr" group-title="Kids",GULLI 
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
-#EXTINF:0 tvg-id="gulli" group-title="Kids",GULLI GIRL
-http://188.40.68.167/russia/gulli_girl/playlist.m3u8
+
 #EXTINF:0 tvg-id="jimjam" group-title="Kids",JIMJAM
 http://188.40.68.167/russia/jimjam/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",KINDER TV
