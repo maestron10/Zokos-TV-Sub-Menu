@@ -6,26 +6,13 @@ http://0.0.0.0:00000
 #EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 20/06/21[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
-##############################################################################################################################
-#EXTINF:-1,[COLOR red]CANAIS OFFLINE[/COLOR]
-https://000000
- 
- 
-#EXTINF:-1,[COLOR=coral][B]BOX HITS SD[/B][/COLOR][COLOR=coral][/COLOR]
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxTV-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-
-#EXTINF:-1 tvg-id="TheBoxUK.uk" tvg-name="The Box UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Music",[COLOR=coral][B]THE BOX UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rlsXwFT.jpg" group-title="",[COLOR=coral][B]BOX UPFRONT[/B][/COLOR][COLOR=coral][/COLOR]
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fthebox%2f
-
-#EXTINF:-1 tvg-id="" tvg-name="Kerrang (UK)" tvg-logo="https://i.imgur.com/z8T3Q48.png" group-title="MUSIC",[COLOR=coral][B]KERRANG UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
  
 #######################################################################################################################
 #EXTINF:-1,[COLOR blue]BEST TOP HITS[/COLOR]
 https://000000
+
+#EXTINF:-1 tvg-id="TheBoxUK.uk" tvg-name="The Box UK" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="Music",[COLOR=coral][B]THE BOX UK[/B][/COLOR][COLOR=coral][/COLOR]
+http://edge-823-ch-gv.filmon.com/live/5950.low.stream/1624703110985.ts
 
 #EXTINF:-1,[COLOR=coral][B]TRACE URBAN[/B][/COLOR][COLOR=coral][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
