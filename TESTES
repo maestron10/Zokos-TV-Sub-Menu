@@ -5,16 +5,29 @@ http://0.0.0.0:00000
  
 #EXTM3U
 
-#EXTINF:-1,O DRAGÃO DOS DESEJOS - PT-PT (FUNCIONA)
+##################################################################################################################################################################
+
+#EXTINF:-1,[COLOR blue]FUNCIONA[/COLOR]
+https://000000
+
+Fontes de Informação: 
+* https://www.tugakids.com - Ligar com VPN - Animação Crianças
+* https://www.radios-online.pt - Rádios PT
+* http://player.teleon.tv/en - CANAIS TV UK
+
+
+
+##################################################################################################################################################################
+#EXTINF:-1,O DRAGÃO DOS DESEJOS - PT-PT
 https://tkuniverse.tk/5562070.mp4
 
-#EXTINF:-1,A OVELHA CHONE - A QUINTA CONTRA ATACA (FUNCIONA)
+#EXTINF:-1,A OVELHA CHONE - A QUINTA CONTRA ATACA
 https://tkuniverse.tk/6193408.mp4
 
-#EXTINF:-1,KURIAKOS TV (FUNCIONA)
+#EXTINF:-1,KURIAKOS TV 
 http://195.22.11.11:1935/ktv/ktv2/chunklist_w429264050.m3u8
 
-#EXTINF:-1,REVELATION TV (FUNCIONA)
+#EXTINF:-1,REVELATION TV 
 https://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/chunklist_b2500000.m3u8
 http://player.teleon.tv/en
 
@@ -43,7 +56,8 @@ https://22523.mc.tritondigital.com/EXTREMAMENTE_DESAGRADAVEL_P/media-session/8f9
 #EXTINF:-1,LINHA AVANÇADA - ANTENA 3 
 https://podcasts.rtp.pt/nas2.share/wavrss/at3/2106/PGM2100405012301_371479-2106290923.mp3
 
-
+#EXTINF:-1,[COLOR blue]EM ANÁLISE[/COLOR]
+https://000000
 
 #EXTINF:-1,RTP CANAL ZIG-ZAG
 https://ptiptv.tk/zigzag.m3u8
