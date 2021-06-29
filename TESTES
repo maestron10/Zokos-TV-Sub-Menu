@@ -18,8 +18,28 @@ http://195.22.11.11:1935/ktv/ktv2/chunklist_w429264050.m3u8
 https://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/chunklist_b2500000.m3u8
 http://player.teleon.tv/en
 
-#EXTINF:-1,WARNER BROTHERS KIDS BRASIL
-https://youtu.be/ZbRRTHv-OJI?list=TLGGF0knqstnUiEyNzA2MjAyMQ
+#################################################################################
+
+#EXTINF:-1,RÁDIO OBSERVADOR
+https://d1ay03r3mc1yh.cloudfront.net/live_aac_64
+
+#EXTINF:-1,RÁDIO VIVA PORTUGAL
+https://sp0.redeaudio.com/9920/stream
+
+#EXTINF:-1,RÁDIO REGIONAL DANCE
+https://play4.radioregional.pt/stream/10/
+
+#EXTINF:-1,RÁDIO PROVÍNCIA FM ANADIA
+https://nl.digitalrm.pt:8138/stream
+
+#EXTINF:-1,RÁDIO OVOS MOLES
+https://sp0.redeaudio.com/9330/;
+
+#EXTINF:-1,EXTREMAMENTE DESAGRADÁVEL
+https://22523.mc.tritondigital.com/EXTREMAMENTE_DESAGRADAVEL_P/media-session/8f94c93a-af74-4457-bf8f-372679ee2d23/b81b6c11-6dd0-4b0b-9da5-7237767c33d8/ed-9-mar-202112083277.mp3
+
+#EXTINF:-1,LINHA AVANÇADA - ANTENA 3 
+https://podcasts.rtp.pt/nas2.share/wavrss/at3/2106/PGM2100405012301_371479-2106290923.mp3
 
 
 
