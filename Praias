@@ -1,9 +1,9 @@
 ######################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////  MEO BEACH CAM - PRAIAS DE PORTUGAL AO VIVO  /////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////  PRAIAS DE PORTUGAL AO VIVO  /////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:000000
 ###################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 25/05/2021 - 16 CAM OFFLINE[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 30/06/2021 - 10 CAM OFFLINE[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ####################################################################
  
@@ -23,7 +23,7 @@ https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]ESMORIZ[/B][/COLOR][COLOR=coral][/COLOR]
 https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
  
-OFFLINE: 1
+OFFLINE: 0
  
 #EXTINF:-1,[COLOR blue]PRAIAS DO CENTRO[/COLOR]
 https://video-auth1.iol.pt
@@ -50,7 +50,7 @@ https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]FIGUEIRA DA FOZ (CABEDELO)[/B][/COLOR][COLOR=coral][/COLOR]
 https://video-auth1.iol.pt/beachcam/cabedelo/playlist.m3u8
  
-OFFLINE: 1
+OFFLINE: 2
  
 #EXTINF:-1,[COLOR blue]PRAIAS COSTA OESTE[/COLOR]
 https://video-auth1.iol.pt
@@ -92,7 +92,7 @@ http://video-auth1.iol.pt:1935/beachcam/parcos/playlist.m3u8
 #EXTINF:0,[COLOR=coral][B]PRAIA CAXIAS[/B][/COLOR][COLOR=coral][/COLOR]
 http://video-auth1.iol.pt:1935/beachcam/caxias/playlist.m3u8
  
-OFFLINE: 1
+OFFLINE: 0
  
 #EXTINF:-1,[COLOR blue]PRAIAS DE MAFRA[/COLOR]
 https://video-auth1.iol.pt
@@ -114,7 +114,7 @@ https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]PRAIA FOZ DO LIZARDO[/B][/COLOR][COLOR=coral][/COLOR]
 https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8
  
-OFFLINE: 1
+OFFLINE: 2
  
 #EXTINF:-1,[COLOR blue]PRAIAS DE SINTRA[/COLOR]
 https://video-auth1.iol.pt
@@ -176,7 +176,7 @@ https://video-auth1.iol.pt/beachcam/caxias/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]CAXIAS 2[/B][/COLOR][COLOR=coral][/COLOR]
 https://video-auth1.iol.pt/beachcam/caxias/playlist.m3u8
  
-OFFLINE: 2
+OFFLINE: 0
  
 #EXTINF:-1,[COLOR blue]PRAIAS DE ALMADA[/COLOR]
 https://video-auth1.iol.pt
@@ -236,7 +236,7 @@ https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]VILAMOURA[/B][/COLOR][COLOR=coral][/COLOR]
 https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
  
-OFFLINE: 4
+OFFLINE: 1
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PzeLlzw.png" group-title="PORTUGAL",[COLOR=coral][B]SAGRES[/B][/COLOR][COLOR=coral][/COLOR]
 https://camsecure.co/HLS/sagressholidays.m3u8
