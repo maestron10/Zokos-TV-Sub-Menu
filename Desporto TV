@@ -50,18 +50,17 @@
 </channels
  
  
- 
 </channel>
 <channel>
-<name>[COLOR=yellow][B]ALADO TV DESPORTO PT[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<name>[COLOR=yellow][B]ALADO DESPORTO PT[/B][/COLOR][COLOR=yellow][/COLOR]</name>
 <thumbnail>https://ia601508.us.archive.org/17/items/team-milhanos/Team%20Milhanos.jpg</thumbnail>
-<externallink>http://milhano.pt/ftp-milhano/aladotv/Desporto/Sporttv_Leia.xml</externallink>
+<externallink>http://milhano.pt/ftp-milhano/aladotv/Desporto/Sporttv_Leia.html</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
 </channel>
 </channels
- 
- 
+  
+  
  
 </channel>
 <channel>
