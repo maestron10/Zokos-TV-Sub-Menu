@@ -51,6 +51,17 @@ http://85.246.118.168:9981/stream/channelid/565498306?ticket=1AEE0A29EA62B1DE629
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="Religious",SPORT TV 5
 http://185.236.229.21:9981/play/a03n
 
+#EXTINF:-1,PORTUGUESE SPORT TV 1  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/pt/sporttv1.php
+#EXTINF:-1,PORTUGUESE SPORT TV 2  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/pt/sporttv2.php
+#EXTINF:-1,PORTUGUESE SPORT TV 3  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/pt/sporttv3.php
+#EXTINF:-1,PORTUGUESE SPORT TV 4  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/pt/sporttv4.php
+#EXTINF:-1,PORTUGUESE SPORT TV 5  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://v7.sportzonline.to/channels/pt/sporttv5.php
+
 
 
 ########################################################################################################################################
