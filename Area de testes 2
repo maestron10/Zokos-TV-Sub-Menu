@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layoutype>list</layoutype>
-#EXTM3U
-##########################################################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  CANAIS DE TV DE MÚSICA  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
-http://0.0.0.0:00000
-##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 30/06/21[/B][/COLOR][COLOR=yellow][/COLOR]
-
-#EXTM3U
-
+ 
 <channels>
 <channel>
-<name>[COLOR yellow]|||||[/COLOR][COLOR deeppink]|||||[/COLOR][COLOR orangered]|||||[/COLOR] [COLOR white]ÁREA DE TESTE MATRIX[/COLOR] [COLOR orangered]||||||[/COLOR][COLOR deeppink]||||||[/COLOR][COLOR yellow]||||||[/COLOR]</name>
-<thumbnail>https://ia601506.us.archive.org/0/items/sub-menu-tv-2/SubMenu%20TV2.jpg</thumbnail>
+<name>[COLOR yellow]||||||||[/COLOR][COLOR deeppink]||||||||[/COLOR][COLOR orangered]|||||||||[/COLOR] [COLOR white] ÁREA DE TESTES MATRIX [/COLOR] [COLOR orangered]||||||||[/COLOR][COLOR deeppink]|||||||||[/COLOR][COLOR yellow]||||||||||[/COLOR]</name>
+<thumbnail>https://ia601508.us.archive.org/5/items/submenu-infantil/Submenu%20Infantil.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info>
+ 
+ 
 </channel>
+<channel>
+<name>[COLOR=gold][B]GENÉRICOS TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601403.us.archive.org/21/items/genericos-tv/Genericos%20TV.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/fDhEvXwL</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info>Filmes Armazenados nos diversos serviços da Nuvem: Gdrive e Onedrive</info>
 </channel>
+</channels>
+ 
+ 
+</channel>
+<channel>
+<name>[COLOR=gold][B]CANAIS TV INFANTIS[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601401.us.archive.org/7/items/canais-tv-infantis/Canais%20TV%20Infantis.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Kids%20TV</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info>Filmes Armazenados nos diversos serviços da Nuvem: Gdrive e Onedrive</info>
+</channel>
+</channels>
 
 
 <channels>
@@ -31,36 +43,3 @@ http://0.0.0.0:00000
 </channel>
 </channel>
 
-
-<channels>
-<channel>
-<name>[COLOR=gold][B]CANAIS TV DIVERSOS[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia601504.us.archive.org/16/items/canais-tv-diversos/Canais%20TV%20Diversos.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20diversos%201</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channel>
-
-
-<channels>
-<channel>
-<name>[COLOR=gold][B]CANAIS TV PAÍSES[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia601400.us.archive.org/27/items/canais-mundiais-2/Canais%20Mundiais%202.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/M51FaCem</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channel>
-
-
-
-<channels>
-<channel>
-<name>[COLOR=gold][B]STREAMING GRÁTIS[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia801702.us.archive.org/26/items/streaming-gratis/Streaming%20Gr%C3%A1tis.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/iNcLbSLq</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channel>
