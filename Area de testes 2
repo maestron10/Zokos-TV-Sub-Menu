@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <layoutype>list</layoutype>
+<channels>
  
  
 <channels>
@@ -55,25 +56,5 @@
 </channel>
 
 
-</channel>
-<channel>
-<name>[COLOR=yellow][B]MAGELLAN DESPORTO TV[/B][/COLOR][COLOR=yellow][/COLOR]</name>
-<thumbnail>https://ia601402.us.archive.org/15/items/magellan_202106/Magellan.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/kdUL7Zap</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channel>
-
-
-
-</channel>
-<channel>
-<name>[COLOR=yellow][B]DARK ANGEL DESPORTO PT[/B][/COLOR][COLOR=yellow][/COLOR]</name>
-<thumbnail>https://ia601508.us.archive.org/17/items/team-milhanos/Team%20Milhanos.jpg</thumbnail>
-<externallink>http://milhano.pt/ftp-milhano/darkangel/Ad_DarkAngel/Portugal/PORTUGAL_SPORTVPT.txt</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channel>
+<
 
