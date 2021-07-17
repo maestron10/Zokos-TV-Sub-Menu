@@ -23,6 +23,17 @@
 
 <channels>
 <channel>
+<name>[COLOR=gold][B]CANAIS PREMIUM PT[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601407.us.archive.org/16/items/premium-desporto/Premium%20Desporto.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20Premium%20Portugal</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channel> 
+
+
+<channels>
+<channel>
 <name>[COLOR=gold][B]CANAIS TV DIVERSOS[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601504.us.archive.org/16/items/canais-tv-diversos/Canais%20TV%20Diversos.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20diversos%201</externallink>
@@ -30,6 +41,7 @@
 <info></info>
 </channel>
 </channel>
-
-
+ 
+ 
+ 
 
