@@ -79,6 +79,8 @@ http://00000000
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM CINEMA PT[/COLOR]
 https://000000
 
+#EXTINF:0 tvg-id="ext" group-title="Movies",NOS STUDIOS HD
+http://185.236.229.21:9981/play/a054
 #EXTINF:0 tvg-id="ext" group-title="Movies",TVCINE ACTION
 http://185.236.229.21:9981/play/a04n
 #EXTINF:0 tvg-id="ext" group-title="Movies",TVCINE EDITION
