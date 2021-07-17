@@ -57,84 +57,49 @@ http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",1001 Noites (720p) [Not 24/7]
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Anime Zone TV
-http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Business",Bloomberg TV EMEA Live Event (720p)
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
 #EXTINF:0 tvg-id="bloomberg" group-title="Business",Bloomberg TV Europe (2160p)
 https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="bloomberg" group-title="Business",Bloomberg TV Europe (720p)
 https://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:0 tvg-id="bloomberg" group-title="Business",Bloomberg TV Europe (720p)
-https://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:0 tvg-id="bloomberg" group-title="Business",Bloomberg TV Europe (720p)
-https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+
 
 #EXTINF:0 tvg-id="CacaVision.pt" group-title="Outdoor",Caçavision (HQ)
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
 #EXTINF:0 tvg-id="CacaVision.pt" group-title="Outdoor",Caçavision (LQ)
 https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
-#EXTINF:0 tvg-id="CacaVision.pt" group-title="Outdoor",Caçavision (MQ)
-https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Outdoor",Igreja Online
 http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
-#EXTINF:0 tvg-id="KTO.fr" group-title="Outdoor",KTO (404p)
-https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Movies",Kuriakos Cine (1080p)
 http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Kuriakos Cine (1080p)
-http://c2.manasat.com:1935/kcine/kcine3/iptvm3uplaylists.com.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Kuriakos Cine (1080p)
+
 http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",NOS Studios HD
-http://185.236.229.21:9981/play/a054
+
 #EXTINF:0 tvg-id="PortoCanal.pt" group-title="Movies",Porto Canal (360p)
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",TVCine Action
-http://185.236.229.21:9981/play/a04n
-#EXTINF:0 tvg-id="ext" group-title="Movies",TVCine Edition
-http://185.236.229.21:9981/play/a061
-#EXTINF:0 tvg-id="ext" group-title="Movies",TVCine Emotion
-http://185.236.229.21:9981/play/a05z
-#EXTINF:0 tvg-id="ext" group-title="Movies",TVCine Top
-http://185.236.229.21:9981/play/a04w
+
 #EXTINF:0 tvg-id="TVIReality.pt" group-title="Movies",TVI Reality
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Kids",Kuriakos Kids (1080p)
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",Kuriakos Kids (1080p)
-http://c2.manasat.com:1935/kkids/kkids3/iptvm3uplaylists.com.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",Kuriakos Kids (1080p)
-http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="Music",Kuriakos Music (1080p)
 http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Kuriakos Music (1080p)
-http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Music",MTV Hits Europe (576p)
 http://188.40.68.167/russia/mtv_hits/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Religious",Kuriakos TV (1080p)
 http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Religious",Kuriakos TV (720p)
-http://195.22.11.11:1935/ktv/ktv1/iptvm3uplaylists.com.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Religious",Kuriakos TV (576p)
-http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Religious",Locomotion TV (480p)
-http://51.222.85.85:81/hls/loco/index.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="Religious",Sobrenatural TV (1080p)
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Religious",Sobrenatural TV (720p) [Not 24/7]
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Religious",Sport TV 5
-http://185.236.229.21:9981/play/a03n
-#EXTINF:0 tvg-id="ext" group-title="Religious",Sport TV+
-http://185.236.229.21:9981/play/a03c
+
 #EXTINF:0 tvg-id="TVFatima.pt" group-title="Religious",TV Fátima (1080p)
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 #EXTINF:0 tvg-id="TVFatima.pt" group-title="Religious",TV Fátima
