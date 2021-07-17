@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 30/06/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 17/07/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -40,9 +40,11 @@ http://0000000000
 #EXTINF:-1,[COLOR yellow]LINKS SPORT TV ONLINE[/COLOR]
 https://000000
 
+#EXTINF:0 tvg-id="ext" group-title="Religious",SPORT TV+
+http://185.236.229.21:9981/play/a03c
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Religious",SPORT TV 5
+http://185.236.229.21:9981/play/a03n
 
-#EXTINF:-1,[COLOR=coral][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=coral][/COLOR]
-http://0000000000
 
 
 ########################################################################################################################################
@@ -71,9 +73,14 @@ http://00000000
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM CINEMA PT[/COLOR]
 https://000000
 
-
-#EXTINF:-1,[COLOR=coral][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=coral][/COLOR]
-http://00000000
+#EXTINF:0 tvg-id="ext" group-title="Movies",TVCINE ACTION
+http://185.236.229.21:9981/play/a04n
+#EXTINF:0 tvg-id="ext" group-title="Movies",TVCINE EDITION
+http://185.236.229.21:9981/play/a061
+#EXTINF:0 tvg-id="ext" group-title="Movies",TVCINE EMOTION
+http://185.236.229.21:9981/play/a05z
+#EXTINF:0 tvg-id="ext" group-title="Movies",TVCINE TOP
+http://185.236.229.21:9981/play/a04w
 
 
 ######################################################################################################################################
