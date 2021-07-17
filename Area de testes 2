@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<layoutype>list</layoutype>
-<channels>
  
  
 <channels>
@@ -56,5 +53,24 @@
 </channel>
 
 
-<
+<channels>
+<channel>
+<name>[COLOR=gold][B]CANAIS DE TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601506.us.archive.org/7/items/canais-tv-2/Canais%20TV2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20TV%20SubMenu</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>[COLOR=gold][B]DESPORTO TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601502.us.archive.org/1/items/desporto-tv/Desporto%20TV.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Desporto%20TV</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channels>
 
