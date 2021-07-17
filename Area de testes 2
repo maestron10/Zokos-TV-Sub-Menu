@@ -9,27 +9,6 @@
 <info>
  
  
-</channel>
-<channel>
-<name>[COLOR=gold][B]GENÉRICOS TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia601403.us.archive.org/21/items/genericos-tv/Genericos%20TV.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/fDhEvXwL</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info>Filmes Armazenados nos diversos serviços da Nuvem: Gdrive e Onedrive</info>
-</channel>
-</channels>
- 
- 
-</channel>
-<channel>
-<name>[COLOR=gold][B]CANAIS TV INFANTIS[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia601401.us.archive.org/7/items/canais-tv-infantis/Canais%20TV%20Infantis.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Kids%20TV</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info>Filmes Armazenados nos diversos serviços da Nuvem: Gdrive e Onedrive</info>
-</channel>
-</channels>
-
 
 <channels>
 <channel>
@@ -53,24 +32,4 @@
 </channel>
 
 
-<channels>
-<channel>
-<name>[COLOR=gold][B]CANAIS DE TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia601506.us.archive.org/7/items/canais-tv-2/Canais%20TV2.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20TV%20SubMenu</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channels>
-
-
-<channels>
-<channel>
-<name>[COLOR=gold][B]DESPORTO TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia601502.us.archive.org/1/items/desporto-tv/Desporto%20TV.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Desporto%20TV</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channels>
 
