@@ -60,6 +60,18 @@
 <info></info>
 </channel>
 </channel>
+
+
+
+</channel>
+<channel>
+<name>[COLOR=yellow][B]RAMALHO TV[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<thumbnail>url DA IMAGEM</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/base-addon/master/README.md</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channel>
  
  
 
