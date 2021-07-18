@@ -49,6 +49,17 @@
 <info></info>
 </channel>
 </channel>
+
+
+</channel>
+<channel>
+<name>[COLOR=yellow][B]VÁRIOS CONTEÚDOS[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<thumbnail>url DA IMAGEM</thumbnail>
+<externallink>https://raw.githubusercontent.com/leandro-brandao96/leandro-brandao96_Playlist/main/leandro-brandao96_Playlist_Public.m3u</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channel>
  
  
 
