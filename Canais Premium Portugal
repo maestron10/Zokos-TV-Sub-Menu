@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 17/07/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 20/07/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -29,8 +29,8 @@ LINKS DE CAPTURA DE CANAIS STREAMING LIVE
 #EXTINF:-1,[COLOR blue]BENFICA TV[/COLOR]
 https://000000
 
-#EXTINF:-1 logo="http://85.246.118.168:9981/imagecache/148" tvg-id="0bd7513b6193042fcafd989198f023c6",BTV 1 HD
-http://85.246.118.168:9981/stream/channelid/995219211?ticket=902C53E2E204E37FF681D9780B24B24CBA5891DE&profile=pass
+#EXTINF:-1,[COLOR=coral][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=coral][/COLOR]
+http://00000000
 
 
 ##################################  GRUPO SPORT TV   ###########################################################################
@@ -42,24 +42,8 @@ https://000000
 
 #EXTINF:0 tvg-id="ext" group-title="Religious",SPORT TV+
 http://185.236.229.21:9981/play/a03c
-#EXTINF:-1 logo="http://85.246.118.168:9981/imagecache/210" tvg-id="05d5eda4c4f58aa15a816088c3050509",SPORT TV 1 HD
-http://85.246.118.168:9981/stream/channelid/619566341?ticket=BB5938462D12F50CB324CC60CEFF058E69EA8ED5&profile=pass
-#EXTINF:-1 logo="http://85.246.118.168:9981/imagecache/92" tvg-id="6f9bafdd8e287f110cfafa35a0eb8b90",SPORTrt TV 2 HD
-http://85.246.118.168:9981/stream/channelid/1571789679?ticket=1F73FED682CD9F349BF12A3DF779EC03D959C5D8&profile=pass
-#EXTINF:-1 logo="http://85.246.118.168:9981/imagecache/237" tvg-id="c2d1b4a135a176072a62ecc346f6626f",SPORT TV 3 HD
-http://85.246.118.168:9981/stream/channelid/565498306?ticket=1AEE0A29EA62B1DE629E9018AACC6625C6614E42&profile=pass
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="Religious",SPORT TV 5
 http://185.236.229.21:9981/play/a03n
-
-
-########################################################################################################################################
-#EXTINF:-1,[COLOR yellow]OUTROS LINKS SPORT TV[/COLOR]
-https://000000
-
-#EXTM3U
-
-#EXTINF:-1,[COLOR=coral][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=coral][/COLOR]
-http://00000000
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
  
@@ -94,11 +78,5 @@ http://185.236.229.21:9981/play/a04w
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM ADULTOS[/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=coral][B]PLAYBOY HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://187.188.147.142:8000/play/a00l/index.m3u8
-
-#EXTINF:-1,[COLOR=coral][B]SEXTREME[/B][/COLOR][COLOR=coral][/COLOR]
-http://187.188.147.142:8000/play/a012/index.m3u8
-
-#EXTINF:-1,[COLOR=coral][B]VENUS[/B][/COLOR][COLOR=coral][/COLOR]
-http://187.188.147.142:8000/play/a01d/index.m3u8
+#EXTINF:-1,[COLOR=coral][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=coral][/COLOR]
+http://00000000
