@@ -13,6 +13,8 @@ https://000000
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRACE URBAN FR
 http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/18261
+#EXTINF:-1,KISS TV
+http://188.241.221.2:4000/play/a04g
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRACE TROPICAL FR
 http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/24150
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRACE URBAN UK
