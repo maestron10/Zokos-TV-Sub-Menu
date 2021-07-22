@@ -173,9 +173,6 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]HITS 360 HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]LATIDO MUSIC HD[/B][/COLOR][COLOR=coral][/COLOR]
-https://vidaprimo-distroscale.amagi.tv/playlist720p.m3u8
-
 #EXTINF:-1 tvg-language="French" tvg-logo="https://i.imgur.com/mvgRAZw.jpg" tvg-country="CM" group-title="Music",[COLOR=coral][B]PLAY TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 
@@ -207,9 +204,6 @@ https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Музыкальные",[COLOR=coral][B]HIT MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
 http://hitmusic.hu/hitmusic.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]CMC[/B][/COLOR][COLOR=coral][/COLOR]
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
-
 #EXTINF:-1,[COLOR=coral][B]DEEJAY TV SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
  
@@ -270,10 +264,6 @@ https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channe
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]RÁDIO MONTECARLO ITÁLIA[/B][/COLOR][COLOR=coral][/COLOR]
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
-
-
-#EXTINF:0 tvg-id="RadioItalia.it" group-title="Musicales",[COLOR=coral][B]RÁDIO ITÁLIA TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]1 MUSIC HUNGRIA[/B][/COLOR][COLOR=coral][/COLOR]
 http://1music.hu/1music.m3u8
