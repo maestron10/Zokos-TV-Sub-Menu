@@ -17,7 +17,6 @@ http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/18261
 http://188.241.221.2:4000/play/a04g
 #EXTINF:-1,[COLOR=coral][B]MAGIC TV SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://188.241.221.2:4000/play/a025
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]TRACE URBAN UK[/B][/COLOR][COLOR=coral][/COLOR]
 http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/70343
 #EXTINF:0 tvg-id="BoxHits.uk" group-title="Channels",[COLOR=coral][B]BOX HITS UK[/B][/COLOR][COLOR=coral][/COLOR]
@@ -46,6 +45,18 @@ http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/2670
 http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/3943
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]MTV MUSIC 24 UK[/B][/COLOR][COLOR=coral][/COLOR]
 http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/72680
+
+#EXTINF:-1,[COLOR=coral][B]BARAZA MUSIC (DANCE)[/B][/COLOR][COLOR=coral][/COLOR]
+http://panik.cast-control.eu:1935/Admin_1/Admin_1/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]KISS KISS TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://58f12ffd2447a.streamlock.net:1935/KKMulti/livestream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]POWER TV HD (ARG)[/B][/COLOR][COLOR=coral][/COLOR]
+https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]HIT TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://rosshow.gcdn.co/streams/1410_287/1080n/index.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]TRACE URBAN[/B][/COLOR][COLOR=coral][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
@@ -123,6 +134,18 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]RADIO MONTECARLO[/B][/COLOR][COLOR=coral][/COLOR]
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(BB)/index.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]CMC USA MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]CADENA ELITE ES[/B][/COLOR][COLOR=coral][/COLOR]
+http://cloudvideo.servers10.com:8080/8004/index.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]CITY MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+http://5592f056abba8.streamlock.net:1935/citytv/citytv/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]MUSIC LATINO[/B][/COLOR][COLOR=coral][/COLOR]
+http://broadcast.mytvtogo.net/musicalatinaparati/musicalatinaparati/chunklist.m3u8
   
  ######################################################################################################
  
@@ -157,6 +180,11 @@ plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8Ak6qR.png" group-title="",[COLOR=coral][B]IBIZA GLOBAL TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 
+#EXTINF:-1,[COLOR=coral][B]BARAZA MUSIC (DANCE)[/B][/COLOR][COLOR=coral][/COLOR]
+http://panik.cast-control.eu:1935/Admin_1/Admin_1/playlist.m3u8
+
+#EXTINF:0 tvg-id="ClublandTV.uk" group-title="Channels",[COLOR=coral][B]CLUBLAND TV UK[/B][/COLOR][COLOR=coral][/COLOR]
+http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/15051
 
 ######################################################################################
 #EXTINF:-1,[COLOR blue]MÚSICA ANTIGA[/COLOR]
