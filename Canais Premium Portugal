@@ -40,11 +40,19 @@ http://00000000
 #EXTINF:-1,[COLOR yellow]LINKS SPORT TV[/COLOR]
 https://000000
 
+FONTE: http://www.redditsoccerstreams.tv/watch/sport-tv-2/
+
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=coral][B]SPORT TV+[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a03c
 
 #EXTINF:-1,[COLOR=coral][B]SPORT TV 1[/B][/COLOR][COLOR=coral][/COLOR]
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+https://29hm3pwm68.azcdn107.net:8443/hls/walxjawfo5x.m3u8?s=drCsfDwjchWioXo0ars6cw&e=1627080363
+
+#EXTINF:-1,[COLOR=coral][B]SPORT TV 2[/B][/COLOR][COLOR=coral][/COLOR]
+https://29hm3pwm68.azcdn107.net:8443/hls/u225jtufy2dkv.m3u8?s=Bh892G840_66QugoELfoRQ&e=1627080443
+
+#EXTINF:-1,[COLOR=coral][B]SPORT TV 3[/B][/COLOR][COLOR=coral][/COLOR]
+https://29hm3pwm68.azcdn107.net:8443/hls/t69y1s69ffvz.m3u8?s=1icbiUrPqmK99gs0choszg&e=1627080509
 
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="Religious",[COLOR=coral][B]SPORT TV 5[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a03n
