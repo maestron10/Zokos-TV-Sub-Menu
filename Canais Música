@@ -11,6 +11,11 @@ http://0.0.0.0:00000
 #EXTINF:-1,[COLOR blue]BEST TOP HITS[/COLOR]
 https://000000
 
+#EXTINF:-1,MOOZ DANCE
+http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
+#EXTINF:-1,MOOZ DANCE
+http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozhits
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]TRACE URBAN FR[/B][/COLOR][COLOR=coral][/COLOR]
 http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/18261
 #EXTINF:-1,[COLOR=coral][B]KISS TV[/B][/COLOR][COLOR=coral][/COLOR]
