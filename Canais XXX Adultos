@@ -1,10 +1,10 @@
 
 <layouttype>thumbnail</layouttype>
 
-#EXTM3U
+
 
 #######################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]/////////////////  CANAIS XXX - LISTA 1  //////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#EXTINF:-1,tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]/////////////////  CANAIS XXX - LISTA 1  //////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:0000
 #######################################################################################################################################
  
