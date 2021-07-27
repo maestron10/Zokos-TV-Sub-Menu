@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 26/07/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 27/07/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -74,6 +74,8 @@ http://aziptv.live:6969/Hdservers/Valendsuk/1929
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="Religious",[COLOR=coral][B]SPORT TV 5[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a03n
 
+
+
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
  
 #EXTM3U
@@ -81,8 +83,13 @@ http://185.236.229.21:9981/play/a03n
 #EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS PT[/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=coral][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=coral][/COLOR]
-http://00000000
+
+#EXTINF:0 tvg-id="ElevenSports1.uk" group-title="Sports",ELEVEN SPORTS 1 FHD
+http://185.236.229.21:9981/play/a05v
+#EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",ELEVEN SPORTS 4 FHD
+http://185.236.229.21:9981/play/a05x
+#EXTINF:0 tvg-id="elevensports5.pt" group-title="Sports",ELEVEN SPORTS 5 FHD
+http://185.236.229.21:9981/play/a05y
 
 
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
@@ -101,6 +108,8 @@ http://185.236.229.21:9981/play/a061
 http://185.236.229.21:9981/play/a05z
 #EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=coral][B]TVCINE TOP[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a04w
+
+w
 
 
 ######################################################################################################################################
