@@ -1,4 +1,4 @@
-#EXTM3U
+
 
 #######################################################################################################################################
 #EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]/////////////////  CANAIS XXX - LISTA 1  //////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
@@ -46,7 +46,7 @@ http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=coral][B]VISIT X TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 
-
+#EXTM3U
  
 
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=coral][B]AST TV 1[/B][/COLOR][COLOR=coral][/COLOR]
@@ -65,6 +65,8 @@ https://www.ast.tv/stream/2/high.m3u8
 https://www.ast.tv/stream/2/normal.m3u8
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=coral][B]AST TV 2[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.ast.tv/stream/2/ultra.m3u8
+ 
+#EXTM3U 
  
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=coral][B]MILF HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://live.redtraffic.xyz/milf.m3u8
