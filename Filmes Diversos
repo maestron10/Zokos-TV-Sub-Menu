@@ -4,10 +4,13 @@ http://0.0.0.0:000000
 ####################################################################################################################################
  
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA 1 - LISTA DE FILMES NUVEM: 24/01/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 1 - LISTA DE FILMES NUVEM: 27/07/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
  
+ 
+#EXTINF:-1,[COLOR=coral][B]NOMADLAND 2020[/B][/COLOR][COLOR=coral][/COLOR]
+https://cld.pt/dl/download/7f76cb67-85f0-46cb-a862-707a5629b9d2/Nomadland.2020.1080p.WEBRip.x264-RARBG.mp4?download=true
  
 #EXTINF:-1,[COLOR=coral][B]ALITA, ANJO DE COMBATE 2019[/B][/COLOR][COLOR=coral][/COLOR]
 https://cld.pt/dl/download/4fce7bc1-0464-490a-9ab6-84ca5d5b8aa9/Alita.Anjo.de.Combate.2019.720p.WEB-DL.x264.DUAL-WWW.BLUDV.TV.mkv?download=true
