@@ -72,30 +72,16 @@ http://185.236.229.21:9981/play/a05l
 http://185.236.229.21:9981/play/a05p
 #EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",Afro Music
 http://185.236.229.21:9981/play/a05g
-
 #EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",Biggs
 http://185.236.229.21:9981/play/a03g
 #EXTINF:0 tvg-id="BLAZE.uk" group-title="Channels",Blaze
 http://185.236.229.21:9981/play/a03b
-
 #EXTINF:0 tvg-id="Canal11.pt" group-title="Channels",Canal 11 HD
 http://185.236.229.21:9981/play/a051
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal NOS
-http://185.236.229.21:9981/play/a070
-#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",Canal Panda
-http://185.236.229.21:9981/play/a074
-#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",Canal Q
-http://185.236.229.21:9981/play/a06o
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canção Nova
-http://185.236.229.21:9981/play/a07n
-#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network
-http://185.236.229.21:9981/play/a06n
 #EXTINF:0 tvg-id="CasaCozinha.pt" group-title="Channels",Casa e Cozinha HD
 http://185.236.229.21:9981/play/a060
 #EXTINF:0 tvg-id="ext" group-title="Channels",Caça e Pesca
 http://185.236.229.21:9981/play/a04r
-#EXTINF:0 tvg-id="CrimeAndInvestigation.nl" group-title="Channels",Crime+Investigation
-http://185.236.229.21:9981/play/a07t
 #EXTINF:0 tvg-id="discov_rus" group-title="Channels",Discovery Channel
 http://185.236.229.21:9981/play/a04l
 #EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",Discovery Channel HD
@@ -104,8 +90,6 @@ http://185.236.229.21:9981/play/a05a
 http://185.236.229.21:9981/play/a056
 #EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",Disney Junior
 http://185.236.229.21:9981/play/a03q
-#EXTINF:0 tvg-id="E.blt" group-title="Channels",E! Entertainment
-http://185.236.229.21:9981/play/a07k
 #EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",Eleven Sports 1
 http://185.236.229.21:9981/play/a05v
 #EXTINF:0 tvg-id="elevensports4.pt" group-title="Channels",Eleven Sports 4
@@ -116,31 +100,26 @@ http://185.236.229.21:9981/play/a05y
 http://185.236.229.21:9981/play/a03l
 #EXTINF:0 tvg-id="esp-hd" group-title="Channels",Eurosport 1 HD
 http://185.236.229.21:9981/play/a064
-#EXTINF:0 tvg-id="esp2" group-title="Channels",Eurosport 2
-http://185.236.229.21:9981/play/a07f
 #EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX Crime HD
 http://185.236.229.21:9981/play/a066
 #EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",FOX Life HD
 http://185.236.229.21:9981/play/a05r
 #EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX Movies
 http://185.236.229.21:9981/play/a039
-#EXTINF:0 tvg-id="fashion" group-title="Channels",FTV
-http://185.236.229.21:9981/play/a07l
+
+
 
 #EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",Fuel TV
 http://185.236.229.21:9981/play/a05c
 #EXTINF:0 tvg-id="GloboNow.pt" group-title="Channels",Globo Now
 http://185.236.229.21:9981/play/a04v
-#EXTINF:0 tvg-id="hollywood" group-title="Channels",Hollywood
-http://185.236.229.21:9981/play/a06k
+
 #EXTINF:0 tvg-id="Hot.pt" group-title="Channels",Hot
 http://185.236.229.21:9981/play/a03p
 #EXTINF:0 tvg-id="id-extra" group-title="Channels",ID Investigation Discovery
 http://185.236.229.21:9981/play/a05s
 #EXTINF:0 tvg-id="ext" group-title="Channels",Kuriakos TV HD
 http://185.236.229.21:9981/play/a03t
-#EXTINF:0 tvg-id="MCMPop.pt" group-title="Channels",MCM Pop
-http://185.236.229.21:9981/play/a06t
 #EXTINF:0 tvg-id="mezzo" group-title="Channels",Mezzo
 http://185.236.229.21:9981/play/a03e
 #EXTINF:0 tvg-id="MotorvisionChannel.gr" group-title="Channels",Motorvision
@@ -155,24 +134,9 @@ http://185.236.229.21:9981/play/a054
 http://185.236.229.21:9981/play/a04s
 #EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",Nickelodeon
 http://185.236.229.21:9981/play/a04p
-#EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",Odisseia
-http://185.236.229.21:9981/play/a06l
-#EXTINF:0 tvg-id="pfc.pt" group-title="Channels",PFC
-http://185.236.229.21:9981/play/a06v
-#EXTINF:0 tvg-id="playboy" group-title="Channels",Playboy TV
-http://185.236.229.21:9981/play/a06z
-#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",SIC Caras
-http://185.236.229.21:9981/play/a07j
 #EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",SIC Mulher
 http://185.236.229.21:9981/play/a037
-#EXTINF:0 tvg-id="ext" group-title="Channels",SIC Notícias
-http://185.236.229.21:9981/play/a073
-#EXTINF:0 tvg-id="ext" group-title="Channels",SIC Notícias
-http://185.236.229.21:9981/play/a076
-#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",SIC Radical
-http://185.236.229.21:9981/play/a06p
-#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",SIC Radical
-http://185.236.229.21:9981/play/a07i
+
 
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
 http://185.236.229.21:9981/play/a079
@@ -186,6 +150,7 @@ http://185.236.229.21:9981/play/a06i
 http://185.236.229.21:9981/play/a06j
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",Sport TV 5
 http://185.236.229.21:9981/play/a03n
+
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",Sporting TV
 http://185.236.229.21:9981/play/a03r
 #EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SyFy
