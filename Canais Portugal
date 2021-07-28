@@ -60,51 +60,51 @@ FONTE DE INFORMAÇÃO: https://treshi.github.io/daily-iptv.al/#list-2
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="natgeowild" group-title="Channels",National Geographic Wild
+#EXTINF:0 tvg-id="natgeowild" group-title="Channels",[COLOR=coral][B]NATIONAL GEOGRAPHIC WILD[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a06f
-#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",24 Kitchen HD
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",[COLOR=coral][B]24 KITCHEN HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a05m
-#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",AMC HD
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",[COLOR=coral][B]AMC HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a04x
-#EXTINF:0 tvg-id="ext" group-title="Channels",AXN Movies HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]AXN MOVIES HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a05l
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",AXN White HD
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",[COLOR=coral][B]AXN WHITE HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a05p
-#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",Afro Music
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",[COLOR=coral][B]AFRO MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a05g
-#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",Biggs
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",[COLOR=coral][B]BIGGS[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a03g
-#EXTINF:0 tvg-id="BLAZE.uk" group-title="Channels",Blaze
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="Channels",[COLOR=coral][B]BLAZE[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a03b
-#EXTINF:0 tvg-id="Canal11.pt" group-title="Channels",Canal 11 HD
+#EXTINF:0 tvg-id="Canal11.pt" group-title="Channels",[COLOR=coral][B]CANAL 11 HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a051
-#EXTINF:0 tvg-id="CasaCozinha.pt" group-title="Channels",Casa e Cozinha HD
+#EXTINF:0 tvg-id="CasaCozinha.pt" group-title="Channels",[COLOR=coral][B]CASA E COZINHA HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a060
-#EXTINF:0 tvg-id="ext" group-title="Channels",Caça e Pesca
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]CAÇA E PESCA[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a04r
-#EXTINF:0 tvg-id="discov_rus" group-title="Channels",Discovery Channel
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",[COLOR=coral][B]DISCOVERY CHANNEL[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a04l
-#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",Discovery Channel HD
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",[COLOR=coral][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a05a
-#EXTINF:0 tvg-id="disney" group-title="Channels",Disney Channel
+#EXTINF:0 tvg-id="disney" group-title="Channels",[COLOR=coral][B]DISNEY CHANNEL[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a056
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",Disney Junior
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",[COLOR=coral][B]DISNEY JUNIOR[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a03q
-#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",Eleven Sports 1
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",[COLOR=coral][B]ELEVEN SPORTS 1 TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a05v
-#EXTINF:0 tvg-id="elevensports4.pt" group-title="Channels",Eleven Sports 4
+#EXTINF:0 tvg-id="elevensports4.pt" group-title="Channels",[COLOR=coral][B]ELEVEN SPORTS 4 TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a05x
-#EXTINF:0 tvg-id="elevensports5.pt" group-title="Channels",Eleven Sports 5
+#EXTINF:0 tvg-id="elevensports5.pt" group-title="Channels",[COLOR=coral][B]ELEVEN SPORTS 5 TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a05y
-#EXTINF:0 tvg-id="euro" group-title="Channels",Euronews
+#EXTINF:0 tvg-id="euro" group-title="Channels",[COLOR=coral][B]EURONEWS TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a03l
-#EXTINF:0 tvg-id="esp-hd" group-title="Channels",Eurosport 1 HD
+#EXTINF:0 tvg-id="esp-hd" group-title="Channels",[COLOR=coral][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a064
-#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX Crime HD
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",[COLOR=coral][B]FOX CRIME HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a066
-#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",FOX Life HD
+#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",[COLOR=coral][B]FOX LIFE HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a05r
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX Movies
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",[COLOR=coral][B]FOX MOVIES[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a039
 
 
