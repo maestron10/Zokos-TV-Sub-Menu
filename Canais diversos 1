@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 30/06/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 29/07/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ##########################################################################################################################
  
@@ -62,13 +62,7 @@ https://outsidetv-grvty-localnow.amagi.tv/localnow.m3u8
   
 #EXTINF: -1,[COLOR=coral][B]ALL SPORTS BR[/B][/COLOR][COLOR=coral][/COLOR]
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hhd6zx6.png" group-title="",[COLOR=coral][B]TENNIS PLUS 1 TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="https://i.imgur.com/hhd6zx6.png",[COLOR=coral][B]TENNIS PLUS 2 TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
- 
+  
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Sports & Recreation",[COLOR=coral][B]HARLEY DAVIDSON TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
  
@@ -85,7 +79,7 @@ https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR blue]CANAIS DE MÚSICA[/COLOR]
 https://000000
  
-#EXTINF: -1,[COLOR=coral][B]CARINA TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=coral][B]CARINA TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]CAROLINA TV[/B][/COLOR][COLOR=coral][/COLOR]
@@ -121,17 +115,11 @@ https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]JUICE TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://i.mjh.nz/nz/tv.juice.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]FREE MUSIC TV[/B][/COLOR][COLOR=coral][/COLOR]
-http://149.100.19.226:8001/play/Free_TV
-
 #EXTINF:-1 tvg-name="Hits 360 HD (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/Cx5V233.jpg",[COLOR=coral][B]HITS 360 HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC + (HU)" tvg-logo="https://i.imgur.com/yKJmkNk.png" group-title="MUSIC",[COLOR=coral][B]MUSIC+ TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://s02.diazol.hu:10192/stream.m3u8
-
-#EXTINF:0 tvg-id="RadioBruno.it" group-title="Channels",[COLOR=coral][B]RADIO BRUNO TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://stream7.xdevel.com/video0s975758-579/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/32rDv4l.png" group-title="",[COLOR=coral][B]LOVE FM RADIO TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
@@ -159,8 +147,6 @@ http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8
 #EXTINF:-1,[COLOR blue]CANAIS MODA E TEMPO[/COLOR]
 https://000000
  
-#EXTINF:-1,[COLOR=coral][B]THE WEATHER CHANNEL TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://weather-lh.akamaihd.net/i/twc_1@92006/index_1200_av-p.m3u8?sd=10&rebase=on 
  
 #EXTINF:-1,[COLOR=coral][B]WEATHER SPY (AUSTRÁLIA)[/B][/COLOR][COLOR=coral][/COLOR]
 https://jukin-weatherspy-2-au.samsung.wurl.com/manifest/playlist.m3u8
