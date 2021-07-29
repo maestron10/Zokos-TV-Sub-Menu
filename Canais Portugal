@@ -53,139 +53,214 @@ https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
 
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA 2 ADICIONADA: 27/07/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 2 ADICIONADA: 29/07/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
-FONTE DE INFORMAÇÃO: https://treshi.github.io/daily-iptv.al/#list-2
+FONTE DE INFORMAÇÃO: https://paste.ulvis.net/rGmKymxh
 
 #EXTM3U
 
-
-#EXTINF:0 tvg-id="natgeowild" group-title="Channels",[COLOR=coral][B]NATIONAL GEOGRAPHIC WILD[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a06f
-#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",[COLOR=coral][B]24 KITCHEN HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a05m
-#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",[COLOR=coral][B]AMC HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a04x
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]AXN MOVIES HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a05l
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",[COLOR=coral][B]AXN WHITE HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a05p
-#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",[COLOR=coral][B]AFRO MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a05g
-#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",[COLOR=coral][B]BIGGS[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a03g
-#EXTINF:0 tvg-id="BLAZE.uk" group-title="Channels",[COLOR=coral][B]BLAZE[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a03b
-#EXTINF:0 tvg-id="Canal11.pt" group-title="Channels",[COLOR=coral][B]CANAL 11 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a051
-#EXTINF:0 tvg-id="CasaCozinha.pt" group-title="Channels",[COLOR=coral][B]CASA E COZINHA HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a060
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]CAÇA E PESCA[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a04r
-#EXTINF:0 tvg-id="discov_rus" group-title="Channels",[COLOR=coral][B]DISCOVERY CHANNEL[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a04l
-#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",[COLOR=coral][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a05a
-#EXTINF:0 tvg-id="disney" group-title="Channels",[COLOR=coral][B]DISNEY CHANNEL[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a056
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",[COLOR=coral][B]DISNEY JUNIOR[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a03q
-#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",[COLOR=coral][B]ELEVEN SPORTS 1 TV[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a05v
-#EXTINF:0 tvg-id="elevensports4.pt" group-title="Channels",[COLOR=coral][B]ELEVEN SPORTS 4 TV[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a05x
-#EXTINF:0 tvg-id="elevensports5.pt" group-title="Channels",[COLOR=coral][B]ELEVEN SPORTS 5 TV[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a05y
-#EXTINF:0 tvg-id="euro" group-title="Channels",[COLOR=coral][B]EURONEWS TV[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a03l
-#EXTINF:0 tvg-id="esp-hd" group-title="Channels",[COLOR=coral][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a064
-#EXTINF:0 tvg-id="fox-crime" group-title="Channels",[COLOR=coral][B]FOX CRIME HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a066
-#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",[COLOR=coral][B]FOX LIFE HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a05r
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",[COLOR=coral][B]FOX MOVIES[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a039
-
-
-
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",Fuel TV
-http://185.236.229.21:9981/play/a05c
-#EXTINF:0 tvg-id="GloboNow.pt" group-title="Channels",Globo Now
-http://185.236.229.21:9981/play/a04v
-
-#EXTINF:0 tvg-id="Hot.pt" group-title="Channels",Hot
-http://185.236.229.21:9981/play/a03p
-#EXTINF:0 tvg-id="id-extra" group-title="Channels",ID Investigation Discovery
-http://185.236.229.21:9981/play/a05s
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kuriakos TV HD
-http://185.236.229.21:9981/play/a03t
-#EXTINF:0 tvg-id="mezzo" group-title="Channels",Mezzo
-http://185.236.229.21:9981/play/a03e
-#EXTINF:0 tvg-id="MotorvisionChannel.gr" group-title="Channels",Motorvision
-http://185.236.229.21:9981/play/a04z
-#EXTINF:0 tvg-id="NBA.blt" group-title="Channels",NBA TV HD
-http://185.236.229.21:9981/play/a06c
-#EXTINF:0 tvg-id="ext" group-title="Channels",NHK World Japan
-http://185.236.229.21:9981/play/a05h
-#EXTINF:0 tvg-id="ext" group-title="Channels",NOS Studios HD
-http://185.236.229.21:9981/play/a054
-#EXTINF:0 tvg-id="nick-jr" group-title="Channels",Nick Jr.
-http://185.236.229.21:9981/play/a04s
-#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",Nickelodeon
-http://185.236.229.21:9981/play/a04p
-#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",SIC Mulher
-http://185.236.229.21:9981/play/a037
-
-
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
-http://185.236.229.21:9981/play/a079
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV+
-http://185.236.229.21:9981/play/a03c
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",Sport TV 1
-http://185.236.229.21:9981/play/a072
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",Sport TV 3
-http://185.236.229.21:9981/play/a06i
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",Sport TV 4
-http://185.236.229.21:9981/play/a06j
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",Sport TV 5
-http://185.236.229.21:9981/play/a03n
-
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",Sporting TV
-http://185.236.229.21:9981/play/a03r
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SyFy
-http://185.236.229.21:9981/play/a04j
-#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC
-http://185.236.229.21:9981/play/a038
-#EXTINF:0 tvg-id="TVGalicia.sp" group-title="Channels",TV Galicia
-http://185.236.229.21:9981/play/a06y
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine ACTION HD
-http://185.236.229.21:9981/play/a04n
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine EDITION HD
-http://185.236.229.21:9981/play/a061
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine EMOTION HD
-http://185.236.229.21:9981/play/a05z
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine TOP HD
-http://185.236.229.21:9981/play/a04w
-#EXTINF:0 tvg-id="24Horas.sp" group-title="Channels",TVE 24h
-http://185.236.229.21:9981/play/a03h
-#EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",TVE Internacional
-http://185.236.229.21:9981/play/a03f
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVI Ficção
-http://185.236.229.21:9981/play/a075
-#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",TVI Reality
-http://185.236.229.21:9981/play/a036
-#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Channels",Toros TV
-http://185.236.229.21:9981/play/a03o
-#EXTINF:0 tvg-id="TraceToca.fr" group-title="Channels",Trace Toca
-http://185.236.229.21:9981/play/a04o
-#EXTINF:0 tvg-id="TraceUrban.ru" group-title="Channels",Trace Urban
-http://185.236.229.21:9981/play/a06g
-#EXTINF:0 tvg-id="travel-hd" group-title="Channels",Travel Channel HD
-http://185.236.229.21:9981/play/a05o
-#EXTINF:0 tvg-id="vh1-europe" group-title="Channels",VH1
-http://185.236.229.21:9981/play/a03d
-#EXTINF:0 tvg-id="VenusTV.uk" group-title="Channels",Venus
-http://185.236.229.21:9981/play/a05j
-#EXTINF:0 tvg-id="zapvivahd.pt" group-title="Channels",ZAP Viva HD
-http://185.236.229.21:9981/play/a052
+#EXTM3U
+#EXTINF:-1,PT| RTP 1
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9093
+#EXTINF:-1,PT| RTP 2 HD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9092
+#EXTINF:-1,PT| RTP 3
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9091
+#EXTINF:-1,PT| RTP Africa
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9089
+#EXTINF:-1,PT| RTP Memoria
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9086
+#EXTINF:-1,PT| TVI
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9052
+#EXTINF:-1,PT| Tvi 24
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9051
+#EXTINF:-1,PT| TVI Reality
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9049
+#EXTINF:-1,PT| TVI FICCAO
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/58414
+#EXTINF:-1,PT| Sic HD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9085
+#EXTINF:-1,PT| SIC Radical
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9082
+#EXTINF:-1,PT| SIC NOTICIAS
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9083
+#EXTINF:-1,PT| SIC Mulher
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9084
+#EXTINF:-1,PT| CMTV
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9136
+#EXTINF:-1,PT| SYFY
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9070
+#EXTINF:-1,PT| AXN HD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9149
+#EXTINF:-1,PT| AXN WHITE HD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9148
+#EXTINF:-1,PT| AXN BLACK
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9150
+#EXTINF:-1,PT| E ENTERTAINMENT
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9130
+#EXTINF:-1,PT| TCV CABO
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/116510
+#EXTINF:-1,PT| FOX HD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9116
+#EXTINF:-1,PT| FOX COMEDY
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9118
+#EXTINF:-1,PT| FOX CRIME
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9117
+#EXTINF:-1,PT| Fox Life HD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9115
+#EXTINF:-1,PT| FOX MOVIES
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9114
+#EXTINF:-1,PT| TV Cine Emotion FHD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9060
+#EXTINF:-1,PT| TV Cine Emotion FHD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9058
+#EXTINF:-1,PT| TV Cine Top FHD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9057
+#EXTINF:-1,PT| TV Cine Action FHD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9056
+#EXTINF:-1,PT| CINE MUNDO
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9137
+#EXTINF:-1,PT| Hollywood FHD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9112
+#EXTINF:-1,PT| TV Series FHD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9061
+#EXTINF:-1,PT| A Bola TV
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9153
+#EXTINF:-1,PT| Canal NOS
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9141
+#EXTINF:-1,PT| Canal Q
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9139
+#EXTINF:-1,PT| Cano Nova
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9142
+#EXTINF:-1,PT| RTP Acores
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9090
+#EXTINF:-1,PT| RTP Madeira
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9087
+#EXTINF:-1,PT| TVI FHD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9050
+#EXTINF:-1,PT| SPORT TV +   HD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9081
+#EXTINF:-1,PT| Sport TV 1 FHD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9079
+#EXTINF:-1,PT| Sport TV 1
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9080
+#EXTINF:-1,PT| Sport TV 2 FHD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9077
+#EXTINF:-1,PT| Sport TV 2
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9078
+#EXTINF:-1,PT| Sport TV 3 FHD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9075
+#EXTINF:-1,PT| Sport TV 3
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9076
+#EXTINF:-1,PT| Sport TV 4
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9074
+#EXTINF:-1,PT| Sport TV 5
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9072
+#EXTINF:-1,PT| Eleven Sports 1
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9129
+#EXTINF:-1,PT| Eleven Sports 2
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9128
+#EXTINF:-1,PT| Eleven Sports 3
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9127
+#EXTINF:-1,PT| Eleven Sports 4
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9126
+#EXTINF:-1,PT| Eleven Sports 5
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9125
+#EXTINF:-1,PT| Eleven Sports 6
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9124
+#EXTINF:-1,PT| BENFICA TV 1 HD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9147
+#EXTINF:-1,PT| Porto Canal
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9095
+#EXTINF:-1,PT| Real Madrid TV
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9094
+#EXTINF:-1,PT| Sporting TV HD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9071
+#EXTINF:-1,PT| canal 11
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/89875
+#EXTINF:-1,PT| Kombat Sport
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9110
+#EXTINF:-1,PT| Motorvision
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9106
+#EXTINF:-1,PT| MOTORS TV
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9107
+#EXTINF:-1,PT| NBA TV
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9099
+#EXTINF:-1,PT| Toros TV
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9068
+#EXTINF:-1,PT| PFC HD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9096
+#EXTINF:-1,PT| MTV Dance
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9105
+#EXTINF:-1,PT| MTV Hits
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9104
+#EXTINF:-1,PT| MTV Portugal
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9103
+#EXTINF:-1,PT| MTV Rocks
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9102
+#EXTINF:-1,PT| VH1
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9048
+#EXTINF:-1,PT| VH1 Classic
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9047
+#EXTINF:-1,PT| MCM Pop
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9109
+#EXTINF:-1,PT| Afro Music
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9151
+#EXTINF:-1,PT| Trace Urban
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9067
+#EXTINF:-1,PT| 24 Kitchen FHD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9154
+#EXTINF:-1,PT| TLC
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9069
+#EXTINF:-1,PT| Cacavision
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9143
+#EXTINF:-1,PT| Historia
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9113
+#EXTINF:-1,PT| Caca e Pesca
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9144
+#EXTINF:-1,PT| Discovery Channel
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9135
+#EXTINF:-1,PT| Travel Channel FHD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9066
+#EXTINF:-1,PT| NAT GEO HD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9101
+#EXTINF:-1,PT| Nat Geo Wild
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9100
+#EXTINF:-1,PT| Mezzo
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9108
+#EXTINF:-1,PT| Discovery FHD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9134
+#EXTINF:-1,PT| ODISSEIA
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9097
+#EXTINF:-1,PT| TV Fatima
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9065
+#EXTINF:-1,PT| NICKELODEON
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9098
+#EXTINF:-1,PT| Canal Panda HD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9140
+#EXTINF:-1,PT| Disney Channel
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9133
+#EXTINF:-1,PT| Disney Junior
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9132
+#EXTINF:-1,PT| DISNEY JUNIOR (test)
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9131
+#EXTINF:-1,PT| Biggs
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9146
+#EXTINF:-1,PT| Bloomberg
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9145
+#EXTINF:-1,PT| Jim Jam
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9111
+#EXTINF:-1,PT| TV Globo HD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9063
+#EXTINF:-1,PT| TV Globo
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9064
+#EXTINF:-1,PT| TV Globo Premium
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9046
+#EXTINF:-1,PT| TV RECORD
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9062
+#EXTINF:-1,PT| TVE Internacional
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9053
+#EXTINF:-1,PT| TVE 24h
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9054
+#EXTINF:-1,PT| RTP INFORMACAO
+http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9088
