@@ -17,7 +17,7 @@ e https://vk.com/playlistfinder
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="XXX",A3 Bikini
+#EXTINF:0 tvg-id="ext" group-title="XXX",A3BIKINI TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="XXX",A3BIKINI TV (720p)
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
@@ -109,14 +109,9 @@ http://cdn.adultiptv.net/threesome.m3u8
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:0 tvg-id="ext" group-title="XXX",AdultIPTV.net Woman
 http://live.redtraffic.net/woman.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",AST TV 1 (PC) (1080p)
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",AST TV 2 (PC) (1080p)
-http://www.ast.tv/stream/2/master.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="XXX",Fashion TV Midnite Secrets
+#EXTINF:0 tvg-id="ext" group-title="XXX",FASHION TV MIDNITE SECRETS
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",Fashion TV Midnite Secrets
+#EXTINF:0 tvg-id="ext" group-title="XXX",FASHION TV MIDNITE SECRETS
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:0 tvg-id="Hot.pt" group-title="XXX",HOT
 http://185.236.229.21:9981/play/a03p
@@ -137,16 +132,9 @@ http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 ,POV
 http://live.redtraffic.xyz/pov.m3u8
 
-#EXTINF:0 tvg-id="playboy" group-title="XXX",Playboy TV
-http://187.188.147.165:8000/play/a00l/index.m3u8
-#EXTINF:0 tvg-id="PlayboyenEspanol.us" group-title="XXX",Playboy TV Latin America
-http://186.101.216.211:8000/play/pboy
-#EXTINF:0 tvg-id="ext" group-title="XXX",Private TV (Italia)
-http://194.76.186.69:8000/play/a0bc
-
-#EXTINF:0 tvg-id="ext" group-title="XXX",Visit-X TV (720p)
+#EXTINF:0 tvg-id="ext" group-title="XXX",VISIT-X TV (720p)
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="XXX",Visit-X TV (360p)
+#EXTINF:0 tvg-id="ext" group-title="XXX",VISIT-X TV (360p)
 http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
 
 
