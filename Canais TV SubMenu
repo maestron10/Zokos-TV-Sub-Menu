@@ -34,17 +34,6 @@
 </channel>
  
  
-<channels>
-<channel>
-<name>[COLOR=gold][B]CANAIS DE MÚSICA 3[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia601405.us.archive.org/31/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
-<externallink>https://github.com/Free-IPTV/Countries/blob/master/YZ001_MUSIC.m3u</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
- </channel>
-</channel>
-  
- 
  
 <channels>
 <channel>
@@ -102,22 +91,9 @@
  
  
  
- 
 <channels>
 <channel>
-<name>[COLOR=gold][B]TDT CHANNELS[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia601805.us.archive.org/10/items/tdt-channels_202104/TDT%20Channels.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/TDTChannels</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channel>
- 
- 
-
-<channels>
-<channel>
-<name>[COLOR=gold][B]CANAIS TV PAÍSES[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]PAÍSES[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601400.us.archive.org/27/items/canais-mundiais-2/Canais%20Mundiais%202.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/M51FaCem</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
