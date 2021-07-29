@@ -1,5 +1,10 @@
 
 
+
+<?xml version="1.0" encoding="utf-8"?>
+<layoutype>list</layoutype>
+
+
  
 <channels>
 <channel>
@@ -30,3 +35,8 @@
 <info></info>
 </channel>
 <channel>
+
+
+
+
+</channel>
