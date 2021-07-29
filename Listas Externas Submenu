@@ -15,7 +15,7 @@
  
  </channel>
 <channel>
-<name>[COLOR=yellow][B]FIDO - LIVE MUSIC TV[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<name>[COLOR=gold][B]FIDO - LIVE MUSIC TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>url DA IMAGEM</thumbnail>
 <externallink>http://fantazyrepo.uk/addonimages/fido.addon/Music/musictv.new.xml</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
@@ -30,7 +30,7 @@
  
 </channel>
 <channel>
-<name>[COLOR=yellow][B]ADDON MAGELLAN[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<name>[COLOR=gold][B]ADDON MAGELLAN[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>url DA IMAGEM</thumbnail>
 <externallink>https://pastebin.com/raw/wL2Jvyh8</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
@@ -42,7 +42,7 @@
  
 </channel>
 <channel>
-<name>[COLOR=yellow][B]ADDON MILHANOS TV 1.5[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<name>[COLOR=gold][B]ADDON MILHANOS TV 1.5[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>url DA IMAGEM</thumbnail>
 <externallink>http://milhano.pt/ftp-milhano/aladotv/Team.Milhanos/Team_Milhanos.txt</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
@@ -53,7 +53,7 @@
 
 </channel>
 <channel>
-<name>[COLOR=yellow][B]VÁRIOS CONTEÚDOS[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<name>[COLOR=gold][B]VÁRIOS CONTEÚDOS[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>url DA IMAGEM</thumbnail>
 <externallink>https://raw.githubusercontent.com/leandro-brandao96/leandro-brandao96_Playlist/main/leandro-brandao96_Playlist_Public.m3u</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
@@ -65,7 +65,7 @@
 
 </channel>
 <channel>
-<name>[COLOR=yellow][B]RAMALHO TV[/B][/COLOR][COLOR=yellow][/COLOR]</name>
+<name>[COLOR=gold][B]RAMALHO TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>url DA IMAGEM</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/base-addon/master/README.md</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
