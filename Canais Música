@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 23/07/21[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA MINI REVISTA: 29/07/21[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
  
@@ -13,47 +13,15 @@ https://000000
 
 #EXTINF:-1,[COLOR=coral][B]MOOZ DANCE[/B][/COLOR][COLOR=coral][/COLOR]
 http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
+
 #EXTINF:-1,[COLOR=coral][B]MOOZ HITS[/B][/COLOR][COLOR=coral][/COLOR]
 http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozhits
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]TRACE URBAN FR[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/18261
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]TRACE URBAN UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/70343
-#EXTINF:0 tvg-id="BoxHits.uk" group-title="Channels",[COLOR=coral][B]BOX HITS UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/20254
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]CLUB MTV UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/7318
-#EXTINF:0 tvg-id="ClublandTV.uk" group-title="Channels",[COLOR=coral][B]CLUBLAND TV UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/15051
-
 #EXTINF:-1,[COLOR=coral][B]KISS TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://188.241.221.2:4000/play/a04g
+
 #EXTINF:-1,[COLOR=coral][B]MAGIC TV SD[/B][/COLOR][COLOR=coral][/COLOR]
 http://188.241.221.2:4000/play/a025
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]MTV HD UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/20031
-#EXTINF:0 tvg-id="MTVBase.uk" group-title="Channels",[COLOR=coral][B]MTV BASE UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/7319
-#EXTINF:0 tvg-id="MTVClassic.uk" group-title="Channels",[COLOR=coral][B]MTV CLASSIC UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/7320
-
-#EXTINF:0 tvg-id="mtv-hits" group-title="Channels",[COLOR=coral][B]MTV HITS UK [/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/7317
-#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="Channels",[COLOR=coral][B]MTV LIVE FHD UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/13090
-#EXTINF:0 tvg-id="MTVMusic.uk" group-title="Channels",[COLOR=coral][B]MTV MUSIC UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/7316
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]MTV 90´S UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/7315
-#EXTINF:0 tvg-id="MTV.uk" group-title="Channels",[COLOR=coral][B]MTV UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/2670
-#EXTINF:0 tvg-id="VH1UK.uk" group-title="Channels",[COLOR=coral][B]VH1 UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/3943
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]MTV MUSIC 24 UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/72680
 
 #EXTINF:-1,[COLOR=coral][B]BARAZA MUSIC (DANCE)[/B][/COLOR][COLOR=coral][/COLOR]
 http://panik.cast-control.eu:1935/Admin_1/Admin_1/playlist.m3u8
@@ -191,9 +159,6 @@ https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]BARAZA MUSIC (DANCE)[/B][/COLOR][COLOR=coral][/COLOR]
 http://panik.cast-control.eu:1935/Admin_1/Admin_1/playlist.m3u8
-
-#EXTINF:0 tvg-id="ClublandTV.uk" group-title="Channels",[COLOR=coral][B]CLUBLAND TV UK[/B][/COLOR][COLOR=coral][/COLOR]
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/15051
 
 #EXTINF:-1,[COLOR=coral][B]MOOZ DANCE[/B][/COLOR][COLOR=coral][/COLOR]
 http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
