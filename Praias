@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ###################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 30/06/2021 - 10 CAM OFFLINE[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 29/07/2021 - 7 CAM OFFLINE[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ####################################################################
  
@@ -50,7 +50,7 @@ https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]FIGUEIRA DA FOZ (CABEDELO)[/B][/COLOR][COLOR=coral][/COLOR]
 https://video-auth1.iol.pt/beachcam/cabedelo/playlist.m3u8
  
-OFFLINE: 2
+OFFLINE: 1
  
 #EXTINF:-1,[COLOR blue]PRAIAS COSTA OESTE[/COLOR]
 https://video-auth1.iol.pt
@@ -114,7 +114,7 @@ https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]PRAIA FOZ DO LIZARDO[/B][/COLOR][COLOR=coral][/COLOR]
 https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8
  
-OFFLINE: 2
+OFFLINE: 1
  
 #EXTINF:-1,[COLOR blue]PRAIAS DE SINTRA[/COLOR]
 https://video-auth1.iol.pt
@@ -264,4 +264,4 @@ https://video-auth1.iol.pt/beachcam/caisdosodre/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]LISBOA - BELEM[/B][/COLOR][COLOR=coral][/COLOR]
 https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
  
-OFFLINE: 2
+OFFLINE: 1
