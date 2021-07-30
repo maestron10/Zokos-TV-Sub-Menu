@@ -33,8 +33,7 @@ http://188.40.68.167/russia/jimjam/playlist.m3u8
 http://autopilot.catcast.tv/content/38144/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",KURIAKOS KIDS
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",KURIAKOS KIDS
-http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+
 #EXTINF:0 tvg-id="lale" group-title="Kids",LALE
 http://stream.atr.ua/lale//live/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",MAJID TV
@@ -63,17 +62,17 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuameba/CDN/playlist.m3u8
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",BRAT TV (1080p)
 https://brat-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",CARTNOON NETWORK VIETNAM (720p)
+#EXTINF:0 tvg-id="ext" group-title="Kids",CARTNOON NETWORK VIETNAM 
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",COUNTRY BOY KIDS VIDEO (Bumblebee)
+#EXTINF:0 tvg-id="ext" group-title="Kids",COUNTRY BOY KIDS VIDEO 
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",CUTE ZONE (Bumblebee)
+#EXTINF:0 tvg-id="ext" group-title="Kids",CUTE ZONE 
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",EBS KIDS (360p)
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",ENKI BENKI
 http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",FGTV (Bumblebee)
+#EXTINF:0 tvg-id="ext" group-title="Kids",FGTV 
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",GRAVITY FOULS
 https://autopilot.catcast.tv/content/38105/index.m3u8
@@ -87,10 +86,8 @@ http://188.40.68.167/russia/jimjam/playlist.m3u8
 http://autopilot.catcast.tv/content/38144/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",KPBS-DT4
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kpbs-dt4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",KURIAKOS KIDS
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",KURIAKOS Kids
-http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+
+
 #EXTINF:0 tvg-id="lale" group-title="Kids",LALE
 http://stream.atr.ua/lale//live/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",LEGO CHANNEL
