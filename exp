@@ -6,32 +6,23 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]LIVE TV[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WEB CAM LIVE[/COLOR][/B]</name>
+<thumbnail>https://ia601802.us.archive.org/5/items/wlc_20201130/WLC.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/vkAQpw5Z</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info>portugalkodi.com</info>
 </channel>
 
 
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Movies[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]EXPLORE.ORG LIVE[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+<externallink>https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Youtube/Explore.org/EXPLORE.org.m3u</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info>portugalkodi.com</info>
 </channel>
 
-
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Youtube[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-<info>portugalkodi.com</info>
-</channel>
 
 
 
