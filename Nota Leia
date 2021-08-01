@@ -35,10 +35,72 @@
 
 <channels>
 <channel>
-<name>[COLOR=gold][B]CANAIS DE TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]STREAMLINK TESTER[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20TV%20SubMenu</externallink>
+<externallink>https://000000</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
 </channel>
 </channels>
+
+
+
+<channels>
+<channel>
+<name>[COLOR=gold][B]YOUTUBE ADDON[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://000000</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+
+
+<channels>
+<channel>
+<name>[COLOR=gold][B]INPUTSTREAMER HELPER[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://000000</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+
+
+<channels>
+<channel>
+<name>[COLOR=gold][B]STREAMLINK BASE[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://000000</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR=gold][B]YOUTUBE DLL SCRIPT[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://000000</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+
+
+<channels>
+<channel>
+<name>[COLOR=gold][B]XBMC PHYTON 2.26.0[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://000000</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
