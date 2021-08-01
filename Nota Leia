@@ -11,7 +11,6 @@
 </channel>
 
 
-
 <channels>
 <channel>
 <name>[COLOR=red][B]PARA ESTE ADDON FUNCIONAR PLENAMENTE ACONSELHA-SE OS SEGUINTES ADDON E SCRIPTS[/B][/COLOR][COLOR=gold][/COLOR]</name>
@@ -21,12 +20,6 @@
 <info></info>
 </channel>
 </channels>
-
-
-
-
-
-
 
 
 <channels>
@@ -62,7 +55,6 @@
 </channels>
 
 
-
 <channels>
 <channel>
 <name>[COLOR=gold][B]YOUTUBE ADDON[/B][/COLOR][COLOR=gold][/COLOR]</name>
@@ -72,7 +64,6 @@
 <info></info>
 </channel>
 </channels>
-
 
 
 <channels>
@@ -86,7 +77,6 @@
 </channels>
 
 
-
 <channels>
 <channel>
 <name>[COLOR=gold][B]STREAMLINK BASE[/B][/COLOR][COLOR=gold][/COLOR]</name>
@@ -98,8 +88,6 @@
 </channels>
 
 
-
-
 <channels>
 <channel>
 <name>[COLOR=gold][B]YOUTUBE DLL SCRIPT[/B][/COLOR][COLOR=gold][/COLOR]</name>
@@ -109,7 +97,6 @@
 <info></info>
 </channel>
 </channels>
-
 
 
 <channels>
