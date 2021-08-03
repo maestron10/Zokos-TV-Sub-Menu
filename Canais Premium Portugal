@@ -165,6 +165,10 @@ http://45.182.20.194:8000/play/JASVTFBPgPgD3ZZ7/index.m3u8
 #EXTINF:-1,[COLOR=coral][B]SEXTREM[/B][/COLOR][COLOR=coral][/COLOR]
 http://45.182.20.194:8000/play/5NF6H3EAyctLSrEz/index.m3u8
 
+#EXTINF:-1,[COLOR=coral][B]VENUS[/B][/COLOR][COLOR=coral][/COLOR]
+http://200.107.234.74:8000/play/a0ex/index.m3u8
+
+
 
 
 
