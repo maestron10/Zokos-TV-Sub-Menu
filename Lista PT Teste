@@ -4,6 +4,9 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
 
+#EXTM3U
+
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 03/08/21[/B][/COLOR][COLOR=yellow][/COLOR]
 
 Fonte de Informação: https://m3u.bestfreeiptv.com/m3u-european-iptv/english-iptv-m3u/
 
@@ -34,6 +37,7 @@ http://bosstr.net:80/testskype1/6q60C0QwC4/4465
 http://bosstr.net:80/testskype1/6q60C0QwC4/4463
 #EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",PT| SIC CARAS
 http://bosstr.net:80/testskype1/6q60C0QwC4/33609
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT| ZAP VIVA
 http://bosstr.net:80/testskype1/6q60C0QwC4/33641
 #EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",PT| TV GLOBO
@@ -58,8 +62,7 @@ http://bosstr.net:80/testskype1/6q60C0QwC4/4472
 http://bosstr.net:80/testskype1/6q60C0QwC4/4489
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT| TVCiNE EDITION
 http://bosstr.net:80/testskype1/6q60C0QwC4/4488
-#EXTINF:0 tvg-id="TVSeries.pt" group-title="Channels",PT| TV SERIES
-http://bosstr.net:80/testskype1/6q60C0QwC4/4460
+
 #EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",PT| HOLLYWOOD HD
 http://bosstr.net:80/testskype1/6q60C0QwC4/4456
 #EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",PT| FOX MOVIES HD
@@ -70,6 +73,7 @@ http://bosstr.net:80/testskype1/6q60C0QwC4/33636
 http://bosstr.net:80/testskype1/6q60C0QwC4/33638
 #EXTINF:0 tvg-id="axn.pt" group-title="Channels",PT| AXN
 http://bosstr.net:80/testskype1/6q60C0QwC4/4484
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT| AXN MOVIES
 http://bosstr.net:80/testskype1/6q60C0QwC4/4485
 #EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",PT| AXN WHITE
@@ -96,6 +100,7 @@ http://bosstr.net:80/testskype1/6q60C0QwC4/4474
 http://bosstr.net:80/testskype1/6q60C0QwC4/33624
 #EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",PT| CANAL Q
 http://bosstr.net:80/testskype1/6q60C0QwC4/33610
+
 #EXTINF:0 tvg-id="CBSReality.pt" group-title="Channels",PT| CBS REALITY
 http://bosstr.net:80/testskype1/6q60C0QwC4/33615
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT| CAZA Y PESCA
@@ -126,6 +131,7 @@ http://bosstr.net:80/testskype1/6q60C0QwC4/33626
 http://bosstr.net:80/testskype1/6q60C0QwC4/33625
 #EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",PT| FUEL TV
 http://bosstr.net:80/testskype1/6q60C0QwC4/4453
+
 #EXTINF:0 tvg-id="vh1.pt" group-title="Channels",PT| VH1
 http://bosstr.net:80/testskype1/6q60C0QwC4/33640
 #EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",PT| AFRO MUSIC
@@ -142,6 +148,7 @@ http://bosstr.net:80/testskype1/6q60C0QwC4/4482
 http://bosstr.net:80/testskype1/6q60C0QwC4/33614
 #EXTINF:0 tvg-id="pfc.pt" group-title="Channels",PT| PFC
 http://bosstr.net:80/testskype1/6q60C0QwC4/33637
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT| SPORT TV+
 http://bosstr.net:80/testskype1/6q60C0QwC4/4495
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT| SPORT TV 1
@@ -162,6 +169,7 @@ http://bosstr.net:80/testskype1/6q60C0QwC4/34073
 http://bosstr.net:80/testskype1/6q60C0QwC4/4491
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT| SPORT TV 5 FHD
 http://bosstr.net:80/testskype1/6q60C0QwC4/4490
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORT 1 HD
 http://bosstr.net:80/testskype1/6q60C0QwC4/9287
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORT 2 HD
@@ -228,8 +236,7 @@ http://bosstr.net:80/testskype1/6q60C0QwC4/57542
 http://bosstr.net:80/testskype1/6q60C0QwC4/57538
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: NATIONAL GEOGRAPHIC WILD HEVC
 http://bosstr.net:80/testskype1/6q60C0QwC4/57537
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ODISSEIA HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57539
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: TRAVEL CHANNEL HEVC
 http://bosstr.net:80/testskype1/6q60C0QwC4/57540
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV   HEVC
