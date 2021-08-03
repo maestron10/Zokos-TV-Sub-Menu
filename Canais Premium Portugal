@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 28/07/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 03/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -32,11 +32,7 @@ https://000000
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]BTV HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30036
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]BTV HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30037
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]BTV HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/9147
 
 ##################################  GRUPO SPORT TV   ###########################################################################
 
@@ -53,58 +49,54 @@ FONTES DE INFORMAÇÃO
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=coral][B]SPORT TV+[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a03c
 
+#EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]SPORT TV+[/B][/COLOR][COLOR=coral][/COLOR]
+http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30095
+
 #EXTINF:-1,[COLOR=coral][B]SPORT 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PT | Sports",[COLOR=coral][B]SPORT 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30097
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv1.png" group-title="Sport Channels",[COLOR=coral][B]SPORT 1 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1925
-#EXTINF:-1,[COLOR=coral][B]SPORT 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/917
 
 #EXTINF:-1,[COLOR=coral][B]SPORT 2 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/12/sport-tv2.png" group-title="Sport Channels",[COLOR=coral][B]SPORT 2 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1926
 
+#EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]SPORT 2 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30098
+
 #EXTINF:-1,[COLOR=coral][B]SPORT 3 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv3.png" group-title="Sport Channels",[COLOR=coral][B]SPORT 3 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1927
 
 #EXTINF:-1,[COLOR=coral][B]SPORT 4 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv4.png" group-title="Sport Channels",[COLOR=coral][B]SPORT 4 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1928
 
+#EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]SPORT 4 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30102
+
 #EXTINF:-1,[COLOR=coral][B]SPORT 5 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv5.png" group-title="Sport Channels",[COLOR=coral][B]SPORT 5 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1929
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Religious",[COLOR=coral][B]SPORT TV 5[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a03n
 
-
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",SPORT TV + HD
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30095
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",SPORT TV 1
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30096
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="PT | Sports",SPORT TV 1 HD
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30097
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",SPORT TV 2
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30098
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="PT | Sports",SPORT TV 2 HD
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30099
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",SPORT TV 3
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30100
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="PT | Sports",SPORT TV 3 HD
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30101
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",SPORT TV 4
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30102
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="PT | Sports",SPORT TV 4 HD
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30103
 #EXTINF:0 tvg-id="ext" group-title="PT | Sports",SPORT TV 5
 http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30104
+
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="PT | Sports",SPORT TV 5 HD
 http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30105
+
 #EXTINF:0 tvg-id="ext" group-title="PT | Sports",SPORT TV NBA  HD
 http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30106
 
@@ -118,24 +110,22 @@ http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30106
 https://000000
 
 
-#EXTINF:0 tvg-id="ElevenSports1.uk" group-title="Sports",[COLOR=coral][B]ELEVEN SPORTS 1 FHD[/B][/COLOR][COLOR=coral][/COLOR]
-http://185.236.229.21:9981/play/a05v
+#EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]ELEVEN SPORTS 2[/B][/COLOR][COLOR=coral][/COLOR]
+http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30112
 
+#EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]ELEVEN SPORTS 3[/B][/COLOR][COLOR=coral][/COLOR]
+http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30109
 
 #EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",[COLOR=coral][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a05x
+
+#EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=coral][/COLOR]
+http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30111
+
 #EXTINF:0 tvg-id="elevensports5.pt" group-title="Sports",[COLOR=coral][B]ELEVEN SPORTS 5 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a05y
 
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",ELEVEN SPORTS 1
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30113
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",ELEVEN SPORTS 2
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30112
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",ELEVEN SPORTS 3
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30109
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",ELEVEN SPORTS 4
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30111
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",ELEVEN SPORTS 5
+#EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]ELEVEN SPORTS 5 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30110
 
 
@@ -152,23 +142,14 @@ http://185.236.229.21:9981/play/a054
 http://185.236.229.21:9981/play/a04n
 #EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=coral][B]TVCINE EDITION[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a061
+#EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]TVCINE EDITION[/B][/COLOR][COLOR=coral][/COLOR]
+http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30122
 #EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=coral][B]TVCINE EMOTION[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a05z
+#EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]TVCINE EMOTION[/B][/COLOR][COLOR=coral][/COLOR]
+http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30149
 #EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=coral][B]TVCINE TOP[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a04w
-
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",TVCINE EDITION
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30122
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",TVCINE 3 EMOTION
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30123
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",TV SERIES HD
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30147
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",TVCINE TOP HD
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30148
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",TVCINE EMOTION HD
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30149
-
-
 
 
 ######################################################################################################################################
