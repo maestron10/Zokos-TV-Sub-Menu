@@ -15,6 +15,9 @@ https://000000
 #EXTINF:-1,[COLOR=coral][B]MTV HITS UK[/B][/COLOR][COLOR=coral][/COLOR]
 http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/23297
 
+#EXTINF:-1,[COLOR=coral][B]MTV DANCE UK[/B][/COLOR][COLOR=coral][/COLOR]
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/13553
+
 #EXTINF:-1,[COLOR=coral][B]BARAZA MUSIC (DANCE)[/B][/COLOR][COLOR=coral][/COLOR]
 http://panik.cast-control.eu:1935/Admin_1/Admin_1/playlist.m3u8
 
@@ -50,8 +53,6 @@ https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]HIT TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://rosshow.gcdn.co/streams/1410_287/1080n/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=coral][B]FIRST 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://rtmp.one.by:1300
