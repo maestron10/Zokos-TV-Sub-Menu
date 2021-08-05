@@ -121,15 +121,10 @@ https://persik.tv/stream/3602/287583/10249.m3u8
 #EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA: 05/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
 
-
 #EXTINF:0 tvg-id="ext" group-title="Sports",Abu Dhabi Sports 1 (1080p)
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ADSports2.net" group-title="Sports",Abu Dhabi Sports 2 (1080p)
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ADSports3.net" group-title="Sports",Abu Dhabi Sports 3 (1080p)
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ADSports4.net" group-title="Sports",Abu Dhabi Sports 4 (1080p) [Geo-blocked]
-https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",ACCDN (1080p)
 https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",ACCDN (720p)
@@ -140,18 +135,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Adventure Sports TV (360p)
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
-#EXTINF:0 tvg-id="ext" group-title="Sports",Al Kass Five (576p)
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkas5abe/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Al Kass Four (576p)
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4aobe/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Al Kass One (576p)
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1oppe/master.m3u8
-#EXTINF:0 tvg-id="AlKass.net" group-title="Sports",Al Kass Online (576p)
-https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassOnlineG129/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Al Kass Sports
 http://www.elahmad.com/tv/m3u8/alkass.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Al Kass Two (576p)
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2pwi/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Alkass sport 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:0 tvg-id="ext" group-title="Sports",Alkass sport 2
@@ -178,16 +163,10 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Bahrain Sports 1 (720p)
 http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Bahrain Sports 2 (720p)
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
-#EXTINF:0 tvg-id="BarcaTV.es" group-title="Sports",Barça TV
-http://5.255.90.184:2002/play/a01z
 #EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports 1 English [Not 24/7]
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports 2 English [Not 24/7]
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",BeIN Sports Xtra (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 #EXTINF:0 tvg-id="ext" group-title="Sports",Bek Sports East (720p)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Bek Sports West (720p)
@@ -198,10 +177,6 @@ https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Captital OTB Betting (720p)
 https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",CCTV中国中央电视台-5 体育
-http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",CCTV中国中央电视台-5+ 体育赛事
-http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
 #EXTINF:0 tvg-id="DDSports.in" group-title="Sports",DD Sports (576p)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:0 tvg-id="DDSports.in" group-title="Sports",DD Sports
@@ -215,49 +190,28 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 #EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Sports 3 (1080p)
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
-https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
-https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
-https://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
 https://edgesports-plex.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
-https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (STIRR) (1080p)
-https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (US) (720p)
 https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Sports",Eleven Sports (720p)
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ElevenSports1.uk" group-title="Sports",Eleven Sports 1 (Portugal) (1080p)
-http://185.236.229.21:9981/play/a05v
 #EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",Eleven Sports 4 (Portugal) (1080p)
 http://185.236.229.21:9981/play/a05x
 #EXTINF:0 tvg-id="elevensports5.pt" group-title="Sports",Eleven Sports 5 (Portugal) (1080p)
 http://185.236.229.21:9981/play/a05y
-#EXTINF:0 tvg-id="ext" group-title="Sports",ERT SPORTS (1080p)
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ERT SPORTS 2
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ERT SPORTS 3
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3.m3u8
 #EXTINF:0 tvg-id="ESPN.uk" group-title="Sports",ESPN (360p)
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ESPN.uk" group-title="Sports",ESPN (720p)
 http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:0 tvg-id="ESPN2.us" group-title="Sports",ESPN 2 (720p)
-http://164.68.124.111/espn2.m3u8
 #EXTINF:0 tvg-id="ESPN2.us" group-title="Sports",ESPN 2 (360p)
 http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ESPN3.mx" group-title="Sports",ESPN 3 Latinoamérica
-http://209.91.213.10:8088/play/a025
-#EXTINF:0 tvg-id="ESPN.mx" group-title="Sports",ESPN Latinoamérica
-http://209.91.213.10:8088/play/a019
+
+**************
+
 #EXTINF:0 tvg-id="Esport3.es" group-title="Sports",Esport3 (1080p)
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:0 tvg-id="Esport3.es" group-title="Sports",Esport3 (1080p)
@@ -268,30 +222,26 @@ https://estv-klowdtv.amagi.tv/playlist.m3u8
 https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",FASTWAY NEWS (720p)
 http://163.47.214.155:1935/fwnews/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fight Box (480p)
-http://ott-cdn.ucom.am/s86/index.m3u8
 #EXTINF:0 tvg-id="FightNetwork.ca" group-title="Sports",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Fite (720p)
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Sports",Football Daily (XUMO)
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
 #EXTINF:0 tvg-id="FOXSports2.us" group-title="Sports",FOX Sports 2 Asia Thai (720p) [Not 24/7]
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="FOXSports2.us" group-title="Sports",FOX Sports 2 Latinoamérica (576p)
-http://209.91.213.10:8088/play/a026
-#EXTINF:0 tvg-id="FOXSports2.us" group-title="Sports",FOX Sports 2 Latinoamérica (1080p)
-http://209.91.213.10:8088/play/a02r
+
 #EXTINF:0 tvg-id="ext" group-title="Sports",FOX Sports 3 Asia Thai (720p) [Not 24/7]
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Sports",FOX Sports 3 Latinoamérica
-http://209.91.213.10:8088/play/a00y
+
 #EXTINF:0 tvg-id="ext" group-title="Sports",FOX Sports Asia Thai (720p) [Not 24/7]
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",FOX Sports Australia (720p)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:0 tvg-id="FreeSports.uk" group-title="Sports",FreeSports (1080p)
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Sports",FTF For The Fans (720p)
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV (720p)
@@ -304,8 +254,7 @@ https://fueltv-fueltv-10-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV (1080p)
 https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Brazil) (720p)
 https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (India) (1080p)
@@ -322,6 +271,9 @@ https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
 https://fueltv-fueltv-13-se.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",GEM Fit (540p) [Geo-blocked]
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist.m3u8
+
+***********************************
+
 #EXTINF:0 tvg-id="ext" group-title="Sports",Glory Kickboxing
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Golf Channel Thailand HD (720p) [Not 24/7]
