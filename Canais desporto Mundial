@@ -8,6 +8,43 @@ http://0.0.0.0:0000
 FONTE DE INFORMAÇÃO: https://iptv-org.github.io/iptv/categories/sports.m3u
  
 #EXTM3U
+
+ #EXTINF:-1,[COLOR blue]CANAIS OLÍMPICOS TOQUIO 2O21[/COLOR]
+https://000000
+
+#EXTINF:-1 group-title="OLIMPIC",1
+http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",2
+http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",3
+http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",3
+http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",4
+http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",5
+http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",6
+http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",7
+http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",8
+http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",9
+http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",10
+http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",11
+http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",12
+http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",13
+http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",14
+http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
+#EXTINF:-1 group-title="OLIMPIC",15
+http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
+
  
 #EXTINF:-1,[COLOR=yellow][B]LISTA 1 REVISTA: 29/07/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
