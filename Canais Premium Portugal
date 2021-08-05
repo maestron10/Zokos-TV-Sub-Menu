@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 03/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 05/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -153,9 +153,6 @@ FONTES DE INFORMAÇÃO
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=coral][B]SPORT TV+[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a03c
 
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]SPORT TV+[/B][/COLOR][COLOR=coral][/COLOR]
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30095
-
 #EXTINF:-1,[COLOR=coral][B]SPORT 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 
@@ -171,9 +168,6 @@ https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/12/sport-tv2.png" group-title="Sport Channels",[COLOR=coral][B]SPORT 2 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1926
 
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]SPORT 2 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30098
-
 #EXTINF:-1,[COLOR=coral][B]SPORT 3 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 
@@ -186,17 +180,12 @@ https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv4.png" group-title="Sport Channels",[COLOR=coral][B]SPORT 4 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1928
 
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]SPORT 4 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30102
-
 #EXTINF:-1,[COLOR=coral][B]SPORT 5 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv5.png" group-title="Sport Channels",[COLOR=coral][B]SPORT 5 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1929
 
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]SPORT TV 5[/B][/COLOR][COLOR=coral][/COLOR]
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30104
 
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="PT | Sports",[COLOR=coral][B]SPORT TV 5 HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30105
@@ -222,9 +211,6 @@ http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30109
 
 #EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",[COLOR=coral][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a05x
-
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=coral][/COLOR]
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30111
 
 #EXTINF:0 tvg-id="elevensports5.pt" group-title="Sports",[COLOR=coral][B]ELEVEN SPORTS 5 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a05y
