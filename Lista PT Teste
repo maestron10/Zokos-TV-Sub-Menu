@@ -289,8 +289,9 @@ http://bosstr.net:80/testskype1/6q60C0QwC4/57517
 http://bosstr.net:80/testskype1/6q60C0QwC4/57512
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX COMEDY HEVC
 http://bosstr.net:80/testskype1/6q60C0QwC4/57513
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX COMEDY HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX COMEDY
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/9118
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX CRIME HEVC
 http://bosstr.net:80/testskype1/6q60C0QwC4/57511
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: ZAP VIVA HEVC
