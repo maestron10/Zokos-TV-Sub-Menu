@@ -293,3 +293,108 @@ http://bosstr.net:80/testskype1/6q60C0QwC4/57513
 http://bosstr.net:80/testskype1/6q60C0QwC4/57511
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: ZAP VIVA HEVC
 http://bosstr.net:80/testskype1/6q60C0QwC4/57550
+
+#EXTM3U
+
+#EXTINF:-1,[COLOR=yellow][B]LISTA 2 DESPORTO PT: 05/08/21[/B][/COLOR][COLOR=yellow][/COLOR]
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV+ HD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21481
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV+ HD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21482
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV+
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21507
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV+
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21484
+
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21471
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 HD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21472
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 1 FHD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21503
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 1 4K HEVC
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21485
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 FHD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21486
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 1 HEVC
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21487
+
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21473
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 HD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21474
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 2 HD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21243
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2 FHD 
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21504
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 FHD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21488
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2 HEVC
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21489
+
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21475
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 3 FHD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21505
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3 FHD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21490
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 3 HEVC
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21491
+
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21477
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4 HD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21478
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21506
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 4 HEVC
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21492
+
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21479
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5 HD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21480
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21508
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 5 HEVC
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21493
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA HEVC
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21494
+
+##############################################################################################################################################
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1 
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21456
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1 FHD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21457
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1 HEVC
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21458
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT:ELEVEN SPORTS 1
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21464
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1 HD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21497
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2 FHD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21459
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2 HEVC
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21460
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21465
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2 HD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21498
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3 HEVC
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21461
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT:ELEVEN SPORTS 3 HD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21466
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21499
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4 HD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21467
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5 HD
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21468
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21501
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
+http://tv.smartalb.com:8080/flussonicperveeti/uWRmys3E6r/21502
