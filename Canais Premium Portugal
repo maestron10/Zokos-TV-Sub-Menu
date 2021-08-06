@@ -151,17 +151,17 @@ FONTES DE INFORMAÇÃO
 
 
 
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png", SPORTTV 1 [B]
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",SPORT TV 1
 http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="SPORT", SPORT TV 1
 http://Mastro@77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2124.png", SPORTTV 2 [B]
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",SPORT TV 2
 http://stream.tvtap.live:8081/live/pt-sporttv2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2125.png", SPORTTV 3 [B]
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2125.png", SPORT TV 3
 http://stream.tvtap.live:8081/live/pt-sporttv3.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2126.png", SPORTTV 4 [B]
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2126.png", SPORT TV 4
 http://stream.tvtap.live:8081/live/pt-sporttv4.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2127.png", SPORTTV 5 [B]
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2127.png", SPORT TV 5
 http://stream.tvtap.live:8081/live/pt-sporttv5.stream/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=coral][B]SPORT TV+[/B][/COLOR][COLOR=coral][/COLOR]
