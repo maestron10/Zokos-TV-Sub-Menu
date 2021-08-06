@@ -304,7 +304,7 @@ http://bosstr.net:80/testskype1/6q60C0QwC4/57550
 
 #EXTINF:-1,[COLOR=yellow][B]LISTA 2 PT: 06/08/21[/B][/COLOR][COLOR=yellow][/COLOR]
 
-
+#EXTM3U
 #EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",PT: RTP 1 HD
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1226
 #EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",PT: RTP 2 HD
