@@ -34,7 +34,7 @@
 </channel>
 <channel>
 <name>[COLOR=gold][B]MAGELLAN DESPORTO TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia601402.us.archive.org/15/items/magellan_202106/Magellan.jpg</thumbnail>
+<thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/kdUL7Zap</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
@@ -45,7 +45,7 @@
 </channel>
 <channel>
 <name>[COLOR=gold][B]ZEUS DESPORTO PT[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia601508.us.archive.org/17/items/team-milhanos/Team%20Milhanos.jpg</thumbnail>
+<thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
 <externallink>http://milhano.pt/ftp-milhano/zeustv/Zeus/MENU..DESPORTO/MENU.DESPORTO.txt</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
@@ -57,7 +57,7 @@
 </channel>
 <channel>
 <name>[COLOR=gold][B]ALADO DESPORTO PT[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
 <externallink>http://milhano.pt/ftp-milhano/aladotv/Desporto/Desporto.matrix.xml</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
@@ -65,7 +65,15 @@
 </channel>
     
      
-
+</channel>
+<channel>
+<name>[COLOR=gold][B]FLECHA NEGRA DESPORTO PT[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
+<externallink>http://flechanegra.atspace.cc/addonflechanegra/desporto-oline.xml</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channel>
 
 
 
