@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 07/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 08/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -31,99 +31,9 @@ LINKS DE CAPTURA DE CANAIS STREAMING LIVE
  #EXTINF:-1,[COLOR blue]LISTA DIÁRIA PREMIUM PT[/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| BENFICA
-http://bosstr.net:80/testskype1/6q60C0QwC4/4482
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BENFICA TV 4K HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57524
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| SPORT TV+
-http://bosstr.net:80/testskype1/6q60C0QwC4/4495
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV+ HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57526
-
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT| SPORT TV 1
-http://bosstr.net:80/testskype1/6q60C0QwC4/34070
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT| SPORT TV 1 FHD
-http://bosstr.net:80/testskype1/6q60C0QwC4/4494
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 1 HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57527
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 1 4K HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57528
-
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT| SPORT TV 2
-http://bosstr.net:80/testskype1/6q60C0QwC4/34071
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT| SPORT TV 2 FHD
-http://bosstr.net:80/testskype1/6q60C0QwC4/4493
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 2 HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57529
-
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT| SPORT TV 3
-http://bosstr.net:80/testskype1/6q60C0QwC4/34072
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT| SPORT TV 3 FHD
-http://bosstr.net:80/testskype1/6q60C0QwC4/4492
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 3 HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57530
-
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT| SPORT TV 4
-http://bosstr.net:80/testskype1/6q60C0QwC4/34073
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT| SPORT TV 4 FHD
-http://bosstr.net:80/testskype1/6q60C0QwC4/4491
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 4 HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57531
-
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT| SPORT TV 5 FHD
-http://bosstr.net:80/testskype1/6q60C0QwC4/4490
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 5 HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57532
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57525
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1 HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57533
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORT 1 HD
-http://bosstr.net:80/testskype1/6q60C0QwC4/9287
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2 HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57534
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORT 2 HD
-http://bosstr.net:80/testskype1/6q60C0QwC4/9288
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORT 3 HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57491
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORT 3 HD
-http://bosstr.net:80/testskype1/6q60C0QwC4/9289
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORT 4 HD
-http://bosstr.net:80/testskype1/6q60C0QwC4/9290
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORT 5 HD
-http://bosstr.net:80/testskype1/6q60C0QwC4/9291
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| ELEVEN SPORT 6 HD
-http://bosstr.net:80/testskype1/6q60C0QwC4/9292
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| NOS STUDIOS
-http://bosstr.net:80/testskype1/6q60C0QwC4/33636
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NOS STUDIOS HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57518
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| TVCiNE TOP
-http://bosstr.net:80/testskype1/6q60C0QwC4/4489
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE TOP HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57505
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT| TVCiNE EDITION
-http://bosstr.net:80/testskype1/6q60C0QwC4/4488
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EDITION HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57507
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE ACTION HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57508
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EMOTON HEVC
-http://bosstr.net:80/testskype1/6q60C0QwC4/57506
-
-
+#EXTINF:-1,[COLOR=coral][B]NÁO DISPONÍVEL[/B][/COLOR][COLOR=coral][/COLOR]
+http://000000000000
 
 
 
@@ -150,22 +60,11 @@ FONTES DE INFORMAÇÃO
 * - https://onlinetvhd.net/sport-tv-1-portugal/#opcao2
 
 
-
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",SPORT TV 1
-http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="SPORT", SPORT TV 1
-http://Mastro@77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",SPORT TV 2
-http://stream.tvtap.live:8081/live/pt-sporttv2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2125.png", SPORT TV 3
-http://stream.tvtap.live:8081/live/pt-sporttv3.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2126.png", SPORT TV 4
-http://stream.tvtap.live:8081/live/pt-sporttv4.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2127.png", SPORT TV 5
-http://stream.tvtap.live:8081/live/pt-sporttv5.stream/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=coral][B]SPORT TV+[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a03c
+
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",[COLOR=coral][B]SPORT 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]SPORT 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
@@ -176,11 +75,17 @@ http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30097
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv1.png" group-title="Sport Channels",[COLOR=coral][B]SPORT 1 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1925
 
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="SPORT",[COLOR=coral][B]SPORT 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://Mastro@77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
 #EXTINF:-1,[COLOR=coral][B]SPORT 2 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/12/sport-tv2.png" group-title="Sport Channels",[COLOR=coral][B]SPORT 2 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1926
+
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",[COLOR=coral][B]SPORT 2 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://stream.tvtap.live:8081/live/pt-sporttv2.stream/playlist.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]SPORT 3 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
@@ -188,17 +93,27 @@ https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv3.png" group-title="Sport Channels",[COLOR=coral][B]SPORT 3 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1927
 
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",[COLOR=coral][B]SPORT 3 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://stream.tvtap.live:8081/live/pt-sporttv3.stream/playlist.m3u8
+
 #EXTINF:-1,[COLOR=coral][B]SPORT 4 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv4.png" group-title="Sport Channels",[COLOR=coral][B]SPORT 4 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1928
 
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",[COLOR=coral][B]SPORT 4 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://stream.tvtap.live:8081/live/pt-sporttv4.stream/playlist.m3u8
+
 #EXTINF:-1,[COLOR=coral][B]SPORT 5 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]SPORT TV NBA HD[/B][/COLOR][COLOR=coral][/COLOR]
 http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30106
+
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",[COLOR=coral][B]SPORT 5 HD[/B][/COLOR][COLOR=coral][/COLOR]
+http://stream.tvtap.live:8081/live/pt-sporttv5.stream/playlist.m3u8
+
 
 
 
@@ -210,9 +125,6 @@ http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30106
 https://000000
 
 
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]ELEVEN SPORTS 2[/B][/COLOR][COLOR=coral][/COLOR]
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30112
-
 #EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]ELEVEN SPORTS 3[/B][/COLOR][COLOR=coral][/COLOR]
 http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30109
 
@@ -221,10 +133,6 @@ http://185.236.229.21:9981/play/a05x
 
 #EXTINF:0 tvg-id="elevensports5.pt" group-title="Sports",[COLOR=coral][B]ELEVEN SPORTS 5 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a05y
-
-#EXTINF:0 tvg-id="ext" group-title="PT | Sports",[COLOR=coral][B]ELEVEN SPORTS 5 FHD[/B][/COLOR][COLOR=coral][/COLOR]
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/30110
-
 
 
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
@@ -256,8 +164,6 @@ http://185.236.229.21:9981/play/a04w
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM ADULTOS[/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=coral][B]BRAZZERS TV[/B][/COLOR][COLOR=coral][/COLOR]
-http://45.182.20.194:8000/play/JASVTFBPgPgD3ZZ7/index.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]SEXTREM[/B][/COLOR][COLOR=coral][/COLOR]
 http://45.182.20.194:8000/play/5NF6H3EAyctLSrEz/index.m3u8
