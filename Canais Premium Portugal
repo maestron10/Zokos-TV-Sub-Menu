@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 08/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 12/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 https://iptvcat.com/portugal/
@@ -93,9 +93,6 @@ https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv3.png" group-title="Sport Channels",[COLOR=coral][B]SPORT 3 FHD[/B][/COLOR][COLOR=coral][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1927
 
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",[COLOR=coral][B]SPORT 3 HD[/B][/COLOR][COLOR=coral][/COLOR]
-http://stream.tvtap.live:8081/live/pt-sporttv3.stream/playlist.m3u8
-
 #EXTINF:-1,[COLOR=coral][B]SPORT 4 HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 
@@ -171,11 +168,7 @@ http://45.182.20.194:8000/play/5NF6H3EAyctLSrEz/index.m3u8
 #EXTINF:-1,[COLOR=coral][B]VENUS[/B][/COLOR][COLOR=coral][/COLOR]
 http://200.107.234.74:8000/play/a0ex/index.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]SEXTREME[/B][/COLOR][COLOR=coral][/COLOR]
-http://45.187.32.130:8000/play/a005/index.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]SEXY HOT[/B][/COLOR][COLOR=coral][/COLOR]
-http://45.187.32.130:8000/play/a004/index.m3u8
 
 
 
