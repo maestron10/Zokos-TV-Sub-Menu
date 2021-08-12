@@ -28,13 +28,16 @@ LINKS DE CAPTURA DE CANAIS STREAMING LIVE
  
  
  
- #EXTINF:-1,[COLOR blue]LISTA DIÁRIA PREMIUM PT[/COLOR]
+ #EXTINF:-1,[COLOR blue]CANAIS INTER. ONDE DÁ FUTEBOL PT[/COLOR]
 https://000000
 
 
-#EXTINF:-1,[COLOR=coral][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=coral][/COLOR]
-http://000000000000
 
+#EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/tv-station-rmc-sport-1-1427.png" group-title="SPORTS", RMC SPORTS 1
+http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/rmc2.png" group-title="SPORTS", RMC SPORTS 2
+http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
 
 
 
