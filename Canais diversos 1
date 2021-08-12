@@ -84,6 +84,9 @@ http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]CAROLINA TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]ADRIA MUSIC RS[/B][/COLOR][COLOR=coral][/COLOR]
+http://91.212.150.248/AdriaMusicTV/index.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]TU MUSICA HD[/B][/COLOR][COLOR=coral][/COLOR]
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
@@ -153,7 +156,10 @@ https://jukin-weatherspy-2-au.samsung.wurl.com/manifest/playlist.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]WEATHER NATION (USA)[/B][/COLOR][COLOR=coral][/COLOR]
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
- 
+
+#EXTINF:-1,[COLOR=coral][B]PATTRN TV (720p)[/B][/COLOR][COLOR=coral][/COLOR]
+https://csm-e-cetubiausw2live204-01130c4edc259e208.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8
+
 #EXTINF:-1,[COLOR=coral][B]FASHION TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
  
@@ -232,15 +238,40 @@ https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1129240952.m3u8
  
  
 ##########################################################################################################################
+#EXTINF:-1,[COLOR blue]CARROS E MOTOS[/COLOR]
+https://000000
+
+
+#EXTINF:-1,[COLOR=coral][B]AUTO MOTO TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]CARS TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://bozztv.com/teleyupp/teleup-carstv/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]CHOPPERTOWN[/B][/COLOR][COLOR=coral][/COLOR]
+https://oneworlddigital-choppertown-1.vizio.wurl.com/manifest/playlist.m3u8
+
+
 #EXTINF:-1,[COLOR blue]OUTROS CANAIS[/COLOR]
 https://000000
 
+#EXTINF:-1,[COLOR=coral][B]ADULT SWIM TV[/B][/COLOR][COLOR=coral][/COLOR]
+http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]HIPER TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=coral][B]PEOPLE ARE AWESOME[/B][/COLOR][COLOR=coral][/COLOR]
 https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]PEOPLE ARE AWESOME FHD[/B][/COLOR][COLOR=coral][/COLOR]
+https://jukin-peopleareawesome-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]AFV (STIRR)[/B][/COLOR][COLOR=coral][/COLOR]
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]JUST FOR LAUGHS GAGS[/B][/COLOR][COLOR=coral][/COLOR]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]FAIL ARMY[/B][/COLOR][COLOR=coral][/COLOR]
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
@@ -268,6 +299,9 @@ https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]LIVELY HOUSE TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://aenetworks-ae-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]HOMETALK TV[/B][/COLOR][COLOR=coral][/COLOR]
+https://playworksdigital-hometalk-1.vizio.wurl.com/manifest/playlist.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]NASA TV 1[/B][/COLOR][COLOR=coral][/COLOR]
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
@@ -321,11 +355,23 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]STIRR MOVIES[/B][/COLOR][COLOR=coral][/COLOR]
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]HOLLYWOOD CLASSICS[/B][/COLOR][COLOR=coral][/COLOR]
+https://vitor-hollywoodclassics-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]LONE STAR[/B][/COLOR][COLOR=coral][/COLOR]
+https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]CINE LIFE[/B][/COLOR][COLOR=coral][/COLOR]
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
  
 ##########################################################################################################################
 #EXTINF:-1,[COLOR blue]CANAIS DE NOTÍCIAS[/COLOR]
 https://000000
 
+
+#EXTINF:-1,[COLOR=coral][B]CNN INTERNACIONAL[/B][/COLOR][COLOR=coral][/COLOR]
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]RTVE ES 24 HORAS[/B][/COLOR][COLOR=coral][/COLOR]
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
@@ -338,6 +384,9 @@ https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]EURONEWS PT[/B][/COLOR][COLOR=coral][/COLOR]
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+ 
+ #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]EURONEWS BR[/B][/COLOR][COLOR=coral][/COLOR]
+https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8 
  
 #EXTINF:-1,[COLOR=coral][B]SKY NEWS[/B][/COLOR][COLOR=coral][/COLOR]
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
