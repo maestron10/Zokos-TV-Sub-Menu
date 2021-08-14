@@ -28,16 +28,58 @@ LINKS DE CAPTURA DE CANAIS STREAMING LIVE
  
  
  
- #EXTINF:-1,[COLOR blue]CANAIS INTER. ONDE DÁ FUTEBOL PT[/COLOR]
+#EXTINF:-1,[COLOR blue]CANAIS INTER. ONDE DÁ FUTEBOL PT[/COLOR]
 https://000000
 
 
 
-#EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/tv-station-rmc-sport-1-1427.png" group-title="SPORTS", RMC SPORTS 1
+#EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/tv-station-rmc-sport-1-1427.png" group-title="SPORTS",RMC SPORTS 1
 http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/rmc2.png" group-title="SPORTS", RMC SPORTS 2
+#EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/rmc2.png" group-title="SPORTS",RMC SPORTS 2
 http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR blue]LINHAS DIÁRIAS DESPORTO PT[/COLOR]
+https://000000
+
+
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BENFICA TV FHD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1255
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 FHD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1258
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 FHD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1261
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 HD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1264
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1265
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 HD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1266
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5 HD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1268
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV +
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1270
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORTTV NBA HD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1271
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1 HD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1273
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2 HD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1276
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2 FHD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1277
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3 SD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1278
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3 HD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1279
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3 FHD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1280
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4 FHD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1281
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5 FHD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1282
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6 FHD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1283
 
 
 
