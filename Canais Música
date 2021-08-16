@@ -15,6 +15,9 @@ https://000000
 #EXTINF:-1,[COLOR=coral][B]MTV BIGGEST POP - PLUTO TV[/B][/COLOR][COLOR=coral][/COLOR]
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
+#EXTINF:-1,[COLOR=coral][B]MTV HITS[/B][/COLOR][COLOR=coral][/COLOR]
+http://188.40.68.167/russia/mtv_hits/playlist.m3u8
+
 #EXTINF:-1,[COLOR=coral][B]BARAZA MUSIC (DANCE)[/B][/COLOR][COLOR=coral][/COLOR]
 http://panik.cast-control.eu:1935/Admin_1/Admin_1/playlist.m3u8
 
