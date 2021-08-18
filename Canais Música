@@ -11,8 +11,10 @@ http://0.0.0.0:00000
 #EXTINF:-1,[COLOR blue]BEST TOP HITS[/COLOR]
 https://000000
 
+#EXTINF:-1,[COLOR=coral][B]BOX HITS[/B][/COLOR][COLOR=coral][/COLOR]
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
-#EXTINF:-1,[COLOR=coral][B]MTV BIGGEST POP - PLUTO TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=coral][B]MTV BIGGEST POP[/B][/COLOR][COLOR=coral][/COLOR]
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]MTV HITS[/B][/COLOR][COLOR=coral][/COLOR]
