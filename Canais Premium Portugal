@@ -48,13 +48,13 @@ http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/36
 #EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/rmc2.png" group-title="SPORTS",RMC SPORTS 2
 http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 2 HD" tvg-logo="" group-title="canalsat",[FR] RMC SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 2 HD" tvg-logo="" group-title="canalsat",RMC SPORTS 2 HD
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/34
-#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 3 HD" tvg-logo="" group-title="canalsat",[FR] RMC SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 3 HD" tvg-logo="" group-title="canalsat",RMC SPORTS 3 HD
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/895
-#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 4 HD" tvg-logo="" group-title="canalsat",[FR] RMC SPORTS 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 4 HD" tvg-logo="" group-title="canalsat",RMC SPORTS 4 HD
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/123
-#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 5 HD" tvg-logo="" group-title="canalsat",[FR] RMC SPORTS 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 5 HD" tvg-logo="" group-title="canalsat",RMC SPORTS 5 HD
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/28
 
 
