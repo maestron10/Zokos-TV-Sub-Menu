@@ -42,19 +42,19 @@ https://000000
 #EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/tv-station-rmc-sport-1-1427.png" group-title="SPORTS",RMC SPORTS 1
 http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 1 HD" tvg-logo="" group-title="canalsat",[FR] RMC Sport Live 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 1 HD" tvg-logo="" group-title="canalsat",RMC SPORT 1 HD
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/36
 
 #EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/rmc2.png" group-title="SPORTS",RMC SPORTS 2
 http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 2 HD" tvg-logo="" group-title="canalsat",[FR] RMC Sport Live 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 2 HD" tvg-logo="" group-title="canalsat",[FR] RMC SPORTS 2 HD
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/34
-#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 3 HD" tvg-logo="" group-title="canalsat",[FR] RMC Sport Live 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 3 HD" tvg-logo="" group-title="canalsat",[FR] RMC SPORTS 3 HD
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/895
-#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 4 HD" tvg-logo="" group-title="canalsat",[FR] RMC Sport Live 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 4 HD" tvg-logo="" group-title="canalsat",[FR] RMC SPORTS 4 HD
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/123
-#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 5 HD" tvg-logo="" group-title="canalsat",[FR] RMC Sport Live 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC Sport Live 5 HD" tvg-logo="" group-title="canalsat",[FR] RMC SPORTS 5 HD
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/28
 
 
@@ -95,25 +95,7 @@ http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1,SPORT TV 5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095258_sporttv1.jpg",sporttv1
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://live.andaman888th.com/live/sporttv1/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095338_sporttv2.jpg",sporttv2
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://live.andaman888th.com/live/sporttv2/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095347_sporttv3.jpg",sporttv 3
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://live.andaman888th.com/live/sporttv3/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ball8k.co/ball8k/stream/img_ch/20210222095401_sporttv4.jpg",sporttv 4
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://live.andaman888th.com/live/sporttv4/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-sporttv5.jpg",sporttv 5
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://live.andaman888th.com/live/sporttv5/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=coral][B]SPORT TV+[/B][/COLOR][COLOR=coral][/COLOR]
 http://185.236.229.21:9981/play/a03c
