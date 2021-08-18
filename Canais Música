@@ -14,9 +14,6 @@ https://000000
 #EXTINF:-1,[COLOR=coral][B]BOX HITS[/B][/COLOR][COLOR=coral][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
-#EXTINF:-1,[COLOR=coral][B]BOX HITS[/B][/COLOR][COLOR=coral][/COLOR]
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/boxhits/
-
 #EXTINF:-1,[COLOR=coral][B]THE BREEZE TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
 
