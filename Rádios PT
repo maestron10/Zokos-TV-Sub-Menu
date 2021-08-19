@@ -12,73 +12,73 @@ http://0.0.0.0:000000
 #EXTINF:-1,[COLOR blue]RÁDIOS NOVAS PT[/COLOR]
 https://video-auth1.iol.pt
  
- #EXTINF:0 tvg-id="ext" group-title="Music",ANTENA 1 LUSITÂNIA (radio)
+ #EXTINF:0 tvg-id="ext" group-title="Music",ANTENA 1 LUSITÂNIA
 http://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",ANTENA 1 FADO (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",ANTENA 1 FADO
 http://streaming-live.rtp.pt/liveradio/antena1fado80a/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",ANTENA 2 JAZZIN’ (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",ANTENA 2 JAZZIN’
 http://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",ANTENA 2 ÓPERA (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",ANTENA 2 ÓPERA
 http://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO COMERCIAL ROCK (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO COMERCIAL ROCK
 http://mcrwowza7.mcr.iol.pt/rcrock/rcrock.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO COMERCIAL DANCE (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO COMERCIAL DANCE
 http://mcrwowza7.mcr.iol.pt/rcdance/rcdance.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO COMERCIAL ONE HIT WONDERS (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO COMERCIAL ONE HIT WONDERS
 http://mcrwowza7.mcr.iol.pt/rchit/rchit.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO COMERCIAL SOFT (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO COMERCIAL SOFT
 http://mcrwowza7.mcr.iol.pt/rcsoft/rcsoft.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO COMERCIAL MADE IN PORTUGAL (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO COMERCIAL MADE IN PORTUGAL 
 http://mcrwowza7.mcr.iol.pt/rctuga/rctuga.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO 80’s (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO 80’s
 http://mcrwowza7.mcr.iol.pt/m8080/m8080.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO ROCK (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO ROCK 
 http://mcrwowza7.mcr.iol.pt/m80rock/m80rock.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO 90’s (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO 90’s
 http://mcrwowza7.mcr.iol.pt/m8090/m8090.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO BALLADS (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO BALLADS 
 http://mcrwowza7.mcr.iol.pt/m80ballads/m80ballads.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO POP (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO POP
 http://mcrwowza7.mcr.iol.pt/m80pop/m80pop.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO 70’s (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO 70’s
 http://mcrwowza7.mcr.iol.pt/m8070/m8070.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO DANCE (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO DANCE
 http://mcrwowza7.mcr.iol.pt/m80dance/m80dance.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO INDIE (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO INDIE
 http://mcrwowza7.mcr.iol.pt/m80indie/m80indie.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO PORTIGAL (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO PORTIGAL 
 http://mcrwowza7.mcr.iol.pt/m80nacional/m80nacional.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO SOUL (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO SOUL
 http://mcrwowza7.mcr.iol.pt/m80soul/m80soul.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO 60’s (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO 60’s 
 http://mcrwowza7.mcr.iol.pt/m8060/m8060.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",CIDADE HIP HOP (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",CIDADE HIP HOP
 http://mcrwowza7.mcr.iol.pt/cidhiphop/cidhiphop.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",SMOOTH VOCAL JAZZ (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",SMOOTH VOCAL JAZZ
 http://mcrwowza7.mcr.iol.pt/smovocaljazz/smovocaljazz.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",SMOOTH SOUL (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",SMOOTH SOUL
 http://mcrwowza7.mcr.iol.pt/smoothsoul/smoothsoul.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",SMOOTH BLUES (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",SMOOTH BLUES
 http://mcrwowza7.mcr.iol.pt/smoblues/smoblues.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",SMOOTH BOSSA NOVA (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",SMOOTH BOSSA NOVA 
 http://mcrwowza7.mcr.iol.pt/smobossa/smobossa.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",SMOOTH JAZZ (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",SMOOTH JAZZ
 http://mcrwowza7.mcr.iol.pt/smojazz/smojazz.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",VODAFONE FM (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",VODAFONE FM 
 http://mcrwowza6.mcr.iol.pt/vodafone/smil:vodafone.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",RFM 80’s (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",RFM 80’s
 http://21313.live.streamtheworld.com/GR80SRFMAAC.aac
-#EXTINF:0 tvg-id="ext" group-title="Music",RFM ON THE ROCK (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",RFM ON THE ROCK 
 http://21313.live.streamtheworld.com/RFMONTHEROCKAAC.aac
-#EXTINF:0 tvg-id="ext" group-title="Music",RFM DANCEFLOOR (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",RFM DANCEFLOOR
 http://21273.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac
-#EXTINF:0 tvg-id="ext" group-title="Music",RFM OCEANO PACÍFICO (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",RFM OCEANO PACÍFICO
 http://21283.live.streamtheworld.com/OCEANPACIFICAAC.aac
-#EXTINF:0 tvg-id="ext" group-title="Music",MEGA HITS (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",MEGA HITS 
 http://21313.live.streamtheworld.com/MEGA_HITSAAC.aac
-#EXTINF:0 tvg-id="ext" group-title="Music",SBSR FM (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",SBSR FM
 http://centova.radios.pt/proxy/435?mp=/stream
-#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO MEO SUDOESTE (radio)
+#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO MEO SUDOESTE
 http://centova.radios.pt/proxy/495?mp=/stream
  
 #EXTINF:-1,[COLOR blue]RÁDIOS NACIONAIS[/COLOR]
