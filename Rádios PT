@@ -64,16 +64,7 @@ http://mcrwowza7.mcr.iol.pt/smoblues/smoblues.stream/playlist.m3u8
 http://mcrwowza7.mcr.iol.pt/smobossa/smobossa.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",SMOOTH JAZZ
 http://mcrwowza7.mcr.iol.pt/smojazz/smojazz.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",VODAFONE FM 
-http://mcrwowza6.mcr.iol.pt/vodafone/smil:vodafone.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",RFM 80’s
-http://21313.live.streamtheworld.com/GR80SRFMAAC.aac
-#EXTINF:0 tvg-id="ext" group-title="Music",RFM ON THE ROCK 
-http://21313.live.streamtheworld.com/RFMONTHEROCKAAC.aac
-#EXTINF:0 tvg-id="ext" group-title="Music",RFM DANCEFLOOR
-http://21273.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac
-#EXTINF:0 tvg-id="ext" group-title="Music",RFM OCEANO PACÍFICO
-http://21283.live.streamtheworld.com/OCEANPACIFICAAC.aac
+
 #EXTINF:0 tvg-id="ext" group-title="Music",MEGA HITS 
 http://21313.live.streamtheworld.com/MEGA_HITSAAC.aac
 #EXTINF:0 tvg-id="ext" group-title="Music",SBSR FM
