@@ -16,7 +16,7 @@ https://video-auth1.iol.pt
 http://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",ANTENA 1 FADO
 http://streaming-live.rtp.pt/liveradio/antena1fado80a/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",ANTENA 2 JAZZIN’
+#EXTINF:0 tvg-id="ext" group-title="Music",ANTENA 2 JAZZING
 http://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",ANTENA 2 ÓPERA
 http://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
@@ -46,7 +46,7 @@ http://mcrwowza7.mcr.iol.pt/m8070/m8070.stream/playlist.m3u8
 http://mcrwowza7.mcr.iol.pt/m80dance/m80dance.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO INDIE
 http://mcrwowza7.mcr.iol.pt/m80indie/m80indie.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO PORTIGAL 
+#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO PORTUGAL 
 http://mcrwowza7.mcr.iol.pt/m80nacional/m80nacional.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO SOUL
 http://mcrwowza7.mcr.iol.pt/m80soul/m80soul.stream/playlist.m3u8
