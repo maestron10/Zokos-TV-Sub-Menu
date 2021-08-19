@@ -3,35 +3,22 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA MINI-REVISTA: 12/08/21[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 19/08/21[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
  
 #######################################################################################################################
-#EXTINF:-1,[COLOR blue]CANAIS NOVOS[/COLOR]
+
+#EXTINF:-1,[COLOR blue]BEST TOP HITS[/COLOR]
 https://000000
+
+
 
 #EXTINF:-1,[COLOR=coral][B]BOX HITS[/B][/COLOR][COLOR=coral][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
-#EXTINF:-1,[COLOR=coral][B]THE BREEZE TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
-
-#EXTINF:-1,[COLOR=coral][B]HIGH VISION TV[/B][/COLOR][COLOR=coral][/COLOR]
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,[COLOR=coral][B]MCN6 MUSIC CHANNEL[/B][/COLOR][COLOR=coral][/COLOR]
-https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
-
-#EXTINF:-1,[COLOR=coral][B]MTV HITS[/B][/COLOR][COLOR=coral][/COLOR]
-http://188.40.68.167/russia/mtv_hits/playlist.m3u8
-
 #EXTINF:-1,[COLOR=coral][B]MTV BIGGEST POP[/B][/COLOR][COLOR=coral][/COLOR]
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-
-
-#EXTINF:-1,[COLOR blue]BEST TOP HITS[/COLOR]
-https://000000
 
 #EXTINF:-1,[COLOR=coral][B]BARAZA DANCE MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
 http://panik.cast-control.eu:1935/Admin_1/Admin_1/playlist.m3u8
@@ -303,7 +290,7 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u
 
 #############################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA 2 REVISTA: 22/07/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 2 REVISTA: 19/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
   
 #EXTM3U
  
