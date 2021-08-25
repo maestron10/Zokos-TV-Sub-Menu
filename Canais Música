@@ -132,6 +132,9 @@ http://5592f056abba8.streamlock.net:1935/citytv/citytv/chunklist.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]MUSIC LATINO[/B][/COLOR][COLOR=coral][/COLOR]
 http://broadcast.mytvtogo.net/musicalatinaparati/musicalatinaparati/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=coral][B]312 MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+http://176.126.166.43:1935/live/312serial/chunklist.m3u8
   
  ######################################################################################################
  
