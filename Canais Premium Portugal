@@ -142,13 +142,17 @@ http://185.236.229.21:9981/play/a04w
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM ADULTOS- OFFLINE[/COLOR]
 https://000000
 
+#EXTINF:-1,[COLOR=coral][B]DORCEL[/B][/COLOR][COLOR=coral][/COLOR]
+http://46.150.192.58/play/61
 
 #EXTINF:-1,[COLOR=coral][B]SEXTREME[/B][/COLOR][COLOR=coral][/COLOR]
-http://45.182.20.194:8000/play/5NF6H3EAyctLSrEz/index.m3u8
+http://45.235.37.254:8600/play/a0d8
+
+#EXTINF:-1,[COLOR=coral][B]SEXTREME[/B][/COLOR][COLOR=coral][/COLOR]
+http://45.175.63.63:4000/play/a09c/index.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]VENUS[/B][/COLOR][COLOR=coral][/COLOR]
-http://200.107.234.74:8000/play/a0ex/index.m3u8
-
+http://45.235.37.254:8600/play/a0d7
 
 
 
