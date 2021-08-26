@@ -72,53 +72,56 @@ http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3227
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/19041
 #EXTINF:0 tvg-id="TVI.pt" group-title="Channels",TVI PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3214
-#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",SIC Mulher PT
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",SIC MULHER PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/9467
-#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",SIC Caras PT
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",SIC CARAS PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/9466
-#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",SIC Radical PT
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",SIC RADICAL PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/9468
-#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",Canal Q PT
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",CANAL Q PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/9465
 #EXTINF:0 tvg-id="AMC.pt" group-title="Channels",AMC HD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/9487
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",Sporting TV HD PT
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",SPORTING TV HD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3246
 #EXTINF:0 tvg-id="axn.pt" group-title="Channels",AXN HD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3255
-#EXTINF:0 tvg-id="ext" group-title="Channels",AXN Movies HD PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN MOVIES HD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/5551
-#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",AXN White HD PT
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",AXN WHITE HD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3242
-#EXTINF:0 tvg-id="ext" group-title="Channels",Blaze PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",BLAZE PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/21524
 #EXTINF:0 tvg-id="fox.pt" group-title="Channels",FOX FHD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3232
-#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",FOX Crime HD PT
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",FOX CRIME HD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/5549
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Comedy FHD PT
-http://85.203.33.88:80/aDkDFGjENk/may6vW9514/20260
-#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",FOX Life FHD PT
-http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3233
-#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",Syfy PT
-http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3226
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",FOX Comedy PT
+
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",FOX COMEDY PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/9489
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Top PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX COMEDY FHD PT
+http://85.203.33.88:80/aDkDFGjENk/may6vW9514/20260
+
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",FOX LIFE FHD PT
+http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3233
+#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",SYFY PT
+http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3226
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Top PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/15796
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Top FHD PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Top FHD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/5545
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Edition PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Edition PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/15797
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Edition FHD PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Edition FHD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/5546
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Emotion PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Emotion PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/15798
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Emotion FHD PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Emotion FHD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/5547
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Action PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Action PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/15799
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Action FHD PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Action FHD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/5548
 #EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",Canal Hollywood HD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3307
@@ -144,17 +147,17 @@ http://85.203.33.88:80/aDkDFGjENk/may6vW9514/19590
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/19588
 #EXTINF:0 tvg-id="cazaepesca.pt" group-title="Channels",Caça e Pesca PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/5543
-#EXTINF:0 tvg-id="elevensports1.pt" group-title="Channels",Eleven Sports 1 HD PT
+#EXTINF:0 tvg-id="elevensports1.pt" group-title="Channels",ELEVEN SPORTS 1 HD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/23325
-#EXTINF:0 tvg-id="elevensports2.pt" group-title="Channels",Eleven Sports 2 HD PT
+#EXTINF:0 tvg-id="elevensports2.pt" group-title="Channels",ELEVEN SPORTS 2 HD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/23320
-#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 3 HD PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 3 HD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/23321
-#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 4 HD PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 4 HD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/23322
-#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 5 HD PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 5 HD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/23323
-#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 6 FHD PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 6 FHD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/23324
 #EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",National Geographic HD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3306
@@ -234,33 +237,33 @@ http://85.203.33.88:80/aDkDFGjENk/may6vW9514/9476
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/5537
 #EXTINF:0 tvg-id="TorosTV.pt" group-title="Channels",Toros TV PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/5555
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",Sport TV + PT
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV + PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/9499
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",Sport TV 1 PT
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/7846
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",Sport TV 1 HD PT
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 HD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3221
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",Sport TV 1 FHD PT
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 FHD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/17744
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",Sport TV 2 PT
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/7845
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",Sport TV 2 FHD PT
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 FHD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3222
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",Sport TV 3 PT
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3 PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/7844
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",Sport TV 3 FHD PT
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3 FHD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3223
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",Sport TV 4 PT
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4 PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/7843
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",Sport TV 4 FHD PT
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4 FHD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3224
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",Sport TV 5 PT
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5 PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/7842
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sport TV + FHD PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV + FHD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/19589
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",Benfica TV 1 PT
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BENFICA TV 1 PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3308
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",Benfica TV 1 HD PT
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BENFICA TV 1 HD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/5541
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",Sporting TV PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3305
