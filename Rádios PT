@@ -5,72 +5,10 @@ http://0.0.0.0:000000
  
  
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA 1 REVISTA: 23/05/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 1 REVISTA: 26/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR blue]RÁDIOS NOVAS PT[/COLOR]
-https://video-auth1.iol.pt
- 
- #EXTINF:0 tvg-id="ext" group-title="Music",ANTENA 1 LUSITÂNIA
-http://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",ANTENA 1 FADO
-http://streaming-live.rtp.pt/liveradio/antena1fado80a/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",ANTENA 2 JAZZING
-http://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",ANTENA 2 ÓPERA
-http://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO COMERCIAL ROCK
-http://mcrwowza7.mcr.iol.pt/rcrock/rcrock.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO COMERCIAL DANCE
-http://mcrwowza7.mcr.iol.pt/rcdance/rcdance.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO COMERCIAL ONE HIT WONDERS
-http://mcrwowza7.mcr.iol.pt/rchit/rchit.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO COMERCIAL SOFT
-http://mcrwowza7.mcr.iol.pt/rcsoft/rcsoft.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO COMERCIAL MADE IN PORTUGAL 
-http://mcrwowza7.mcr.iol.pt/rctuga/rctuga.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO 80’s
-http://mcrwowza7.mcr.iol.pt/m8080/m8080.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO ROCK 
-http://mcrwowza7.mcr.iol.pt/m80rock/m80rock.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO 90’s
-http://mcrwowza7.mcr.iol.pt/m8090/m8090.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO BALLADS 
-http://mcrwowza7.mcr.iol.pt/m80ballads/m80ballads.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO POP
-http://mcrwowza7.mcr.iol.pt/m80pop/m80pop.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO 70’s
-http://mcrwowza7.mcr.iol.pt/m8070/m8070.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO DANCE
-http://mcrwowza7.mcr.iol.pt/m80dance/m80dance.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO INDIE
-http://mcrwowza7.mcr.iol.pt/m80indie/m80indie.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO PORTUGAL 
-http://mcrwowza7.mcr.iol.pt/m80nacional/m80nacional.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO SOUL
-http://mcrwowza7.mcr.iol.pt/m80soul/m80soul.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",M80 RÁDIO 60’s 
-http://mcrwowza7.mcr.iol.pt/m8060/m8060.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",CIDADE HIP HOP
-http://mcrwowza7.mcr.iol.pt/cidhiphop/cidhiphop.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",SMOOTH VOCAL JAZZ
-http://mcrwowza7.mcr.iol.pt/smovocaljazz/smovocaljazz.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",SMOOTH SOUL
-http://mcrwowza7.mcr.iol.pt/smoothsoul/smoothsoul.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",SMOOTH BLUES
-http://mcrwowza7.mcr.iol.pt/smoblues/smoblues.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",SMOOTH BOSSA NOVA 
-http://mcrwowza7.mcr.iol.pt/smobossa/smobossa.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",SMOOTH JAZZ
-http://mcrwowza7.mcr.iol.pt/smojazz/smojazz.stream/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Music",MEGA HITS 
-http://21313.live.streamtheworld.com/MEGA_HITSAAC.aac
-#EXTINF:0 tvg-id="ext" group-title="Music",SBSR FM
-http://centova.radios.pt/proxy/435?mp=/stream
-#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO MEO SUDOESTE
-http://centova.radios.pt/proxy/495?mp=/stream
  
 #EXTINF:-1,[COLOR blue]RÁDIOS NACIONAIS[/COLOR]
 https://video-auth1.iol.pt
@@ -91,14 +29,31 @@ http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 #EXTINF:-0,[COLOR=coral][B]TSF MADEIRA[/B][/COLOR][COLOR=coral][/COLOR]
 http://centova.radio.com.pt:9470/;
  
+#EXTINF:-0,[COLOR=coral][B]TSF MADEIRA[/B][/COLOR][COLOR=coral][/COLOR]
+http://centova.radio.com.pt:9470/stream
+ 
 #EXTINF:-1,[COLOR=coral][B]RÁDIO COMERCIAL[/B][/COLOR][COLOR=coral][/COLOR]
 http://mcrwowza6.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]RÁDIO COMERCIAL ROCK[/B][/COLOR][COLOR=coral][/COLOR]
+http://mcrwowza7.mcr.iol.pt/rcrock/rcrock.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]RÁDIO COMERCIAL DANCE[/B][/COLOR][COLOR=coral][/COLOR]
+http://mcrwowza7.mcr.iol.pt/rcdance/rcdance.stream/playlist.m3u8
  
 #EXTINF:0 tvg-logo="" group-title="https://upload.wikimedia.org/wikipedia/pt/c/ce/Logotipo_da_R%C3%A1dio_Cidade_%28Rio_de_Janeiro%29.png",[COLOR=coral][B]CIDADE FM[/B][/COLOR][COLOR=coral][/COLOR]
 http://mcrscast.mcr.iol.pt/cidadefm
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]CIDADE FM HIP HOP[/B][/COLOR][COLOR=coral][/COLOR]
+http://mcrwowza7.mcr.iol.pt/cidhiphop/cidhiphop.stream/playlist.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]RÁDIO M80[/B][/COLOR][COLOR=coral][/COLOR]
 http://mcrwowza6.mcr.iol.pt/m80/smil:m80.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]RÁDIO M80 DANCE[/B][/COLOR][COLOR=coral][/COLOR]
+http://mcrwowza7.mcr.iol.pt/m80dance/m80dance.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]RÁDIO M80 80´S[/B][/COLOR][COLOR=coral][/COLOR]
+http://mcrwowza7.mcr.iol.pt/m8080/m8080.stream/playlist.m3u8
  
 #EXTINF:-1,[COLOR=coral][B]RFM[/B][/COLOR][COLOR=coral][/COLOR]
 http://21313.live.streamtheworld.com/RFMAAC.aac
@@ -379,111 +334,28 @@ http://centova.radios.pt:8419/stream
 #EXTINF:-0,[COLOR=coral][B]ANTENA LIVRE 89.7 FM[/B][/COLOR][COLOR=coral][/COLOR]
 http://centova.radios.pt:8571/stream
 
-################################################################################################################################################
-
-#EXTINF:-1,[COLOR=yellow][B]LISTA 2 REVISTA: 23/05/2021[/B][/COLOR][COLOR=yellow][/COLOR]
- 
-#EXTINF:-0,ANTENA NOVE 91.3 FM HORTA
-http://centova.radios.pt:8565/stream
- 
-#EXTINF:-0,ANTENA SUL ALENTEJO 95.5 FM
-http://213.239.218.99:7116/stream
- 
-#EXTINF:-0,RÁDIO AZUL 98.9 FM
-http://sado.radioazul.pt:8000/live
- 
-#EXTINF:-0,RÁDIO BARÇA 99.6 FM
-http://centova.radios.pt:8483/stream
- 
-#EXTINF:-0,RADIO BARCELOS 91.9 FM
-http://centova.radios.pt:8563/stream
- 
-#EXTINF:-0,RADIO BEIRA INTERIOR 92.9 FM
-http://centova.radios.pt:9462/stream
- 
-#EXTINF:-0,RÁDIO CAMPANÁRIO 90.6 FM VILA VIÇOSA
-http://centova.radios.pt:8425/stream
- 
-#EXTINF:-0,CANAL FM 91.0 FM
-http://centova.radios.pt:9466/stream
- 
-#EXTINF:-0,RÁDIO CARIA 102.5 FM
-http://centova.radios.pt:8521/stream
- 
-#EXTINF:-0,ESTAÇÃO DIÁRIA 96.8 FM
-http://centova.radio.com.pt:9430/stream
- 
-#EXTINF:-0,RÁDIO UNIVERSIDADE VILA REAL 104.3 FM
-http://centova.radios.pt:8405/stream
- 
-#EXTINF:-0,RÁDIO UNIVERSIDADE ALGALVE 102.7 FM 
-http://centova.radios.pt:9536/stream
- 
-#EXTINF:-0,RÁDIO UNIVERSIDADE MINHO 97.5 FM
-http://centova.radios.pt:9558/stream
- 
-#EXTINF:-0,RADIO COMERCIAL ROCK 
-http://mcrwowza7.mcr.iol.pt/rcrock/rcrock.stream/playlist.m3u8
- 
-#EXTINF:-0,RADIO COMERCIAL DANCE
-http://mcrwowza7.mcr.iol.pt/rcdance/rcdance.stream/playlist.m3u8
- 
-#EXTINF:-0,RADIO COMERCIAL ONE HIT 
-http://mcrwowza7.mcr.iol.pt/rchit/rchit.stream/playlist.m3u8
- 
-#EXTINF:-0,RADIO COMERCIAL SOFT 
-http://mcrwowza7.mcr.iol.pt/rcsoft/rcsoft.stream/playlist.m3u8
- 
-#EXTINF:-0,RADIO COMERCIAL MADE IN PORTUGAL
-http://mcrwowza7.mcr.iol.pt/rctuga/rctuga.stream/playlist.m3u8
- 
-#EXTINF:-0,RADIO M80 METAL
-http://6d9a.webradio.upx.net.br:9898/stream
- 
-#EXTINF:-0,RADIO M80
-http://mcrscast.mcr.iol.pt/m80
- 
-#EXTINF:-0,RADIO M90
-http://mcrwowza8.mcr.iol.pt/m8090/m8090.stream/chunklist.m3u8
- 
-#EXTINF:-0,NOITE FM 
-http://live.noite.pt:8080/
- 
-#EXTINF:-0,RADIO NOVA 98.9 FM
-http://centova.radios.pt:9528/stream
- 
-#EXTINF:-0,RADIO NOVA ERA 101.1 FM 
-http://centova.radios.pt:9478/stream
- 
-#EXTINF:-0,RADIO TSF 100.0 FM MADEIRA
-http://centova.radio.com.pt:9470/stream
- 
-#EXTINF:-0,RADIO TSF NACIONAL 
-http://directo.tsf.pt:8181/tsfdirecto.aac
- 
-#EXTINF:-0,RADIO TERRA NOVA 105.0 FM ÍLHAVO
-http://centova.radios.pt:9404/stream
- 
-#EXTINF:-0,RADIO CLUBE ANGRA 94.7 FM
+#EXTINF:-0,[COLOR=coral][B]RADIO CLUBE ANGRA 94.7 FM[/B][/COLOR][COLOR=coral][/COLOR]
 http://213.239.218.99:7130
  
-#EXTINF:-0,RADIO CLUBE ASAS DO ATLÂNTICO 103.2 FM
+#EXTINF:-0,[COLOR=coral][B]RADIO CLUBE ASAS DO ATLÂNTICO 103.2 FM[/B][/COLOR][COLOR=coral][/COLOR]
 http://centova.radios.pt:9538/stream
  
-#EXTINF:-0,RADIO CLUBE DA FEIRA 104.7 FM
+#EXTINF:-0,[COLOR=coral][B]RADIO CLUBE DA FEIRA 104.7 FM[/B][/COLOR][COLOR=coral][/COLOR]
 http://centova.radios.pt:9544/stream
- 
-#EXTINF:-0,RADIO CLUBE DE GRÂNDOLA 91.3 FM
+  
+#EXTINF:-0,[COLOR=coral][B]RADIO CLUBE DE GRÂNDOLA 91.3 FM[/B][/COLOR][COLOR=coral][/COLOR]
 http://centova.radios.pt:9474/stream
  
-#EXTINF:-0,RADIO CLUBE LAMEGO 97.0 FM
+#EXTINF:-0,[COLOR=coral][B]RADIO CLUBE LAMEGO 97.0 FM[/B][/COLOR][COLOR=coral][/COLOR]
 http://46.4.33.73:9300/
  
-#EXTINF:-0,RADIO CLUBE MONSANTO 107.8 FM
+#EXTINF:-0,[COLOR=coral][B]RADIO CLUBE MONSANTO 107.8 FM[/B][/COLOR][COLOR=coral][/COLOR]
 http://centova.radios.pt:9424/stream
  
-#EXTINF:-0,RADIO CLUBE DE PENAFIEL 91.8 FM
+#EXTINF:-0,[COLOR=coral][B]RADIO CLUBE DE PENAFIEL 91.8 FM[/B][/COLOR][COLOR=coral][/COLOR]
 http://centova.radios.pt:9476/stream
  
-#EXTINF:-0,RADIO CLUBE MADEIRA 106.8 FM 
+#EXTINF:-0,[COLOR=coral][B]RADIO CLUBE MADEIRA 106.8 FM[/B][/COLOR][COLOR=coral][/COLOR]
 http://radiosmadeira.net:8020/stream
+
+
