@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 29/07/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 26/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ##########################################################################################################################
  
@@ -53,9 +53,6 @@ https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]RUGBY WORLD TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
- 
-#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=coral][B]GOLF NETWORK[/B][/COLOR][COLOR=coral][/COLOR]
-http://203.162.235.41:16924
  
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=coral][B]GRVTY[/B][/COLOR][COLOR=coral][/COLOR]
 https://outsidetv-grvty-localnow.amagi.tv/localnow.m3u8
@@ -338,9 +335,6 @@ https://000000
 #EXTINF:-1,[COLOR=coral][B]DOVE CHANNEL[/B][/COLOR][COLOR=coral][/COLOR]
 https://dovenow-localnow.cinedigm.com/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]CONTV[/B][/COLOR][COLOR=coral][/COLOR]
-https://contv.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1,[COLOR=coral][B]DUST TV[/B][/COLOR][COLOR=coral][/COLOR]
 https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
  
@@ -358,9 +352,6 @@ https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]HOLLYWOOD CLASSICS[/B][/COLOR][COLOR=coral][/COLOR]
 https://vitor-hollywoodclassics-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,[COLOR=coral][B]LONE STAR[/B][/COLOR][COLOR=coral][/COLOR]
-https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8
 
 #EXTINF:-1,[COLOR=coral][B]CINE LIFE[/B][/COLOR][COLOR=coral][/COLOR]
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
