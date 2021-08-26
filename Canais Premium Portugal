@@ -8,18 +8,6 @@ http://0.0.0.0:0000
 #EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 26/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
-https://iptvcat.com/portugal/
-
-ÚLTIMAS FONTES VÁLIDAS: 
-*** FONTE 1 - https://github.com/sasuki2/IPTV/blob/main/NEdaLJB.m3u
-*** FONTE 2 - https://raw.githubusercontent.com/jedi-sambora/playlist/main/iptvtree.net.m3u
-*** FONTE 3 - https://pastebin.com/jzmG9tec
-*** FONTE 4 - https://github.com/thanh51/repository.thanh51/blob/master/TV.m3u
-*** FONTE 5 - ÁREA DESPORTO MAGELLAN - https://pastebin.com/raw/kdUL7Zap
-
-LINKS DE CAPTURA DE CANAIS STREAMING LIVE
-*** FONTE 1 - https://m3u-premium.blogspot.com/2021/03/portugal-iptv-channels-28032021.html
-*** FONTE 2 - https://sportshub.fan
 
  [COLOR=coral][B]  [/B][/COLOR][COLOR=coral][/COLOR]
  
@@ -32,7 +20,7 @@ https://000000
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",NÃO DISPONÍVEL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=coral][/COLOR]
 http://0000000000
 
 #EXTINF:-1,[COLOR blue]CANAIS INTER. ONDE DÁ FUTEBOL PT[/COLOR]
