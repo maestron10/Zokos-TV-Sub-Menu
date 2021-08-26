@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 30/07/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 26/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fontes de Informação: 
 * https://gist.github.com/homemdasneves/cf622bc2feef035ae532c8397f2c054f  
 * http://www.cxtv.com.br/tv/paises/portugal
@@ -107,29 +107,29 @@ http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3233
 #EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",SYFY PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3226
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Top PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE TOP PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/15796
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Top FHD PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE TOP FHD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/5545
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Edition PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EDITION PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/15797
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Edition FHD PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EDITION FHD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/5546
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Emotion PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EMOTION PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/15798
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Emotion FHD PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EMOTION FHD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/5547
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Action PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE ACTION PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/15799
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE Action FHD PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE ACTION FHD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/5548
-#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",Canal Hollywood HD PT
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",CANAL HOLLYWOOD HD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3307
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX Movies PT
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX MOVIES PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/5550
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fuel TV HD PT
+#EXTINF:0 tvg-id="ext" group-title="Channels",FUEL TV HD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/20255
-#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",Cine Mundo PT
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",CINEM MUNDO PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/5544
 #EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",E! PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3257
@@ -273,7 +273,7 @@ http://85.203.33.88:80/aDkDFGjENk/may6vW9514/5540
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/9485
 #EXTINF:0 tvg-id="pfc.pt" group-title="Channels",PFC PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/3248
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",Sport TV 5 FHD PT
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5 FHD PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/16297
 #EXTINF:0 tvg-id="ext" group-title="Channels",Caçavision PT
 http://85.203.33.88:80/aDkDFGjENk/may6vW9514/19627
