@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ###################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 29/07/2021 - 7 CAM OFFLINE[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 26/08/2021 - 9 CAM OFFLINE[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ####################################################################
  
@@ -92,7 +92,7 @@ http://video-auth1.iol.pt:1935/beachcam/parcos/playlist.m3u8
 #EXTINF:0,[COLOR=coral][B]PRAIA CAXIAS[/B][/COLOR][COLOR=coral][/COLOR]
 http://video-auth1.iol.pt:1935/beachcam/caxias/playlist.m3u8
  
-OFFLINE: 0
+OFFLINE: 1
  
 #EXTINF:-1,[COLOR blue]PRAIAS DE MAFRA[/COLOR]
 https://video-auth1.iol.pt
@@ -114,7 +114,7 @@ https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]PRAIA FOZ DO LIZARDO[/B][/COLOR][COLOR=coral][/COLOR]
 https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8
  
-OFFLINE: 1
+OFFLINE: 0
  
 #EXTINF:-1,[COLOR blue]PRAIAS DE SINTRA[/COLOR]
 https://video-auth1.iol.pt
@@ -124,7 +124,7 @@ https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]PRAIA GRANDE SUL[/B][/COLOR][COLOR=coral][/COLOR]
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
  
-OFFLINE: 0
+OFFLINE: 1
  
 #EXTINF:-1,[COLOR blue]PRAIAS DE CASCAIS[/COLOR]
 https://video-auth1.iol.pt
@@ -264,4 +264,4 @@ https://video-auth1.iol.pt/beachcam/caisdosodre/playlist.m3u8
 #EXTINF:-1,[COLOR=coral][B]LISBOA - BELEM[/B][/COLOR][COLOR=coral][/COLOR]
 https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
  
-OFFLINE: 1
+OFFLINE: 2
