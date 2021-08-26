@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA 1 REVISTA: 30/07/21[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 26/08/21[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #########################################################################################################################################################################
  
@@ -19,20 +19,17 @@ https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",ENKI BENKI
 http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",GEM JUNIOR
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_960x540_2000k.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",GEM KIDS
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist_960x540_2000k.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids",GRAVITY FOULS
 https://autopilot.catcast.tv/content/38105/index.m3u8
 #EXTINF:0 tvg-id="Gulli.fr" group-title="Kids",GULLI 
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:0 tvg-id="jimjam" group-title="Kids",JIMJAM
 http://188.40.68.167/russia/jimjam/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",KINDER TV
-http://autopilot.catcast.tv/content/38144/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids",KURIAKOS KIDS
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+
 
 #EXTINF:0 tvg-id="lale" group-title="Kids",LALE
 http://stream.atr.ua/lale//live/index.m3u8
@@ -52,8 +49,6 @@ http://188.40.68.167/russia/tiji/playlist.m3u8
 https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Kids",TRT COCUK
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",TV JOJKO
-https://nn.geo.joj.sk/live/rik-index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",AKARAM KIDZ
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",AMEDA
@@ -62,14 +57,15 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuameba/CDN/playlist.m3u8
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",BRAT TV (1080p)
 https://brat-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",CARTNOON NETWORK VIETNAM 
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="Kids",COUNTRY BOY KIDS VIDEO 
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",CUTE ZONE 
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",EBS KIDS (360p)
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Kids",ENKI BENKI
 http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",FGTV 
@@ -82,10 +78,6 @@ https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 http://188.40.68.167/russia/gulli_girl/playlist.m3u8
 #EXTINF:0 tvg-id="jimjam" group-title="Kids",JIM JAM
 http://188.40.68.167/russia/jimjam/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",KINDER TV TV
-http://autopilot.catcast.tv/content/38144/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",KPBS-DT4
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kpbs-dt4.m3u8
 
 
 #EXTINF:0 tvg-id="lale" group-title="Kids",LALE
