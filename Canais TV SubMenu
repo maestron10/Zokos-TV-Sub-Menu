@@ -59,14 +59,32 @@
  
 <channels>
 <channel>
-<name>[COLOR=gold][B]CANAIS PT 1[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]CANAIS ZOKOS PT[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601405.us.archive.org/33/items/canais-pt/Canais%20PT.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20Portugal</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
 </channel>
 </channel>
+
+
+
+<channels>
+<channel>
+<name>[COLOR=gold][B]CANAIS PT[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
+<externallink>http://milhano.pt/ftp-milhano/aladotv/Paises/Portugal/3.Portugal.Leia.xml</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channel>
  
+ 
+ 
+ 
+ http://milhano.pt/ftp-milhano/aladotv/Paises/Portugal/3.Portugal.Leia.xml
+
+
 
  
  
