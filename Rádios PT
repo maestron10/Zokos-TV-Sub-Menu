@@ -10,7 +10,7 @@ http://0.0.0.0:000000
 #EXTM3U
  
  
-#EXTINF:-1,[COLOR blue]RÁDIOS NACIONAIS[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS NACIONAIS[/B][/COLOR][COLOR=blue][/COLOR]
 https://video-auth1.iol.pt
  
  
@@ -68,7 +68,7 @@ http://195.23.102.207/vodafone
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR blue]RÁDIOS ONLINE E/OU LOCAIS[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS ONLINE E/OU LOCAIS[/B][/COLOR][COLOR=blue][/COLOR]
 https://video-auth1.iol.pt
  
 #EXTINF:-1,[COLOR=white][B]RÁDIO ZIG ZAG[/B][/COLOR][COLOR=white][/COLOR]
