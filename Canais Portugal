@@ -7,15 +7,23 @@ http://0.0.0.0:0000
  
 #EXTM3U
 
-#EXTINF:-1,[COLOR=blue][B]LISTA 1[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]LISTA ATUALIZADA: 28/08/2021[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
+#EXTINF:0 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1[/B][/COLOR][COLOR=white][/COLOR]
+http://162.212.178.69:41042/bysid/608
 
 #EXTINF:-1,[COLOR=white][B]RTP INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://210.210.155.35/qwr9ew/s/s38/index.m3u8
 
+#EXTINF:0 tvg-id="RTPi.pt" group-title="General",#EXTINF:-1,[COLOR=white][B]RTP INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",[COLOR=white][B]SIC[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sic/sic540p.m3u8
+
+#EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",[COLOR=white][B]SIC SD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sic/sic.m3u8
@@ -25,6 +33,12 @@ http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",[COLOR=white][B]SIC NOTÍCIAS SD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]SVT NEWS[/B][/COLOR][COLOR=white][/COLOR]
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
+
+#EXTINF:0 tvg-id="TVI24.pt" group-title="News",[COLOR=white][B]TVI 24[/B][/COLOR][COLOR=white][/COLOR]
+https://iptv-all.lanesh4d0w.codes/portugal/tvi24
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="PORTUGAL",[COLOR=white][B]CANAL MACAU[/B][/COLOR][COLOR=white][/COLOR]
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
