@@ -8,8 +8,7 @@ http://0.0.0.0:00000
 #EXTM3U
  
 #######################################################################################################################
-
-#EXTINF:-1,[COLOR blue]BEST TOP HITS[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]BEST TOP HITS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 
@@ -136,9 +135,9 @@ http://broadcast.mytvtogo.net/musicalatinaparati/musicalatinaparati/chunklist.m3
 #EXTINF:-1,[COLOR=white][B]312 MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://176.126.166.43:1935/live/312serial/chunklist.m3u8
   
- ######################################################################################################
+######################################################################################################
  
-#EXTINF:-1,[COLOR blue]MÚSICA ELECTRÓNICA[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]MÚSICA ELECTRÓNICA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 #EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF DANCE[/B][/COLOR][COLOR=white][/COLOR]
@@ -176,7 +175,7 @@ http://panik.cast-control.eu:1935/Admin_1/Admin_1/playlist.m3u8
 http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
 
 ######################################################################################
-#EXTINF:-1,[COLOR blue]MÚSICA ANTIGA[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]MÚSICA ANTIGA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 #EXTINF:-1,[COLOR=white][B]THE RETRO CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
@@ -214,7 +213,7 @@ https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
  
   
 ######################################################################################
-#EXTINF:-1,[COLOR blue]MÚSICA LATINA[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]MÚSICA LATINA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80111_Alegria_TV.png",[COLOR=white][B]ALEGRIA TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -230,7 +229,7 @@ http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 
 ######################################################################################
-#EXTINF:-1,[COLOR blue]OUTROS GÉNEROS[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]OUTROS GÉNEROS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BARAZA TV GREEK HITS[/B][/COLOR][COLOR=white][/COLOR]
@@ -296,7 +295,7 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u
 
 #############################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA 2 REVISTA: 19/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]LISTA 2 REVISTA: 19/08/2021[/B][/COLOR][COLOR=blue][/COLOR]
   
 #EXTM3U
  
