@@ -137,7 +137,7 @@ http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="http://kuriakos-cine.com/wp-content/uploads/2017/07/cropped-512x512_cine_v1-270x270.png" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS CINE[/B][/COLOR][COLOR=white][/COLOR]
 http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="PORTUGAL",[COLOR=cowhiteral][B]KURIAKOS KIDS[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS KIDS[/B][/COLOR][COLOR=white][/COLOR]
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q6K4S0N.png" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS MUSIC[/B][/COLOR][COLOR=white][/COLOR]
