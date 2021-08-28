@@ -20,7 +20,7 @@ https://000000
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://0000000000
 
 #EXTINF:-1,[COLOR blue]CANAIS INTER. ONDE DÁ FUTEBOL PT[/COLOR]
@@ -28,10 +28,10 @@ https://000000
 
 
 
-#EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/tv-station-rmc-sport-1-1427.png" group-title="SPORTS",[COLOR=coral][B]RMC SPORTS 1[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/tv-station-rmc-sport-1-1427.png" group-title="SPORTS",[COLOR=white][B]RMC SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/rmc2.png" group-title="SPORTS",[COLOR=coral][B]RMC SPORTS 2[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/rmc2.png" group-title="SPORTS",[COLOR=white][B]RMC SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
 
 
@@ -41,7 +41,7 @@ http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
 #EXTINF:-1,[COLOR blue]BENFICA TV[/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=coral][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://0000000000000000
 
 
@@ -57,38 +57,38 @@ FONTES DE INFORMAÇÃO
 * - https://onlinetvhd.net/sport-tv-1-portugal/#opcao2
 
 
-#EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=coral][B]SPORT TV+[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]SPORT TV+[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a03c
 
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",[COLOR=coral][B]SPORT 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",[COLOR=white][B]SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]SPORT 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]SPORT 2 HD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/12/sport-tv2.png" group-title="Sport Channels",[COLOR=coral][B]SPORT 2 FHD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/12/sport-tv2.png" group-title="Sport Channels",[COLOR=white][B]SPORT 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1926
 
-#EXTINF:-1,[COLOR=coral][B]SPORT 3 HD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SPORT 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv3.png" group-title="Sport Channels",[COLOR=coral][B]SPORT 3 FHD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv3.png" group-title="Sport Channels",[COLOR=white][B]SPORT 3 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1927
 
-#EXTINF:-1,[COLOR=coral][B]SPORT 4 HD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SPORT 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv4.png" group-title="Sport Channels",[COLOR=coral][B]SPORT 4 FHD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv4.png" group-title="Sport Channels",[COLOR=white][B]SPORT 4 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1928
 
 
-#EXTINF:-1,[COLOR=coral][B]SPORT 5 HD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SPORT 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",[COLOR=coral][B]SPORT 5 HD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",[COLOR=white][B]SPORT 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.tvtap.live:8081/live/pt-sporttv5.stream/playlist.m3u8
 
 
@@ -102,10 +102,10 @@ http://stream.tvtap.live:8081/live/pt-sporttv5.stream/playlist.m3u8
 https://000000
 
 
-#EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",[COLOR=coral][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a05x
 
-#EXTINF:0 tvg-id="elevensports5.pt" group-title="Sports",[COLOR=coral][B]ELEVEN SPORTS 5 FHD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="elevensports5.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 5 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a05y
 
 
@@ -115,19 +115,19 @@ http://185.236.229.21:9981/play/a05y
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM CINEMA PT[/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=coral][B]NOS STUDIOS HD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a054
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=coral][B]TVCINE ACTION[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]TVCINE ACTION[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a04n
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=coral][B]TVCINE EDITION[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]TVCINE EDITION[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a061
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=coral][B]TVCINE EMOTION[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]TVCINE EMOTION[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a05z
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=coral][B]TVCINE TOP[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]TVCINE TOP[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a04w
 
 
@@ -142,16 +142,16 @@ http://185.236.229.21:9981/play/a04w
 #EXTINF:-1,[COLOR blue]CANAIS PREMIUM ADULTOS[/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=coral][B]DORCEL[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]DORCEL[/B][/COLOR][COLOR=white][/COLOR]
 http://46.150.192.58/play/61
 
-#EXTINF:-1,[COLOR=coral][B]SEXTREME[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SEXTREME[/B][/COLOR][COLOR=white][/COLOR]
 http://45.235.37.254:8600/play/a0d8
 
-#EXTINF:-1,[COLOR=coral][B]SEXTREME[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SEXTREME[/B][/COLOR][COLOR=white][/COLOR]
 http://45.175.63.63:4000/play/a09c/index.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]VENUS[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]VENUS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.235.37.254:8600/play/a0d7
 
 
