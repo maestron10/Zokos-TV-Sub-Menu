@@ -14,94 +14,94 @@ https://000000
 
 
 
-#EXTINF:-1,[COLOR=coral][B]BOX HITS[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]BOX HITS[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
-#EXTINF:-1,[COLOR=coral][B]MTV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]MTV[/B][/COLOR][COLOR=white][/COLOR]
 http://45.179.140.242:8000/play/a0h3
 
-#EXTINF:-1,[COLOR=coral][B]MTV BIGGEST POP[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]MTV BIGGEST POP[/B][/COLOR][COLOR=white][/COLOR]
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]BARAZA DANCE MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]BARAZA DANCE MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://panik.cast-control.eu:1935/Admin_1/Admin_1/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]TRACE URBAN AU[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]TRACE URBAN AU[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]KRONEHITS HD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]KRONEHITS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]POWERHD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWERHD[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]TRACE HITS UK[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]TRACE HITS UK[/B][/COLOR][COLOR=white][/COLOR]
 http://oysteriptv.club:1986/live/Aaron/12345/238.ts
 
-#EXTINF:-1,[COLOR=coral][B]MOOZ DANCE[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]MOOZ DANCE[/B][/COLOR][COLOR=white][/COLOR]
 http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
 
-#EXTINF:-1,[COLOR=coral][B]MOOZ HITS[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]MOOZ HITS[/B][/COLOR][COLOR=white][/COLOR]
 http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozhits
 
-#EXTINF:-1,[COLOR=coral][B]KISS KISS TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]KISS KISS TV[/B][/COLOR][COLOR=white][/COLOR]
 http://58f12ffd2447a.streamlock.net:1935/KKMulti/livestream/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]POWER TV HD (ARG)[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]POWER TV HD (ARG)[/B][/COLOR][COLOR=white][/COLOR]
 https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]HIT TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]HIT TV[/B][/COLOR][COLOR=white][/COLOR]
 http://rosshow.gcdn.co/streams/1410_287/1080n/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=coral][B]FIRST 1 HD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=white][B]FIRST 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://rtmp.one.by:1300
 
-#EXTINF:0,[COLOR=coral][B]1MUSIC TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0,[COLOR=white][B]1MUSIC TV[/B][/COLOR][COLOR=white][/COLOR]
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]M20 TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]M20 TV[/B][/COLOR][COLOR=white][/COLOR]
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]XTRA HITS TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]XTRA HITS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hit Music Channel (HU)" tvg-logo="https://i.imgur.com/n6zkLpb.png" group-title="MUSIC",[COLOR=coral][B]HIT MUSIC CHANNEL[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Hit Music Channel (HU)" tvg-logo="https://i.imgur.com/n6zkLpb.png" group-title="MUSIC",[COLOR=white][B]HIT MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://hitmusic.hu/hitmusic.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="XITE (BE)" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="MUSIC",[COLOR=coral][B]XITE[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="XITE (BE)" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="MUSIC",[COLOR=white][B]XITE[/B][/COLOR][COLOR=white][/COLOR]
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]BARAZA TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BARAZA TV[/B][/COLOR][COLOR=white][/COLOR]
 https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]MUSIC TOP[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]MUSIC TOP[/B][/COLOR][COLOR=white][/COLOR]
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
  
-#EXTINF:0,[COLOR=coral][B]1MUSIC CHANNEL[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0,[COLOR=white][B]1MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]V2BEAT TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]V2BEAT TV[/B][/COLOR][COLOR=white][/COLOR]
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]NRG 91[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]NRG 91[/B][/COLOR][COLOR=white][/COLOR]
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]NRG 91[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NRG 91[/B][/COLOR][COLOR=white][/COLOR]
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
   
-#EXTINF:-1,[COLOR=coral][B]COMPANY TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]COMPANY TV[/B][/COLOR][COLOR=white][/COLOR]
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uCQNwdW.jpg" group-title="MUSIK",[COLOR=coral][B]RADIO NUMBER ONE TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCQNwdW.jpg" group-title="MUSIK",[COLOR=white][B]RADIO NUMBER ONE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="GO-RTV (NL)" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="NETHERLANDS;MUSIK",[COLOR=coral][B]GO TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="GO-RTV (NL)" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="NETHERLANDS;MUSIK",[COLOR=white][B]GO TV[/B][/COLOR][COLOR=white][/COLOR]
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
  
-#EXTINF:-1 tvg-id="BritAsiaTV.uk" tvg-name="Brit Asia TV" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",[COLOR=coral][B]BRIT ASIA TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-id="BritAsiaTV.uk" tvg-name="Brit Asia TV" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",[COLOR=white][B]BRIT ASIA TV[/B][/COLOR][COLOR=white][/COLOR]
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]QELLO CONCERTS LIVE[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]QELLO CONCERTS LIVE[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/VevoPop_190x190.png?raw=true",[COLOR=coral][B]VEVO[/B][/COLOR][COLOR=coral][/COLOR]
@@ -113,27 +113,27 @@ https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/Vevo_Holiday_190X190.png?raw=true",[COLOR=coral][B]VEVO HOLIDAY[/B][/COLOR][COLOR=coral][/COLOR]
 https://5dcc69bb1621dc5de50b1db7-s-1.ssai.zype.com/5dcc69bb1621dc5de50b1db7-s-1/manifest.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]POWERTURK HD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]POWERTURK HD[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]RADIO MAXIMA 94.9 FM[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO MAXIMA 94.9 FM[/B][/COLOR][COLOR=white][/COLOR]
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]RADIO MONTECARLO[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO MONTECARLO[/B][/COLOR][COLOR=white][/COLOR]
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(BB)/index.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]CMC USA MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]CMC USA MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]CADENA ELITE ES[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]CADENA ELITE ES[/B][/COLOR][COLOR=white][/COLOR]
 http://cloudvideo.servers10.com:8080/8004/index.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]CITY MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]CITY MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://5592f056abba8.streamlock.net:1935/citytv/citytv/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]MUSIC LATINO[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]MUSIC LATINO[/B][/COLOR][COLOR=white][/COLOR]
 http://broadcast.mytvtogo.net/musicalatinaparati/musicalatinaparati/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]312 MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]312 MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://176.126.166.43:1935/live/312serial/chunklist.m3u8
   
  ######################################################################################################
