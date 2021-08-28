@@ -73,7 +73,7 @@ https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
 https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
  
 ##########################################################################################################################
-#EXTINF:-1,[COLOR blue]CANAIS DE MÚSICA[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]CANAIS DE MÚSICA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
  
 #EXTINF:-1,[COLOR=white][B]CARINA TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -128,7 +128,7 @@ https://56b50ada2d659.streamlock.net/LoveFM/livestream/chunklist_w541521754.m3u8
 
  
 ##########################################################################################################################
-#EXTINF:-1,[COLOR blue]CANAIS KURIAKOS TV[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]CANAIS KURIAKOS TV[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
  
 #EXTINF:-1,[COLOR=white][B]KURIAKOS TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -144,7 +144,7 @@ http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
 http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8
  
 ##########################################################################################################################
-#EXTINF:-1,[COLOR blue]CANAIS MODA E TEMPO[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]CANAIS MODA E TEMPO[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
  
  
@@ -176,7 +176,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
  
 ##########################################################################################################################
-#EXTINF:-1,[COLOR blue]CANAIS PRAIA E NAUTICOS[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]CANAIS PRAIA E NAUTICOS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
  
  
@@ -212,7 +212,7 @@ https://5b0f5374bdf0c.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
  
  
 ##########################################################################################################################
-#EXTINF:-1,[COLOR blue]CANAIS EXPRESSÃO PT[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]CANAIS EXPRESSÃO PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
  
 #EXTINF:-1,[COLOR=white][B]MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -235,7 +235,7 @@ https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1129240952.m3u8
  
  
 ##########################################################################################################################
-#EXTINF:-1,[COLOR blue]CARROS E MOTOS[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]CARROS E MOTOS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 
@@ -248,8 +248,8 @@ https://bozztv.com/teleyupp/teleup-carstv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CHOPPERTOWN[/B][/COLOR][COLOR=white][/COLOR]
 https://oneworlddigital-choppertown-1.vizio.wurl.com/manifest/playlist.m3u8
 
-
-#EXTINF:-1,[COLOR blue]OUTROS CANAIS[/COLOR]
+##########################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]OUTROS CANAIS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 #EXTINF:-1,[COLOR=white][B]ADULT SWIM TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -329,7 +329,7 @@ https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m
  
  
 ##########################################################################################################################
-#EXTINF:-1,[COLOR blue]CANAIS DE CINEMA[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]CANAIS DE CINEMA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 #EXTINF:-1,[COLOR=white][B]DOVE CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
@@ -357,7 +357,7 @@ https://vitor-hollywoodclassics-1.plex.wurl.com/manifest/playlist.m3u8
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
  
 ##########################################################################################################################
-#EXTINF:-1,[COLOR blue]CANAIS DE NOTÍCIAS[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]CANAIS DE NOTICIAS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 
