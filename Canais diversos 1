@@ -361,40 +361,40 @@ https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 https://000000
 
 
-#EXTINF:-1,[COLOR=coral][B]CNN INTERNACIONAL[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]CNN INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]RTVE ES 24 HORAS[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RTVE ES 24 HORAS[/B][/COLOR][COLOR=white][/COLOR]
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]AFRICA TV 1[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]AFRICA TV 1[/B][/COLOR][COLOR=white][/COLOR]
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]AFRICA NEWS[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AFRICA NEWS[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]EURONEWS PT[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURONEWS PT[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
  
- #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]EURONEWS BR[/B][/COLOR][COLOR=coral][/COLOR]
+ #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURONEWS BR[/B][/COLOR][COLOR=white][/COLOR]
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8 
  
-#EXTINF:-1,[COLOR=coral][B]SKY NEWS[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SKY NEWS[/B][/COLOR][COLOR=white][/COLOR]
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
  
-#EXTINF:-1,[COLOR=coral][B]FRANCE 24 ENGLISH[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]FRANCE 24 ENGLISH[/B][/COLOR][COLOR=white][/COLOR]
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]RT UK[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RT UK[/B][/COLOR][COLOR=white][/COLOR]
 https://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
  
-#EXTINF:-1,[COLOR=coral][B]AL JAZEERA ENGLISH[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]AL JAZEERA ENGLISH[/B][/COLOR][COLOR=white][/COLOR]
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]3 NEWS NOW (KMTV-TV)[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]3 NEWS NOW (KMTV-TV)[/B][/COLOR][COLOR=white][/COLOR]
 https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]BLOOMBERG QUICKTAKE PT[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]BLOOMBERG QUICKTAKE PT[/B][/COLOR][COLOR=white][/COLOR]
 https://bloomberg-quicktake-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 
