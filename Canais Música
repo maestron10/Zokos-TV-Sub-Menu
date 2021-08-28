@@ -179,37 +179,37 @@ http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
 #EXTINF:-1,[COLOR blue]MÚSICA ANTIGA[/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=coral][B]THE RETRO CHANNEL[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]THE RETRO CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w223843448.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]POWERTV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]POWERTV[/B][/COLOR][COLOR=white][/COLOR]
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w1139689967.m3u8
  
-#EXTINF:0 type="stream" channelId="-1" group="Музыкальные",[COLOR=coral][B]RETRO TV 1 SD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 type="stream" channelId="-1" group="Музыкальные",[COLOR=white][B]RETRO TV 1 SD[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]RETRO TV PLUS 2 SD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RETRO TV PLUS 2 SD[/B][/COLOR][COLOR=white][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w2107081768.m3u8
 
-#EXTINF:-1 tvg-name="Retro Plus 2 HD" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/i0rZsgG.png",[COLOR=coral][B]RETRO TV PLUS 3[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-name="Retro Plus 2 HD" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/i0rZsgG.png",[COLOR=white][B]RETRO TV PLUS 3[/B][/COLOR][COLOR=white][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]PORTALFOXMIX[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]PORTALFOXMIX[/B][/COLOR][COLOR=white][/COLOR]
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]REWIND TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]REWIND TV[/B][/COLOR][COLOR=white][/COLOR]
 https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w590134734.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=coral][B]VINTAGE MUSIC TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]VINTAGE MUSIC TV[/B][/COLOR][COLOR=white][/COLOR]
 https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]NOW 70'S[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]NOW 70'S[/B][/COLOR][COLOR=white][/COLOR]
 https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]NOW 80'S[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]NOW 80'S[/B][/COLOR][COLOR=white][/COLOR]
 https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]NOW 90'S[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]NOW 90'S[/B][/COLOR][COLOR=white][/COLOR]
 https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
  
   
@@ -217,80 +217,80 @@ https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR blue]MÚSICA LATINA[/COLOR]
 https://000000
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80111_Alegria_TV.png",[COLOR=coral][B]ALEGRIA TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80111_Alegria_TV.png",[COLOR=white][B]ALEGRIA TV[/B][/COLOR][COLOR=white][/COLOR]
 https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]TELERITMO[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]TELERITMO[/B][/COLOR][COLOR=white][/COLOR]
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
  
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=coral][B]HITS 360 HD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]HITS 360 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-language="French" tvg-logo="https://i.imgur.com/mvgRAZw.jpg" tvg-country="CM" group-title="Music",[COLOR=coral][B]PLAY TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-language="French" tvg-logo="https://i.imgur.com/mvgRAZw.jpg" tvg-country="CM" group-title="Music",[COLOR=white][B]PLAY TV[/B][/COLOR][COLOR=white][/COLOR]
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 
 ######################################################################################
 #EXTINF:-1,[COLOR blue]OUTROS GÉNEROS[/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=coral][B]BARAZA TV GREEK HITS[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BARAZA TV GREEK HITS[/B][/COLOR][COLOR=white][/COLOR]
 https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/6Yr0Axp.png",[COLOR=coral][B]CHOISE TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/6Yr0Axp.png",[COLOR=white][B]CHOISE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://vod.streams.ovh:3528/stream/play.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]SEXY KPOP TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SEXY KPOP TV[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w330920962.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="USA",[COLOR=coral][B]30A MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="USA",[COLOR=white][B]30A MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="MUSIC",[COLOR=coral][B]RELOAD HD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="MUSIC",[COLOR=white][B]RELOAD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="MUSIC",[COLOR=coral][B]UTV MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="MUSIC",[COLOR=white][B]UTV MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://81.196.0.126/utvedge/utvlivehls/index.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]FRESH TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]FRESH TV[/B][/COLOR][COLOR=white][/COLOR]
 https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
  
-#EXTINF:0 type="stream" channelId="-1" group="Музыкальные",[COLOR=coral][B]HIT MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 type="stream" channelId="-1" group="Музыкальные",[COLOR=white][B]HIT MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://hitmusic.hu/hitmusic.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]DEEJAY TV SD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]DEEJAY TV SD[/B][/COLOR][COLOR=white][/COLOR]
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6973c1242bc777c5bfd3ee19bc81f3a4.png" group-title="MUSIC",[COLOR=coral][B]TV 538[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6973c1242bc777c5bfd3ee19bc81f3a4.png" group-title="MUSIC",[COLOR=white][B]TV 538[/B][/COLOR][COLOR=white][/COLOR]
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]Q MUSIC[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]Q MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
  
-#EXTINF:0,[COLOR=coral][B]OCKO[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0,[COLOR=white][B]OCKO[/B][/COLOR][COLOR=white][/COLOR]
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunk.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]OCKO STAR TV SD[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]OCKO STAR TV SD[/B][/COLOR][COLOR=white][/COLOR]
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
  
-#EXTINF:0,[COLOR=coral][B]OCKO EXPRES[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0,[COLOR=white][B]OCKO EXPRES[/B][/COLOR][COLOR=white][/COLOR]
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/chunk.m3u8
 
-#EXTINF:-1,[COLOR=coral][B]M2 TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]M2 TV[/B][/COLOR][COLOR=white][/COLOR]
 http://live.m2.tv/hls3/stream.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]CHAULA TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]CHAULA TV[/B][/COLOR][COLOR=white][/COLOR]
 https://video.chaula.tv/hls/live/high/playlist_high.m3u8?checkedby:iptvcat.com
  
-#EXTINF:-1,[COLOR=coral][B]BARAZA TV CLASSICS[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]BARAZA TV CLASSICS[/B][/COLOR][COLOR=white][/COLOR]
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/chunklist_w296305449.m3u8
  
-#EXTINF:-1,[COLOR=coral][B]RÁDIO TV BEATZ TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RÁDIO TV BEATZ TV[/B][/COLOR][COLOR=white][/COLOR]
 https://edge9.vedge.infomaniak.com/livecast/rp_tv_1/playlist.m3u8
   
-#EXTINF:0 tvg-id="ext" group-title="TV",[COLOR=coral][B]COLOSSAL TV[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="TV",[COLOR=white][B]COLOSSAL TV[/B][/COLOR][COLOR=white][/COLOR]
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o3mNE4H.jpg" group-title="MUSIC",[COLOR=coral][B]DESI CHANNEL[/B][/COLOR][COLOR=coral][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o3mNE4H.jpg" group-title="MUSIC",[COLOR=white][B]DESI CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
  
 
