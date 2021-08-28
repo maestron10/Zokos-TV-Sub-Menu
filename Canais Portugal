@@ -4,15 +4,10 @@ http://0.0.0.0:0000
 ####################################################################################################################################
  
 #EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 26/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
-Fontes de Informação: 
-* https://gist.github.com/homemdasneves/cf622bc2feef035ae532c8397f2c054f  
-* http://www.cxtv.com.br/tv/paises/portugal
-* https://github.com/sasuki2/IPTV/blob/main/NEdaLJB.m3u
-* 
  
 #EXTM3U
 
-#EXTINF:-1,[COLOR blue]LISTA 1[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]LISTA 1[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 
@@ -37,12 +32,27 @@ http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kuriakos Cine" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS CINE[/B][/COLOR][COLOR=white][/COLOR]
 http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS KIDS[/B][/COLOR][COLOR=white][/COLOR]
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]KURIAKOS CINE[/B][/COLOR][COLOR=white][/COLOR]
+http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS CINE[/B][/COLOR][COLOR=white][/COLOR]
 http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Music" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS MÚSICA[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]KURIAKOS CINE[/B][/COLOR][COLOR=white][/COLOR]
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Music" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS MUSICA[/B][/COLOR][COLOR=white][/COLOR]
 http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]KURIAKOS MUSICA[/B][/COLOR][COLOR=white][/COLOR]
+http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS TV[/B][/COLOR][COLOR=white][/COLOR]
 http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS TV[/B][/COLOR][COLOR=white][/COLOR]
+http://195.22.11.11:1935/ktv/ktv1/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sobrenatural TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="PORTUGAL",[COLOR=white][B]SOBRENATURAL TV[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Porto Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/300px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",[COLOR=white][B]PORTO CANAL[/B][/COLOR][COLOR=white][/COLOR]
@@ -51,4 +61,34 @@ https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8 
 #EXTINF:-1,[COLOR=white][B]TV MANA[/B][/COLOR][COLOR=white][/COLOR]
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-id="NOSStudios.pt" group-title="Movies",[COLOR=white][B]NOS STUDIOS[/B][/COLOR][COLOR=white][/COLOR]
+http://185.236.229.21:9981/play/a054
+#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]TVCINE ACTION[/B][/COLOR][COLOR=white][/COLOR]
+http://185.236.229.21:9981/play/a04n
+#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]TVCINE EDITION[/B][/COLOR][COLOR=white][/COLOR]
+http://185.236.229.21:9981/play/a061
+#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]TVCINE EMOTION[/B][/COLOR][COLOR=white][/COLOR]
+http://185.236.229.21:9981/play/a05z
+#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]TVCINE TOP[/B][/COLOR][COLOR=white][/COLOR]
+http://185.236.229.21:9981/play/a04w
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]SPORT TV +[/B][/COLOR][COLOR=white][/COLOR]
+http://185.236.229.21:9981/play/a03c
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Sports",[COLOR=white][B]SPORT TV 1[/B][/COLOR][COLOR=white][/COLOR]
+https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Sports",[COLOR=white][B]SPORT TV 2[/B][/COLOR][COLOR=white][/COLOR]
+https://sport.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Sports",[COLOR=white][B]SPORT TV 3[/B][/COLOR][COLOR=white][/COLOR]
+https://sport.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Sports",[COLOR=white][B]SPORT TV 4 [/B][/COLOR][COLOR=white][/COLOR]
+https://sport.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Sports",[COLOR=white][B]SPORT TV 5[/B][/COLOR][COLOR=white][/COLOR]
+http://185.236.229.21:9981/play/a03n
+
+
+
+
+
 
