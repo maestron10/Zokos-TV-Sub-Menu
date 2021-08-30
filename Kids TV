@@ -57,11 +57,11 @@ https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B],COUNTRY BOY KIDS VIDEO[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]COUNTRY BOY KIDS VIDEO[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B],CUTE ZONE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]CUTE ZONE[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B],EBS KIDS[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]EBS KIDS[/B][/COLOR][COLOR=white][/COLOR]
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Kids",ENKI BENKI
