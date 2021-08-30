@@ -33,52 +33,52 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TENNIS CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1,OMAN SPORT 
+#EXTINF:-1,[COLOR=white][B]OMAN SPORT[/B][/COLOR][COLOR=white][/COLOR]
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ADSports1.net" group-title="Sport",ABU DHABI SPORTS 1
+#EXTINF:0 tvg-id="ADSports1.net" group-title="Sport",[COLOR=white][B]ABU DHABI SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ADSports2.net" group-title="Sport",ABU DHABI SPORTS 2
+#EXTINF:0 tvg-id="ADSports2.net" group-title="Sport",[COLOR=white][B]ABU DHABI SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ADSports3.net" group-title="Sport",ABU DHABI SPORTS 3
+#EXTINF:0 tvg-id="ADSports3.net" group-title="Sport",[COLOR=white][B]ABU DHABI SPORTS 3[/B][/COLOR][COLOR=white][/COLOR]
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",All SPORTS
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]All SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",All SPORTS
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]All SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ARRYADIA
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]ARRYADIA[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ATG
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]ATG[/B][/COLOR][COLOR=white][/COLOR]
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEK SPORTS EAST
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEK SPORTS EAST[/B][/COLOR][COLOR=white][/COLOR]
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEK SPORTS WEST
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEK SPORTS WEST[/B][/COLOR][COLOR=white][/COLOR]
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:0 tvg-id="DDSports.in" group-title="Sport",DD SPORTS
+#EXTINF:0 tvg-id="DDSports.in" group-title="Sport",[COLOR=white][B]DD SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:0 tvg-id="DDSports.in" group-title="Sport",DD SPORTS
+#EXTINF:0 tvg-id="DDSports.in" group-title="Sport",[COLOR=white][B]DD SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",DUBAI RACING
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]DUBAI RACING 1[/B][/COLOR][COLOR=white][/COLOR]
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",DUBAI RACING 2
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]DUBAI RACING 2[/B][/COLOR][COLOR=white][/COLOR]
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",DUBAI RACING 3
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]DUBAI RACING 3[/B][/COLOR][COLOR=white][/COLOR]
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",DUBAI SPORTS 1
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]DUBAI SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",DUBAI SPORTS 2
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]DUBAI SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",DUBAI SPORTS 3
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]DUBAI SPORTS 3[/B][/COLOR][COLOR=white][/COLOR]
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",FOX SPORTS HD 1
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]FOX SPORTS HD 1[/B][/COLOR][COLOR=white][/COLOR]
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",FOX SPORTS NEWS
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]FOX SPORTS NEWS[/B][/COLOR][COLOR=white][/COLOR]
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",OMAN SPORT
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]OMAN SPORT[/B][/COLOR][COLOR=white][/COLOR]
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sport",RED BULL TV
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV[/B][/COLOR][COLOR=white][/COLOR]
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:0 tvg-id="viasat-sport" group-title="Sport",VIASAR SPORT EAST
+#EXTINF:0 tvg-id="viasat-sport" group-title="Sport",[COLOR=white][B]VIASAR SPORT EAST[/B][/COLOR][COLOR=white][/COLOR]
 https://persik.tv/stream/3602/287583/10249.m3u8
 
 #EXTM3U
@@ -86,147 +86,93 @@ https://persik.tv/stream/3602/287583/10249.m3u8
 #EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA: 05/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
 
-#EXTINF:0 tvg-id="ext" group-title="Sports",Abu Dhabi Sports 1 (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ABU DHABI SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ADSports2.net" group-title="Sports",Abu Dhabi Sports 2 (1080p)
+#EXTINF:0 tvg-id="ADSports2.net" group-title="Sports",[COLOR=white][B]ABU DHABI SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ACCDN (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ACCDN[/B][/COLOR][COLOR=white][/COLOR]
 https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ACCDN (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ACCDN[/B][/COLOR][COLOR=white][/COLOR]
 https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Adventure Sports Network
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ADVENTURE SPORTS NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Adventure Sports Network (XUMO)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ADVENTURE SPORTS NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Adventure Sports TV (360p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ADVENTURE SPORTS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
-#EXTINF:0 tvg-id="ext" group-title="Sports",Al Kass Sports
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALKASS SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 http://www.elahmad.com/tv/m3u8/alkass.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Alkass sport 1
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALKASS SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:0 tvg-id="ext" group-title="Sports",Alkass sport 2
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALKASS SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:0 tvg-id="ext" group-title="Sports",Alkass sport 3
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALKASS SPORTS 3[/B][/COLOR][COLOR=white][/COLOR]
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:0 tvg-id="ext" group-title="Sports",Alkass sport 4
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALKASS SPORTS 4[/B][/COLOR][COLOR=white][/COLOR]
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:0 tvg-id="ext" group-title="Sports",Alkass sport 5
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALKASS SPORTS 5[/B][/COLOR][COLOR=white][/COLOR]
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:0 tvg-id="ext" group-title="Sports",All Sports (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALL SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",All Sports (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALL SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",All Sports (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALL SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",All Sports TV Network (404p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALL SPORTS NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 https://2-fss-2.streamhoster.com/pl_120/amlst:203932-1476320/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Arryadia (360p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ARRYADIA[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ATG (432p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ATG[/B][/COLOR][COLOR=white][/COLOR]
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ATG
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ATG[/B][/COLOR][COLOR=white][/COLOR]
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Bahrain Sports 1 (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]BAHRAIN SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
 http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports 1 English [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]BEIN SPORTS 1 ENG[/B][/COLOR][COLOR=white][/COLOR]
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports 2 English [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]BEIN SPORTS 2 ENG[/B][/COLOR][COLOR=white][/COLOR]
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Bek Sports East (720p)
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Bek Sports West (720p)
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Best Cable Sports Perú (720p) [Not 24/7]
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]BEST CABLE SPORTS PERU[/B][/COLOR][COLOR=white][/COLOR]
 https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Canal Motor (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]CANAL MOTOR[/B][/COLOR][COLOR=white][/COLOR]
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Captital OTB Betting (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]CAPTITAL OTB BETTING[/B][/COLOR][COLOR=white][/COLOR]
 https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
-#EXTINF:0 tvg-id="DDSports.in" group-title="Sports",DD Sports (576p)
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:0 tvg-id="DDSports.in" group-title="Sports",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Racing 3 (1080p)
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI RACING 3[/B][/COLOR][COLOR=white][/COLOR]
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Sports 1 (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Sports 2 (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Sports 3 (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 3[/B][/COLOR][COLOR=white][/COLOR]
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
-https://edgesports-plex.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]EDGE SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (US) (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]EDGE SPORTS US[/B][/COLOR][COLOR=white][/COLOR]
 https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Sports",Eleven Sports (720p)
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",Eleven Sports 4 (Portugal) (1080p)
+#EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 4 PT[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a05x
-#EXTINF:0 tvg-id="elevensports5.pt" group-title="Sports",Eleven Sports 5 (Portugal) (1080p)
+#EXTINF:0 tvg-id="elevensports5.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 5 PT[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a05y
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Sports",ESPN (360p)
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Sports",ESPN (720p)
+
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Sports",[COLOR=white][B]ESPN[/B][/COLOR][COLOR=white][/COLOR]
 http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:0 tvg-id="ESPN2.us" group-title="Sports",ESPN 2 (360p)
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Sports",[COLOR=white][B]ESPN 2[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
-#EXTINF:0 tvg-id="Esport3.es" group-title="Sports",Esport3 (1080p)
+#EXTINF:0 tvg-id="Esport3.es" group-title="Sports",[COLOR=white][B]ESPORT 3[/B][/COLOR][COLOR=white][/COLOR]
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
-#EXTINF:0 tvg-id="Esport3.es" group-title="Sports",Esport3 (1080p)
+#EXTINF:0 tvg-id="Esport3.es" group-title="Sports",[COLOR=white][B]ESPORT 3[/B][/COLOR][COLOR=white][/COLOR]
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ESTV (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ESTV[/B][/COLOR][COLOR=white][/COLOR]
 https://estv-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ESTV (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ESTV[/B][/COLOR][COLOR=white][/COLOR]
 https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",FASTWAY NEWS (720p)
-http://163.47.214.155:1935/fwnews/live/playlist.m3u8
-#EXTINF:0 tvg-id="FightNetwork.ca" group-title="Sports",Fight Network (1080p)
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fite (720p)
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Football Daily (XUMO)
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
-#EXTINF:0 tvg-id="FOXSports2.us" group-title="Sports",FOX Sports 2 Asia Thai (720p) [Not 24/7]
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",FOX Sports 3 Asia Thai (720p) [Not 24/7]
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",FOX Sports Asia Thai (720p) [Not 24/7]
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",FOX Sports Australia (720p)
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:0 tvg-id="FreeSports.uk" group-title="Sports",FreeSports (1080p)
-https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",FTF For The Fans (720p)
-https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV (720p)
-https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV (720p)
-https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV (1080p)
-https://fueltv-fueltv-10-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV (1080p)
-https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Sports",Fuel TV (1080p)
-https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Brazil) (720p)
-https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (India) (1080p)
-https://fueltv-fueltv-12-in.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Italy) (1080p)
-https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Mexico) (1080p)
-https://fueltv-fueltv-11-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Netherland) (1080p)
-http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Spain) (1080p)
-https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (Sweden) (1080p)
-https://fueltv-fueltv-13-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",GEM Fit (540p) [Geo-blocked]
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist.m3u8
+
+
 
 ***********************************
