@@ -11,27 +11,27 @@ FONTE DE INFORMAÇÃO: https://iptv-org.github.io/iptv/categories/sports.m3u
 
 #EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 08/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
- #EXTINF:-1,[COLOR blue]CANAIS OLÍMPICOS TOQUIO 2O21[/COLOR]
+ #EXTINF:-1,[COLOR blue]CANAIS OLÍMPICOS TOQUIO 2O21[/COLOR] 
 https://000000
 
 
-#EXTINF:-1,RACING.COM 
+#EXTINF:-1,[COLOR=white][B]RACING.COM[/B][/COLOR][COLOR=white][/COLOR]
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1,BEK SPORTS WEST 
+#EXTINF:-1,[COLOR=white][B]BEK SPORTS WEST[/B][/COLOR][COLOR=white][/COLOR]
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1,BEK SPORTS EAST 
+#EXTINF:-1,[COLOR=white][B]BEK SPORTS EAST[/B][/COLOR][COLOR=white][/COLOR]
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1,BUBAI RACING 1
+#EXTINF:-1,[COLOR=white][B]BUBAI RACING 1[/B][/COLOR][COLOR=white][/COLOR]
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,DUBAI RACING 2 
+#EXTINF:-1,[COLOR=white][B]DUBAI RACING 2[/B][/COLOR][COLOR=white][/COLOR]
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:-1,BUBAI RACING 3 
+#EXTINF:-1,[COLOR=white][B]BUBAI RACING 3[/B][/COLOR][COLOR=white][/COLOR]
 http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1,DUBAI SPORTS 2 
+#EXTINF:-1,[COLOR=white][B]DUBAI SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1,DUBAI SPORTS 3 
+#EXTINF:-1,[COLOR=white][B]DUBAI SPORTS 3[/B][/COLOR][COLOR=white][/COLOR]
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1,TENNIS CHANNEL 
+#EXTINF:-1,[COLOR=white][B]TENNIS CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1,OMAN SPORT 
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
