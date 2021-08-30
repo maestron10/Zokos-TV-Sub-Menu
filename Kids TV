@@ -9,61 +9,59 @@ http://0.0.0.0:00000
  
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",BABY SHARK TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BABY SHARK TV[/B][/COLOR][COLOR=white][/COLOR]
 https://newidco-babysharktv-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 tvg-id="duck" group-title="Channels",DUCK TV
+#EXTINF:0 tvg-id="duck" group-title="Channels",[COLOR=white][B]DUCK TV[/B][/COLOR][COLOR=white][/COLOR]
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Kids",EBS KIDS (360p)
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]EBS KIDS[/B][/COLOR][COLOR=white][/COLOR]
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",ENKI BENKI
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]ENKI BENKI[/B][/COLOR][COLOR=white][/COLOR]
 http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Kids",GRAVITY FOULS
-https://autopilot.catcast.tv/content/38105/index.m3u8
-#EXTINF:0 tvg-id="Gulli.fr" group-title="Kids",GULLI 
+#EXTINF:0 tvg-id="Gulli.fr" group-title="Kids",[COLOR=white][B]GULLI[/B][/COLOR][COLOR=white][/COLOR]
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
-#EXTINF:0 tvg-id="jimjam" group-title="Kids",JIMJAM
+#EXTINF:0 tvg-id="jimjam" group-title="Kids",[COLOR=white][B]JIMJAM[/B][/COLOR][COLOR=white][/COLOR]
 http://188.40.68.167/russia/jimjam/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Kids",KURIAKOS KIDS
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]KURIAKOS KIDS[/B][/COLOR][COLOR=white][/COLOR]
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
 
 
-#EXTINF:0 tvg-id="lale" group-title="Kids",LALE
+#EXTINF:0 tvg-id="lale" group-title="Kids",[COLOR=white][B]LALE[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",MAJID TV
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]MAJID TV[/B][/COLOR][COLOR=white][/COLOR]
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",ROTANA KIDS
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]ROTANA KIDS[/B][/COLOR][COLOR=white][/COLOR]
 https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",SHEMAROO KIDS
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]SHEMAROO KIDS[/B][/COLOR][COLOR=white][/COLOR]
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",SPACETOON
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]SPACETOON[/B][/COLOR][COLOR=white][/COLOR]
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",SUPER TOONS
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]SUPER TOONS[/B][/COLOR][COLOR=white][/COLOR]
 https://kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",TIJI RUSSIA 
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]TIJI RUSSIA[/B][/COLOR][COLOR=white][/COLOR]
 http://188.40.68.167/russia/tiji/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",TOON GOGGLES 
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]TOON GOGGLES[/B][/COLOR][COLOR=white][/COLOR]
 https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Kids",TRT COCUK
+#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Kids",[COLOR=white][B]TRT COCUK[/B][/COLOR][COLOR=white][/COLOR]
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",AKARAM KIDZ
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]AKARAM KIDZ[/B][/COLOR][COLOR=white][/COLOR]
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",AMEDA
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]AMEDA[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuameba/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",ATFAL WA MAWAHED
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]ATFAL WA MAWAHED[/B][/COLOR][COLOR=white][/COLOR]
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",BRAT TV (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]BRAT TV 1080P[/B][/COLOR][COLOR=white][/COLOR]
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="Kids",COUNTRY BOY KIDS VIDEO 
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B],COUNTRY BOY KIDS VIDEO[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",CUTE ZONE 
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B],CUTE ZONE[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",EBS KIDS (360p)
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B],EBS KIDS[/B][/COLOR][COLOR=white][/COLOR]
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Kids",ENKI BENKI
