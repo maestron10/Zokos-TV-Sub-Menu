@@ -58,9 +58,9 @@ http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]KURIAKOS CINE[/B][/COLOR][COLOR=white][/COLOR]
 http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS CINE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS KIDS[/B][/COLOR][COLOR=white][/COLOR]
 http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]KURIAKOS CINE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]KURIAKOS KIDS[/B][/COLOR][COLOR=white][/COLOR]
 http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Kuriakos Music" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS MUSICA[/B][/COLOR][COLOR=white][/COLOR]
