@@ -64,31 +64,31 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/
 #EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]EBS KIDS[/B][/COLOR][COLOR=white][/COLOR]
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Kids",ENKI BENKI
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]ENKI BENKI[/B][/COLOR][COLOR=white][/COLOR]
 http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",FGTV 
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]FGTV[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",GRAVITY FOULS
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]GRAVITY FOULS[/B][/COLOR][COLOR=white][/COLOR]
 https://autopilot.catcast.tv/content/38105/index.m3u8
-#EXTINF:0 tvg-id="Gulli.fr" group-title="Kids",GULLI
+#EXTINF:0 tvg-id="Gulli.fr" group-title="Kids",[COLOR=white][B]GULLI[/B][/COLOR][COLOR=white][/COLOR]
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
-#EXTINF:0 tvg-id="gulli" group-title="Kids",GULLI GIRLS
+#EXTINF:0 tvg-id="gulli" group-title="Kids",[COLOR=white][B]GULLI GIRLS[/B][/COLOR][COLOR=white][/COLOR]
 http://188.40.68.167/russia/gulli_girl/playlist.m3u8
-#EXTINF:0 tvg-id="jimjam" group-title="Kids",JIM JAM
+#EXTINF:0 tvg-id="jimjam" group-title="Kids",[COLOR=white][B]JIM JAM[/B][/COLOR][COLOR=white][/COLOR]
 http://188.40.68.167/russia/jimjam/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="lale" group-title="Kids",LALE
+#EXTINF:0 tvg-id="lale" group-title="Kids",[COLOR=white][B]LALE[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",LEGO CHANNEL
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]LEGO CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",LEGO TOONS
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]LEGO TOONS[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",LIFEBAE
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]LIFEBAE[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",MAJID TV
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]MAJID TV[/B][/COLOR][COLOR=white][/COLOR]
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",MASTER BUILDER
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]MASTER BUILDER[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
 
 
