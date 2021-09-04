@@ -6,7 +6,7 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=blue][B]FESTA DO TÍTULO[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]FESTA DO TÍTULO 2020 / 2021[/B][/COLOR][COLOR=blue][/COLOR]
 
  
 #EXTINF:-1,[COLOR=white][B]SPORTING CAMPEÃO, FESTA[/B][/COLOR][COLOR=white][/COLOR]
@@ -17,6 +17,10 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jtfh6O
 
 #EXTINF:-1,[COLOR=white][B]SPORTING, CAMPEÃO 2020/21: FESTA APÓS O APITO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xzNI_SMGzy0&ab_channel=VSPORTS-LigaPortugalBwin
+
+#EXTINF:-1,[COLOR=white][B]SPORTING, CAMPEÃO 2020/21: FESTA FORA DO ESTÁDIO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fOTp-4lxGJ8&ab_channel=BigDiabloPapaTV
+
 
 
 #EXTINF:-1,[COLOR=blue][B]HINOS DO SPORTING[/B][/COLOR][COLOR=blue][/COLOR]
@@ -30,6 +34,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8cr8Al
 
 #EXTINF:-1,[COLOR=white][B]HINO OFICIAL DO SPORTING POR MARIA JOSÉ VALÉRIO (LETRA)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GBtd_W6n5pQ&ab_channel=HimnosFutbolChile
+
+#EXTINF:-1,[COLOR=white][B]CÂNTIGO SPORTING AO VIVO NO ESTÁDIO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=RDQMpKT9Le5a2ng&index=3&ab_channel=Supporting
  
 
 #EXTINF:-1,[COLOR=blue][B]SPORTING - HISTÓRIA E CONQUISTAS[/B][/COLOR][COLOR=blue][/COLOR]
