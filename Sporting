@@ -5,55 +5,55 @@ http://0.0.0.0:0000
  
 
 #EXTM3U
- 
 
-#EXTINF:-1,[COLOR blue]FESTA DO TÍTULO 2020/2021[/COLOR]
-https://000000
+#EXTINF:-1,[COLOR=blue][B]FESTA DO TÍTULO[/B][/COLOR][COLOR=blue][/COLOR]
 
-#EXTINF:-1,SPORTING CAMPEÃO, DENTRO DO ESTÁDIO 
+
+#EXTINF:-1,[COLOR=white][B]SPORTING CAMPEÃO, DENTRO DO ESTÁDIO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xzNI_SMGzy0&ab_channel=FutebolaoRubroFutebolaoRubro
  
-#EXTINF:-1,SPORTING CAMPEÃO,FESTA CONFERÊNCIA IMPRENSA 
+#EXTINF:-1,[COLOR=white][B]SPORTING CAMPEÃO,FESTA CONFERÊNCIA IMPRENSA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iouPQa-qP2U&ab_channel=Sv4DbOOizgA&ab_channel=CMCTV
  
-#EXTINF:-1,RTP 3 
+#EXTINF:-1,[COLOR=white][B]RTP 3 - FESTA DO TÍTULO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iouPQa-qP2U&ab_channel=S%C3%B3eusei
 
 #EXTINF:-1,[COLOR blue]HINOS DO SPORTING[/COLOR]
 https://000000
 
-#EXTINF:-1,SPORTING, FAÇAM-NOS ACREDITAR 2020/21 (MARÇO 2021)
+#EXTINF:-1,[COLOR=white][B]SPORTING, FAÇAM-NOS ACREDITAR 2020/21 (MARÇO 2021)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3NfSkL6rtz8
 
-#EXTINF:-1,SPORTING...SÓ EU SEI - PAULO FERNANDES (MÚSICA FEV. 2016)
+#EXTINF:-1,[COLOR=white][B]SPORTING...SÓ EU SEI - PAULO FERNANDES (MÚSICA FEV. 2016)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8cr8Al9qUC4&ab_channel=PauloFernandes
 
-#EXTINF:-1,HINO OFICIAL DO SPORTING POR MARIA JOSÉ VALÉRIO (LETRA) 
+#EXTINF:-1,[COLOR=white][B]HINO OFICIAL DO SPORTING POR MARIA JOSÉ VALÉRIO (LETRA)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GBtd_W6n5pQ&ab_channel=HimnosFutbolChile
  
 
-#EXTINF:-1,[COLOR blue]SPORTING[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]SPORTING - HISTÓRIA E CONQUISTAS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1,HISTÓRIA DO SCP E CONQUISTAS (VÍDEO)
+
+#EXTINF:-1,[COLOR=white][B]HISTÓRIA DO SCP E CONQUISTAS (VÍDEO)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cBXViDOI9EM&ab_channel=Deadlylucifer
  
-#EXTINF:-1,HISTÓRIA DO FUTEBOL DO SPORTING (DOCUMENTÁRIO)
+#EXTINF:-1,[COLOR=white][B]HISTÓRIA DO FUTEBOL DO SPORTING (DOCUMENTÁRIO)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sjLr0DHBKCE&ab_channel=Sóeusei
 
-#EXTINF:-1,ONDE TU FORES JOGAR - VIDEO OFICIAL 2015
+#EXTINF:-1,[COLOR=white][B]ONDE TU FORES JOGAR - VIDEO OFICIAL 2015[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YhmdbMNCn28&ab_channel=DIRECTIVOULTRASXXI
  
-#EXTINF:-1,SPORTING CLUBE DE PORTUGAL CAMPEÃO NACIONAL 1999 / 2000
+#EXTINF:-1,[COLOR=white][B]SPORTING CLUBE DE PORTUGAL CAMPEÃO NACIONAL 1999/2000[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0Q4QSPTmWlg&ab_channel=jmgmad
  
-#EXTINF:-1,OS ESTÁDIOS DO SPORTING
+#EXTINF:-1,[COLOR=white][B]OS ESTÁDIOS DO SPORTING[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cCpCaLwka8w&ab_channel=Sóeusei
  
-#EXTINF:-1,CONQUISTAS SPORTING FUTEBOL 1906-2020
+#EXTINF:-1,[COLOR=white][B]CONQUISTAS SPORTING FUTEBOL 1906/2020[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rpBI4XUYqXk&ab_channel=Sóeusei
  
-#EXTINF:-1,NOS BASTIDORES DO CAMPEÃO: SPORTING 2001/2002
+#EXTINF:-1,[COLOR=white][B]NOS BASTIDORES DO CAMPEÃO: SPORTING 2001/2002[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=307Y4vjyNOo&ab_channel=Sóeusei
 
 
