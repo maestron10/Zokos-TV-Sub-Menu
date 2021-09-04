@@ -9,11 +9,14 @@ http://0.0.0.0:0000
 #EXTINF:-1,[COLOR=blue][B]FESTA DO TÍTULO[/B][/COLOR][COLOR=blue][/COLOR]
 
  
-#EXTINF:-1,[COLOR=white][B]SPORTING CAMPEÃO,FESTA CONFERÊNCIA IMPRENSA[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SPORTING CAMPEÃO, FESTA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iouPQa-qP2U&ab_channel=Sv4DbOOizgA&ab_channel=CMCTV
  
-#EXTINF:-1,[COLOR=white][B]BACKSTAGE SPORTING | SOMOS CAMPEÕES! 🏆[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]BACKSTAGE SPORTING, SOMOS CAMPEÕES[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jtfh6ONtMJg&ab_channel=SportingClubedePortugal
+
+#EXTINF:-1,[COLOR=white][B]SPORTING, CAMPEÃO 2020/21: FESTA APÓS O APITO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xzNI_SMGzy0&ab_channel=VSPORTS-LigaPortugalBwin
 
 
 #EXTINF:-1,[COLOR=blue][B]HINOS DO SPORTING[/B][/COLOR][COLOR=blue][/COLOR]
@@ -32,6 +35,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GBtd_W
 #EXTINF:-1,[COLOR=blue][B]SPORTING - HISTÓRIA E CONQUISTAS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
+
+#EXTINF:-1,[COLOR=white][B]HISTORIA DO SPORTING (ANIMAÇÃO)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=M4bANFU4pkc&ab_channel=S%C3%A1tirasdePortugal
 
 #EXTINF:-1,[COLOR=white][B]HISTÓRIA DO SCP E CONQUISTAS (VÍDEO)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cBXViDOI9EM&ab_channel=Deadlylucifer
@@ -53,6 +59,4 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rpBI4X
  
 #EXTINF:-1,[COLOR=white][B]NOS BASTIDORES DO CAMPEÃO: SPORTING 2001/2002[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=307Y4vjyNOo&ab_channel=Sóeusei
-
-
 
