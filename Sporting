@@ -8,15 +8,12 @@ http://0.0.0.0:0000
 
 #EXTINF:-1,[COLOR=blue][B]FESTA DO TÍTULO[/B][/COLOR][COLOR=blue][/COLOR]
 
-
-#EXTINF:-1,[COLOR=white][B]SPORTING CAMPEÃO, DENTRO DO ESTÁDIO[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xzNI_SMGzy0&ab_channel=FutebolaoRubroFutebolaoRubro
  
 #EXTINF:-1,[COLOR=white][B]SPORTING CAMPEÃO,FESTA CONFERÊNCIA IMPRENSA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iouPQa-qP2U&ab_channel=Sv4DbOOizgA&ab_channel=CMCTV
  
-#EXTINF:-1,[COLOR=white][B]RTP 3 - FESTA DO TÍTULO[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iouPQa-qP2U&ab_channel=S%C3%B3eusei
+#EXTINF:-1,[COLOR=white][B]BACKSTAGE SPORTING | SOMOS CAMPEÕES! 🏆[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jtfh6ONtMJg&ab_channel=SportingClubedePortugal
 
 
 #EXTINF:-1,[COLOR=blue][B]HINOS DO SPORTING[/B][/COLOR][COLOR=blue][/COLOR]
