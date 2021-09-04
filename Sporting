@@ -35,7 +35,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8cr8Al
 #EXTINF:-1,[COLOR=white][B]HINO OFICIAL DO SPORTING POR MARIA JOSÉ VALÉRIO (LETRA)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GBtd_W6n5pQ&ab_channel=HimnosFutbolChile
 
-#EXTINF:-1,[COLOR=white][B]CÂNTIGO SPORTING AO VIVO NO ESTÁDIO[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]CÂNTICOS SPORTING AO VIVO NO ESTÁDIO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iIk1gRfjrFE&list=RDQMpKT9Le5a2ng&index=5&ab_channel=ValterSva
  
 
