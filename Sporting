@@ -36,7 +36,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8cr8Al
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GBtd_W6n5pQ&ab_channel=HimnosFutbolChile
 
 #EXTINF:-1,[COLOR=white][B]CÂNTIGO SPORTING AO VIVO NO ESTÁDIO[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=RDQMpKT9Le5a2ng&index=3&ab_channel=Supporting
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iIk1gRfjrFE&list=RDQMpKT9Le5a2ng&index=5&ab_channel=ValterSva
  
 
 #EXTINF:-1,[COLOR=blue][B]SPORTING - HISTÓRIA E CONQUISTAS[/B][/COLOR][COLOR=blue][/COLOR]
