@@ -18,8 +18,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iouPQa
 #EXTINF:-1,[COLOR=white][B]RTP 3 - FESTA DO TÍTULO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iouPQa-qP2U&ab_channel=S%C3%B3eusei
 
-#EXTINF:-1,[COLOR blue]HINOS DO SPORTING[/COLOR]
-https://000000
+
+#EXTINF:-1,[COLOR=blue][B]HINOS DO SPORTING[/B][/COLOR][COLOR=blue][/COLOR]
+
 
 #EXTINF:-1,[COLOR=white][B]SPORTING, FAÇAM-NOS ACREDITAR 2020/21 (MARÇO 2021)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3NfSkL6rtz8
