@@ -9,26 +9,6 @@ http://0.0.0.0:000000
  
  
 #EXTM3U
-  
-#EXTINF:-1,[COLOR=blue][B]NOVAS (TESTE)[/B][/COLOR][COLOR=blue][/COLOR]
-https://video-auth1.iol.pt
-
-
-#EXTINF:-1,PRAIA DA MURTOSA
-https://video-auth1.iol.pt/beachcam/murtosa/chunks.m3u8?nimblesessionid=661397467
-
-#EXTINF:-1,VILA NOVA DE ANCORA
-https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/chunks.m3u8?nimblesessionid=661399260
-
-#EXTINF:-1,EXPOSENDE
-https://video-auth1.iol.pt/beachcam/bcesposende/chunks.m3u8?nimblesessionid=661399834
-
-#EXTINF:-1,PORTO, HOMEM DO LEME
-https://video-auth1.iol.pt/beachcam/bchomemdoleme/chunks.m3u8?nimblesessionid=661400565
-
-#EXTINF:-1,OFIR
-https://video-auth1.iol.pt/beachcam/bcofir/chunks.m3u8?nimblesessionid=661401237
-
  
 #EXTINF:-1,[COLOR=blue][B]PRAIAS DO NORTE[/B][/COLOR][COLOR=blue][/COLOR]
 https://video-auth1.iol.pt
