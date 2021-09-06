@@ -14,7 +14,8 @@ Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvso
 ##################################  LISTA DIÁRIA IPTV  ###########################################################################
  #EXTM3U
   
-#EXTINF:-1,[COLOR blue]LISTAS DIVERSAS SPORT TV PT[/COLOR]
+
+#EXTINF:-1,[COLOR=blue][B]LISTAS DIVERSAS SPORT TV PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 
@@ -29,8 +30,9 @@ http://31.220.41.88:8081/live/pt-sporttv4.stream/chunks.m3u8
 #EXTINF:0,[COLOR=white][B]SPORT 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv5.stream/chunks.m3u8
 
+ #EXTM3U
 
-#EXTINF:-1,[COLOR blue]CANAIS INTER. ONDE DÁ FUTEBOL PT[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]CANAIS INTER. ONDE DÁ FUTEBOL PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 
@@ -45,8 +47,11 @@ http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
 
 ##################################  BENFICA TV   ###########################################################################
 
-#EXTINF:-1,[COLOR blue]BENFICA TV[/COLOR]
+#EXTM3U
+ 
+#EXTINF:-1,[COLOR=blue][B]BENFICA TV[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
+
 
 #EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://0000000000000000
@@ -56,7 +61,7 @@ http://0000000000000000
 
 #EXTM3U
  
-#EXTINF:-1,[COLOR blue]CANAIS SPORT TV[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]CANAIS SPORT TV[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 FONTES DE INFORMAÇÃO
@@ -105,7 +110,8 @@ http://stream.tvtap.live:8081/live/pt-sporttv5.stream/playlist.m3u8
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR blue]CANAIS ELEVEN SPORTS PT[/COLOR]
+
+#EXTINF:-1,[COLOR=blue][B]CANAIS ELEVEN SPORTS PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 
@@ -119,8 +125,9 @@ http://185.236.229.21:9981/play/a05y
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
 #EXTM3U
  
-#EXTINF:-1,[COLOR blue]CANAIS PREMIUM CINEMA PT[/COLOR]
+#EXTINF:-1,[COLOR=blue][B]CANAIS PREMIUM CINEMA PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
+
 
 #EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a054
@@ -146,8 +153,10 @@ http://185.236.229.21:9981/play/a04w
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR blue]CANAIS PREMIUM ADULTOS[/COLOR]
+
+#EXTINF:-1,[COLOR=blue][B]CANAIS PREMIUM ADULTOS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
+
 
 #EXTINF:-1,[COLOR=white][B]DORCEL[/B][/COLOR][COLOR=white][/COLOR]
 http://46.150.192.58/play/61
