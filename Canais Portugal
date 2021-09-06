@@ -109,6 +109,282 @@ https://sport.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="Sports",[COLOR=white][B]SPORT TV 5[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a03n
 
+#EXTINF:-1,[COLOR=yellow][B]LISTA 2 ADICIONADA: 06/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+ 
+#EXTM3U
+
+#EXTM3U
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",RTP 1 PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3208
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTP 1 FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/19040
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",RTP 2 PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3209
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTP 2 FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/20257
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3227
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/19041
+#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",TVI PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3214
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",SIC Mulher PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9467
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",SIC Caras PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9466
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",SIC Radical PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9468
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",Canal Q PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9465
+#EXTINF:0 tvg-id="AMC.pt" group-title="Channels",AMC HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9487
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",Sporting TV HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3246
+#EXTINF:0 tvg-id="axn.pt" group-title="Channels",AXN HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3255
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN Movies HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5551
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",AXN White HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3242
+#EXTINF:0 tvg-id="ext" group-title="Channels",Blaze PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/21524
+#EXTINF:0 tvg-id="fox.pt" group-title="Channels",FOX FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3232
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",FOX Crime HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5549
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Comedy FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/20260
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",FOX Life FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3233
+#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",Syfy PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3226
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",FOX COMEDY PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9489
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Top PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/15796
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Top FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5545
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Edition PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/15797
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Edition FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5546
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Emotion PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/15798
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Emotion FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5547
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Action PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/15799
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine Action FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5548
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",Canal Hollywood HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3307
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX Movies PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5550
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fuel TV HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/20255
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",Cine Mundo PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5544
+#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",E! PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3257
+#EXTINF:0 tvg-id="BBCentertainment.pt" group-title="Channels",BBC Entertainment PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9488
+#EXTINF:0 tvg-id="CBSReality.pt" group-title="Channels",CBS Reality PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3215
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",TVI Ficção PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5542
+#EXTINF:0 tvg-id="TVIdirect.pt" group-title="Channels",TVI Reality PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9464
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bloomberg PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/19590
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/19588
+#EXTINF:0 tvg-id="cazaepesca.pt" group-title="Channels",Caça e Pesca PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5543
+#EXTINF:0 tvg-id="elevensports1.pt" group-title="Channels",Eleven Sports 1 HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/23325
+#EXTINF:0 tvg-id="elevensports2.pt" group-title="Channels",Eleven Sports 2 HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/23320
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 3 HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/23321
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 4 HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/23322
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 5 HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/23323
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 6 FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/23324
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",National Geographic HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3306
+#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",National Geographic Wild PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5556
+#EXTINF:0 tvg-id="ext" group-title="Channels",National Geographic Wild HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/20259
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Channel HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3247
+#EXTINF:0 tvg-id="TLC.pt" group-title="Channels",TLC PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9496
+#EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",Odisseia PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3230
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",MTV PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9478
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",Travel Channel HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9497
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",Nickelodeon PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3240
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nick Jr. PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/19042
+#EXTINF:0 tvg-id="ext" group-title="Channels",História PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3238
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",24 Kitchen HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3243
+#EXTINF:0 tvg-id="FashionTV.nws" group-title="Channels",Fashion TV PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9495
+#EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="Channels",Trace Urban PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3219
+#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",Baby TV PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9490
+#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",SIC K PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3228
+#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",Disney Channel PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3310
+#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",Disney Junior PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3258
+#EXTINF:0 tvg-id="JimJam.pt" group-title="Channels",JimJam PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9491
+#EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",Cartoon Network PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5554
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",Panda Biggs PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5553
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",Canal Panda PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3239
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",RTP Memória PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3212
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",RTP África PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5539
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",RTP Madeira PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3211
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",RTP Açores PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3210
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",Porto Canal PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5538
+#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",TV Globo PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9471
+#EXTINF:0 tvg-id="ext" group-title="Channels",Record Europa PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3249
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",Afro Music Channel PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3250
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV 80s PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9475
+#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Channels",TV Canção Nova PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3237
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",RTP 3 PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3213
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",CM TV PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3236
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",SIC Notícias PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3229
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",TVI 24 PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5536
+#EXTINF:0 tvg-id="FoxNews.pt" group-title="Channels",FOX News PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9476
+#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",TVI HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5537
+#EXTINF:0 tvg-id="TorosTV.pt" group-title="Channels",Toros TV PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5555
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",Sport TV + PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9499
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",Sport TV 1 PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/7846
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",Sport TV 1 HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3221
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",Sport TV 1 FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/17744
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",Sport TV 2 PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/7845
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",Sport TV 2 FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3222
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",Sport TV 3 PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/7844
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",Sport TV 3 FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3223
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",Sport TV 4 PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/7843
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",Sport TV 4 FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3224
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",Sport TV 5 PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/7842
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport TV + FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/19589
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",Benfica TV 1 PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3308
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",Benfica TV 1 HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5541
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",Sporting TV PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3305
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",A Bola TV PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5540
+#EXTINF:0 tvg-id="ext" group-title="Channels",Motorvision TV PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/9485
+#EXTINF:0 tvg-id="pfc.pt" group-title="Channels",PFC PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3248
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",Sport TV 5 FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/16297
+#EXTINF:0 tvg-id="ext" group-title="Channels",Caçavision PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/19627
+#EXTINF:0 tvg-id="ext" group-title="Channels",Caza y Pesca PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/19626
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",Fuel TV PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/19625
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kombat Sport PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3218
+#EXTINF:0 tvg-id="ext" group-title="Channels",MCM pop PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/21948
+#EXTINF:0 tvg-id="mcmtop.pt" group-title="Channels",MCM top PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/21949
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kuriakos TV FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/22974
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC Radical FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/20256
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV 00s PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/24665
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dog TV FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/25172
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC Noticias FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/20258
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOS Studios FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/27665
+#EXTINF:0 tvg-id="AMC.pt" group-title="Channels",AMC PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/27788
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR TV Canal Parlamento PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/27789
+#EXTINF:0 tvg-id="ext" group-title="Channels",Crime + Investigation PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/27790
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eurochannel PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/27792
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Hollywood PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/27793
+#EXTINF:0 tvg-id="ext" group-title="Channels",Investigation Discovery HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/27794
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kuriakos TV PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/27795
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mezzo PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/27796
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA TV PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/27799
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport TV NBA FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/27801
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 11 FHD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/28181
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTP PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/29040
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Globo Now PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3217
+#EXTINF:0 tvg-id="ext" group-title="Channels",Porto Canal HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/19704
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO HD PT
+http://cloudcdn.tk:80/RStaebler/kjUThx349/29514
+
+
+
 
 
 
