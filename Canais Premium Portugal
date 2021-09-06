@@ -18,15 +18,15 @@ Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvso
 https://000000
 
 
-#EXTINF:0,SPORT TV 1 HD PT
+#EXTINF:0,[COLOR=white][B]SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
-#EXTINF:0,SPORT TV 2 HD PT
+#EXTINF:0,[COLOR=white][B]SPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv2.stream/chunks.m3u8
-#EXTINF:0,SPORT TV 3 HD PT
+#EXTINF:0,[COLOR=white][B]SPORT 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv3.stream/chunks.m3u8
-#EXTINF:0,SPORT TV 4 PT
+#EXTINF:0,[COLOR=white][B]SPORT 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv4.stream/chunks.m3u8
-#EXTINF:0,SPORT TV 5 PT
+#EXTINF:0,[COLOR=white][B]SPORT 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv5.stream/chunks.m3u8
 
 
