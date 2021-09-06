@@ -53,8 +53,10 @@ http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
 https://000000
 
 
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://0000000000000000
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]BENFICA TV PT[/B][/COLOR][COLOR=white][/COLOR]
+http://cloudcdn.tk:80/RStaebler/kjUThx349/3308
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]BENFICA TV PT[/B][/COLOR][COLOR=white][/COLOR]
+http://cloudcdn.tk:80/RStaebler/kjUThx349/5541
 
 
 ##################################  GRUPO SPORT TV   ###########################################################################
