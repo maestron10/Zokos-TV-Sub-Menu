@@ -30,10 +30,6 @@ http://31.220.41.88:8081/live/pt-sporttv4.stream/chunks.m3u8
 http://31.220.41.88:8081/live/pt-sporttv5.stream/chunks.m3u8
 
 
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://0000000000
-
 #EXTINF:-1,[COLOR blue]CANAIS INTER. ONDE DÁ FUTEBOL PT[/COLOR]
 https://000000
 
