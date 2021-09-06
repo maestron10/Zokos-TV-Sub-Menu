@@ -14,9 +14,20 @@ Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvso
 ##################################  LISTA DIÁRIA IPTV  ###########################################################################
  #EXTM3U
   
-#EXTINF:-1,[COLOR blue]LINHAS DIÁRIAS DESPORTO PT[/COLOR]
+#EXTINF:-1,[COLOR blue]LISTAS DIVERSAS SPORT TV PT[/COLOR]
 https://000000
 
+
+#EXTINF:0,SPORT TV 1 HD PT
+http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
+#EXTINF:0,SPORT TV 2 HD PT
+http://31.220.41.88:8081/live/pt-sporttv2.stream/chunks.m3u8
+#EXTINF:0,SPORT TV 3 HD PT
+http://31.220.41.88:8081/live/pt-sporttv3.stream/chunks.m3u8
+#EXTINF:0,SPORT TV 4 PT
+http://31.220.41.88:8081/live/pt-sporttv4.stream/chunks.m3u8
+#EXTINF:0,SPORT TV 5 PT
+http://31.220.41.88:8081/live/pt-sporttv5.stream/chunks.m3u8
 
 
 
