@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 26/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 07/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 
@@ -159,14 +159,8 @@ http://185.236.229.21:9981/play/a04w
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]DORCEL[/B][/COLOR][COLOR=white][/COLOR]
-http://46.150.192.58/play/61
-
 #EXTINF:-1,[COLOR=white][B]SEXTREME[/B][/COLOR][COLOR=white][/COLOR]
 http://45.235.37.254:8600/play/a0d8
-
-#EXTINF:-1,[COLOR=white][B]SEXTREME[/B][/COLOR][COLOR=white][/COLOR]
-http://45.175.63.63:4000/play/a09c/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]VENUS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.235.37.254:8600/play/a0d7
