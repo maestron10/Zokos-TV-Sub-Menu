@@ -3,10 +3,21 @@
 http://0.0.0.0:0000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 07/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 17/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
 
+
+#EXTINF:-1,[COLOR=blue][B]CANAIS EXCLUSIVOS PT[/B][/COLOR][COLOR=blue][/COLOR]
+
+#EXTINF: -1,CANAL ON FM PORTUGAL
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/chunklist_w576931987.m3u8
+
+#EXTINF: -1,RÁDIO TV PAÇOS DE FERREIRA
+https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR=blue][B]CANAIS TV PORTUGAL[/B][/COLOR][COLOR=blue][/COLOR]
 
 #EXTINF:0 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
