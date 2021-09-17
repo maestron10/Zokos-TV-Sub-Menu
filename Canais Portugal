@@ -21,7 +21,9 @@ https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
 
 #EXTINF:-1,[COLOR=blue][B]CANAIS TV PORTUGAL[/B][/COLOR][COLOR=blue][/COLOR]
 
-#EXTINF:-1,tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1[/B][/COLOR][COLOR=white][/COLOR]
+#EXTM3U
+
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
 
 #EXTINF:-1,[COLOR=white][B]RTP INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
