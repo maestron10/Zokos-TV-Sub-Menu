@@ -21,12 +21,6 @@ https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MATOSINHOS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://5d82644094cc0.streamlock.net/xradiotv/xradiotv/chunklist_w1017197052.m3u8
 
-#EXTINF:-1,[COLOR=white][B]ALMADA TV[/B][/COLOR][COLOR=white][/COLOR]
-http://88.198.22.8:1935/adalmada_tv/ngrp:adalmada_tv_all/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO SINES TV[/B][/COLOR][COLOR=white][/COLOR]
-https://video01.kshost.com.br/associacao9628/associacao9628/playlist.m3u8
-
 
 #EXTINF:-1,[COLOR=blue][B]CANAIS TV PORTUGAL[/B][/COLOR][COLOR=blue][/COLOR]
 
