@@ -21,8 +21,6 @@ https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MATOSINHOS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://5d82644094cc0.streamlock.net/xradiotv/xradiotv/chunklist_w1017197052.m3u8
 
-#EXTINF:-1,[COLOR=white][B]ZIMBO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://iptv-all.lanesh4d0w.codes/angola/tv-zimbo
 
 #EXTINF:-1,[COLOR=blue][B]CANAIS TV PORTUGAL[/B][/COLOR][COLOR=blue][/COLOR]
 
@@ -127,4 +125,56 @@ http://185.236.229.21:9981/play/a05z
 http://185.236.229.21:9981/play/a04w
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]SPORT TV +[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a03c
+
+#EXTINF:-1,[COLOR=blue][B]CANAIS BRASILEIROS[/B][/COLOR][COLOR=blue][/COLOR]
+
+#EXTM3U
+
+#EXTINF:-1,[COLOR=white][B]BREVEMENTE[/B][/COLOR][COLOR=white][/COLOR]
+https://000000000000000000000000000
+
+
+#EXTINF:-1,[COLOR=blue][B]CANAIS ÁFRICANOS[/B][/COLOR][COLOR=blue][/COLOR]
+
+#EXTM3U
+
+#EXTINF:-1,[COLOR=white][B]ZIMBO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://iptv-all.lanesh4d0w.codes/angola/tv-zimbo
+
+#EXTINF:-1,[COLOR=white][B]KURIAKOS ANGOLA[/B][/COLOR][COLOR=white][/COLOR]
+http://csvl02.manasat.com:1935/kktv_ang_apps/kktv_ang_pt3/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]TPA 1 TV[/B][/COLOR][COLOR=white][/COLOR]
+https://iptv-all.lanesh4d0w.codes/angola/tpa1
+
+#EXTINF:-1,[COLOR=white][B]CNA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]FASO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
+
+#EXTINF:-1,[COLOR=white][B]IMPACTO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://edge7.vedge.infomaniak.com/livecast/ik:impacttv_1/manifest.m3u8
+
+#EXTINF:-1,[COLOR=white][B]VISION TV[/B][/COLOR][COLOR=white][/COLOR]
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ADDIS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
