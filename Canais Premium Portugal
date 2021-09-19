@@ -76,6 +76,9 @@ http://185.236.229.21:9981/play/a03c
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",[COLOR=white][B]SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8
 
+#EXTINF:-1,[COLOR=white][B]SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://93.152.174.144:4000/play/sporttv1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/12/sport-tv2.png" group-title="Sport Channels",[COLOR=white][B]SPORT 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1926
 
@@ -146,8 +149,20 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]SEXTREME[/B][/COLOR][COLOR=white][/COLOR]
 http://45.235.37.254:8600/play/a0d8
 
+#EXTINF:-1,[COLOR=white][B]SEXTREME[/B][/COLOR][COLOR=white][/COLOR]
+http://201.168.205.12:8000/play/a09c/index.m3u8
+
 #EXTINF:-1,[COLOR=white][B]VENUS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.235.37.254:8600/play/a0d7
+
+#EXTINF:-1,[COLOR=white][B]VENUS[/B][/COLOR][COLOR=white][/COLOR]
+http://201.168.205.12:8000/play/a09b/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]PLAYBOY[/B][/COLOR][COLOR=white][/COLOR]
+http://201.168.205.12:8000/play/a09a/index.m3u8
+
+
+
 
 
 
