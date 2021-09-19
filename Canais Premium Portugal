@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 07/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 19/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://vk.com/playlistfinder e ainda: https://www.iptvsource.com/category/euro-ip-tv/portugal-ip-tv-lists/
 
 
@@ -76,30 +76,14 @@ http://185.236.229.21:9981/play/a03c
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",[COLOR=white][B]SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]SPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/12/sport-tv2.png" group-title="Sport Channels",[COLOR=white][B]SPORT 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1926
-
-#EXTINF:-1,[COLOR=white][B]SPORT 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv3.png" group-title="Sport Channels",[COLOR=white][B]SPORT 3 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1927
 
-#EXTINF:-1,[COLOR=white][B]SPORT 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv4.png" group-title="Sport Channels",[COLOR=white][B]SPORT 4 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1928
-
-
-#EXTINF:-1,[COLOR=white][B]SPORT 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",[COLOR=white][B]SPORT 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.tvtap.live:8081/live/pt-sporttv5.stream/playlist.m3u8
