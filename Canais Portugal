@@ -111,8 +111,6 @@ https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
 #EXTINF:-1,[COLOR=white][B]TV MANA[/B][/COLOR][COLOR=white][/COLOR]
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
 
-
-
 #EXTINF:0 tvg-id="NOSStudios.pt" group-title="Movies",[COLOR=white][B]NOS STUDIOS[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a054
 #EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]TVCINE ACTION[/B][/COLOR][COLOR=white][/COLOR]
@@ -130,8 +128,9 @@ http://185.236.229.21:9981/play/a03c
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]BREVEMENTE[/B][/COLOR][COLOR=white][/COLOR]
-https://000000000000000000000000000
+#EXTINF:-1,[COLOR=white][B]TV DIÁRIO[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-01.ix7.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZbZ3y6V8OOph51sGYhZN9i8)/dm/3/x7txn7q/s/live-4.m3u8#cell=lcore
+
 
 
 #EXTINF:-1,[COLOR=blue][B]CANAIS ÁFRICANOS[/B][/COLOR][COLOR=blue][/COLOR]
@@ -140,6 +139,18 @@ https://000000000000000000000000000
 
 #EXTINF:-1,[COLOR=white][B]ZIMBO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://iptv-all.lanesh4d0w.codes/angola/tv-zimbo
+
+#EXTINF:-1,[COLOR=white][B]DEMAND ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
+https://demandafrica-oando.amagi.tv/amRdirect/p=da/hls/amagi_hls_data_theafrica-demand-africa-oando/CDN/1920x1080_5055600/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]VOX ÁFRICA TV[/B][/COLOR][COLOR=white][/COLOR]
+http://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RTI 1 TV[/B][/COLOR][COLOR=white][/COLOR]
+https://www.enovativecdn.com/rticdn/smil:rti1.smil/chunklist_w1535947788_b650000_sleng.m3u8?nimblesessionid=80327189
+
+#EXTINF:-1,[COLOR=white][B]TVGE[/B][/COLOR][COLOR=white][/COLOR]
+https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w258196624_b1500000.m3u8
 
 #EXTINF:-1,[COLOR=white][B]KURIAKOS ANGOLA[/B][/COLOR][COLOR=white][/COLOR]
 http://csvl02.manasat.com:1935/kktv_ang_apps/kktv_ang_pt3/playlist.m3u8
@@ -161,6 +172,11 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.
 
 #EXTINF:-1,[COLOR=white][B]ADDIS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BUKEDDE TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.hydeug.com/bukedde1flussonic/tracks-v1a1/mono.m3u8
+
+
 
 
 
