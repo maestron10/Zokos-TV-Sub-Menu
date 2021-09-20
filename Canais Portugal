@@ -126,16 +126,13 @@ http://185.236.229.21:9981/play/a03c
 
 #EXTM3U
 
-
-#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA E VERIFICADA: 20/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
-
-#EXTM3U
-
 #EXTINF:-1,[COLOR=blue][B]CANAIS BRASILEIROS[/B][/COLOR][COLOR=blue][/COLOR]
 
 #EXTM3U
 
+#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA E VERIFICADA: 20/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
+#EXTM3U
 
 #EXTINF:0 tvg-id="ext" group-title="Outdoor",[COLOR=white][B]AGROBRASIL TV[/B][/COLOR][COLOR=white][/COLOR]
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
