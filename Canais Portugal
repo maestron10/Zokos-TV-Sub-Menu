@@ -134,6 +134,9 @@ http://185.236.229.21:9981/play/a03c
 
 #EXTM3U
 
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Outdoor",[COLOR=white][B]AGROBRASIL TV[/B][/COLOR][COLOR=white][/COLOR]
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:0 tvg-id="Terraviva.br" group-title="Outdoor",[COLOR=white][B]TERRA VIVA[/B][/COLOR][COLOR=white][/COLOR]
@@ -175,12 +178,6 @@ http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]RECORD TV MANAUS[/B][/COLOR][COLOR=white][/COLOR]
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]RT EN ESPAÑOL[/B][/COLOR][COLOR=white][/COLOR]
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]TELESUR[/B][/COLOR][COLOR=white][/COLOR]
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]TELESUR[/B][/COLOR][COLOR=white][/COLOR]
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]TV GUARA[/B][/COLOR][COLOR=white][/COLOR]
 https://59f2354c05961.streamlock.net:1443/tvguara/tvguara/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]TVIDEO NEWS[/B][/COLOR][COLOR=white][/COLOR]
@@ -221,12 +218,8 @@ https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/pascoal/pascoal/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",[COLOR=white][B]TV DIÁRIO DO SERTÃO[/B][/COLOR][COLOR=white][/COLOR]
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-
 #EXTINF:0 tvg-id="TVGazeta.br" group-title="General",[COLOR=white][B]TV GAZETA[/B][/COLOR][COLOR=white][/COLOR]
 https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Series",[COLOR=white][B]DARK MATTER TV BR[/B][/COLOR][COLOR=white][/COLOR]
-https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
-
 #EXTINF:0 tvg-id="TVSeries.pt" group-title="Travel",[COLOR=white][B]TV SERIES[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Weather",[COLOR=white][B]WEATHERSPY BRASIL[/B][/COLOR][COLOR=white][/COLOR]
