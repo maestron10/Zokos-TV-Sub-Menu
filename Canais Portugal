@@ -124,189 +124,138 @@ http://185.236.229.21:9981/play/a04w
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]SPORT TV +[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a03c
 
+#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA E VERIFICADA: 20/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+
 #EXTINF:-1,[COLOR=blue][B]CANAIS BRASILEIROS[/B][/COLOR][COLOR=blue][/COLOR]
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]TV DIÁRIO[/B][/COLOR][COLOR=white][/COLOR]
-https://stream-01.ix7.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZbZ3y6V8OOph51sGYhZN9i8)/dm/3/x7txn7q/s/live-4.m3u8#cell=lcore
 
-#EXTINF:0 tvg-id="ext" group-title="Outdoor",AgroBrasil TV (486p) [Not 24/7]
+
+#EXTINF:0 tvg-id="ext" group-title="Outdoor",AGROBRASIL TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:0 tvg-id="Terraviva.br" group-title="Outdoor",Terra Viva (720p)
+#EXTINF:0 tvg-id="Terraviva.br" group-title="Outdoor",TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Sports",All Sports (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",ALL SPORTS TV
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fox Sports 2 Latin America (576p)
-http://209.91.213.10:8088/play/a026
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fox Sports 2 Latin America (1080p)
-http://209.91.213.10:8088/play/a02r
-#EXTINF:0 tvg-id="ext" group-title="Sports",Rede Globo (720p)
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TNT Sports 2 Brasil (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",TNT SPORTS 2 BRASIL
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TNT Sports 3 Brasil (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",TNT SPORTS 3 BRASIL
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TNT Sports 4 Brasil (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",TNT SPORTS 4 BRASIL
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TNT Sports 5 Brasil (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",TNT SPORTS 5 BRASIL
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TV Aberta (1080p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",TV ABERTA
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TV ALMG (720p)
-https://streaming.almg.gov.br/live/tvalmg.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Animation",Anime TV (360p)
+#EXTINF:0 tvg-id="ext" group-title="Animation",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Animation",Anime Zone TV (480p)
+#EXTINF:0 tvg-id="ext" group-title="Animation",ANIME ZONE TV
 http://azxtv.com/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Animation",Animestation (480p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Animation",ANIMESTATION 
 https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Animation",Kanade TV (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Animation",KANADE TV
 http://45.32.74.87:81/hls/kanadetv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Animation",Locomotion TV (480p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Animation",LOCOMOTION TV
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Animation",Metrópole News TV (480p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Animation",METROPOLE NEWS 
 http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Animation",Project Boom
+#EXTINF:0 tvg-id="ext" group-title="Animation",PROJECT BOOM
 http://45.32.74.87:81/hls/projectboom.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",AXN Latinoamérica (576p)
-http://209.91.213.10:8088/play/a011
-
-#EXTINF:0 tvg-id="Bandnews.br" group-title="News",Bandnews [Geo-blocked]
-http://212.224.98.205:2200/BR/Band_News_HD-br/index.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="News",C-Ghost (1080p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="News",C-GHOST
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
-#EXTINF:0 tvg-id="26TV.ar" group-title="News",Canal 26 (720p)
+#EXTINF:0 tvg-id="26TV.ar" group-title="News",CANAL 26 (720p)
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Canal Saúde (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="News",CANAL SAÚDE
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",CBN Rio (720p)
+#EXTINF:0 tvg-id="ext" group-title="News",CBN RIO
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",CBN São Paulo (720p)
+#EXTINF:0 tvg-id="ext" group-title="News",CBN SÃO PAULO
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Central TV (1080p)
+#EXTINF:0 tvg-id="ext" group-title="News",CENTRAL TV
 http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Clube FM Radio (720p)
-https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",DW Español (1080p)
+#EXTINF:0 tvg-id="ext" group-title="News",DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",France 24 Español (576p)
+#EXTINF:0 tvg-id="ext" group-title="News",FRANCE24 ESPAÑOL
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",HispanTV (480p)
-https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
-#EXTINF:0 tvg-id="RecordNews.pt" group-title="News",Record News (720p)
+#EXTINF:0 tvg-id="RecordNews.pt" group-title="News",RECORD NEWS
 https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",RecordTV Manaus (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="News",RECORD TV MANAUS
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",RT en Español (1080p)
+#EXTINF:0 tvg-id="ext" group-title="News",RT EN ESPAÑOL
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",teleSUR (260p)
+#EXTINF:0 tvg-id="ext" group-title="News",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8
-#EXTINF:0 tvg-id="Telesur.es" group-title="News",teleSUR (360p)
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",teleSUR (1080p)
+#EXTINF:0 tvg-id="ext" group-title="News",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",TV Guará (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="News",TV GUARA
 https://59f2354c05961.streamlock.net:1443/tvguara/tvguara/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",TVídeoNews (720p)
+#EXTINF:0 tvg-id="ext" group-title="News",TVIDEO NEWS
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",UCL TV (720p)
+#EXTINF:0 tvg-id="ext" group-title="News",UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Local",Canal 25 Jundiaí [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Local",CANAL 25 JUNDIAI
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",ITV (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Local",ITV 
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",Nova Era TV (1080p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Local",NOVA ERA TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",Rede RC (360p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Local",REDE RC 
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",TV Cidade Canal 9 (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Local",TV CIDADE CANAL 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",TV Cidade de Petrópolis (720p)
+#EXTINF:0 tvg-id="ext" group-title="Local",TV CIDADE DE PETRÓPOLIS
 https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",TV Cidade de Sao Paulo [Not 24/7]
-https://cast.cdnseguro.com:19360/8012/8012.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",TV Digital Birigui (320p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Local",TV DIGITAL BIRIGUI
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",TV Galega Blumenau (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Local",TV GALEGA BLUMENAU
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",TV Interlagos (576p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Local",TV INTERLAGOS
 http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",TV Jornal (720p)
+#EXTINF:0 tvg-id="ext" group-title="Local",TV JORNAL
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",TV Jornal do Nordeste (720p)
+#EXTINF:0 tvg-id="ext" group-title="Local",TV JORNAL DO NORDESTE
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",TV Sol Comunidade (480p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Local",TV SOL COMUNIDADE
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",TV UniSantos (216p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Local",TV UNISANTOS
 http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",TVE Bahia [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Local",TVE BAHIA
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",TVE RS (1080p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Local",TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",TVN Brasil (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Local",TVN BRASIL
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",TVO TOCOPILLA (360p)
-http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="General",COM Brasil (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="General",COM BRASIL 
 https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
-#EXTINF:0 tvg-id="Cubavision.es" group-title="General",CubaVision Internacional (480p)
+#EXTINF:0 tvg-id="Cubavision.es" group-title="General",CUBAVISION INTERNACIONAL
 http://190.122.96.187:8888/http/010
-#EXTINF:0 tvg-id="ext" group-title="General",Cultura Pará (480p) [Not 24/7]
-http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",MKK Web TV (360p) [Not 24/7]
-http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Rede Brasil (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="General",REDE BRASIL 
 https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",TV Destak (360p) [Not 24/7]
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",TV Destak (480p)
+#EXTINF:0 tvg-id="ext" group-title="General",TV DESTAK
 https://59f2354c05961.streamlock.net:1443/pascoal/pascoal/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",TV Diário do Sertão (720p)
+#EXTINF:0 tvg-id="ext" group-title="General",TV DIÁRIO DO SERTÃO
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",TV Evangelizar (480p)
+#EXTINF:0 tvg-id="ext" group-title="General",TV EVANGELAR 
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",TV Futuro (720p) [Not 24/7]
-https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:0 tvg-id="TVGazeta.br" group-title="General",TV Gazeta (720p) [Not 24/7]
+#EXTINF:0 tvg-id="TVGazeta.br" group-title="General",TV Gazeta (720p)
 https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",TV GIDEOES (720p) [Not 24/7]
-https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",TV Verdes Campos (360p) [Not 24/7]
-https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8
-#EXTINF:0 tvg-id="tvcint" group-title="General",TVCI (360p)
-http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",TVG América (720p)
 https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",Yeeaah! (720p)
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Series",Dark Matter TV Brazil (720p)
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Religious",Fonte TV (1080p) [Not 24/7]
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",Gospel Cartoon (480p)
 https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",Gospel Movie TV (720p)
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Religious",IMPD TV (1080p)
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",Novo Tempo (480p)
 http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",Nuevo Tiempo (720p)
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",Perú Channel (430p) [Not 24/7]
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
-#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Religious",Porto Canal (360p)
-http://213.13.26.11:1935/live/portocanal/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Religious",PUC TV Goiás (180p) [Not 24/7]
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",Rede Brasil de Comunicação (540p) [Not 24/7]
 http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",Rede Gospel (1080p) [Not 24/7]
@@ -315,18 +264,10 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",Rede Mão Amiga (720p)
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Religious",Rede Super (432p)
-https://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Religious",Rede Século 21 (240p) [Not 24/7]
-https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
-#EXTINF:0 tvg-id="Redetv.br" group-title="Religious",RedeTV! (720p)
-https://tna5.bozztv.com/sgc17/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",RedeTV! Tocantins (720p) [Not 24/7]
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",TV Aparecida (1080p)
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Religious",TV Birigui (320p)
-https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",TV Pai Eterno (360p)
 http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",TV Pai Eterno (480p)
@@ -335,10 +276,9 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",TV Pantanal MS (720p) [Not 24/7]
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Religious",TV Terceiro Anjo (360p) [Not 24/7]
-https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",TV Tropical (480p) [Not 24/7]
 https://59f2354c05961.streamlock.net:1443/tvtropical/tvtropical/playlist.m3u8
+***********************************************************************************************
 
 #EXTINF:0 tvg-id="Futura.br" group-title="Education",Futura [Not 24/7]
 https://tv.unisc.br/hls/test.m3u8
