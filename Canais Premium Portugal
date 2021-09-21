@@ -32,7 +32,7 @@ http://31.220.41.88:8081/live/pt-sporttv5.stream/chunks.m3u8
 
  #EXTM3U
 
-#EXTINF:-1,[COLOR=blue][B]CANAIS INTER. ONDE DÁ FUTEBOL PT[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]CANAIS INTERNACIONAIS ONDE DÁ FUTEBOL PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 
@@ -42,6 +42,12 @@ http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/rmc2.png" group-title="SPORTS",[COLOR=white][B]RMC SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=blue][B]ESPN 1 BRASIL[/B][/COLOR][COLOR=blue][/COLOR]
+http://200.194.238.229:8000/udp/225.1.1.13:1234
+
+#EXTINF:-1,[COLOR=blue][B]ESPN 2 BRASIL[/B][/COLOR][COLOR=blue][/COLOR]
+http://200.194.238.229:8000/udp/225.1.1.15:1234
 
 
 
