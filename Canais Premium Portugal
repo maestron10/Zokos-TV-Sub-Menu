@@ -43,10 +43,10 @@ http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/rmc2.png" group-title="SPORTS",[COLOR=white][B]RMC SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
 
-#EXTINF:-1,[COLOR=blue][B]ESPN 1 BRASIL[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ESPN 1 BRASIL[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8000/udp/225.1.1.13:1234
 
-#EXTINF:-1,[COLOR=blue][B]ESPN 2 BRASIL[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ESPN 2 BRASIL[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8000/udp/225.1.1.15:1234
 
 
@@ -59,7 +59,7 @@ http://200.194.238.229:8000/udp/225.1.1.15:1234
 https://000000
 
 
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=red][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=red][/COLOR]
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 https://000000000000
 
 
