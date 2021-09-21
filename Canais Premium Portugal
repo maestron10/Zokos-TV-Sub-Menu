@@ -44,6 +44,11 @@ http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8
 
 
+#EXTINF:-1,[COLOR=white][B]ESPN 1 BRASIL [/B][/COLOR][COLOR=white][/COLOR]
+https://m3u9.ml/a/hls1/espn.m3u8?mu3zAQc9HC3GbwJq=PPYYSj78I6L_caDmUWisXA&3U1G7qaTxrPbalZnEx=1632250869
+
+
+
 
 ##################################  BENFICA TV   ###########################################################################
 
