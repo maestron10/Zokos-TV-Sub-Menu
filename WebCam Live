@@ -15,76 +15,76 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=blue][B]AEROPORTO - ALEMANHA[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]AEROPORTO - ALEMANHA[/B][/COLOR][COLOR=white][/COLOR]
 https://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/chunklist_w1253127012.m3u8
 
-#EXTINF:-1,[COLOR=blue][B]FRANKFURT - ALEMANHA[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]FRANKFURT - ALEMANHA[/B][/COLOR][COLOR=white][/COLOR]
 https://r1---sn-apn7en7e.googlevideo.com/videoplayback?expire=1632328607&ei=PwdLYfaDKsfoxgKA9YLQCg&ip=2001%3A8a0%3Ab8ca%3A4901%3A20f0%3A9a55%3Acc65%3Ae55f&id=K-mOPO5kUBY.1&itag=248&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=j5VXE9gqQWkup2XjgTCvlp8G&gir=yes&keepalive=yes&fexp=24001373,24007246&c=WEB_EMBEDDED_PLAYER&n=zvhfNi0SXBvKHQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAIh6ocZNDM65x0drd4fWzkQOaXzeUifwAo9B_YclUACxAiEAvtskFtVWURwqJxT2TYaLJP155CiKFs4P-UVZID54jpE%3D&alr=yes&cpn=GTv_dwut7xNgwKVE&cver=1.20210919.0.0&redirect_counter=1&cm2rm=sn-2vgu0b5auxaxjvh-v2vl7k&cms_redirect=yes&mh=mU&mm=29&mn=sn-apn7en7e&ms=rdu&mt=1632306873&mv=u&mvi=1&pl=50&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgBIf9Vmp56cbzkb8vwM-SlgkgJFq5OM66ZYFuE8OAhbICIQCEJcA02e_qEpYO1nhWWPZDKPi3sl9aGCfwzKdSYkAa4A%3D%3D&headm=4&rn=3&rbuf=0
 
-#EXTINF:-1,[COLOR=blue][B]HARBOUR - SYDNEY[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]HARBOUR - SYDNEY[/B][/COLOR][COLOR=white][/COLOR]
 https://s65.ipcamlive.com/streams/41ud4hpwhyekqo0sf/stream.m3u8
 
-#EXTINF:-1,[COLOR=blue][B]HANENEKAMM- AUSTRIA[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]HANENEKAMM- AUSTRIA[/B][/COLOR][COLOR=white][/COLOR]
 https://sts104.feratel.co.at/streams/stsstore101/1/05604_614a149c-b442Vid.mp4?dcsdesign=WTP_partner
 
-#EXTINF:-1,[COLOR=blue][B]HANENEKAMM- AUSTRIA[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]HANENEKAMM- AUSTRIA[/B][/COLOR][COLOR=white][/COLOR]
 https://sts052.feratel.co.at/streams/stsstore053/1/05604_614b0370-79e3Vid.mp4?dcsdesign=WTP_partner
 
-#EXTINF:-1,[COLOR=blue][B]GRAMADO - BRASIL[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]GRAMADO - BRASIL[/B][/COLOR][COLOR=white][/COLOR]
 https://oci-sd22.camerite.com/record/cc42ee50-f8ce-11e8-a968-ef2bc31db490.stream/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=blue][B]PONTE DA AMIZADE - BRASIL[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]PONTE DA AMIZADE - BRASIL[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn.jmvstream.com/w/IPC-7040/camera.stream/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=blue][B]PRAIA COPACABANA SUL - BRASIL[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]PRAIA COPACABANA SUL - BRASIL[/B][/COLOR][COLOR=white][/COLOR]
 https://videos-3.earthcam.com/fecnetwork/6593.flv/chunklist_w661000428.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwFzIXnAou0yXqhNGxVrkkMtCCL5EzwZOLNc2QTbPZyJt
 
-#EXTINF:-1,[COLOR=blue][B]PRAIA DA TIJUCA - BRASIL[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]PRAIA DA TIJUCA - BRASIL[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=blue][B]SANTIAGO CAM 1 - CHILE[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SANTIAGO CAM 1 - CHILE[/B][/COLOR][COLOR=white][/COLOR]
 https://edge04.balticlivecam.com/blc/p_CL_Santiago_San_Cristobal/tracks-v1/mono.m3u8?token=59c9080fcfb8cdf0fbef010da37421ff%3A1632305110656
 
-#EXTINF:-1,[COLOR=blue][B]SANTIAGO CAM 2 - CHILE[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SANTIAGO CAM 2 - CHILE[/B][/COLOR][COLOR=white][/COLOR]
 https://edge04.balticlivecam.com/blc/p_CL_Santiago_San_Cristobal/tracks-v1/mono.m3u8?token=b620382dd165df23afb3746cbca5bab5%3A1632305264592
 
-#EXTINF:-1,[COLOR=blue][B]SANTIAGO CAM - CHILE[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SANTIAGO CAM - CHILE[/B][/COLOR][COLOR=white][/COLOR]
 https://edge04.balticlivecam.com/blc/p_CL_Santiago_San_Cristobal/tracks-v1/mono.m3u8?token=b6e993598ef48e0b219530fd19f5c682%3A1632306887182
 
-#EXTINF:-1,[COLOR=blue][B]BESENOVA AQUAPARK - ESLOVÁQUIA[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]BESENOVA AQUAPARK - ESLOVÁQUIA[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.profi-net.sk/tmr/STREAM35.stream/chunklist_w777009514.m3u8
 
-#EXTINF:-1,[COLOR=blue][B]TATRALANDIA AQUAPARK - ESLOVÁQUIA[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]TATRALANDIA AQUAPARK - ESLOVÁQUIA[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w1002298432.m3u8
 
-#EXTINF:-1,[COLOR=blue][B]SAGRADA FAMÍLIA - ESPANHA[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SAGRADA FAMÍLIA - ESPANHA[/B][/COLOR][COLOR=white][/COLOR]
 https://s46.ipcamlive.com/streams/2esipmb2dflohkhzv/stream.m3u8
 
-#EXTINF:-1,[COLOR=blue][B]WINDOOR REALFLY INDOOR SKYDIVING - ESPANHA[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]WINDOOR REALFLY INDOOR SKYDIVING - ESPANHA[/B][/COLOR][COLOR=white][/COLOR]
 https://e1-eu3.angelcam.com/cameras/7144/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI3MTQ0IiwiZGV2aWNlX2lkIjoiNzE0NCIsInRpbWUiOjE2MzIzMDU3NTkwOTQ2MjUsInRpbWVvdXQiOjM2MDB9%2E11d77fe98251d7597c1c876e78dc5fc9ae1bec6e89b8e5e80382925d72f94251
 
-#EXTINF:-1,[COLOR=blue][B]HOLLYWOOD BEACH BROADWALK - E.U.A[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]HOLLYWOOD BEACH BROADWALK - E.U.A[/B][/COLOR][COLOR=white][/COLOR]
 https://r4---sn-2vgu0b5auxaxjvh-v2vl.googlevideo.com/videoplayback?expire=1632328799&ei=_wdLYd_XC4yb1wbTv76gDQ&ip=2001%3A8a0%3Ab8ca%3A4901%3A20f0%3A9a55%3Acc65%3Ae55f&id=cmkAbDUEoyA.2&itag=140&source=yt_live_broadcast&requiressl=yes&mh=zA&mm=44%2C29&mn=sn-2vgu0b5auxaxjvh-v2vl%2Csn-apn7en7e&ms=lva%2Crdu&mv=u&mvi=4&pl=50&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&ns=NQR1sMBzHPduvJYoVgxRMcwG&gir=yes&mt=1632306658&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=U0Wc0V7RPluebQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgFeovSkHzswr9l1HHmqzzwLye1s59l1EwQen3TkwSl_UCIG-l9hfXe40QvWQpyJzk7N3jAvoRjzUPvH8dTlZOgs2j&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRAIfCRPS6VssQkVKM928ZHre0Va28aw1FKrl_KuCeX_02wIhANT-hnSRrvMOU_mMEhjz3orVyUUSNzXkyffJDgZot11c&alr=yes&cpn=deDc0k4U1eefBh37&cver=1.20210919.0.0&sq=1669838&rn=4&rbuf=4985
 
-#EXTINF:-1,[COLOR=blue][B]ASHLAND VIRGINIA - E.U.A[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ASHLAND VIRGINIA - E.U.A[/B][/COLOR][COLOR=white][/COLOR]
 https://r3---sn-2vgu0b5auxaxjvh-v2vz.googlevideo.com/videoplayback?expire=1632328933&ei=hQhLYcCnM8LeW_OhmuAC&ip=2001%3A8a0%3Ab8ca%3A4901%3A20f0%3A9a55%3Acc65%3Ae55f&id=99HqvqvUQ6k.2&itag=299&aitags=133%2C134%2C135%2C136%2C160%2C298%2C299&source=yt_live_broadcast&requiressl=yes&mh=oe&mm=44%2C29&mn=sn-2vgu0b5auxaxjvh-v2vz%2Csn-apn7en7l&ms=lva%2Crdu&mv=u&mvi=3&pcm2cms=yes&pl=50&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=FQQrZ1g726-rQvk0XdFfXSMG&gir=yes&mt=1632306658&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=GqnYKp6yxRdeuw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgbdbBIo-OPsbQQavBbM2kpFRKK73zhVJkWzV5jXIV0DkCIQC6WG6tjAadxQRyG28i5qd7fI-KlT_c67TFhGoRY4kMxA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl&lsig=AG3C_xAwRAIgIDeb6ZjAwVmPbqGZU3pb4ckjNgxOih9DpTtWDbngAlECIFMi1ufnRXbR5KZ2ME2uIyPIXQUlR4TWIxxrdjegsqCW&alr=yes&cpn=PMufG-6eGwcUSwxA&cver=1.20210919.0.0&sq=1759940&rn=3&rbuf=4896
 
-#EXTINF:-1,[COLOR=blue][B]BROOKLYN BRIGGE& MANHANTTAN - E.U.A[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]BROOKLYN BRIGGE& MANHANTTAN - E.U.A[/B][/COLOR][COLOR=white][/COLOR]
 https://r4---sn-2vgu0b5auxaxjvh-v2vd.googlevideo.com/videoplayback?expire=1632329054&ei=_ghLYbEJxuxbv8i3iAE&ip=2001%3A8a0%3Ab8ca%3A4901%3A20f0%3A9a55%3Acc65%3Ae55f&id=KGuCGd726RA.4&itag=248&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=aU&mm=44%2C29&mn=sn-2vgu0b5auxaxjvh-v2vd%2Csn-apn7en7e&ms=lva%2Crdu&mv=u&mvi=4&pcm2cms=yes&pl=50&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=XhmfjVdO56Y_ZAg7StDfd24G&gir=yes&mt=1632306658&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=2VPO2nPVibQExQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhALx6pVuMND8HxP5sVod1n36PKN_eiAp26Jy2zjIr1ZumAiEAtjhBzWvUErM0sRxTINOQ-gc17mHCkb97nRTK_UZg4Fw%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl&lsig=AG3C_xAwRgIhANR3NupvUANN43ACYfw_vXNrihYTLwKcMgzCUJdVgONJAiEA6WOu-AJ9sVStdxvLnjrHUb6PHDTFUjSsG6EI4tvtCEI%3D&alr=yes&cpn=G3eQXm9WioC3Fj3H&cver=1.20210919.0.0&sq=1767518&rn=3&rbuf=4891
 
-#EXTINF:-1,[COLOR=blue][B]TALLINN OLD TOWN - ESTÓNIA[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]TALLINN OLD TOWN - ESTÓNIA[/B][/COLOR][COLOR=white][/COLOR]
 https://edge01.balticlivecam.com/blc/TallinnOldCity/tracks-v1/mono.m3u8?token=8556af690bb1608a8e06107feccd464c%3A1632305930823
 
-#EXTINF:-1,[COLOR=blue][B]FREEDSOM SQUARE - TALLINN - ESTÓNIA[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]FREEDSOM SQUARE - TALLINN - ESTÓNIA[/B][/COLOR][COLOR=white][/COLOR]
 https://edge01.balticlivecam.com/blc/NewTallin/tracks-v1/mono.m3u8?token=7c129f0901c3e005071d86d6507351ef%3A1632306001310
 
-#EXTINF:-1,[COLOR=blue][B]HELSONKI VIEW FROM KLAUS K HOTEL - FILANDIA[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]HELSONKI VIEW FROM KLAUS K HOTEL - FILANDIA[/B][/COLOR][COLOR=white][/COLOR]
 https://edge01.balticlivecam.com/blc/Helsing/tracks-v1/mono.m3u8?token=e39d23a89bf1a74dd663219f6eae0009%3A1632306069141
 
-#EXTINF:-1,[COLOR=blue][B]HELSONKI VIEW FROM KLAUS K HOTEL - FILANDIA[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]HELSONKI VIEW FROM KLAUS K HOTEL - FILANDIA[/B][/COLOR][COLOR=white][/COLOR]
 https://r3---sn-apn7en7e.c.2mdn.net/videoplayback/id/26fc80dca8ce2df5/itag/343/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3775743525/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/44D5B3C338FD21815E88E11BAB84B77162B52190.523A84CE5459EB98DD36DD3646B241982D317A0F/key/cms1/cms_redirect/yes/mh/5Z/mip/2001:8a0:b8ca:4901:20f0:9a55:cc65:e55f/mm/42/mn/sn-apn7en7e/ms/onc/mt/1632306726/mv/u/mvi/3/pl/50/file/file.mp4
 
-#EXTINF:-1,[COLOR=blue][B]HOTEL CARRÉ VIEUX PORT - FRANÇA[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=white][B]HOTEL CARRÉ VIEUX PORT - FRANÇA[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming.novazion.com/HotelCarre/hotelcarre.stream/chunklist_w91291873.m3u8
 
 #EXTINF:-1,[COLOR=blue][B]LISTA OFICIAL 1[/B][/COLOR][COLOR=blue][/COLOR]
