@@ -83,17 +83,11 @@ http://200.194.238.229:8000/udp/225.1.1.15:1234
 #EXTINF:-1,[COLOR=blue][B]BENFICA TV[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]BTV[/B][/COLOR][COLOR=white][/COLOR]
-http://62.210.101.68:8080/hlsr/QkYMWUMOF1gWAlNUUVoHClcAUFdSD1EEUgJSBwkGUVIBBVNaB1QBUg1BHEFATUJXA1RtDQAbD1RRUwBKEkYQVUs7DVwSXBdaBFcIQR8bRFsPXBBeVBUXFQsCEVxeRg9cFUYBQEQDRwxVD28HVk9ZUQcbCAoRVVlJQAldOVRWDlFXAEYCElcXThYKQxMRAxJ/J3YSSURqUBcUD1AJQxMHVRknC1VFCFwBVQBfBkAZVRIvTF4QDVRQAQsHEzUeck0SFUYGUUQUVBZRQQoNRlVcHkBaXREKTUccQFwRNmQRTxJcHBBdXhVcDVpBCkFeCkUKQBUQDRdmRwAREkEDUV4GQhteRggSShcPVRtvAFxXXlcBTVsLCkoXX0BXEUoSXgxeUBALSm8WXAYWWV4WX1VN/chicoparreira/chicoparreira/1353/a060fbbfe1d0cda72da308b9d83bcf4b/1353_2.ts
-
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BENFICA TV HDD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/btv1hdB.png" group-title="PORTUGAL",[COLOR=white][B]BTV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BENFICA TV HDD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/btv1hdB.png" group-title="PORTUGAL",[COLOR=white][B]BTV FHD[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://ptip.xyz:8880/live/chicoparreira/chicoparreira/1353.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BENFICA TV FHD 265" tvg-logo="" group-title="PORTUGAL",[COLOR=white][B]BTV[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://ptip.xyz:8880/live/chicoparreira/chicoparreira/16446.m3u8
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BENFICA TV HD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/btv1hdB.png" group-title="PORTUGAL",[COLOR=white][B]BTV[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://ptip.xyz:8880/live/chicoparreira/chicoparreira/1352.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="BENFICA TV FHD 265" tvg-logo="" group-title="PORTUGAL",[COLOR=white][B]BTV FHD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://ptip.xyz:8880/live/chicoparreira/chicoparreira/16446.m3u8
 
 ##################################  GRUPO SPORT TV   ###########################################################################
 
