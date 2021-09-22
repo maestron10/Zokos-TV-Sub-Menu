@@ -21,21 +21,36 @@ https://000000
 
 #EXTINF:0,[COLOR=white][B]SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
+
+#EXTINF:0,[COLOR=white][B]SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clientportal.link:80/W2Zifdn7k2735/zXrNiQ4122/3221
+
 #EXTINF:-1,[COLOR=white][B]SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv1.stream/playlist.m3u8
 
 #EXTINF:0,[COLOR=white][B]SPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv2.stream/chunks.m3u8
+
+#EXTINF:0,[COLOR=white][B]SPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clientportal.link:80/W2Zifdn7k2735/zXrNiQ4122/3222
+
 #EXTINF:-1,[COLOR=white][B]SPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv2.stream/playlist.m3u8
 
 #EXTINF:0,[COLOR=white][B]SPORT 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv3.stream/chunks.m3u8
+
 #EXTINF:-1,[COLOR=white][B]SPORT 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv3.stream/playlist.m3u8
 
+#EXTINF:-1,[COLOR=white][B]SPORT 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clientportal.link:80/W2Zifdn7k2735/zXrNiQ4122/7843
 
- #EXTM3U
+#EXTINF:-1,[COLOR=white][B]SPORT 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clientportal.link:80/W2Zifdn7k2735/zXrNiQ4122/3224
+
+
+#EXTM3U
 
 #EXTINF:-1,[COLOR=blue][B]CANAIS INTERNACIONAIS ONDE DÁ FUTEBOL PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
@@ -111,13 +126,27 @@ https://000000
 http://clientportal.link:80/W2Zifdn7k2735/zXrNiQ4122/23325
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="VIP Sports",[COLOR=white][B]ELEVEN SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+http://clientportal.link:80/W2Zifdn7k2735/zXrNiQ4122/23320
+
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://clientportal.link:80/W2Zifdn7k2735/zXrNiQ4122/23321
 
 #EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a05x
 
+#EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://clientportal.link:80/W2Zifdn7k2735/zXrNiQ4122/23322
+
 #EXTINF:0 tvg-id="elevensports5.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 5 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a05y
+
+#EXTINF:0 tvg-id="elevensports5.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 5 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://clientportal.link:80/W2Zifdn7k2735/zXrNiQ4122/23323
+
+#EXTINF:0 tvg-id="elevensports5.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 6[/B][/COLOR][COLOR=white][/COLOR]
+http://clientportal.link:80/W2Zifdn7k2735/zXrNiQ4122/23324
+
+
 
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
 #EXTM3U
