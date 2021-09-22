@@ -70,7 +70,7 @@ https://000000
 
 
 #EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://195.154.170.101:8080/hlsr/QkYMWUMOF1gWVAhWUghWC1dcCl1RDAVWVFQFVggGVlIAAF0IB1dXAVZBHEFATUJXA1RtDQAbD1RRUwFKEkYQVUs7DVwSXBdbBVUDQR8bRFsPXBBeVBUXFQsCEVwSB1sBClBGFBIDTRZREV4CX2ZUVxRQUQFGA1sQDgofRF9dPFRcCQVWVEQPQAVBHEFaSkAQWBt/ISsZGEUxA0EQWVAMQxkAARhzCVgXWgpTAlBWVUFCXBIpEVVBDA8DVw9REzAeeEpGFBIEXBZGAkQGEQNeRw5VHkYHVkALFhRKRAoRM2QbSEZdSBJQDEcKXw0RAxJfUUwKRkgbXBY9FFYVREEGUVQBFhoKRAVAGEFdAktmU10MV1cHEFBaCxFECUQBEU8SVAsKUUQJRz1EClRBCRsEClIJAEYZ/VwfVvRpGhr/1rA3CU6Vq4/1352/0752c9fc4e9091164319a16d50fc7869/1352_2.ts
+http://000000000
 
 
 ##################################  GRUPO SPORT TV   ###########################################################################
@@ -108,7 +108,7 @@ http://aziptv.live:6969/Hdservers/Valendsuk/1927
 https://000000
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="VIP Sports",[COLOR=white][B]ELEVEN SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+http://clientportal.link:80/W2Zifdn7k2735/zXrNiQ4122/23325
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="VIP Sports",[COLOR=white][B]ELEVEN SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
