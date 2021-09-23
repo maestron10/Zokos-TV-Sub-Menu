@@ -144,6 +144,12 @@ http://185.236.229.21:9981/play/a03c
 
 #EXTM3U
 
+#EXTINF:-1,[COLOR=white][B]DARK MATTER TV BRASIL[/B][/COLOR][COLOR=white][/COLOR]
+https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]REDE GLOBO RJ[/B][/COLOR][COLOR=white][/COLOR]
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]SBT SP BRASIL[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8
 
