@@ -108,9 +108,6 @@ https://aenetworks-tinyhousenation-1.samsung.wurl.com/manifest/playlist.m3u8
 https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]LIVELY HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://aenetworks-ae-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]LIVELY HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
 http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]HOMETALK TV[/B][/COLOR][COLOR=white][/COLOR]
