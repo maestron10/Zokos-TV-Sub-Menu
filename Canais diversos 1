@@ -65,6 +65,9 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]ADULT SWIM TV[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
 
+#EXTINF:-1,[COLOR=white][B]ADULT SWIM TV[/B][/COLOR][COLOR=white][/COLOR]
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HIPER TV[/B][/COLOR][COLOR=white][/COLOR]
 https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
 
@@ -106,6 +109,9 @@ https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]LIVELY HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://aenetworks-ae-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]LIVELY HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
+http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]HOMETALK TV[/B][/COLOR][COLOR=white][/COLOR]
 https://playworksdigital-hometalk-1.vizio.wurl.com/manifest/playlist.m3u8
@@ -202,6 +208,15 @@ https://5b0f5374bdf0c.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1,[COLOR=blue][B]CARROS E MOTOS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
+
+#EXTINF:-1,[COLOR=white][B]GARATE TV (ARG.)[/B][/COLOR][COLOR=white][/COLOR]
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w474176182_b1296000_sleng.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BUMBLEBEE TV AUTOMOTOR (ARG.)[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]CHOPPERTOWN TV[/B][/COLOR][COLOR=white][/COLOR]
+https://d275e95ir6yrv9.cloudfront.net/dist/localnow/11/hls/master/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]AUTO MOTO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
