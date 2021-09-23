@@ -44,12 +44,6 @@ https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3
  
 #EXTINF: -1,[COLOR=white][B]ADVENTURE SPORTS NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
- 
-#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]CANAL MOTOR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MOTORSPORTS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]RUGBY WORLD TV[/B][/COLOR][COLOR=white][/COLOR]
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
@@ -60,15 +54,6 @@ https://outsidetv-grvty-localnow.amagi.tv/localnow.m3u8
 #EXTINF: -1,[COLOR=white][B]ALL SPORTS BR[/B][/COLOR][COLOR=white][/COLOR]
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
   
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Sports & Recreation",[COLOR=white][B]HARLEY DAVIDSON TV[/B][/COLOR][COLOR=white][/COLOR]
-https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="USA/Canada",[COLOR=white][B]HARLEY DAVIDSON RACING TV[/B][/COLOR][COLOR=white][/COLOR]
-https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
-
-#EXTINF:-1,[COLOR=white][B]HARLEY DAVIDSON RIDES TV[/B][/COLOR][COLOR=white][/COLOR]
-https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FUEL TV[/B][/COLOR][COLOR=white][/COLOR]
 https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
  
@@ -220,6 +205,21 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]AUTO MOTO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]CANAL MOTOR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MOTORSPORTS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Sports & Recreation",[COLOR=white][B]HARLEY DAVIDSON TV[/B][/COLOR][COLOR=white][/COLOR]
+https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="USA/Canada",[COLOR=white][B]HARLEY DAVIDSON RACING TV[/B][/COLOR][COLOR=white][/COLOR]
+https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
+
+#EXTINF:-1,[COLOR=white][B]HARLEY DAVIDSON RIDES TV[/B][/COLOR][COLOR=white][/COLOR]
+https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
 
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS DE CINEMA[/B][/COLOR][COLOR=blue][/COLOR]
