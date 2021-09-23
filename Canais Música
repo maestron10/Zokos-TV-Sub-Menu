@@ -155,9 +155,6 @@ http://51.210.199.24/hls/stream.m3u8
 #EXTINF:-1,[COLOR=white][B]88FM STEREO TV[/B][/COLOR][COLOR=white][/COLOR]
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]BOX TV[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn1.mobiletv.bg/T5/box_tv/box_tv_794613_850k.m3u8
-
 #EXTINF:-1,[COLOR=white][B]EURO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 
