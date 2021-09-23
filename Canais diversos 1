@@ -63,9 +63,6 @@ https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 https://000000
 
 #EXTINF:-1,[COLOR=white][B]ADULT SWIM TV[/B][/COLOR][COLOR=white][/COLOR]
-http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
-
-#EXTINF:-1,[COLOR=white][B]ADULT SWIM TV[/B][/COLOR][COLOR=white][/COLOR]
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HIPER TV[/B][/COLOR][COLOR=white][/COLOR]
