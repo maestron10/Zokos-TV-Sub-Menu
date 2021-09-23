@@ -9,11 +9,7 @@ FONTE DE INFORMAÇÃO: https://iptv-org.github.io/iptv/categories/sports.m3u
  
 #EXTM3U
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 08/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
-
- #EXTINF:-1,[COLOR blue]CANAIS OLÍMPICOS TOQUIO 2O21[/COLOR] 
-https://000000
-
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 23/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTINF:-1,[COLOR=white][B]RACING.COM[/B][/COLOR][COLOR=white][/COLOR]
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
@@ -21,8 +17,6 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]BEK SPORTS EAST[/B][/COLOR][COLOR=white][/COLOR]
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]BUBAI RACING 1[/B][/COLOR][COLOR=white][/COLOR]
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,[COLOR=white][B]DUBAI RACING 2[/B][/COLOR][COLOR=white][/COLOR]
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]BUBAI RACING 3[/B][/COLOR][COLOR=white][/COLOR]
@@ -31,8 +25,7 @@ http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlis
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1,[COLOR=white][B]DUBAI SPORTS 3[/B][/COLOR][COLOR=white][/COLOR]
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1,[COLOR=white][B]TENNIS CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
 #EXTINF:-1,[COLOR=white][B]OMAN SPORT[/B][/COLOR][COLOR=white][/COLOR]
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ADSports1.net" group-title="Sport",[COLOR=white][B]ABU DHABI SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
@@ -49,6 +42,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]ATG[/B][/COLOR][COLOR=white][/COLOR]
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEK SPORTS EAST[/B][/COLOR][COLOR=white][/COLOR]
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEK SPORTS WEST[/B][/COLOR][COLOR=white][/COLOR]
@@ -75,23 +69,15 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]OMAN SPORT[/B][/COLOR][COLOR=white][/COLOR]
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV[/B][/COLOR][COLOR=white][/COLOR]
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 #EXTINF:0 tvg-id="viasat-sport" group-title="Sport",[COLOR=white][B]VIASAR SPORT EAST[/B][/COLOR][COLOR=white][/COLOR]
 https://persik.tv/stream/3602/287583/10249.m3u8
 
-#EXTM3U
-
-#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA: 05/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
-
-
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ABU DHABI SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ADSports2.net" group-title="Sports",[COLOR=white][B]ABU DHABI SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ACCDN[/B][/COLOR][COLOR=white][/COLOR]
-https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ACCDN[/B][/COLOR][COLOR=white][/COLOR]
 https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ADVENTURE SPORTS NETWORK[/B][/COLOR][COLOR=white][/COLOR]
@@ -100,26 +86,13 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ADVENTURE SPORTS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALKASS SPORTS[/B][/COLOR][COLOR=white][/COLOR]
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALKASS SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALKASS SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALKASS SPORTS 3[/B][/COLOR][COLOR=white][/COLOR]
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALKASS SPORTS 4[/B][/COLOR][COLOR=white][/COLOR]
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALKASS SPORTS 5[/B][/COLOR][COLOR=white][/COLOR]
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALL SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALL SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALL SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALL SPORTS NETWORK[/B][/COLOR][COLOR=white][/COLOR]
-https://2-fss-2.streamhoster.com/pl_120/amlst:203932-1476320/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ARRYADIA[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ATG[/B][/COLOR][COLOR=white][/COLOR]
@@ -128,10 +101,6 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]BAHRAIN SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
 http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]BEIN SPORTS 1 ENG[/B][/COLOR][COLOR=white][/COLOR]
-https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]BEIN SPORTS 2 ENG[/B][/COLOR][COLOR=white][/COLOR]
-https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]BEST CABLE SPORTS PERU[/B][/COLOR][COLOR=white][/COLOR]
 https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
@@ -139,7 +108,6 @@ https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]CAPTITAL OTB BETTING[/B][/COLOR][COLOR=white][/COLOR]
 https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI RACING 3[/B][/COLOR][COLOR=white][/COLOR]
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
@@ -149,8 +117,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 3[/B][/COLOR][COLOR=white][/COLOR]
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]EDGE SPORTS[/B][/COLOR][COLOR=white][/COLOR]
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]EDGE SPORTS US[/B][/COLOR][COLOR=white][/COLOR]
 https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS[/B][/COLOR][COLOR=white][/COLOR]
@@ -159,9 +125,6 @@ https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
 http://185.236.229.21:9981/play/a05x
 #EXTINF:0 tvg-id="elevensports5.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 5 PT[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a05y
-
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Sports",[COLOR=white][B]ESPN[/B][/COLOR][COLOR=white][/COLOR]
-http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:0 tvg-id="ESPN2.us" group-title="Sports",[COLOR=white][B]ESPN 2[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
 #EXTINF:0 tvg-id="Esport3.es" group-title="Sports",[COLOR=white][B]ESPORT 3[/B][/COLOR][COLOR=white][/COLOR]
