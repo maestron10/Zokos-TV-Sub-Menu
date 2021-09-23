@@ -1,14 +1,14 @@
 ####################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  CANAIS TV PORTUGAL  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  CANAIS TV PORTUGAL E EXPRESSÃO PORTUGUESA  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:0000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 17/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 23/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=blue][B]CANAIS EXCLUSIVOS PT[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS/TV E CANAIS LOCAIS PT[/B][/COLOR][COLOR=blue][/COLOR]
 
 #EXTM3U
 
@@ -54,7 +54,6 @@ http://162.212.178.69:41042/bysid/608
 
 #EXTINF:-1,[COLOR=white][B]RTP INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://210.210.155.35/qwr9ew/s/s38/index.m3u8
-
 
 #EXTINF:-1,[COLOR=white][B]PORTO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
@@ -142,10 +141,6 @@ http://185.236.229.21:9981/play/a03c
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA E VERIFICADA: 20/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
-
-#EXTM3U
-
 #EXTINF:-1,[COLOR=white][B]SBT SP BRASIL[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8
 
@@ -160,7 +155,6 @@ http://177.11.96.110:9080/hls/sictv.m3u8
 
 #EXTINF:-1,[COLOR=white][B]TV MANCHETE[/B][/COLOR][COLOR=white][/COLOR]
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1059031771.m3u8
-
 
 #EXTINF:0 tvg-id="ext" group-title="Outdoor",[COLOR=white][B]AGROBRASIL TV[/B][/COLOR][COLOR=white][/COLOR]
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
@@ -185,8 +179,6 @@ http://45.32.74.87:81/hls/kanadetv.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Animation",[COLOR=white][B]METROPOLE NEWS[/B][/COLOR][COLOR=white][/COLOR]
 http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Animation",[COLOR=white][B]PROJECT BOOM[/B][/COLOR][COLOR=white][/COLOR]
-http://45.32.74.87:81/hls/projectboom.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]C-GHOST[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 #EXTINF:0 tvg-id="26TV.ar" group-title="News",[COLOR=white][B]CANAL 26 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -207,8 +199,7 @@ https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 https://59f2354c05961.streamlock.net:1443/tvguara/tvguara/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]TVIDEO NEWS[/B][/COLOR][COLOR=white][/COLOR]
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]UCL TV[/B][/COLOR][COLOR=white][/COLOR]
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Local",[COLOR=white][B]CANAL 25 JUNDIAI[/B][/COLOR][COLOR=white][/COLOR]
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Local",[COLOR=white][B]ITV[/B][/COLOR][COLOR=white][/COLOR]
@@ -250,6 +241,7 @@ https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Weather",[COLOR=white][B]WEATHERSPY BRASIL[/B][/COLOR][COLOR=white][/COLOR]
 https://jukin-weatherspy-2-br.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTM3U
 
 #EXTINF:-1,[COLOR=blue][B]CANAIS ÁFRICANOS[/B][/COLOR][COLOR=blue][/COLOR]
 
