@@ -1,5 +1,5 @@
 ####################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  CANAIS TV PORTUGAL E EXPRESSÃO PORTUGUESA  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////  CANAIS TV PORTUGAL E EXPRESSÃO PT  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:0000
 ####################################################################################################################################
  
@@ -86,9 +86,6 @@ http://185.236.229.21:9981/play/a037
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Igreja Online" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="PORTUGAL",[COLOR=white][B]IGREJA ONLINE[/B][/COLOR][COLOR=white][/COLOR]
 http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]KURIAKOS ANGOLA[/B][/COLOR][COLOR=white][/COLOR]
-http://csvl02.manasat.com:1935/kktv_ang_apps/kktv_ang_pt3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Kuriakos Cine" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS CINE[/B][/COLOR][COLOR=white][/COLOR]
 http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
