@@ -136,9 +136,10 @@ https://estv-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ESTV[/B][/COLOR][COLOR=white][/COLOR]
 https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
 
+##########################################################################################################################################################################
 #EXTM3U
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 23/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 2 ADICIONADA: 23/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
 
 #EXTINF:0 tvg-id="ext" group-title="Sports",Abu Dhabi Sports 1 (1080p)
