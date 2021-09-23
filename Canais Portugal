@@ -21,6 +21,29 @@ https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MATOSINHOS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://5d82644094cc0.streamlock.net/xradiotv/xradiotv/chunklist_w1017197052.m3u8
 
+##########################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]CANAIS EXPRESSÃO PT[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+ 
+#EXTINF:-1,[COLOR=white][B]MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
+http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=white][B]MOÇAMBIQUE TV[/B][/COLOR][COLOR=white][/COLOR]
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=white][B]TVM INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
+ 
+#EXTINF:-1,[COLOR=white][B]MUNDO TV BR[/B][/COLOR][COLOR=white][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w895377817.m3u8
+ 
+#EXTINF:-1,[COLOR=white][B]RETRO CARTOONS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1578064597.m3u8
+ 
+#EXTINF:-1,[COLOR=white][B]VINTAGE TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1129240952.m3u8
+
+##########################################################################################################################
 
 #EXTINF:-1,[COLOR=blue][B]CANAIS TV PORTUGAL[/B][/COLOR][COLOR=blue][/COLOR]
 
@@ -270,22 +293,3 @@ https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]BUKEDDE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.hydeug.com/bukedde1flussonic/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
