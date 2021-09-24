@@ -547,18 +547,7 @@ https://samsung-au.ott-channels.stingray.com/karaoke/master.m3u8
 https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",Stingray Karoke (Netherland) (1080p)
 https://stingray-karaoke-4-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Naturescape (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Naturescape (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Naturescape (1080p)
-https://samsung-mx.ott-channels.stingray.com/naturescape/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Naturescape (1080p)
-https://stingray-naturescape-1-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Naturescape (1080p)
-https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Naturescape (Australia) (1080p)
-https://samsung-au.ott-channels.stingray.com/naturescape/master.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Music",Stingray Qello (1080p)
 https://samsung.ott-channels.stingray.com/qello/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",Stingray Qello Concerts (1080p)
