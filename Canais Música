@@ -220,6 +220,9 @@ http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
 #EXTINF:-1,[COLOR=white][B]RÁDIO IBIZA TV[/B][/COLOR][COLOR=white][/COLOR]
 http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/chunklist.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]EURODANCE 90 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+
 ######################################################################################
 #EXTINF:-1,[COLOR=blue][B]MÚSICA ANTIGA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
