@@ -417,54 +417,23 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 
 #EXTINF:0 tvg-id="ext" group-title="Music",Local Now Music (720p)
 https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop 80s East (1080p) [Geo-blocked]
-https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop 80s West (1080p) [Geo-blocked]
-https://a500d902bdf94ea69ad343720add6036.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_littlstar/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",Loop 90s East (1080p)
 https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop 90s West (1080p) [Geo-blocked]
-https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop Beast Mode West (1080p) [Geo-blocked]
-https://1f0e60dbce3043279c491fe51983361d.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_plex/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop Bedroom West (1080p) [Geo-blocked]
-https://3bbe22c035b4409d80f997adc8ad33ee.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_littlstar/master.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Music",Loop Country East (1080p)
 https://loop-country-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop Electronica West (1080p) [Geo-blocked]
-https://0bdf3efc906045538c63468aa2f86a96.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_littlstar/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop Far Out West (1080p) [Geo-blocked]
-https://957d71ce01dc447384d3978d3cdc55d9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_littlstar/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop Flashback West (1080p) [Geo-blocked]
-https://ea86081fb9454be9b3b50037f9117024.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_littlstar/master.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Music",Loop Hip-Hop East (1080p)
 https://loop-hip-hop-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",Loop Hip-Hop West (1080p)
 https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",Loop Hottest East (1080p)
 https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop Latin West (1080p) [Geo-blocked]
-https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_littlstar/master.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Music",Loop Party East (1080p)
 https://loop-party-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",Loop Party West (1080p)
 https://0b1ea79d9170498c91073ff8c460de18.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/party_plex/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop R&B West (1080p) [Geo-blocked]
-https://0cf4f660964046daa9e0b7b6467a4e84.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_littlstar/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop Synapse West (1080p) [Geo-blocked]
-https://2807722353b745629456a555257b16bc.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_littlstar/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop Texas Tunes West (1080p) [Geo-blocked]
-https://2fb88e730c2647d69629c6f90b0b98b9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_littlstar/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop TGIF West (1080p) [Geo-blocked]
-https://480e67fe68b64c35ae48b77192cb1fdf.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_littlstar/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop That's Hot West (1080p) [Geo-blocked]
-https://dccd6216f2c9471399015e69d64818cd.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_littlstar/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop Trending West (1080p) [Geo-blocked]
-https://3d26c463850c48c788975a9aad86c508.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_littlstar/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop Unwind West (1080p) [Geo-blocked]
-https://8c455e94c5ff44d0ada529dffef58ae5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_littlstar/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop Yacht Rock West (1080p) [Geo-blocked]
-https://90a0d12cbaff4b959ea24bb8a3560adf.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_littlstar/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Music",Pluto TV Clubbing TV (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
