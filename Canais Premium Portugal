@@ -216,6 +216,9 @@ http://185.236.229.21:9981/play/a04w
 #EXTINF:-1,[COLOR=blue][B]CANAIS PREMIUM ADULTOS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
+#EXTINF:-1,[COLOR=white][B]HOT TV PT[/B][/COLOR][COLOR=white][/COLOR]
+http://185.236.229.21:9981/play/a03p
+
 #EXTINF:-1,[COLOR=white][B]SEXTREME[/B][/COLOR][COLOR=white][/COLOR]
 http://45.235.37.254:8600/play/a0d8
 
