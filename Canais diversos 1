@@ -13,11 +13,7 @@ http://0.0.0.0:000000
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]PEOPLE ARE AWESOME[/B][/COLOR][COLOR=white][/COLOR]
-https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]PEOPLE ARE AWESOME FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://jukin-peopleareawesome-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=white][B]THE DESIGN NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
@@ -90,6 +86,9 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HIPER TV[/B][/COLOR][COLOR=white][/COLOR]
 https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]PEOPLE ARE AWESOME[/B][/COLOR][COLOR=white][/COLOR]
+https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]AFV (STIRR)[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
@@ -186,6 +185,10 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS PRAIA E NAUTICOS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]MY SURF TV[/B][/COLOR][COLOR=white][/COLOR]
+https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
  
 #EXTINF:-1,[COLOR=white][B]THE BEACH TV[/B][/COLOR][COLOR=white][/COLOR]
 https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8
