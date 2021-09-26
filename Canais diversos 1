@@ -3,11 +3,34 @@
 http://0.0.0.0:000000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 23/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 26/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ##########################################################################################################################
  
 #EXTM3U
+
+#EXTINF:-1,[COLOR=red][B]CANAIS OFFLINE[/B][/COLOR][COLOR=red][/COLOR]
+https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]PEOPLE ARE AWESOME[/B][/COLOR][COLOR=white][/COLOR]
+https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]PEOPLE ARE AWESOME FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://jukin-peopleareawesome-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=white][B]THE DESIGN NETWORK[/B][/COLOR][COLOR=white][/COLOR]
+https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=white][B]TINY HOUSE NATION[/B][/COLOR][COLOR=white][/COLOR]
+https://aenetworks-tinyhousenation-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]LIVELY HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
+http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MOTORSPORTS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
 
 #EXTINF:-1,[COLOR=blue][B]CANAIS DE DESPORTO[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
@@ -68,12 +91,6 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HIPER TV[/B][/COLOR][COLOR=white][/COLOR]
 https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,[COLOR=white][B]PEOPLE ARE AWESOME[/B][/COLOR][COLOR=white][/COLOR]
-https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]PEOPLE ARE AWESOME FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://jukin-peopleareawesome-1.plex.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]AFV (STIRR)[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 
@@ -95,17 +112,8 @@ https://peopletv-oo.akamaized.net/playlist480p.m3u8
 #EXTINF:-1,[COLOR=white][B]WIXLAR[/B][/COLOR][COLOR=white][/COLOR]
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=white][B]THE DESIGN NETWORK[/B][/COLOR][COLOR=white][/COLOR]
-https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=white][B]TINY HOUSE NATION[/B][/COLOR][COLOR=white][/COLOR]
-https://aenetworks-tinyhousenation-1.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=white][B]THE OLD HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]LIVELY HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
-http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]HOMETALK TV[/B][/COLOR][COLOR=white][/COLOR]
 https://playworksdigital-hometalk-1.vizio.wurl.com/manifest/playlist.m3u8
@@ -225,9 +233,6 @@ https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/
  
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]CANAL MOTOR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MOTORSPORTS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Sports & Recreation",[COLOR=white][B]HARLEY DAVIDSON TV[/B][/COLOR][COLOR=white][/COLOR]
 https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
