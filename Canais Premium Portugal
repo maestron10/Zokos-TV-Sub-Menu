@@ -14,6 +14,45 @@ Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 ##################################  LISTA DIÁRIA IPTV  ###########################################################################
  #EXTM3U
   
+  
+  
+ 
+#EXTINF:-1,[COLOR=blue][B]LISTAS PLAYLIST FINDER VK - DESPORTO E CINEMA PT[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+ 
+
+#EXTINF:-1,ELEVEN SPORTS 1
+http://185.236.229.21:9981/play/a05v
+#EXTINF:-1,ELEVEN SPORTS 4
+http://185.236.229.21:9981/play/a05x
+#EXTINF:-1,ELEVEN SPORTS 5
+http://185.236.229.21:9981/play/a05y
+#EXTINF:-1,SPORT TV+
+http://185.236.229.21:9981/play/a03c
+#EXTINF:-1,SPORT TV 1
+http://185.236.229.21:9981/play/a072
+#EXTINF:-1,SPORT TV 2
+http://185.236.229.21:9981/play/a079
+#EXTINF:-1,SPORT TV 3
+http://185.236.229.21:9981/play/a06i
+#EXTINF:-1,SPORT TV 4
+http://185.236.229.21:9981/play/a06j
+#EXTINF:-1,SPORT TV 5
+http://185.236.229.21:9981/play/a03n
+
+
+
+#EXTINF:-1,TVCINE ACTION HD
+http://185.236.229.21:9981/play/a04n
+#EXTINF:-1,TVCINE EDITION HD
+http://185.236.229.21:9981/play/a061
+#EXTINF:-1,TVCINE EMOTION HD
+http://185.236.229.21:9981/play/a05z
+#EXTINF:-1,TVCINE TOP HD
+http://185.236.229.21:9981/play/a04w
+
+
+
 
 #EXTINF:-1,[COLOR=blue][B]LISTAS DIVERSAS SPORT TV PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
