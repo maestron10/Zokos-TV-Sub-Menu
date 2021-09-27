@@ -60,6 +60,34 @@ https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
  
  
 ##########################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]CASAS E RECONSTRUÇÃO[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=white][B]THE DESIGN NETWORK[/B][/COLOR][COLOR=white][/COLOR]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=white][B]THE DESIGN NETWORK[/B][/COLOR][COLOR=white][/COLOR]
+https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USAJ3400020KC" tvg-chno="1211" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/53/USAJ3400020KC_20210525T051656.png" group-title="USA,Food, Home & Travel",Tiny House Nation
+https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8?ads.wurl_channel=675&ads.wurl_name=TinyHouseNation&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=white][B]THE OLD HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
+https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]HOMETALK TV[/B][/COLOR][COLOR=white][/COLOR]
+https://playworksdigital-hometalk-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]LIVELY PLACE[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc1cb279c91420009db261d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]LIVELY PLACE[/B][/COLOR][COLOR=white][/COLOR]
+https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
+
+ 
+ 
+##########################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]OUTROS CANAIS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
@@ -74,6 +102,9 @@ https://cdn87.theus6tv.tk/cable/rightnowtv.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HIPER TV[/B][/COLOR][COLOR=white][/COLOR]
 https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]WIXLAR[/B][/COLOR][COLOR=white][/COLOR]
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]PEOPLE ARE AWESOME[/B][/COLOR][COLOR=white][/COLOR]
 https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -99,26 +130,6 @@ https://peopletv-oo.akamaized.net/playlist480p.m3u8
 #EXTINF:155,[COLOR=white][B]GLAMOUR TV[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
  
-#EXTINF:-1,[COLOR=white][B]WIXLAR[/B][/COLOR][COLOR=white][/COLOR]
-http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=white][B]THE DESIGN NETWORK[/B][/COLOR][COLOR=white][/COLOR]
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=white][B]THE DESIGN NETWORK[/B][/COLOR][COLOR=white][/COLOR]
-https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=white][B]THE OLD HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]HOMETALK TV[/B][/COLOR][COLOR=white][/COLOR]
-https://playworksdigital-hometalk-1.vizio.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]LIVELY PLACE[/B][/COLOR][COLOR=white][/COLOR]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc1cb279c91420009db261d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]LIVELY PLACE[/B][/COLOR][COLOR=white][/COLOR]
-https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]NASA TV 1[/B][/COLOR][COLOR=white][/COLOR]
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
