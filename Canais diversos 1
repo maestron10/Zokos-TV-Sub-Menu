@@ -90,12 +90,6 @@ https://failarmy-linear.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CHIVE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8
 
-#EXTINF:-1,[COLOR=white][B]AFV (STIRR)[/B][/COLOR][COLOR=white][/COLOR]
-https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-
-#EXTINF:-1,[COLOR=white][B]JUST FOR LAUGHS GAGS[/B][/COLOR][COLOR=white][/COLOR]
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
-
 #EXTINF: -1,[COLOR=white][B]TMZ[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
  
@@ -161,6 +155,18 @@ https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxu
 
 #EXTINF:-1,[COLOR=white][B]OUTSIDE TV PLUS[/B][/COLOR][COLOR=white][/COLOR]
 https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
+
+##########################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]COMÉDIA[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]AFV (STIRR)[/B][/COLOR][COLOR=white][/COLOR]
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+
+#EXTINF:-1,[COLOR=white][B]JUST FOR LAUGHS GAGS[/B][/COLOR][COLOR=white][/COLOR]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
+
  
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS MODA E TEMPO[/B][/COLOR][COLOR=blue][/COLOR]
@@ -244,6 +250,9 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]GARATE TV (ARG.)[/B][/COLOR][COLOR=white][/COLOR]
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w474176182_b1296000_sleng.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MAV TV (AU.)[/B][/COLOR][COLOR=white][/COLOR]
+https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]BUMBLEBEE TV AUTOMOTOR (ARG.)[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
