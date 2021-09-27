@@ -12,21 +12,18 @@ http://0.0.0.0:00000
 https://000000
 
 
-
 #EXTINF:-1,[COLOR=white][B]BOX HITS[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]THE BOX UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
-#EXTINF:0 tvg-id="VH1.us" group-title="Music",[COLOR=white][B]VH1 FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1,[COLOR=white][B]ONE TV[/B][/COLOR][COLOR=white][/COLOR]
+http://rtmp.one.by:1499
 
-#EXTINF:-1,[COLOR=white][B]MTV HITS[/B][/COLOR][COLOR=white][/COLOR]
-http://45.179.140.242:8000/play/a0h3
-
-#EXTINF:-1,[COLOR=white][B]MTV BIGGEST POP[/B][/COLOR][COLOR=white][/COLOR]
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="UHD" tvg-logo="",[COLOR=white][B]ONE TV 4K[/B][/COLOR][COLOR=white][/COLOR]
+#EXTVLCOPT:http-user-agent=SmartLabs OnlineTvAppDroid Lavf/56.15.102 Mozilla/5.0 (Linux; U; Android 6.0; zh-CN; MZ-PRO 6 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 MZBrowser/6.9.511-2018012510 UWS/2.11.0.33 Mobile Safari/537.36 Exo45Play 18.3
+http://rtmp.one.by:1499
 
 #EXTINF:-1,[COLOR=white][B]BARAZA DANCE MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://panik.cast-control.eu:1935/Admin_1/Admin_1/playlist.m3u8
@@ -128,6 +125,15 @@ http://59d7d6f47d7fc.streamlock.net:1935/vr/vr/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]VISION TV MUSICA[/B][/COLOR][COLOR=white][/COLOR]
 http://5ee0faac3bbae.streamlock.net:1935/visionmusica/visionmusica/playlist.m3u8
+
+#EXTINF:0 tvg-id="VH1.us" group-title="Music",[COLOR=white][B]VH1 FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MTV HITS[/B][/COLOR][COLOR=white][/COLOR]
+http://45.179.140.242:8000/play/a0h3
+
+#EXTINF:-1,[COLOR=white][B]MTV BIGGEST POP[/B][/COLOR][COLOR=white][/COLOR]
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
   
 ######################################################################################################
  
