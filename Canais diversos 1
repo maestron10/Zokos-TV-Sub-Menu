@@ -9,22 +9,6 @@ http://0.0.0.0:000000
  
 #EXTM3U
 
-#EXTINF:-1,[COLOR=red][B]CANAIS OFFLINE[/B][/COLOR][COLOR=red][/COLOR]
-https://000000
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=white][B]TINY HOUSE NATION[/B][/COLOR][COLOR=white][/COLOR]
-https://aenetworks-tinyhousenation-1.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]LIVELY HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
-http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MOTORSPORTS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-
 
 #EXTINF:-1,[COLOR=blue][B]CANAIS DE DESPORTO[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
@@ -121,6 +105,9 @@ https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]HOMETALK TV[/B][/COLOR][COLOR=white][/COLOR]
 https://playworksdigital-hometalk-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]LIVELY PLACE[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc1cb279c91420009db261d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
  
 #EXTINF:-1,[COLOR=white][B]NASA TV 1[/B][/COLOR][COLOR=white][/COLOR]
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
