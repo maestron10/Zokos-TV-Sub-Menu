@@ -66,11 +66,29 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]ADULT SWIM TV[/B][/COLOR][COLOR=white][/COLOR]
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 
+#EXTINF:-1,[COLOR=white][B]ADULT SWIM TV[/B][/COLOR][COLOR=white][/COLOR]
+http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
+
+#EXTINF:-1,[COLOR=white][B]RIGHT NOW TV[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn87.theus6tv.tk/cable/rightnowtv.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HIPER TV[/B][/COLOR][COLOR=white][/COLOR]
 https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]PEOPLE ARE AWESOME[/B][/COLOR][COLOR=white][/COLOR]
 https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]PEOPLE ARE AWESOME FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://jukin-peopleareawesome-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]FAIL ARMY[/B][/COLOR][COLOR=white][/COLOR]
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+
+#EXTINF:-1,[COLOR=white][B]FAIL ARMY FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://failarmy-linear.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]CHIVE TV[/B][/COLOR][COLOR=white][/COLOR]
+https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8
 
 #EXTINF:-1,[COLOR=white][B]AFV (STIRR)[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
@@ -78,17 +96,14 @@ https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 #EXTINF:-1,[COLOR=white][B]JUST FOR LAUGHS GAGS[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
 
-#EXTINF:-1,[COLOR=white][B]FAIL ARMY[/B][/COLOR][COLOR=white][/COLOR]
-https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-
-#EXTINF:-1,[COLOR=white][B]POWER NATION TV[/B][/COLOR][COLOR=white][/COLOR]
-https://rtmtv-samsung.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF: -1,[COLOR=white][B]TMZ[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
  
 #EXTINF:155,[COLOR=white][B]PEOPLE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://peopletv-oo.akamaized.net/playlist480p.m3u8
+
+#EXTINF:155,[COLOR=white][B]GLAMOUR TV[/B][/COLOR][COLOR=white][/COLOR]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
  
 #EXTINF:-1,[COLOR=white][B]WIXLAR[/B][/COLOR][COLOR=white][/COLOR]
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
@@ -99,7 +114,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playli
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=white][B]THE DESIGN NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=white][B]THE OLD HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -108,7 +122,10 @@ https://playworksdigital-hometalk-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]LIVELY PLACE[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc1cb279c91420009db261d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
- 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]LIVELY PLACE[/B][/COLOR][COLOR=white][/COLOR]
+https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]NASA TV 1[/B][/COLOR][COLOR=white][/COLOR]
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
  
@@ -141,11 +158,17 @@ https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
  
 #EXTINF:-1,[COLOR=white][B]OUTSIDE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
+
+#EXTINF:-1,[COLOR=white][B]OUTSIDE TV PLUS[/B][/COLOR][COLOR=white][/COLOR]
+https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
  
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS MODA E TEMPO[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
  
+
+#EXTINF:-1,[COLOR=white][B]THE WEATHER CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn88.theus6tv.tk/united-states/cable/the-weather-channel.m3u8
  
 #EXTINF:-1,[COLOR=white][B]WEATHER SPY (AUSTRÁLIA)[/B][/COLOR][COLOR=white][/COLOR]
 https://jukin-weatherspy-2-au.samsung.wurl.com/manifest/playlist.m3u8
@@ -173,11 +196,19 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
  
 #EXTINF:-1,[COLOR=white][B]FASHION & LIFE STYLE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1,[COLOR=white][B]FASHION BOX HD[/B][/COLOR][COLOR=white][/COLOR] 
+https://fashionbox-localnow.cinedigm.com/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]VOGUE TV[/B][/COLOR][COLOR=white][/COLOR]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
  
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS PRAIA E NAUTICOS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
+#EXTINF:-1,[COLOR=white][B]OCEAN TV[/B][/COLOR][COLOR=white][/COLOR]
+http://91.192.168.242:9091
 
 #EXTINF:-1,[COLOR=white][B]MY SURF TV[/B][/COLOR][COLOR=white][/COLOR]
 https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
@@ -223,6 +254,9 @@ https://d275e95ir6yrv9.cloudfront.net/dist/localnow/11/hls/master/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]REV´N TV[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
 
+#EXTINF:-1,[COLOR=white][B]POWER NATION TV[/B][/COLOR][COLOR=white][/COLOR]
+https://rtmtv-samsung.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]AUTO MOTO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
  
@@ -267,6 +301,9 @@ https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,[COLOR=blue][B]CANAIS DE NOTICIAS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
+
+#EXTINF:-1,[COLOR=white][B]REUTERS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]CNN INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
