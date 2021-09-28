@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 23/09/21[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 28/09/21[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
  
@@ -12,20 +12,13 @@ http://0.0.0.0:00000
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]BOX HITS[/B][/COLOR][COLOR=white][/COLOR]
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]THE BOX UK[/B][/COLOR][COLOR=white][/COLOR]
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-
-#EXTINF:-1,[COLOR=white][B]ONE TV[/B][/COLOR][COLOR=white][/COLOR]
-http://rtmp.one.by:1499
-
-#EXTINF:-1,[COLOR=white][B]BARAZA DANCE MUSIC[/B][/COLOR][COLOR=white][/COLOR]
-http://panik.cast-control.eu:1935/Admin_1/Admin_1/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN AU[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]TRACE HITS UK[/B][/COLOR][COLOR=white][/COLOR]
+http://oysteriptv.club:1986/live/Aaron/12345/238.ts
 
 #EXTINF:-1,[COLOR=white][B]KRONEHITS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
@@ -33,23 +26,17 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWERHD[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
-#EXTINF:-1,[COLOR=white][B]TRACE HITS UK[/B][/COLOR][COLOR=white][/COLOR]
-http://oysteriptv.club:1986/live/Aaron/12345/238.ts
+#EXTINF:-1,[COLOR=white][B]BARAZA DANCE MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+http://panik.cast-control.eu:1935/Admin_1/Admin_1/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BARAZA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]MOOZ DANCE[/B][/COLOR][COLOR=white][/COLOR]
 http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
 
 #EXTINF:-1,[COLOR=white][B]MOOZ HITS[/B][/COLOR][COLOR=white][/COLOR]
 http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozhits
-
-#EXTINF:-1,[COLOR=white][B]KISS KISS TV[/B][/COLOR][COLOR=white][/COLOR]
-http://58f12ffd2447a.streamlock.net:1935/KKMulti/livestream/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]POWER TV HD (ARG)[/B][/COLOR][COLOR=white][/COLOR]
-https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]HIT TV[/B][/COLOR][COLOR=white][/COLOR]
-http://rosshow.gcdn.co/streams/1410_287/1080n/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=white][B]FIRST 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://rtmp.one.by:1300
@@ -60,6 +47,43 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1,[COLOR=white][B]M20 TV[/B][/COLOR][COLOR=white][/COLOR]
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
+#EXTINF:-1,[COLOR=white][B]VIVO RU TV[/B][/COLOR][COLOR=white][/COLOR]
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MUSIC TOP[/B][/COLOR][COLOR=white][/COLOR]
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]1HD RU[/B][/COLOR][COLOR=white][/COLOR]
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1,[COLOR=white][B]KISS UK[/B][/COLOR][COLOR=white][/COLOR]
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
+#EXTINF:-1,[COLOR=white][B]KISS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83
+
+#EXTINF:-1,[COLOR=white][B]BRIDGE[/B][/COLOR][COLOR=white][/COLOR]
+http://ott-cdn.ucom.am/s34/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ONE 1[/B][/COLOR][COLOR=white][/COLOR]
+https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]THE BOX UK[/B][/COLOR][COLOR=white][/COLOR]
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+
+#EXTINF:-1,[COLOR=white][B]ONE TV[/B][/COLOR][COLOR=white][/COLOR]
+http://rtmp.one.by:1499
+
+#EXTINF:-1,[COLOR=white][B]KISS KISS TV[/B][/COLOR][COLOR=white][/COLOR]
+http://58f12ffd2447a.streamlock.net:1935/KKMulti/livestream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]POWER TV HD (ARG)[/B][/COLOR][COLOR=white][/COLOR]
+https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]HIT TV[/B][/COLOR][COLOR=white][/COLOR]
+http://rosshow.gcdn.co/streams/1410_287/1080n/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Hit Music Channel (HU)" tvg-logo="https://i.imgur.com/n6zkLpb.png" group-title="MUSIC",[COLOR=white][B]HIT MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://hitmusic.hu/hitmusic.m3u8
 
@@ -69,21 +93,15 @@ https://radio538-nl.prd.talpatvcdn.nl/69b995a427c84417bb6a53a1a2a18e4d/index_2.m
 #EXTINF:-1 tvg-id="" tvg-name="XITE (BE)" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="MUSIC",[COLOR=white][B]XITE[/B][/COLOR][COLOR=white][/COLOR]
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BARAZA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
  
-#EXTINF:-1,[COLOR=white][B]MUSIC TOP[/B][/COLOR][COLOR=white][/COLOR]
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+
 
 #EXTINF:-1,[COLOR=white][B]V2BEAT TV[/B][/COLOR][COLOR=white][/COLOR]
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]NRG 91[/B][/COLOR][COLOR=white][/COLOR]
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NRG 91[/B][/COLOR][COLOR=white][/COLOR]
-https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-  
+ 
 #EXTINF:-1,[COLOR=white][B]COMPANY TV[/B][/COLOR][COLOR=white][/COLOR]
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
 
@@ -130,6 +148,15 @@ http://45.179.140.242:8000/play/a0h3
 
 #EXTINF:-1,[COLOR=white][B]MTV BIGGEST POP[/B][/COLOR][COLOR=white][/COLOR]
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DELUXE LOUNGE HD[/B][/COLOR][COLOR=white][/COLOR]
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/91fcad1e-54b1-4702-9ec1-22a379525281/0.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MELODY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]WHAM TV[/B][/COLOR][COLOR=white][/COLOR]
+https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
   
 ######################################################################################################
  
