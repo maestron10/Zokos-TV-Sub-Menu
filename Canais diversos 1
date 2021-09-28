@@ -60,7 +60,7 @@ https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
  
  
 ##########################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]CASAS E RECONSTRUÇÃO[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]CASAS E CONSTRUÇÃO[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
  
  
@@ -175,9 +175,20 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]AFV (STIRR)[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 
+#EXTINF:-1,[COLOR=white][B]AFV (STIRR)[/B][/COLOR][COLOR=white][/COLOR]
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+
 #EXTINF:-1,[COLOR=white][B]JUST FOR LAUGHS GAGS[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
 
+#EXTINF:-1,[COLOR=white][B]COMEDY DYNAMICS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8
+
+#EXTINF:-1,[COLOR=white][B]FAILARMY INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]TROLL TV[/B][/COLOR][COLOR=white][/COLOR]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
  
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS MODA E TEMPO[/B][/COLOR][COLOR=blue][/COLOR]
