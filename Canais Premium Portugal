@@ -30,8 +30,23 @@ http://aziptv.live:6969/Hdservers/Valendsuk/1925
 #EXTINF:0,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://oysteriptv.club:1986/live/Aaron/12345/26135.ts
 
+#EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://31.220.41.88:8081/live/pt-sporttv1.stream/playlist.m3u8
+
 #EXTINF:0,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1926
+
+#EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://31.220.41.88:8081/live/pt-sporttv2.stream/playlist.m3u8
+
+#EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://31.220.41.88:8081/live/pt-sporttv3.stream/playlist.m3u8
+
+#EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://31.220.41.88:8081/live/pt-sporttv4.stream/playlist.m3u8
+
+#EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://31.220.41.88:8081/live/pt-sporttv5.stream/playlist.m3u8
 
 #EXTINF:0,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://oysteriptv.club:1986/live/Aaron/12345/26085.ts
@@ -41,7 +56,6 @@ plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://ptip.x
 
 #EXTINF:0,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://oysteriptv.club:1986/live/Aaron/12345/26086.ts
-
 
  
 #EXTINF:-1,[COLOR=blue][B]LISTAS DIVERSAS SPORT TV PT[/B][/COLOR][COLOR=blue][/COLOR]
