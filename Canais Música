@@ -29,9 +29,6 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1,[COLOR=white][B]BARAZA DANCE MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://panik.cast-control.eu:1935/Admin_1/Admin_1/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BARAZA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]MOOZ DANCE[/B][/COLOR][COLOR=white][/COLOR]
 http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
 
@@ -59,7 +56,7 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1,[COLOR=white][B]ONE TV 4K[/B][/COLOR][COLOR=white][/COLOR]
 http://rtmp.one.by:1499
 
-#EXTINF:-1,[COLOR=white][B]ONE TV TESTE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ONE TV 4K[/B][/COLOR][COLOR=white][/COLOR]
 http://rtmp.one.by:1400/
 
 #EXTINF:-1,[COLOR=white][B]KISS UK[/B][/COLOR][COLOR=white][/COLOR]
