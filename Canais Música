@@ -434,45 +434,45 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Greatest Hits (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY GREATEST HITS[/B][/COLOR][COLOR=white][/COLOR]
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Hit List (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY HIT LIST[/B][/COLOR][COLOR=white][/COLOR]
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Classic Rock (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY CLASSIC ROCK[/B][/COLOR][COLOR=white][/COLOR]
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Rock Alternative (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY ROCK ALTERNATIVE[/B][/COLOR][COLOR=white][/COLOR]
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Pop Adult (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY POP ADULT[/B][/COLOR][COLOR=white][/COLOR]
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Urban Beat (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY URBAN BEAT[/B][/COLOR][COLOR=white][/COLOR]
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Hot Country (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY HOT COUNTRY[/B][/COLOR][COLOR=white][/COLOR]
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Flashback 70s (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY FLASHBACK 70´S[/B][/COLOR][COLOR=white][/COLOR]
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Everything 80s (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY EVERYTHING 80´S[/B][/COLOR][COLOR=white][/COLOR]
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Stingray Today's Latin Pop (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY TODAY´S LATIN POP[/B][/COLOR][COLOR=white][/COLOR]
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",Local Now Music (720p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LOCAL NOW MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop 90s East (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LOCAL 90´S EAST[/B][/COLOR][COLOR=white][/COLOR]
 https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop Country East (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LOOP COUNTRY EAST[/B][/COLOR][COLOR=white][/COLOR]
 https://loop-country-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop Hip-Hop East (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LOOP HIP-HOP EAST[/B][/COLOR][COLOR=white][/COLOR]
 https://loop-hip-hop-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop Hip-Hop West (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LOOP HIP-HOP WEST[/B][/COLOR][COLOR=white][/COLOR]
 https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop Hottest East (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LOOP HOTTEST EAST[/B][/COLOR][COLOR=white][/COLOR]
 https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop Party East (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LOOP PARTY EAST[/B][/COLOR][COLOR=white][/COLOR]
 https://loop-party-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Loop Party West (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LOOP PARTY WEST[/B][/COLOR][COLOR=white][/COLOR]
 https://0b1ea79d9170498c91073ff8c460de18.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/party_plex/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Music",Pluto TV Clubbing TV (720p)
