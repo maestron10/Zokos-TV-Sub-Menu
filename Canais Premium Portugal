@@ -18,7 +18,7 @@ Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 https://000000
 
 
-#EXTINF:0,[COLOR=white][B]SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
 
 #EXTINF:0,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
