@@ -11,9 +11,39 @@ Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 
  [COLOR=coral][B]  [/B][/COLOR][COLOR=coral][/COLOR]
  
-##################################  LISTA DIÁRIA IPTV  ###########################################################################
- #EXTM3U
-  
+
+#EXTM3U
+ 
+#EXTINF:-1,[COLOR=blue][B]LISTAS CAPTURADAS DESPORTO PT[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+
+#EXTINF:0,[COLOR=white][B]SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
+
+#EXTINF:0,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://oysteriptv.club:1986/live/Aaron/12345/26134.ts
+
+#EXTINF:0,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://aziptv.live:6969/Hdservers/Valendsuk/1925
+
+#EXTINF:0,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://oysteriptv.club:1986/live/Aaron/12345/26135.ts
+
+#EXTINF:0,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://aziptv.live:6969/Hdservers/Valendsuk/1926
+
+#EXTINF:0,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://oysteriptv.club:1986/live/Aaron/12345/26085.ts
+
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/elevensports1.png" group-title="PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://ptip.xyz:8880/live/chicoparreira/chicoparreira/1334.m3u8
+
+#EXTINF:0,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://oysteriptv.club:1986/live/Aaron/12345/26086.ts
+
+
+ 
 #EXTINF:-1,[COLOR=blue][B]LISTAS DIVERSAS SPORT TV PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
@@ -23,34 +53,34 @@ http://185.236.229.21:9981/play/a03c
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]SPORT TV+[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a03c
 
-#EXTINF:0,[COLOR=white][B]SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
 
-#EXTINF:-1,[COLOR=white][B]SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv1.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",[COLOR=white][B]SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 group-title="Sports🏆" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://93.152.174.144:4000/play/sporttv1/index.m3u8
 
-#EXTINF:0,[COLOR=white][B]SPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv2.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/12/sport-tv2.png" group-title="Sport Channels",[COLOR=white][B]SPORT 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/12/sport-tv2.png" group-title="Sport Channels",[COLOR=white][B]SPORT TV 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1926
 
-#EXTINF:-1,[COLOR=white][B]SPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv2.stream/playlist.m3u8
 
-#EXTINF:0,[COLOR=white][B]SPORT 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv3.stream/chunks.m3u8
 
-#EXTINF:-1,[COLOR=white][B]SPORT 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv3.png" group-title="Sport Channels",[COLOR=white][B]SPORT 3 FHD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv3.png" group-title="Sport Channels",[COLOR=white][B]SPORT TV 3 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1927
 
 #EXTM3U
