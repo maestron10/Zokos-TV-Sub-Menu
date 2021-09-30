@@ -192,31 +192,6 @@ http://185.236.229.21:9981/play/a05z
 #EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]TVCINE TOP[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a04w
 
-######################################################################################################################################
-
-#EXTM3U
-
-#EXTINF:-1,[COLOR=blue][B]CANAIS PREMIUM ADULTOS[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000
-
-#EXTINF:-1,[COLOR=white][B]HOT TV PT[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03p
-
-#EXTINF:-1,[COLOR=white][B]SEXTREME[/B][/COLOR][COLOR=white][/COLOR]
-http://45.235.37.254:8600/play/a0d8
-
-#EXTINF:-1,[COLOR=white][B]SEXTREME[/B][/COLOR][COLOR=white][/COLOR]
-http://201.168.205.12:8000/play/a09c/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]VENUS[/B][/COLOR][COLOR=white][/COLOR]
-http://45.235.37.254:8600/play/a0d7
-
-#EXTINF:-1,[COLOR=white][B]VENUS[/B][/COLOR][COLOR=white][/COLOR]
-http://201.168.205.12:8000/play/a09b/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]PLAYBOY[/B][/COLOR][COLOR=white][/COLOR]
-http://201.168.205.12:8000/play/a09a/index.m3u8
-
 
 
 
