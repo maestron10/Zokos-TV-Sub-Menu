@@ -52,6 +52,10 @@ https://000000
 
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="ExtasyTVHD.cz" tvg-name="Extasy TV HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="" tvg-url="" group-title="XXX",[COLOR=white][B]EXTASY TV[/B][/COLOR][COLOR=white][/COLOR]
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+
 #EXTINF:-1,[COLOR=white][B]HOT TV PT[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a03p
 
