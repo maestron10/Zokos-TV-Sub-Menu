@@ -27,11 +27,11 @@ http://oysteriptv.club:1986/live/Aaron/12345/26134.ts
 #EXTINF:0,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1925
 
-#EXTINF:0,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://oysteriptv.club:1986/live/Aaron/12345/26135.ts
-
 #EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv1.stream/playlist.m3u8
+
+#EXTINF:0,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://oysteriptv.club:1986/live/Aaron/12345/26135.ts
 
 #EXTINF:0,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1926
@@ -134,9 +134,6 @@ http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/2609
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Wagma OTT",[COLOR=white][B]RMC SPORTS 8[/B][/COLOR][COLOR=white][/COLOR]
 http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/2610
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Wagma OTT",[COLOR=white][B]RMC SPORTS 9[/B][/COLOR][COLOR=white][/COLOR]
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/2611
 
 
 ##################################  BENFICA TV   ###########################################################################
