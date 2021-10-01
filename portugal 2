@@ -52,8 +52,12 @@ http://loginto.live:80/trial270/tns45dsB6W/56244
 http://loginto.live:80/trial270/tns45dsB6W/56245
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV1 4K HEVC
 http://loginto.live:80/trial270/tns45dsB6W/80707
+#EXTINF:0 tvg-id="ext" group-title="Wide World Of Sports - 4K UHD HD SD",SPORT TV 1 HD
+http://loginto.live:80/trial270/tns45dsB6W/28644
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV2 FHD
 http://loginto.live:80/trial270/tns45dsB6W/56246
+#EXTINF:0 tvg-id="ext" group-title="Wide World Of Sports - 4K UHD HD SD",SPORT TV 2 HD
+http://loginto.live:80/trial270/tns45dsB6W/28645
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV2 HD
 http://loginto.live:80/trial270/tns45dsB6W/56247
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV2 SD
@@ -66,6 +70,8 @@ http://loginto.live:80/trial270/tns45dsB6W/56376
 http://loginto.live:80/trial270/tns45dsB6W/56377
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="Portuguese",SPORT TV 3 FHD
 http://loginto.live:80/trial270/tns45dsB6W/56249
+#EXTINF:0 tvg-id="ext" group-title="Wide World Of Sports - 4K UHD HD SD",SPORT TV 3 HD
+http://loginto.live:80/trial270/tns45dsB6W/28646
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV3 FHD
 http://loginto.live:80/trial270/tns45dsB6W/56379
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV3 HD
@@ -76,6 +82,8 @@ http://loginto.live:80/trial270/tns45dsB6W/56381
 http://loginto.live:80/trial270/tns45dsB6W/56382
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV4 SD
 http://loginto.live:80/trial270/tns45dsB6W/56383
+#EXTINF:0 tvg-id="ext" group-title="Wide World Of Sports - 4K UHD HD SD",SPORT TV 4 HD
+http://loginto.live:80/trial270/tns45dsB6W/28647
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV5 FHD
 http://loginto.live:80/trial270/tns45dsB6W/56384
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV5 HD
@@ -93,6 +101,8 @@ http://loginto.live:80/trial270/tns45dsB6W/80675
 http://loginto.live:80/trial270/tns45dsB6W/80746
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 1 2K/4K
 http://loginto.live:80/trial270/tns45dsB6W/80672
+#EXTINF:0 tvg-id="ext" group-title="Wide World Of Sports - 4K UHD HD SD",ELEVEN SPORTS 1
+http://loginto.live:80/trial270/tns45dsB6W/28642
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 2 SD
 http://loginto.live:80/trial270/tns45dsB6W/56161
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 2 FHD
