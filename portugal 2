@@ -3,12 +3,131 @@
 http://0.0.0.0:0000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA TRIAL ADICIONADA: 01/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA TRIAL (24h) ADICIONADA: 01/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 Fonte de Informação: https://discord.com/channels/853410635383177267/877504671743348757/890223023603470399
  
 #EXTM3U
 
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",FOX COMEDY
+http://loginto.live:80/trial270/tns45dsB6W/56179
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",FOX COMEDY HD
+http://loginto.live:80/trial270/tns45dsB6W/56180
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",FOX COMEDY
+http://loginto.live:80/trial270/tns45dsB6W/56308
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",FOX COMEDY HD
+http://loginto.live:80/trial270/tns45dsB6W/56309
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",FOX COMEDY HEVC
+http://loginto.live:80/trial270/tns45dsB6W/80679
+
+####################################################################################################################################
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",BENFICA TV FHD
+http://loginto.live:80/trial270/tns45dsB6W/56140
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Portuguese",BENFICA TV HD
+http://loginto.live:80/trial270/tns45dsB6W/56141
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",BENFICA 4K HEVC
+http://loginto.live:80/trial270/tns45dsB6W/80661
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",BENFICA HEVC
+http://loginto.live:80/trial270/tns45dsB6W/80662
+
+####################################################################################################################################
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Portuguese",SPORT TV +
+http://loginto.live:80/trial270/tns45dsB6W/56242
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV + FHD
+http://loginto.live:80/trial270/tns45dsB6W/80791
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Portuguese",SPORT TV +
+http://loginto.live:80/trial270/tns45dsB6W/56371
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Portuguese",SPORT TV + HD
+http://loginto.live:80/trial270/tns45dsB6W/56372
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Portuguese",SPORT TV + HD
+http://loginto.live:80/trial270/tns45dsB6W/56243
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Portuguese",SPORT TV 1 FHD
+http://loginto.live:80/trial270/tns45dsB6W/56244
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV1 SD
+http://loginto.live:80/trial270/tns45dsB6W/56245
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV1 4K HEVC
+http://loginto.live:80/trial270/tns45dsB6W/80707
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV2 FHD
+http://loginto.live:80/trial270/tns45dsB6W/56246
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV2 HD
+http://loginto.live:80/trial270/tns45dsB6W/56247
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV2 SD
+http://loginto.live:80/trial270/tns45dsB6W/56248
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV2 FHD
+http://loginto.live:80/trial270/tns45dsB6W/56375
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV2 HD
+http://loginto.live:80/trial270/tns45dsB6W/56376
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV2 SD
+http://loginto.live:80/trial270/tns45dsB6W/56377
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Portuguese",SPORT TV 3 FHD
+http://loginto.live:80/trial270/tns45dsB6W/56249
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV3 FHD
+http://loginto.live:80/trial270/tns45dsB6W/56379
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV3 HD
+http://loginto.live:80/trial270/tns45dsB6W/56380
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV3 SD
+http://loginto.live:80/trial270/tns45dsB6W/56381
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV4 FHD
+http://loginto.live:80/trial270/tns45dsB6W/56382
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV4 SD
+http://loginto.live:80/trial270/tns45dsB6W/56383
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV5 FHD
+http://loginto.live:80/trial270/tns45dsB6W/56384
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV5 HD
+http://loginto.live:80/trial270/tns45dsB6W/56385
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",SPORT TV5 SD
+http://loginto.live:80/trial270/tns45dsB6W/56386
+
+####################################################################################################################################
+
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 1 HD
+http://loginto.live:80/trial270/tns45dsB6W/56286
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 1 HD
+http://loginto.live:80/trial270/tns45dsB6W/80675
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 1 FHD
+http://loginto.live:80/trial270/tns45dsB6W/80746
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 1 2K/4K
+http://loginto.live:80/trial270/tns45dsB6W/80672
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 2 SD
+http://loginto.live:80/trial270/tns45dsB6W/56161
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 2 FHD
+http://loginto.live:80/trial270/tns45dsB6W/56288
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 2 HD
+http://loginto.live:80/trial270/tns45dsB6W/56289
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 2 HD HEVC
+http://loginto.live:80/trial270/tns45dsB6W/80676
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 3 FHD
+http://loginto.live:80/trial270/tns45dsB6W/56162
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 3 HD
+http://loginto.live:80/trial270/tns45dsB6W/56292
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 3 SD
+http://loginto.live:80/trial270/tns45dsB6W/56293
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 4 FHD
+http://loginto.live:80/trial270/tns45dsB6W/80749
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVENS SPORTS 4 HD
+http://loginto.live:80/trial270/tns45dsB6W/56166
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVENS SPORTS 4 FHD
+http://loginto.live:80/trial270/tns45dsB6W/56167
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 4 SD
+http://loginto.live:80/trial270/tns45dsB6W/56294
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVENS SPORTS 4 HD
+http://loginto.live:80/trial270/tns45dsB6W/56295
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVENS SPORTS 4 FHD
+http://loginto.live:80/trial270/tns45dsB6W/56296
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 5 HD
+http://loginto.live:80/trial270/tns45dsB6W/56168
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 5 FHD
+http://loginto.live:80/trial270/tns45dsB6W/56169
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 6 SD
+http://loginto.live:80/trial270/tns45dsB6W/56170
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 6 HD
+http://loginto.live:80/trial270/tns45dsB6W/56171
+#EXTINF:0 tvg-id="ext" group-title="Portuguese",ELEVEN SPORTS 6 FHD
+http://loginto.live:80/trial270/tns45dsB6W/56172
+
+
+
+####################################################################################################################################
 
 
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: 11 FHD
@@ -43,10 +162,7 @@ http://loginto.live:80/trial270/tns45dsB6W/56137
 http://loginto.live:80/trial270/tns45dsB6W/56138
 #EXTINF:0 tvg-id="BabyTV.pt" group-title="Portuguese",PT: BABY TV
 http://loginto.live:80/trial270/tns45dsB6W/56139
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: BENFICA TV FHD (NOS)
-http://loginto.live:80/trial270/tns45dsB6W/56140
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Portuguese",PT: BENFICA TV HD
-http://loginto.live:80/trial270/tns45dsB6W/56141
+
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: BLAZE
 http://loginto.live:80/trial270/tns45dsB6W/56142
 #EXTINF:0 tvg-id="CacaVision.pt" group-title="Portuguese",PT: CACAVISION
@@ -77,24 +193,7 @@ http://loginto.live:80/trial270/tns45dsB6W/56154
 http://loginto.live:80/trial270/tns45dsB6W/56155
 #EXTINF:0 tvg-id="eentertainment.pt" group-title="Portuguese",PT: E! ENTERTAINMENT
 http://loginto.live:80/trial270/tns45dsB6W/56156
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 2 SD
-http://loginto.live:80/trial270/tns45dsB6W/56161
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 3 FHD
-http://loginto.live:80/trial270/tns45dsB6W/56162
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVENS SPORTS 4 HD
-http://loginto.live:80/trial270/tns45dsB6W/56166
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVENS SPORTS 4 FHD
-http://loginto.live:80/trial270/tns45dsB6W/56167
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 5 HD
-http://loginto.live:80/trial270/tns45dsB6W/56168
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 5 FHD
-http://loginto.live:80/trial270/tns45dsB6W/56169
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 6 SD
-http://loginto.live:80/trial270/tns45dsB6W/56170
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 6 HD
-http://loginto.live:80/trial270/tns45dsB6W/56171
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 6 FHD
-http://loginto.live:80/trial270/tns45dsB6W/56172
+
 #EXTINF:0 tvg-id="Eurochannel.pt" group-title="Portuguese",PT: Eurochannel
 http://loginto.live:80/trial270/tns45dsB6W/56173
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Euronews
@@ -105,10 +204,7 @@ http://loginto.live:80/trial270/tns45dsB6W/56175
 http://loginto.live:80/trial270/tns45dsB6W/56176
 #EXTINF:0 tvg-id="fox.pt" group-title="Portuguese",PT: FOX
 http://loginto.live:80/trial270/tns45dsB6W/56178
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",PT: FOX COMEDY
-http://loginto.live:80/trial270/tns45dsB6W/56179
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",PT: FOX COMEDY HD
-http://loginto.live:80/trial270/tns45dsB6W/56180
+
 #EXTINF:0 tvg-id="foxcrime.pt" group-title="Portuguese",PT: FOX CRIME
 http://loginto.live:80/trial270/tns45dsB6W/56181
 #EXTINF:0 tvg-id="foxcrime.pt" group-title="Portuguese",PT: FOX CRIME FHD
@@ -231,22 +327,7 @@ http://loginto.live:80/trial270/tns45dsB6W/56239
 http://loginto.live:80/trial270/tns45dsB6W/56240
 #EXTINF:0 tvg-id="sicradical.pt" group-title="Portuguese",PT: SIC RADICAL HD
 http://loginto.live:80/trial270/tns45dsB6W/56241
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Portuguese",PT: SPORT TV +
-http://loginto.live:80/trial270/tns45dsB6W/56242
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Portuguese",PT: SPORT TV + HD
-http://loginto.live:80/trial270/tns45dsB6W/56243
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Portuguese",PT | SPORT TV 1 FHD
-http://loginto.live:80/trial270/tns45dsB6W/56244
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV1 SD
-http://loginto.live:80/trial270/tns45dsB6W/56245
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV2 FHD
-http://loginto.live:80/trial270/tns45dsB6W/56246
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV2 HD
-http://loginto.live:80/trial270/tns45dsB6W/56247
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV2 SD
-http://loginto.live:80/trial270/tns45dsB6W/56248
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Portuguese",PT: SPORT TV 3 FHD
-http://loginto.live:80/trial270/tns45dsB6W/56249
+
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT |  SPORTING TV HD
 http://loginto.live:80/trial270/tns45dsB6W/56258
 #EXTINF:0 tvg-id="SyFy.pt" group-title="Portuguese",PT: SYFY HD
@@ -299,22 +380,7 @@ http://loginto.live:80/trial270/tns45dsB6W/56282
 http://loginto.live:80/trial270/tns45dsB6W/56283
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ZAP VIVA FHD
 http://loginto.live:80/trial270/tns45dsB6W/56284
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 1 HD
-http://loginto.live:80/trial270/tns45dsB6W/56286
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 2 FHD
-http://loginto.live:80/trial270/tns45dsB6W/56288
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 2 HD
-http://loginto.live:80/trial270/tns45dsB6W/56289
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 3 HD
-http://loginto.live:80/trial270/tns45dsB6W/56292
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 3 SD
-http://loginto.live:80/trial270/tns45dsB6W/56293
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 4 SD
-http://loginto.live:80/trial270/tns45dsB6W/56294
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVENS SPORTS 4 HD
-http://loginto.live:80/trial270/tns45dsB6W/56295
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVENS SPORTS 4 FHD
-http://loginto.live:80/trial270/tns45dsB6W/56296
+
 #EXTINF:0 tvg-id="Eurochannel.pt" group-title="Portuguese",PT: Eurochannel
 http://loginto.live:80/trial270/tns45dsB6W/56302
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Euronews
@@ -323,10 +389,7 @@ http://loginto.live:80/trial270/tns45dsB6W/56303
 http://loginto.live:80/trial270/tns45dsB6W/56306
 #EXTINF:0 tvg-id="fox.pt" group-title="Portuguese",PT: FOX
 http://loginto.live:80/trial270/tns45dsB6W/56307
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",PT: FOX COMEDY
-http://loginto.live:80/trial270/tns45dsB6W/56308
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",PT: FOX COMEDY HD
-http://loginto.live:80/trial270/tns45dsB6W/56309
+
 #EXTINF:0 tvg-id="foxcrime.pt" group-title="Portuguese",PT: FOX CRIME
 http://loginto.live:80/trial270/tns45dsB6W/56310
 #EXTINF:0 tvg-id="foxcrime.pt" group-title="Portuguese",PT: FOX CRIME FHD
@@ -449,32 +512,7 @@ http://loginto.live:80/trial270/tns45dsB6W/56368
 http://loginto.live:80/trial270/tns45dsB6W/56369
 #EXTINF:0 tvg-id="sicradical.pt" group-title="Portuguese",PT: SIC RADICAL HD
 http://loginto.live:80/trial270/tns45dsB6W/56370
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Portuguese",PT: SPORT TV +
-http://loginto.live:80/trial270/tns45dsB6W/56371
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Portuguese",PT: SPORT TV + HD
-http://loginto.live:80/trial270/tns45dsB6W/56372
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV2 FHD
-http://loginto.live:80/trial270/tns45dsB6W/56375
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV2 HD
-http://loginto.live:80/trial270/tns45dsB6W/56376
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV2 SD
-http://loginto.live:80/trial270/tns45dsB6W/56377
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV3 FHD
-http://loginto.live:80/trial270/tns45dsB6W/56379
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV3 HD
-http://loginto.live:80/trial270/tns45dsB6W/56380
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV3 SD
-http://loginto.live:80/trial270/tns45dsB6W/56381
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV4 FHD
-http://loginto.live:80/trial270/tns45dsB6W/56382
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV4 SD
-http://loginto.live:80/trial270/tns45dsB6W/56383
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV5 FHD
-http://loginto.live:80/trial270/tns45dsB6W/56384
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV5 HD
-http://loginto.live:80/trial270/tns45dsB6W/56385
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV5 SD
-http://loginto.live:80/trial270/tns45dsB6W/56386
+
 #EXTINF:0 tvg-id="SyFy.pt" group-title="Portuguese",PT: SYFY HD
 http://loginto.live:80/trial270/tns45dsB6W/56388
 #EXTINF:0 tvg-id="TLC.pt" group-title="Portuguese",PT: TLC
@@ -521,8 +559,7 @@ http://loginto.live:80/trial270/tns45dsB6W/56410
 http://loginto.live:80/trial270/tns45dsB6W/56412
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT |  E!  SD
 http://loginto.live:80/trial270/tns45dsB6W/56414
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT | SPORT TV+ FHD
-http://loginto.live:80/trial270/tns45dsB6W/80791
+
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT | Sporting Tv FHD
 http://loginto.live:80/trial270/tns45dsB6W/80792
 #EXTINF:0 tvg-id="SyFy.pt" group-title="Portuguese",PT: SyFy FHD
@@ -621,10 +658,7 @@ http://loginto.live:80/trial270/tns45dsB6W/80743
 http://loginto.live:80/trial270/tns45dsB6W/80744
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: E! Entertainment FHD
 http://loginto.live:80/trial270/tns45dsB6W/80745
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT |  Eleven Sports 1 FHD
-http://loginto.live:80/trial270/tns45dsB6W/80746
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",P |  Eleven Sports 4 FHD
-http://loginto.live:80/trial270/tns45dsB6W/80749
+
 #EXTINF:0 tvg-id="Eurosport2.pt" group-title="Portuguese",PT |  Eurosport 2 FHD
 http://loginto.live:80/trial270/tns45dsB6W/80753
 #EXTINF:0 tvg-id="FightNetwork.pt" group-title="Portuguese",PT: FIGHT NETWORK FHD
@@ -663,8 +697,7 @@ http://loginto.live:80/trial270/tns45dsB6W/80737
 http://loginto.live:80/trial270/tns45dsB6W/80705
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Sport Tv + HEVC
 http://loginto.live:80/trial270/tns45dsB6W/80706
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT | Sport Tv 1 4K HEVC
-http://loginto.live:80/trial270/tns45dsB6W/80707
+
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Sport Tv 3 HEVC
 http://loginto.live:80/trial270/tns45dsB6W/80710
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Sport Tv 5 HEVC
@@ -719,16 +752,8 @@ http://loginto.live:80/trial270/tns45dsB6W/80702
 http://loginto.live:80/trial270/tns45dsB6W/80703
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Sic Radical HEVC
 http://loginto.live:80/trial270/tns45dsB6W/80704
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Eleven Sport 5 HEVC
-http://loginto.live:80/trial270/tns45dsB6W/80673
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Eleven Sport 6 HEVC
-http://loginto.live:80/trial270/tns45dsB6W/80674
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT | Eleven Sports 1 HEVC
-http://loginto.live:80/trial270/tns45dsB6W/80675
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT |  Eleven Sports 2 HEVC
-http://loginto.live:80/trial270/tns45dsB6W/80676
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Fox Comedy HEVC
-http://loginto.live:80/trial270/tns45dsB6W/80679
+
+
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Fox Crime HEVC
 http://loginto.live:80/trial270/tns45dsB6W/80680
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Fox HEVC
@@ -747,10 +772,7 @@ http://loginto.live:80/trial270/tns45dsB6W/80686
 http://loginto.live:80/trial270/tns45dsB6W/80659
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Bloomberg Europe HEVC
 http://loginto.live:80/trial270/tns45dsB6W/80660
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Btv 4K HEVC
-http://loginto.live:80/trial270/tns45dsB6W/80661
-#EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Btv HEVC
-http://loginto.live:80/trial270/tns45dsB6W/80662
+
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Canal 11 HEVC
 http://loginto.live:80/trial270/tns45dsB6W/80663
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: CASA E COZINHA HEVC
