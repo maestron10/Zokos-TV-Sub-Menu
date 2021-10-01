@@ -9,6 +9,11 @@ Fonte de Informação: https://discord.com/channels/853410635383177267/877504671
  
 #EXTM3U
 
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",[COLOR=blue][B]LISTA DISPONÍVEL APENAS 24 HORAS[/B][/COLOR][COLOR=blue][/COLOR]
+http://000000000000
+
+
+
 #EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",FOX COMEDY
 http://loginto.live:80/trial270/tns45dsB6W/56179
 #EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",FOX COMEDY HD
