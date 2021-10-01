@@ -35,11 +35,12 @@
 </channel>
 
 
+
 </channel>
 <channel>
-<name>[COLOR=gold][B]VÁRIOS CONTEÚDOS[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]ADDON RAMALHO TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/leandro-brandao96/leandro-brandao96_Playlist/main/leandro-brandao96_Playlist_Public.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/base-addon/master/README.md</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
 </channel>
@@ -49,9 +50,9 @@
 
 </channel>
 <channel>
-<name>[COLOR=gold][B]RAMALHO TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]VÁRIOS CONTEÚDOS[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/base-addon/master/README.md</externallink>
+<externallink>https://raw.githubusercontent.com/leandro-brandao96/leandro-brandao96_Playlist/main/leandro-brandao96_Playlist_Public.m3u</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
 </channel>
@@ -71,16 +72,6 @@
 
 
 
-
-</channel>
-<channel>
-<name>[COLOR=gold][B]DESPORTO INTER. TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Semangat-Pagi/SPORTS/main/m3u8</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channel>
 
 
 
