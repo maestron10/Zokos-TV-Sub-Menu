@@ -59,13 +59,26 @@
  
 <channels>
 <channel>
-<name>[COLOR=gold][B]CANAIS TV PORTUGAL[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]CANAIS TV PORTUGAL 1[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601405.us.archive.org/33/items/canais-pt/Canais%20PT.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20Portugal</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
 </channel>
 </channel>
+
+
+
+<channels>
+<channel>
+<name>[COLOR=gold][B]CANAIS TV PORTUGAL 2[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601405.us.archive.org/33/items/canais-pt/Canais%20PT.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/portugal%202</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channel>
+
 
  
 <channels>
