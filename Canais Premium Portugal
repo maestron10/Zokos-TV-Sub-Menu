@@ -70,6 +70,9 @@ http://185.236.229.21:9981/play/a03c
 #EXTINF:0,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/189
+
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv1.stream/playlist.m3u8
 
@@ -78,6 +81,9 @@ http://stream.tvtap.live:8081/live/pt-sporttv1.stream/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://93.152.174.144:4000/play/sporttv1/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/190
 
 #EXTINF:0,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv2.stream/chunks.m3u8
@@ -88,6 +94,9 @@ http://aziptv.live:6969/Hdservers/Valendsuk/1926
 #EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv2.stream/playlist.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/191
+
 #EXTINF:0,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv3.stream/chunks.m3u8
 
@@ -96,6 +105,12 @@ http://31.220.41.88:8081/live/pt-sporttv3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv3.png" group-title="Sport Channels",[COLOR=white][B]SPORT TV 3 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1927
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/192
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/193
 
 #EXTM3U
 
