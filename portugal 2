@@ -3,791 +3,790 @@
 http://0.0.0.0:0000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA TRIAL (24h) ADICIONADA: 01/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA TRIAL (24h) ADICIONADA: 03/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 Fonte de Informação: https://discord.com/channels/853410635383177267/877504671743348757/890223023603470399
  
 #EXTM3U
 
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",[COLOR=blue][B]LISTA DISPONÍVEL ATÉ 02/10/2021 ÁS 13:26[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",[COLOR=blue][B]LISTA DISPONÍVEL 24H[/B][/COLOR][COLOR=blue][/COLOR]
 http://000000000000
 
-
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: 11 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56124
+http://loginto.live:80/trial284/jVr6hf7qMq/56124
 #EXTINF:0 tvg-id="24Kitchen.pt" group-title="Portuguese",PT: 24 KITCHEN FHD
-http://loginto.live:80/trial273/8khMjTadEC/56125
+http://loginto.live:80/trial284/jVr6hf7qMq/56125
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT | A BOLA TV
-http://loginto.live:80/trial273/8khMjTadEC/56126
+http://loginto.live:80/trial284/jVr6hf7qMq/56126
 #EXTINF:0 tvg-id="AfroMusic.pt" group-title="Portuguese",PT: AFRO MUSIC
-http://loginto.live:80/trial273/8khMjTadEC/56127
+http://loginto.live:80/trial284/jVr6hf7qMq/56127
 #EXTINF:0 tvg-id="AMC.pt" group-title="Portuguese",PT: AMC
-http://loginto.live:80/trial273/8khMjTadEC/56128
+http://loginto.live:80/trial284/jVr6hf7qMq/56128
 #EXTINF:0 tvg-id="AMC.pt" group-title="Portuguese",PT: AMC HD
-http://loginto.live:80/trial273/8khMjTadEC/56129
+http://loginto.live:80/trial284/jVr6hf7qMq/56129
 #EXTINF:0 tvg-id="axn.pt" group-title="Portuguese",PT: AXN
-http://loginto.live:80/trial273/8khMjTadEC/56130
+http://loginto.live:80/trial284/jVr6hf7qMq/56130
 #EXTINF:0 tvg-id="AXNBlack.pt" group-title="Portuguese",PT: AXN BLACK
-http://loginto.live:80/trial273/8khMjTadEC/56131
+http://loginto.live:80/trial284/jVr6hf7qMq/56131
 #EXTINF:0 tvg-id="AXNBlack.pt" group-title="Portuguese",PT: AXN Black FHD
-http://loginto.live:80/trial273/8khMjTadEC/56132
+http://loginto.live:80/trial284/jVr6hf7qMq/56132
 #EXTINF:0 tvg-id="AXNBlack.pt" group-title="Portuguese",PT: AXN BLACK HD
-http://loginto.live:80/trial273/8khMjTadEC/56133
+http://loginto.live:80/trial284/jVr6hf7qMq/56133
 #EXTINF:0 tvg-id="axn.pt" group-title="Portuguese",PT: AXN FHD
-http://loginto.live:80/trial273/8khMjTadEC/56134
+http://loginto.live:80/trial284/jVr6hf7qMq/56134
 #EXTINF:0 tvg-id="AXNWhite.pt" group-title="Portuguese",PT: AXN WHITE
-http://loginto.live:80/trial273/8khMjTadEC/56135
+http://loginto.live:80/trial284/jVr6hf7qMq/56135
 #EXTINF:0 tvg-id="AXNWhite.pt" group-title="Portuguese",PT: AXN WHITE FHD
-http://loginto.live:80/trial273/8khMjTadEC/56136
+http://loginto.live:80/trial284/jVr6hf7qMq/56136
 #EXTINF:0 tvg-id="AXNWhite.pt" group-title="Portuguese",PT: AXN WHITE HD
-http://loginto.live:80/trial273/8khMjTadEC/56137
+http://loginto.live:80/trial284/jVr6hf7qMq/56137
 #EXTINF:0 tvg-id="BabyTV.pt" group-title="Portuguese",PT: BABY TV
-http://loginto.live:80/trial273/8khMjTadEC/56138
+http://loginto.live:80/trial284/jVr6hf7qMq/56138
 #EXTINF:0 tvg-id="BabyTV.pt" group-title="Portuguese",PT: BABY TV
-http://loginto.live:80/trial273/8khMjTadEC/56139
+http://loginto.live:80/trial284/jVr6hf7qMq/56139
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: BENFICA TV FHD (NOS)
-http://loginto.live:80/trial273/8khMjTadEC/56140
+http://loginto.live:80/trial284/jVr6hf7qMq/56140
 #EXTINF:0 tvg-id="BenficaTV.pt" group-title="Portuguese",PT: BENFICA TV HD
-http://loginto.live:80/trial273/8khMjTadEC/56141
+http://loginto.live:80/trial284/jVr6hf7qMq/56141
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: BLAZE
-http://loginto.live:80/trial273/8khMjTadEC/56142
+http://loginto.live:80/trial284/jVr6hf7qMq/56142
 #EXTINF:0 tvg-id="CacaVision.pt" group-title="Portuguese",PT: CACAVISION
-http://loginto.live:80/trial273/8khMjTadEC/56143
+http://loginto.live:80/trial284/jVr6hf7qMq/56143
 #EXTINF:0 tvg-id="CanalQ.pt" group-title="Portuguese",PT: CANAL Q
-http://loginto.live:80/trial273/8khMjTadEC/56144
+http://loginto.live:80/trial284/jVr6hf7qMq/56144
 #EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Portuguese",PT: CANÇAO NOVA
-http://loginto.live:80/trial273/8khMjTadEC/56145
+http://loginto.live:80/trial284/jVr6hf7qMq/56145
 #EXTINF:0 tvg-id="cartoon.pt" group-title="Portuguese",PT: CARTOON NETWORK
-http://loginto.live:80/trial273/8khMjTadEC/56146
+http://loginto.live:80/trial284/jVr6hf7qMq/56146
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: CAÇA PESCA HD
-http://loginto.live:80/trial273/8khMjTadEC/56147
+http://loginto.live:80/trial284/jVr6hf7qMq/56147
 #EXTINF:0 tvg-id="CBSReality.pt" group-title="Portuguese",PT: CBS Reality
-http://loginto.live:80/trial273/8khMjTadEC/56148
+http://loginto.live:80/trial284/jVr6hf7qMq/56148
 #EXTINF:0 tvg-id="Cinemundo.pt" group-title="Portuguese",PT: CINEMUNDO
-http://loginto.live:80/trial273/8khMjTadEC/56149
+http://loginto.live:80/trial284/jVr6hf7qMq/56149
 #EXTINF:0 tvg-id="Cinemundo.pt" group-title="Portuguese",PT: CINEMUNDO HD
-http://loginto.live:80/trial273/8khMjTadEC/56150
+http://loginto.live:80/trial284/jVr6hf7qMq/56150
 #EXTINF:0 tvg-id="CMTV.pt" group-title="Portuguese",PT: CMTV HD
-http://loginto.live:80/trial273/8khMjTadEC/56151
+http://loginto.live:80/trial284/jVr6hf7qMq/56151
 #EXTINF:0 tvg-id="DISCOVERYHD.pt" group-title="Portuguese",PT: DISCOVERY CHANNEL HD
-http://loginto.live:80/trial273/8khMjTadEC/56152
+http://loginto.live:80/trial284/jVr6hf7qMq/56152
 #EXTINF:0 tvg-id="disneychannel.pt" group-title="Portuguese",PT: DISNEY CHANNEL
-http://loginto.live:80/trial273/8khMjTadEC/56153
+http://loginto.live:80/trial284/jVr6hf7qMq/56153
 #EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Portuguese",PT: DISNEY JUNIOR
-http://loginto.live:80/trial273/8khMjTadEC/56154
+http://loginto.live:80/trial284/jVr6hf7qMq/56154
 #EXTINF:0 tvg-id="eentertainment.pt" group-title="Portuguese",PT: E! Entertainment
-http://loginto.live:80/trial273/8khMjTadEC/56155
+http://loginto.live:80/trial284/jVr6hf7qMq/56155
 #EXTINF:0 tvg-id="eentertainment.pt" group-title="Portuguese",PT: E! ENTERTAINMENT
-http://loginto.live:80/trial273/8khMjTadEC/56156
+http://loginto.live:80/trial284/jVr6hf7qMq/56156
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 2 SD
-http://loginto.live:80/trial273/8khMjTadEC/56161
+http://loginto.live:80/trial284/jVr6hf7qMq/56161
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 3 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56162
+http://loginto.live:80/trial284/jVr6hf7qMq/56162
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVENS SPORTS 4 HD
-http://loginto.live:80/trial273/8khMjTadEC/56166
+http://loginto.live:80/trial284/jVr6hf7qMq/56166
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVENS SPORTS 4 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56167
+http://loginto.live:80/trial284/jVr6hf7qMq/56167
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 5 HD
-http://loginto.live:80/trial273/8khMjTadEC/56168
+http://loginto.live:80/trial284/jVr6hf7qMq/56168
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 5 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56169
+http://loginto.live:80/trial284/jVr6hf7qMq/56169
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 6 SD
-http://loginto.live:80/trial273/8khMjTadEC/56170
+http://loginto.live:80/trial284/jVr6hf7qMq/56170
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 6 HD
-http://loginto.live:80/trial273/8khMjTadEC/56171
+http://loginto.live:80/trial284/jVr6hf7qMq/56171
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 6 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56172
+http://loginto.live:80/trial284/jVr6hf7qMq/56172
 #EXTINF:0 tvg-id="Eurochannel.pt" group-title="Portuguese",PT: Eurochannel
-http://loginto.live:80/trial273/8khMjTadEC/56173
+http://loginto.live:80/trial284/jVr6hf7qMq/56173
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Euronews
-http://loginto.live:80/trial273/8khMjTadEC/56174
+http://loginto.live:80/trial284/jVr6hf7qMq/56174
 #EXTINF:0 tvg-id="Eurosport1.pt" group-title="Portuguese",PT | EUROSPORT 1 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56175
+http://loginto.live:80/trial284/jVr6hf7qMq/56175
 #EXTINF:0 tvg-id="Eurosport1.pt" group-title="Portuguese",PT: EUROSPORT 1 HD
-http://loginto.live:80/trial273/8khMjTadEC/56176
+http://loginto.live:80/trial284/jVr6hf7qMq/56176
 #EXTINF:0 tvg-id="fox.pt" group-title="Portuguese",PT: FOX
-http://loginto.live:80/trial273/8khMjTadEC/56178
+http://loginto.live:80/trial284/jVr6hf7qMq/56178
 #EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",PT: FOX COMEDY
-http://loginto.live:80/trial273/8khMjTadEC/56179
+http://loginto.live:80/trial284/jVr6hf7qMq/56179
 #EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",PT: FOX COMEDY HD
-http://loginto.live:80/trial273/8khMjTadEC/56180
+http://loginto.live:80/trial284/jVr6hf7qMq/56180
 #EXTINF:0 tvg-id="foxcrime.pt" group-title="Portuguese",PT: FOX CRIME
-http://loginto.live:80/trial273/8khMjTadEC/56181
+http://loginto.live:80/trial284/jVr6hf7qMq/56181
 #EXTINF:0 tvg-id="foxcrime.pt" group-title="Portuguese",PT: FOX CRIME FHD
-http://loginto.live:80/trial273/8khMjTadEC/56182
+http://loginto.live:80/trial284/jVr6hf7qMq/56182
 #EXTINF:0 tvg-id="foxcrime.pt" group-title="Portuguese",PT: FOX CRIME HD
-http://loginto.live:80/trial273/8khMjTadEC/56183
+http://loginto.live:80/trial284/jVr6hf7qMq/56183
 #EXTINF:0 tvg-id="fox.pt" group-title="Portuguese",PT: FOX FHD
-http://loginto.live:80/trial273/8khMjTadEC/56184
+http://loginto.live:80/trial284/jVr6hf7qMq/56184
 #EXTINF:0 tvg-id="fox.pt" group-title="Portuguese",PT: FOX HD
-http://loginto.live:80/trial273/8khMjTadEC/56185
+http://loginto.live:80/trial284/jVr6hf7qMq/56185
 #EXTINF:0 tvg-id="foxlife.pt" group-title="Portuguese",PT: FOX LIFE
-http://loginto.live:80/trial273/8khMjTadEC/56186
+http://loginto.live:80/trial284/jVr6hf7qMq/56186
 #EXTINF:0 tvg-id="foxlife.pt" group-title="Portuguese",PT: FOX LIFE HD
-http://loginto.live:80/trial273/8khMjTadEC/56187
+http://loginto.live:80/trial284/jVr6hf7qMq/56187
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: FTV
-http://loginto.live:80/trial273/8khMjTadEC/56188
+http://loginto.live:80/trial284/jVr6hf7qMq/56188
 #EXTINF:0 tvg-id="FuelTV.pt" group-title="Portuguese",PT: Fuel TV
-http://loginto.live:80/trial273/8khMjTadEC/56189
+http://loginto.live:80/trial284/jVr6hf7qMq/56189
 #EXTINF:0 tvg-id="FuelTV.pt" group-title="Portuguese",PT: FUEL TV HD
-http://loginto.live:80/trial273/8khMjTadEC/56190
+http://loginto.live:80/trial284/jVr6hf7qMq/56190
 #EXTINF:0 tvg-id="TVGlobo.pt" group-title="Portuguese",PT: GLOBO
-http://loginto.live:80/trial273/8khMjTadEC/56191
+http://loginto.live:80/trial284/jVr6hf7qMq/56191
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Globo International
-http://loginto.live:80/trial273/8khMjTadEC/56192
+http://loginto.live:80/trial284/jVr6hf7qMq/56192
 #EXTINF:0 tvg-id="GloboNow.pt" group-title="Portuguese",PT: Globo Now
-http://loginto.live:80/trial273/8khMjTadEC/56193
+http://loginto.live:80/trial284/jVr6hf7qMq/56193
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: GLOBO TV
-http://loginto.live:80/trial273/8khMjTadEC/56194
+http://loginto.live:80/trial284/jVr6hf7qMq/56194
 #EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Portuguese",PT: Historia
-http://loginto.live:80/trial273/8khMjTadEC/56195
+http://loginto.live:80/trial284/jVr6hf7qMq/56195
 #EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Portuguese",PT: HISTORIA HD
-http://loginto.live:80/trial273/8khMjTadEC/56196
+http://loginto.live:80/trial284/jVr6hf7qMq/56196
 #EXTINF:0 tvg-id="Hollywood.es" group-title="Portuguese",PT: Hollywood FHD
-http://loginto.live:80/trial273/8khMjTadEC/56197
+http://loginto.live:80/trial284/jVr6hf7qMq/56197
 #EXTINF:0 tvg-id="Hollywood.es" group-title="Portuguese",PT: HOLLYWOOD HD
-http://loginto.live:80/trial273/8khMjTadEC/56198
+http://loginto.live:80/trial284/jVr6hf7qMq/56198
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ID INVESTIGATION DISCOVERY
-http://loginto.live:80/trial273/8khMjTadEC/56199
+http://loginto.live:80/trial284/jVr6hf7qMq/56199
 #EXTINF:0 tvg-id="JimJam.pt" group-title="Portuguese",PT: JimJam
-http://loginto.live:80/trial273/8khMjTadEC/56200
+http://loginto.live:80/trial284/jVr6hf7qMq/56200
 #EXTINF:0 tvg-id="KombatSport.pt" group-title="Portuguese",PT: KOMBAT SPORT
-http://loginto.live:80/trial273/8khMjTadEC/56201
+http://loginto.live:80/trial284/jVr6hf7qMq/56201
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Kuriakos TV FHD
-http://loginto.live:80/trial273/8khMjTadEC/56202
+http://loginto.live:80/trial284/jVr6hf7qMq/56202
 #EXTINF:0 tvg-id="MCMPop.pt" group-title="Portuguese",PT: MCM POP
-http://loginto.live:80/trial273/8khMjTadEC/56203
+http://loginto.live:80/trial284/jVr6hf7qMq/56203
 #EXTINF:0 tvg-id="mezzo.pt" group-title="Portuguese",PT: MEZZO
-http://loginto.live:80/trial273/8khMjTadEC/56204
+http://loginto.live:80/trial284/jVr6hf7qMq/56204
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: MOTOR SPORT HD
-http://loginto.live:80/trial273/8khMjTadEC/56205
+http://loginto.live:80/trial284/jVr6hf7qMq/56205
 #EXTINF:0 tvg-id="Motorvision.pt" group-title="Portuguese",PT: MOTORVISION HD
-http://loginto.live:80/trial273/8khMjTadEC/56206
+http://loginto.live:80/trial284/jVr6hf7qMq/56206
 #EXTINF:0 tvg-id="mtvportugal.pt" group-title="Portuguese",PT: MTV
-http://loginto.live:80/trial273/8khMjTadEC/56207
+http://loginto.live:80/trial284/jVr6hf7qMq/56207
 #EXTINF:0 tvg-id="mtvportugal.pt" group-title="Portuguese",PT: MTV Portugal
-http://loginto.live:80/trial273/8khMjTadEC/56208
+http://loginto.live:80/trial284/jVr6hf7qMq/56208
 #EXTINF:0 tvg-id="MyCuisine.pt" group-title="Portuguese",PT: My Cuisine
-http://loginto.live:80/trial273/8khMjTadEC/56209
+http://loginto.live:80/trial284/jVr6hf7qMq/56209
 #EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Portuguese",PT: Nat Geo Wild
-http://loginto.live:80/trial273/8khMjTadEC/56210
+http://loginto.live:80/trial284/jVr6hf7qMq/56210
 #EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Portuguese",PT: NATIONAL GEOGRAPHIC HD
-http://loginto.live:80/trial273/8khMjTadEC/56211
+http://loginto.live:80/trial284/jVr6hf7qMq/56211
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: NBA TV
-http://loginto.live:80/trial273/8khMjTadEC/56212
+http://loginto.live:80/trial284/jVr6hf7qMq/56212
 #EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Portuguese",PT: NICKELODEON
-http://loginto.live:80/trial273/8khMjTadEC/56213
+http://loginto.live:80/trial284/jVr6hf7qMq/56213
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: NOS STUDIOS HD
-http://loginto.live:80/trial273/8khMjTadEC/56214
+http://loginto.live:80/trial284/jVr6hf7qMq/56214
 #EXTINF:0 tvg-id="odisseia.pt" group-title="Portuguese",PT: Odisseia
-http://loginto.live:80/trial273/8khMjTadEC/56215
+http://loginto.live:80/trial284/jVr6hf7qMq/56215
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ODISSEIA HD
-http://loginto.live:80/trial273/8khMjTadEC/56216
+http://loginto.live:80/trial284/jVr6hf7qMq/56216
 #EXTINF:0 tvg-id="canalpanda.pt" group-title="Portuguese",PT: PANDA
-http://loginto.live:80/trial273/8khMjTadEC/56217
+http://loginto.live:80/trial284/jVr6hf7qMq/56217
 #EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Portuguese",PT: PANDA BIGGS
-http://loginto.live:80/trial273/8khMjTadEC/56218
+http://loginto.live:80/trial284/jVr6hf7qMq/56218
 #EXTINF:0 tvg-id="pfc.pt" group-title="Portuguese",PT: PFC
-http://loginto.live:80/trial273/8khMjTadEC/56219
+http://loginto.live:80/trial284/jVr6hf7qMq/56219
 #EXTINF:0 tvg-id="PortoCanal.pt" group-title="Portuguese",PT: Porto Canal
-http://loginto.live:80/trial273/8khMjTadEC/56220
+http://loginto.live:80/trial284/jVr6hf7qMq/56220
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Record TV FHD
-http://loginto.live:80/trial273/8khMjTadEC/56221
+http://loginto.live:80/trial284/jVr6hf7qMq/56221
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Record TV SD
-http://loginto.live:80/trial273/8khMjTadEC/56222
+http://loginto.live:80/trial284/jVr6hf7qMq/56222
 #EXTINF:0 tvg-id="rtp1.pt" group-title="Portuguese",PT: RTP 1 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56223
+http://loginto.live:80/trial284/jVr6hf7qMq/56223
 #EXTINF:0 tvg-id="rtp1.pt" group-title="Portuguese",PT: RTP 1 HD
-http://loginto.live:80/trial273/8khMjTadEC/56224
+http://loginto.live:80/trial284/jVr6hf7qMq/56224
 #EXTINF:0 tvg-id="rtp2.pt" group-title="Portuguese",PT: RTP 2
-http://loginto.live:80/trial273/8khMjTadEC/56225
+http://loginto.live:80/trial284/jVr6hf7qMq/56225
 #EXTINF:0 tvg-id="rtp2.pt" group-title="Portuguese",PT: RTP 2 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56226
+http://loginto.live:80/trial284/jVr6hf7qMq/56226
 #EXTINF:0 tvg-id="rtp2.pt" group-title="Portuguese",PT: RTP 2 HD
-http://loginto.live:80/trial273/8khMjTadEC/56227
+http://loginto.live:80/trial284/jVr6hf7qMq/56227
 #EXTINF:0 tvg-id="RTP3.pt" group-title="Portuguese",PT: RTP 3
-http://loginto.live:80/trial273/8khMjTadEC/56228
+http://loginto.live:80/trial284/jVr6hf7qMq/56228
 #EXTINF:0 tvg-id="RTP3.pt" group-title="Portuguese",PT: RTP 3 HD
-http://loginto.live:80/trial273/8khMjTadEC/56229
+http://loginto.live:80/trial284/jVr6hf7qMq/56229
 #EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Portuguese",PT: RTP AFRICA
-http://loginto.live:80/trial273/8khMjTadEC/56230
+http://loginto.live:80/trial284/jVr6hf7qMq/56230
 #EXTINF:0 tvg-id="RTPAcores.pt" group-title="Portuguese",PT: RTP AÇORES
-http://loginto.live:80/trial273/8khMjTadEC/56231
+http://loginto.live:80/trial284/jVr6hf7qMq/56231
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: RTP International
-http://loginto.live:80/trial273/8khMjTadEC/56232
+http://loginto.live:80/trial284/jVr6hf7qMq/56232
 #EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Portuguese",PT: RTP MADEIRA
-http://loginto.live:80/trial273/8khMjTadEC/56233
+http://loginto.live:80/trial284/jVr6hf7qMq/56233
 #EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Portuguese",PT: RTP MEMORIA
-http://loginto.live:80/trial273/8khMjTadEC/56234
+http://loginto.live:80/trial284/jVr6hf7qMq/56234
 #EXTINF:0 tvg-id="SicCaras.pt" group-title="Portuguese",PT: SIC CARAS
-http://loginto.live:80/trial273/8khMjTadEC/56235
+http://loginto.live:80/trial284/jVr6hf7qMq/56235
 #EXTINF:0 tvg-id="sic.pt" group-title="Portuguese",PT: SIC FHD
-http://loginto.live:80/trial273/8khMjTadEC/56236
+http://loginto.live:80/trial284/jVr6hf7qMq/56236
 #EXTINF:0 tvg-id="sic.pt" group-title="Portuguese",PT: SIC HD
-http://loginto.live:80/trial273/8khMjTadEC/56237
+http://loginto.live:80/trial284/jVr6hf7qMq/56237
 #EXTINF:0 tvg-id="SicK.pt" group-title="Portuguese",PT: SIC KIDS
-http://loginto.live:80/trial273/8khMjTadEC/56238
+http://loginto.live:80/trial284/jVr6hf7qMq/56238
 #EXTINF:0 tvg-id="sicmulher.pt" group-title="Portuguese",PT: SIC MULHER HD
-http://loginto.live:80/trial273/8khMjTadEC/56239
+http://loginto.live:80/trial284/jVr6hf7qMq/56239
 #EXTINF:0 tvg-id="sicnoticias.pt" group-title="Portuguese",PT: SIC NOTICIAS HD
-http://loginto.live:80/trial273/8khMjTadEC/56240
+http://loginto.live:80/trial284/jVr6hf7qMq/56240
 #EXTINF:0 tvg-id="sicradical.pt" group-title="Portuguese",PT: SIC RADICAL HD
-http://loginto.live:80/trial273/8khMjTadEC/56241
+http://loginto.live:80/trial284/jVr6hf7qMq/56241
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Portuguese",PT: SPORT TV +
-http://loginto.live:80/trial273/8khMjTadEC/56242
+http://loginto.live:80/trial284/jVr6hf7qMq/56242
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Portuguese",PT: SPORT TV + HD
-http://loginto.live:80/trial273/8khMjTadEC/56243
+http://loginto.live:80/trial284/jVr6hf7qMq/56243
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Portuguese",PT | SPORT TV 1 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56244
+http://loginto.live:80/trial284/jVr6hf7qMq/56244
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV1 SD
-http://loginto.live:80/trial273/8khMjTadEC/56245
+http://loginto.live:80/trial284/jVr6hf7qMq/56245
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV2 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56246
+http://loginto.live:80/trial284/jVr6hf7qMq/56246
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV2 HD
-http://loginto.live:80/trial273/8khMjTadEC/56247
+http://loginto.live:80/trial284/jVr6hf7qMq/56247
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV2 SD
-http://loginto.live:80/trial273/8khMjTadEC/56248
+http://loginto.live:80/trial284/jVr6hf7qMq/56248
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="Portuguese",PT: SPORT TV 3 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56249
+http://loginto.live:80/trial284/jVr6hf7qMq/56249
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT |  SPORTING TV HD
-http://loginto.live:80/trial273/8khMjTadEC/56258
+http://loginto.live:80/trial284/jVr6hf7qMq/56258
 #EXTINF:0 tvg-id="SyFy.pt" group-title="Portuguese",PT: SYFY HD
-http://loginto.live:80/trial273/8khMjTadEC/56259
+http://loginto.live:80/trial284/jVr6hf7qMq/56259
 #EXTINF:0 tvg-id="TLC.pt" group-title="Portuguese",PT: TLC
-http://loginto.live:80/trial273/8khMjTadEC/56260
+http://loginto.live:80/trial284/jVr6hf7qMq/56260
 #EXTINF:0 tvg-id="TPAInt.pt" group-title="Portuguese",PT: TPA INTERNACIONAL
-http://loginto.live:80/trial273/8khMjTadEC/56261
+http://loginto.live:80/trial284/jVr6hf7qMq/56261
 #EXTINF:0 tvg-id="TraceToca.fr" group-title="Portuguese",PT: TRACE TOCA
-http://loginto.live:80/trial273/8khMjTadEC/56262
+http://loginto.live:80/trial284/jVr6hf7qMq/56262
 #EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="Portuguese",PT: TRACE URBAN
-http://loginto.live:80/trial273/8khMjTadEC/56263
+http://loginto.live:80/trial284/jVr6hf7qMq/56263
 #EXTINF:0 tvg-id="TravelChannel.pt" group-title="Portuguese",PT: TRAVEL CHANNEL FHD
-http://loginto.live:80/trial273/8khMjTadEC/56264
+http://loginto.live:80/trial284/jVr6hf7qMq/56264
 #EXTINF:0 tvg-id="TravelChannel.pt" group-title="Portuguese",PT: TRAVEL CHANNEL HD
-http://loginto.live:80/trial273/8khMjTadEC/56265
+http://loginto.live:80/trial284/jVr6hf7qMq/56265
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE TOP SD
-http://loginto.live:80/trial273/8khMjTadEC/56266
+http://loginto.live:80/trial284/jVr6hf7qMq/56266
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE TOP HD
-http://loginto.live:80/trial273/8khMjTadEC/56267
+http://loginto.live:80/trial284/jVr6hf7qMq/56267
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE EDITION SD
-http://loginto.live:80/trial273/8khMjTadEC/56268
+http://loginto.live:80/trial284/jVr6hf7qMq/56268
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE EDITION HD
-http://loginto.live:80/trial273/8khMjTadEC/56269
+http://loginto.live:80/trial284/jVr6hf7qMq/56269
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE EDITION FHD
-http://loginto.live:80/trial273/8khMjTadEC/56270
+http://loginto.live:80/trial284/jVr6hf7qMq/56270
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE EMOTION
-http://loginto.live:80/trial273/8khMjTadEC/56271
+http://loginto.live:80/trial284/jVr6hf7qMq/56271
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE EMOTION HD
-http://loginto.live:80/trial273/8khMjTadEC/56272
+http://loginto.live:80/trial284/jVr6hf7qMq/56272
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE EMOTION FHD
-http://loginto.live:80/trial273/8khMjTadEC/56273
+http://loginto.live:80/trial284/jVr6hf7qMq/56273
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE ACTION SD
-http://loginto.live:80/trial273/8khMjTadEC/56274
+http://loginto.live:80/trial284/jVr6hf7qMq/56274
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE ACTION HD
-http://loginto.live:80/trial273/8khMjTadEC/56275
+http://loginto.live:80/trial284/jVr6hf7qMq/56275
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE ACTION FHD
-http://loginto.live:80/trial273/8khMjTadEC/56276
+http://loginto.live:80/trial284/jVr6hf7qMq/56276
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT | TVI 24 HD
-http://loginto.live:80/trial273/8khMjTadEC/56278
+http://loginto.live:80/trial284/jVr6hf7qMq/56278
 #EXTINF:0 tvg-id="TVI.pt" group-title="Portuguese",PT: TVI FHD
-http://loginto.live:80/trial273/8khMjTadEC/56279
+http://loginto.live:80/trial284/jVr6hf7qMq/56279
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TVI FICCAO HD
-http://loginto.live:80/trial273/8khMjTadEC/56280
+http://loginto.live:80/trial284/jVr6hf7qMq/56280
 #EXTINF:0 tvg-id="TVI.pt" group-title="Portuguese",PT: TVI HD
-http://loginto.live:80/trial273/8khMjTadEC/56281
+http://loginto.live:80/trial284/jVr6hf7qMq/56281
 #EXTINF:0 tvg-id="TVIReal.pt" group-title="Portuguese",PT: TVI REALITY
-http://loginto.live:80/trial273/8khMjTadEC/56282
+http://loginto.live:80/trial284/jVr6hf7qMq/56282
 #EXTINF:0 tvg-id="vh1.pt" group-title="Portuguese",PT: VH1
-http://loginto.live:80/trial273/8khMjTadEC/56283
+http://loginto.live:80/trial284/jVr6hf7qMq/56283
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ZAP VIVA FHD
-http://loginto.live:80/trial273/8khMjTadEC/56284
+http://loginto.live:80/trial284/jVr6hf7qMq/56284
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 1 HD
-http://loginto.live:80/trial273/8khMjTadEC/56286
+http://loginto.live:80/trial284/jVr6hf7qMq/56286
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 2 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56288
+http://loginto.live:80/trial284/jVr6hf7qMq/56288
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 2 HD
-http://loginto.live:80/trial273/8khMjTadEC/56289
+http://loginto.live:80/trial284/jVr6hf7qMq/56289
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 3 HD
-http://loginto.live:80/trial273/8khMjTadEC/56292
+http://loginto.live:80/trial284/jVr6hf7qMq/56292
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 3 SD
-http://loginto.live:80/trial273/8khMjTadEC/56293
+http://loginto.live:80/trial284/jVr6hf7qMq/56293
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVEN SPORTS 4 SD
-http://loginto.live:80/trial273/8khMjTadEC/56294
+http://loginto.live:80/trial284/jVr6hf7qMq/56294
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVENS SPORTS 4 HD
-http://loginto.live:80/trial273/8khMjTadEC/56295
+http://loginto.live:80/trial284/jVr6hf7qMq/56295
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ELEVENS SPORTS 4 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56296
+http://loginto.live:80/trial284/jVr6hf7qMq/56296
 #EXTINF:0 tvg-id="Eurochannel.pt" group-title="Portuguese",PT: Eurochannel
-http://loginto.live:80/trial273/8khMjTadEC/56302
+http://loginto.live:80/trial284/jVr6hf7qMq/56302
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Euronews
-http://loginto.live:80/trial273/8khMjTadEC/56303
+http://loginto.live:80/trial284/jVr6hf7qMq/56303
 #EXTINF:0 tvg-id="Eurosport2.pt" group-title="Portuguese",PT | EUROSPORT 2 HD
-http://loginto.live:80/trial273/8khMjTadEC/56306
+http://loginto.live:80/trial284/jVr6hf7qMq/56306
 #EXTINF:0 tvg-id="fox.pt" group-title="Portuguese",PT: FOX
-http://loginto.live:80/trial273/8khMjTadEC/56307
+http://loginto.live:80/trial284/jVr6hf7qMq/56307
 #EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",PT: FOX COMEDY
-http://loginto.live:80/trial273/8khMjTadEC/56308
+http://loginto.live:80/trial284/jVr6hf7qMq/56308
 #EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",PT: FOX COMEDY HD
-http://loginto.live:80/trial273/8khMjTadEC/56309
+http://loginto.live:80/trial284/jVr6hf7qMq/56309
 #EXTINF:0 tvg-id="foxcrime.pt" group-title="Portuguese",PT: FOX CRIME
-http://loginto.live:80/trial273/8khMjTadEC/56310
+http://loginto.live:80/trial284/jVr6hf7qMq/56310
 #EXTINF:0 tvg-id="foxcrime.pt" group-title="Portuguese",PT: FOX CRIME FHD
-http://loginto.live:80/trial273/8khMjTadEC/56311
+http://loginto.live:80/trial284/jVr6hf7qMq/56311
 #EXTINF:0 tvg-id="foxcrime.pt" group-title="Portuguese",PT: FOX CRIME HD
-http://loginto.live:80/trial273/8khMjTadEC/56312
+http://loginto.live:80/trial284/jVr6hf7qMq/56312
 #EXTINF:0 tvg-id="fox.pt" group-title="Portuguese",PT: FOX FHD
-http://loginto.live:80/trial273/8khMjTadEC/56313
+http://loginto.live:80/trial284/jVr6hf7qMq/56313
 #EXTINF:0 tvg-id="fox.pt" group-title="Portuguese",PT: FOX HD
-http://loginto.live:80/trial273/8khMjTadEC/56314
+http://loginto.live:80/trial284/jVr6hf7qMq/56314
 #EXTINF:0 tvg-id="foxlife.pt" group-title="Portuguese",PT: FOX LIFE
-http://loginto.live:80/trial273/8khMjTadEC/56315
+http://loginto.live:80/trial284/jVr6hf7qMq/56315
 #EXTINF:0 tvg-id="foxlife.pt" group-title="Portuguese",PT: FOX LIFE HD
-http://loginto.live:80/trial273/8khMjTadEC/56316
+http://loginto.live:80/trial284/jVr6hf7qMq/56316
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: FTV
-http://loginto.live:80/trial273/8khMjTadEC/56317
+http://loginto.live:80/trial284/jVr6hf7qMq/56317
 #EXTINF:0 tvg-id="FuelTV.pt" group-title="Portuguese",PT: Fuel TV
-http://loginto.live:80/trial273/8khMjTadEC/56318
+http://loginto.live:80/trial284/jVr6hf7qMq/56318
 #EXTINF:0 tvg-id="FuelTV.pt" group-title="Portuguese",PT: FUEL TV HD
-http://loginto.live:80/trial273/8khMjTadEC/56319
+http://loginto.live:80/trial284/jVr6hf7qMq/56319
 #EXTINF:0 tvg-id="TVGlobo.pt" group-title="Portuguese",PT: GLOBO
-http://loginto.live:80/trial273/8khMjTadEC/56320
+http://loginto.live:80/trial284/jVr6hf7qMq/56320
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Globo International
-http://loginto.live:80/trial273/8khMjTadEC/56321
+http://loginto.live:80/trial284/jVr6hf7qMq/56321
 #EXTINF:0 tvg-id="GloboNow.pt" group-title="Portuguese",PT: Globo Now
-http://loginto.live:80/trial273/8khMjTadEC/56322
+http://loginto.live:80/trial284/jVr6hf7qMq/56322
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: GLOBO TV
-http://loginto.live:80/trial273/8khMjTadEC/56323
+http://loginto.live:80/trial284/jVr6hf7qMq/56323
 #EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Portuguese",PT: Historia
-http://loginto.live:80/trial273/8khMjTadEC/56324
+http://loginto.live:80/trial284/jVr6hf7qMq/56324
 #EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Portuguese",PT: HISTORIA HD
-http://loginto.live:80/trial273/8khMjTadEC/56325
+http://loginto.live:80/trial284/jVr6hf7qMq/56325
 #EXTINF:0 tvg-id="Hollywood.es" group-title="Portuguese",PT: Hollywood FHD
-http://loginto.live:80/trial273/8khMjTadEC/56326
+http://loginto.live:80/trial284/jVr6hf7qMq/56326
 #EXTINF:0 tvg-id="Hollywood.es" group-title="Portuguese",PT: HOLLYWOOD HD
-http://loginto.live:80/trial273/8khMjTadEC/56327
+http://loginto.live:80/trial284/jVr6hf7qMq/56327
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ID INVESTIGATION DISCOVERY
-http://loginto.live:80/trial273/8khMjTadEC/56328
+http://loginto.live:80/trial284/jVr6hf7qMq/56328
 #EXTINF:0 tvg-id="JimJam.pt" group-title="Portuguese",PT: JimJam
-http://loginto.live:80/trial273/8khMjTadEC/56329
+http://loginto.live:80/trial284/jVr6hf7qMq/56329
 #EXTINF:0 tvg-id="KombatSport.pt" group-title="Portuguese",PT: KOMBAT SPORT
-http://loginto.live:80/trial273/8khMjTadEC/56330
+http://loginto.live:80/trial284/jVr6hf7qMq/56330
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Kuriakos TV FHD
-http://loginto.live:80/trial273/8khMjTadEC/56331
+http://loginto.live:80/trial284/jVr6hf7qMq/56331
 #EXTINF:0 tvg-id="MCMPop.pt" group-title="Portuguese",PT: MCM POP
-http://loginto.live:80/trial273/8khMjTadEC/56332
+http://loginto.live:80/trial284/jVr6hf7qMq/56332
 #EXTINF:0 tvg-id="mezzo.pt" group-title="Portuguese",PT: MEZZO
-http://loginto.live:80/trial273/8khMjTadEC/56333
+http://loginto.live:80/trial284/jVr6hf7qMq/56333
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: MOTOR SPORT HD
-http://loginto.live:80/trial273/8khMjTadEC/56334
+http://loginto.live:80/trial284/jVr6hf7qMq/56334
 #EXTINF:0 tvg-id="Motorvision.pt" group-title="Portuguese",PT: MOTORVISION HD
-http://loginto.live:80/trial273/8khMjTadEC/56335
+http://loginto.live:80/trial284/jVr6hf7qMq/56335
 #EXTINF:0 tvg-id="mtvportugal.pt" group-title="Portuguese",PT: MTV
-http://loginto.live:80/trial273/8khMjTadEC/56336
+http://loginto.live:80/trial284/jVr6hf7qMq/56336
 #EXTINF:0 tvg-id="mtvportugal.pt" group-title="Portuguese",PT: MTV Portugal
-http://loginto.live:80/trial273/8khMjTadEC/56337
+http://loginto.live:80/trial284/jVr6hf7qMq/56337
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: My Cuisine
-http://loginto.live:80/trial273/8khMjTadEC/56338
+http://loginto.live:80/trial284/jVr6hf7qMq/56338
 #EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Portuguese",PT: Nat Geo Wild
-http://loginto.live:80/trial273/8khMjTadEC/56339
+http://loginto.live:80/trial284/jVr6hf7qMq/56339
 #EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Portuguese",PT: NATIONAL GEOGRAPHIC HD
-http://loginto.live:80/trial273/8khMjTadEC/56340
+http://loginto.live:80/trial284/jVr6hf7qMq/56340
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: NBA TV
-http://loginto.live:80/trial273/8khMjTadEC/56341
+http://loginto.live:80/trial284/jVr6hf7qMq/56341
 #EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Portuguese",PT: NICKELODEON
-http://loginto.live:80/trial273/8khMjTadEC/56342
+http://loginto.live:80/trial284/jVr6hf7qMq/56342
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: NOS STUDIOS HD
-http://loginto.live:80/trial273/8khMjTadEC/56343
+http://loginto.live:80/trial284/jVr6hf7qMq/56343
 #EXTINF:0 tvg-id="odisseia.pt" group-title="Portuguese",PT: Odisseia
-http://loginto.live:80/trial273/8khMjTadEC/56344
+http://loginto.live:80/trial284/jVr6hf7qMq/56344
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ODISSEIA HD
-http://loginto.live:80/trial273/8khMjTadEC/56345
+http://loginto.live:80/trial284/jVr6hf7qMq/56345
 #EXTINF:0 tvg-id="canalpanda.pt" group-title="Portuguese",PT: PANDA
-http://loginto.live:80/trial273/8khMjTadEC/56346
+http://loginto.live:80/trial284/jVr6hf7qMq/56346
 #EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Portuguese",PT: PANDA BIGGS
-http://loginto.live:80/trial273/8khMjTadEC/56347
+http://loginto.live:80/trial284/jVr6hf7qMq/56347
 #EXTINF:0 tvg-id="pfc.pt" group-title="Portuguese",PT: PFC
-http://loginto.live:80/trial273/8khMjTadEC/56348
+http://loginto.live:80/trial284/jVr6hf7qMq/56348
 #EXTINF:0 tvg-id="PortoCanal.pt" group-title="Portuguese",PT: Porto Canal
-http://loginto.live:80/trial273/8khMjTadEC/56349
+http://loginto.live:80/trial284/jVr6hf7qMq/56349
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Record TV FHD
-http://loginto.live:80/trial273/8khMjTadEC/56350
+http://loginto.live:80/trial284/jVr6hf7qMq/56350
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Record TV SD
-http://loginto.live:80/trial273/8khMjTadEC/56351
+http://loginto.live:80/trial284/jVr6hf7qMq/56351
 #EXTINF:0 tvg-id="rtp1.pt" group-title="Portuguese",PT: RTP 1 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56352
+http://loginto.live:80/trial284/jVr6hf7qMq/56352
 #EXTINF:0 tvg-id="rtp1.pt" group-title="Portuguese",PT: RTP 1 HD
-http://loginto.live:80/trial273/8khMjTadEC/56353
+http://loginto.live:80/trial284/jVr6hf7qMq/56353
 #EXTINF:0 tvg-id="rtp2.pt" group-title="Portuguese",PT: RTP 2
-http://loginto.live:80/trial273/8khMjTadEC/56354
+http://loginto.live:80/trial284/jVr6hf7qMq/56354
 #EXTINF:0 tvg-id="rtp2.pt" group-title="Portuguese",PT: RTP 2 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56355
+http://loginto.live:80/trial284/jVr6hf7qMq/56355
 #EXTINF:0 tvg-id="rtp2.pt" group-title="Portuguese",PT: RTP 2 HD
-http://loginto.live:80/trial273/8khMjTadEC/56356
+http://loginto.live:80/trial284/jVr6hf7qMq/56356
 #EXTINF:0 tvg-id="RTP3.pt" group-title="Portuguese",PT: RTP 3
-http://loginto.live:80/trial273/8khMjTadEC/56357
+http://loginto.live:80/trial284/jVr6hf7qMq/56357
 #EXTINF:0 tvg-id="RTP3.pt" group-title="Portuguese",PT: RTP 3 HD
-http://loginto.live:80/trial273/8khMjTadEC/56358
+http://loginto.live:80/trial284/jVr6hf7qMq/56358
 #EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Portuguese",PT: RTP AFRICA
-http://loginto.live:80/trial273/8khMjTadEC/56359
+http://loginto.live:80/trial284/jVr6hf7qMq/56359
 #EXTINF:0 tvg-id="RTPAcores.pt" group-title="Portuguese",PT: RTP AÇORES
-http://loginto.live:80/trial273/8khMjTadEC/56360
+http://loginto.live:80/trial284/jVr6hf7qMq/56360
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: RTP International
-http://loginto.live:80/trial273/8khMjTadEC/56361
+http://loginto.live:80/trial284/jVr6hf7qMq/56361
 #EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Portuguese",PT: RTP MADEIRA
-http://loginto.live:80/trial273/8khMjTadEC/56362
+http://loginto.live:80/trial284/jVr6hf7qMq/56362
 #EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Portuguese",PT: RTP MEMORIA
-http://loginto.live:80/trial273/8khMjTadEC/56363
+http://loginto.live:80/trial284/jVr6hf7qMq/56363
 #EXTINF:0 tvg-id="SicCaras.pt" group-title="Portuguese",PT: SIC CARAS
-http://loginto.live:80/trial273/8khMjTadEC/56364
+http://loginto.live:80/trial284/jVr6hf7qMq/56364
 #EXTINF:0 tvg-id="sic.pt" group-title="Portuguese",PT: SIC FHD
-http://loginto.live:80/trial273/8khMjTadEC/56365
+http://loginto.live:80/trial284/jVr6hf7qMq/56365
 #EXTINF:0 tvg-id="sic.pt" group-title="Portuguese",PT: SIC HD
-http://loginto.live:80/trial273/8khMjTadEC/56366
+http://loginto.live:80/trial284/jVr6hf7qMq/56366
 #EXTINF:0 tvg-id="SicK.pt" group-title="Portuguese",PT: SIC KIDS
-http://loginto.live:80/trial273/8khMjTadEC/56367
+http://loginto.live:80/trial284/jVr6hf7qMq/56367
 #EXTINF:0 tvg-id="sicmulher.pt" group-title="Portuguese",PT: SIC MULHER HD
-http://loginto.live:80/trial273/8khMjTadEC/56368
+http://loginto.live:80/trial284/jVr6hf7qMq/56368
 #EXTINF:0 tvg-id="sicnoticias.pt" group-title="Portuguese",PT: SIC NOTICIAS HD
-http://loginto.live:80/trial273/8khMjTadEC/56369
+http://loginto.live:80/trial284/jVr6hf7qMq/56369
 #EXTINF:0 tvg-id="sicradical.pt" group-title="Portuguese",PT: SIC RADICAL HD
-http://loginto.live:80/trial273/8khMjTadEC/56370
+http://loginto.live:80/trial284/jVr6hf7qMq/56370
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Portuguese",PT: SPORT TV +
-http://loginto.live:80/trial273/8khMjTadEC/56371
+http://loginto.live:80/trial284/jVr6hf7qMq/56371
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Portuguese",PT: SPORT TV + HD
-http://loginto.live:80/trial273/8khMjTadEC/56372
+http://loginto.live:80/trial284/jVr6hf7qMq/56372
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV2 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56375
+http://loginto.live:80/trial284/jVr6hf7qMq/56375
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV2 HD
-http://loginto.live:80/trial273/8khMjTadEC/56376
+http://loginto.live:80/trial284/jVr6hf7qMq/56376
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV2 SD
-http://loginto.live:80/trial273/8khMjTadEC/56377
+http://loginto.live:80/trial284/jVr6hf7qMq/56377
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV3 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56379
+http://loginto.live:80/trial284/jVr6hf7qMq/56379
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV3 HD
-http://loginto.live:80/trial273/8khMjTadEC/56380
+http://loginto.live:80/trial284/jVr6hf7qMq/56380
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV3 SD
-http://loginto.live:80/trial273/8khMjTadEC/56381
+http://loginto.live:80/trial284/jVr6hf7qMq/56381
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV4 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56382
+http://loginto.live:80/trial284/jVr6hf7qMq/56382
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV4 SD
-http://loginto.live:80/trial273/8khMjTadEC/56383
+http://loginto.live:80/trial284/jVr6hf7qMq/56383
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV5 FHD
-http://loginto.live:80/trial273/8khMjTadEC/56384
+http://loginto.live:80/trial284/jVr6hf7qMq/56384
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV5 HD
-http://loginto.live:80/trial273/8khMjTadEC/56385
+http://loginto.live:80/trial284/jVr6hf7qMq/56385
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SPORT TV5 SD
-http://loginto.live:80/trial273/8khMjTadEC/56386
+http://loginto.live:80/trial284/jVr6hf7qMq/56386
 #EXTINF:0 tvg-id="SyFy.pt" group-title="Portuguese",PT: SYFY HD
-http://loginto.live:80/trial273/8khMjTadEC/56388
+http://loginto.live:80/trial284/jVr6hf7qMq/56388
 #EXTINF:0 tvg-id="TLC.pt" group-title="Portuguese",PT: TLC
-http://loginto.live:80/trial273/8khMjTadEC/56389
+http://loginto.live:80/trial284/jVr6hf7qMq/56389
 #EXTINF:0 tvg-id="TPAInt.pt" group-title="Portuguese",PT: TPA INTERNACIONAL
-http://loginto.live:80/trial273/8khMjTadEC/56390
+http://loginto.live:80/trial284/jVr6hf7qMq/56390
 #EXTINF:0 tvg-id="TraceToca.fr" group-title="Portuguese",PT: TRACE TOCA
-http://loginto.live:80/trial273/8khMjTadEC/56391
+http://loginto.live:80/trial284/jVr6hf7qMq/56391
 #EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="Portuguese",PT: TRACE URBAN
-http://loginto.live:80/trial273/8khMjTadEC/56392
+http://loginto.live:80/trial284/jVr6hf7qMq/56392
 #EXTINF:0 tvg-id="TravelChannel.pt" group-title="Portuguese",PT: TRAVEL CHANNEL FHD
-http://loginto.live:80/trial273/8khMjTadEC/56393
+http://loginto.live:80/trial284/jVr6hf7qMq/56393
 #EXTINF:0 tvg-id="TravelChannel.pt" group-title="Portuguese",PT: TRAVEL CHANNEL HD
-http://loginto.live:80/trial273/8khMjTadEC/56394
+http://loginto.live:80/trial284/jVr6hf7qMq/56394
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE TOP SD
-http://loginto.live:80/trial273/8khMjTadEC/56395
+http://loginto.live:80/trial284/jVr6hf7qMq/56395
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE TOP HD
-http://loginto.live:80/trial273/8khMjTadEC/56396
+http://loginto.live:80/trial284/jVr6hf7qMq/56396
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE EDITION SD
-http://loginto.live:80/trial273/8khMjTadEC/56397
+http://loginto.live:80/trial284/jVr6hf7qMq/56397
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE EDITION HD
-http://loginto.live:80/trial273/8khMjTadEC/56398
+http://loginto.live:80/trial284/jVr6hf7qMq/56398
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE EDITION FHD
-http://loginto.live:80/trial273/8khMjTadEC/56399
+http://loginto.live:80/trial284/jVr6hf7qMq/56399
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE EMOTION
-http://loginto.live:80/trial273/8khMjTadEC/56400
+http://loginto.live:80/trial284/jVr6hf7qMq/56400
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE EMOTION HD
-http://loginto.live:80/trial273/8khMjTadEC/56401
+http://loginto.live:80/trial284/jVr6hf7qMq/56401
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE EMOTION FHD
-http://loginto.live:80/trial273/8khMjTadEC/56402
+http://loginto.live:80/trial284/jVr6hf7qMq/56402
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE ACTION SD
-http://loginto.live:80/trial273/8khMjTadEC/56403
+http://loginto.live:80/trial284/jVr6hf7qMq/56403
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE ACTION HD
-http://loginto.live:80/trial273/8khMjTadEC/56404
+http://loginto.live:80/trial284/jVr6hf7qMq/56404
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE ACTION FHD
-http://loginto.live:80/trial273/8khMjTadEC/56405
+http://loginto.live:80/trial284/jVr6hf7qMq/56405
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",Pt | TVI 24
-http://loginto.live:80/trial273/8khMjTadEC/56406
+http://loginto.live:80/trial284/jVr6hf7qMq/56406
 #EXTINF:0 tvg-id="TVI.pt" group-title="Portuguese",PT: TVI FHD
-http://loginto.live:80/trial273/8khMjTadEC/56408
+http://loginto.live:80/trial284/jVr6hf7qMq/56408
 #EXTINF:0 tvg-id="TVI.pt" group-title="Portuguese",PT: TVI HD
-http://loginto.live:80/trial273/8khMjTadEC/56410
+http://loginto.live:80/trial284/jVr6hf7qMq/56410
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT |  VH1
-http://loginto.live:80/trial273/8khMjTadEC/56412
+http://loginto.live:80/trial284/jVr6hf7qMq/56412
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT |  E!  SD
-http://loginto.live:80/trial273/8khMjTadEC/56414
+http://loginto.live:80/trial284/jVr6hf7qMq/56414
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT | SPORT TV+ FHD
-http://loginto.live:80/trial273/8khMjTadEC/80791
+http://loginto.live:80/trial284/jVr6hf7qMq/80791
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT | Sporting Tv FHD
-http://loginto.live:80/trial273/8khMjTadEC/80792
+http://loginto.live:80/trial284/jVr6hf7qMq/80792
 #EXTINF:0 tvg-id="SyFy.pt" group-title="Portuguese",PT: SyFy FHD
-http://loginto.live:80/trial273/8khMjTadEC/80793
+http://loginto.live:80/trial284/jVr6hf7qMq/80793
 #EXTINF:0 tvg-id="TravelChannel.pt" group-title="Portuguese",PT: TRAVEL CHANNEL FHD
-http://loginto.live:80/trial273/8khMjTadEC/80794
+http://loginto.live:80/trial284/jVr6hf7qMq/80794
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE ACTION FHD
-http://loginto.live:80/trial273/8khMjTadEC/80795
+http://loginto.live:80/trial284/jVr6hf7qMq/80795
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE EDITION FHD
-http://loginto.live:80/trial273/8khMjTadEC/80796
+http://loginto.live:80/trial284/jVr6hf7qMq/80796
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE EMOTION FHD
-http://loginto.live:80/trial273/8khMjTadEC/80797
+http://loginto.live:80/trial284/jVr6hf7qMq/80797
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: TV CINE TOP FHD
-http://loginto.live:80/trial273/8khMjTadEC/80798
+http://loginto.live:80/trial284/jVr6hf7qMq/80798
 #EXTINF:0 tvg-id="TVGlobo.pt" group-title="Portuguese",PT: TV Globo FHD
-http://loginto.live:80/trial273/8khMjTadEC/80799
+http://loginto.live:80/trial284/jVr6hf7qMq/80799
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT | TV Record FHD
-http://loginto.live:80/trial273/8khMjTadEC/80800
+http://loginto.live:80/trial284/jVr6hf7qMq/80800
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT | TV5 Monde FHD
-http://loginto.live:80/trial273/8khMjTadEC/80801
+http://loginto.live:80/trial284/jVr6hf7qMq/80801
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT | Tvi 24 FHD
-http://loginto.live:80/trial273/8khMjTadEC/80802
+http://loginto.live:80/trial284/jVr6hf7qMq/80802
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Odisseia FHD
-http://loginto.live:80/trial273/8khMjTadEC/80774
+http://loginto.live:80/trial284/jVr6hf7qMq/80774
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Porto Canal FHD
-http://loginto.live:80/trial273/8khMjTadEC/80775
+http://loginto.live:80/trial284/jVr6hf7qMq/80775
 #EXTINF:0 tvg-id="rtp1.pt" group-title="Portuguese",PT: RTP 1 FHD
-http://loginto.live:80/trial273/8khMjTadEC/80776
+http://loginto.live:80/trial284/jVr6hf7qMq/80776
 #EXTINF:0 tvg-id="rtp2.pt" group-title="Portuguese",PT: RTP 2 FHD
-http://loginto.live:80/trial273/8khMjTadEC/80777
+http://loginto.live:80/trial284/jVr6hf7qMq/80777
 #EXTINF:0 tvg-id="RTP3.pt" group-title="Portuguese",PT: RTP 3 FHD
-http://loginto.live:80/trial273/8khMjTadEC/80778
+http://loginto.live:80/trial284/jVr6hf7qMq/80778
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Santuario Fatima FHD
-http://loginto.live:80/trial273/8khMjTadEC/80779
+http://loginto.live:80/trial284/jVr6hf7qMq/80779
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: SIC Caras FHD
-http://loginto.live:80/trial273/8khMjTadEC/80780
+http://loginto.live:80/trial284/jVr6hf7qMq/80780
 #EXTINF:0 tvg-id="sic.pt" group-title="Portuguese",PT: SIC FHD
-http://loginto.live:80/trial273/8khMjTadEC/80781
+http://loginto.live:80/trial284/jVr6hf7qMq/80781
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Sic K FHD
-http://loginto.live:80/trial273/8khMjTadEC/80782
+http://loginto.live:80/trial284/jVr6hf7qMq/80782
 #EXTINF:0 tvg-id="sicmulher.pt" group-title="Portuguese",PT: SIC Mulher FHD
-http://loginto.live:80/trial273/8khMjTadEC/80783
+http://loginto.live:80/trial284/jVr6hf7qMq/80783
 #EXTINF:0 tvg-id="sicnoticias.pt" group-title="Portuguese",PT: SIC Noticias FHD
-http://loginto.live:80/trial273/8khMjTadEC/80784
+http://loginto.live:80/trial284/jVr6hf7qMq/80784
 #EXTINF:0 tvg-id="sicradical.pt" group-title="Portuguese",PT: SIC Radical FHD
-http://loginto.live:80/trial273/8khMjTadEC/80785
+http://loginto.live:80/trial284/jVr6hf7qMq/80785
 #EXTINF:0 tvg-id="FoodNetwork.pt" group-title="Portuguese",PT: Food Network FHD
-http://loginto.live:80/trial273/8khMjTadEC/80756
+http://loginto.live:80/trial284/jVr6hf7qMq/80756
 #EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portuguese",PT: Fox Comedy FHD
-http://loginto.live:80/trial273/8khMjTadEC/80757
+http://loginto.live:80/trial284/jVr6hf7qMq/80757
 #EXTINF:0 tvg-id="foxcrime.pt" group-title="Portuguese",PT: FOX CRIME FHD
-http://loginto.live:80/trial273/8khMjTadEC/80758
+http://loginto.live:80/trial284/jVr6hf7qMq/80758
 #EXTINF:0 tvg-id="fox.pt" group-title="Portuguese",PT: FOX FHD
-http://loginto.live:80/trial273/8khMjTadEC/80759
+http://loginto.live:80/trial284/jVr6hf7qMq/80759
 #EXTINF:0 tvg-id="foxlife.pt" group-title="Portuguese",PT: FOX LIFE FHD
-http://loginto.live:80/trial273/8khMjTadEC/80760
+http://loginto.live:80/trial284/jVr6hf7qMq/80760
 #EXTINF:0 tvg-id="FoxMovies.pt" group-title="Portuguese",PT: Fox Movies FHD
-http://loginto.live:80/trial273/8khMjTadEC/80761
+http://loginto.live:80/trial284/jVr6hf7qMq/80761
 #EXTINF:0 tvg-id="FuelTV.pt" group-title="Portuguese",PT: Fuel TV FHD
-http://loginto.live:80/trial273/8khMjTadEC/80762
+http://loginto.live:80/trial284/jVr6hf7qMq/80762
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Globo Now FHD
-http://loginto.live:80/trial273/8khMjTadEC/80763
+http://loginto.live:80/trial284/jVr6hf7qMq/80763
 #EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Portuguese",PT: Historia FHD
-http://loginto.live:80/trial273/8khMjTadEC/80764
+http://loginto.live:80/trial284/jVr6hf7qMq/80764
 #EXTINF:0 tvg-id="hollywood.pt" group-title="Portuguese",PT: HOLLYWOOD FHD
-http://loginto.live:80/trial273/8khMjTadEC/80765
+http://loginto.live:80/trial284/jVr6hf7qMq/80765
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: IConcerts FHD
-http://loginto.live:80/trial273/8khMjTadEC/80766
+http://loginto.live:80/trial284/jVr6hf7qMq/80766
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: KURIAKOS TV FHD
-http://loginto.live:80/trial273/8khMjTadEC/80767
+http://loginto.live:80/trial284/jVr6hf7qMq/80767
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Mtv Live FHD
-http://loginto.live:80/trial273/8khMjTadEC/80768
+http://loginto.live:80/trial284/jVr6hf7qMq/80768
 #EXTINF:0 tvg-id="mtvportugal.pt" group-title="Portuguese",PT: MTV Portugal FHD
-http://loginto.live:80/trial273/8khMjTadEC/80769
+http://loginto.live:80/trial284/jVr6hf7qMq/80769
 #EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Portuguese",PT: NAT GEO FHD
-http://loginto.live:80/trial273/8khMjTadEC/80770
+http://loginto.live:80/trial284/jVr6hf7qMq/80770
 #EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Portuguese",PT: Nat Geo Wild FHD
-http://loginto.live:80/trial273/8khMjTadEC/80771
+http://loginto.live:80/trial284/jVr6hf7qMq/80771
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: NBA TV FHD
-http://loginto.live:80/trial273/8khMjTadEC/80772
+http://loginto.live:80/trial284/jVr6hf7qMq/80772
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: NOS STUDIOS FHD
-http://loginto.live:80/trial273/8khMjTadEC/80773
+http://loginto.live:80/trial284/jVr6hf7qMq/80773
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Canal Nos FHD
-http://loginto.live:80/trial273/8khMjTadEC/80738
+http://loginto.live:80/trial284/jVr6hf7qMq/80738
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: CASA E COZINHA FHD
-http://loginto.live:80/trial273/8khMjTadEC/80739
+http://loginto.live:80/trial284/jVr6hf7qMq/80739
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Caza e Pesca FHD
-http://loginto.live:80/trial273/8khMjTadEC/80740
+http://loginto.live:80/trial284/jVr6hf7qMq/80740
 #EXTINF:0 tvg-id="Cinemundo.pt" group-title="Portuguese",PT: CineMundo FHD
-http://loginto.live:80/trial273/8khMjTadEC/80741
+http://loginto.live:80/trial284/jVr6hf7qMq/80741
 #EXTINF:0 tvg-id="CMTV.pt" group-title="Portuguese",PT: CMTV FHD
-http://loginto.live:80/trial273/8khMjTadEC/80742
+http://loginto.live:80/trial284/jVr6hf7qMq/80742
 #EXTINF:0 tvg-id="DISCOVERYHD.pt" group-title="Portuguese",PT: DISCOVERY CHANNEL FHD
-http://loginto.live:80/trial273/8khMjTadEC/80743
+http://loginto.live:80/trial284/jVr6hf7qMq/80743
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: DISCOVERY ID FHD
-http://loginto.live:80/trial273/8khMjTadEC/80744
+http://loginto.live:80/trial284/jVr6hf7qMq/80744
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: E! Entertainment FHD
-http://loginto.live:80/trial273/8khMjTadEC/80745
+http://loginto.live:80/trial284/jVr6hf7qMq/80745
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT |  Eleven Sports 1 FHD
-http://loginto.live:80/trial273/8khMjTadEC/80746
+http://loginto.live:80/trial284/jVr6hf7qMq/80746
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",P |  Eleven Sports 4 FHD
-http://loginto.live:80/trial273/8khMjTadEC/80749
+http://loginto.live:80/trial284/jVr6hf7qMq/80749
 #EXTINF:0 tvg-id="Eurosport2.pt" group-title="Portuguese",PT |  Eurosport 2 FHD
-http://loginto.live:80/trial273/8khMjTadEC/80753
+http://loginto.live:80/trial284/jVr6hf7qMq/80753
 #EXTINF:0 tvg-id="FightNetwork.pt" group-title="Portuguese",PT: FIGHT NETWORK FHD
-http://loginto.live:80/trial273/8khMjTadEC/80754
+http://loginto.live:80/trial284/jVr6hf7qMq/80754
 #EXTINF:0 tvg-id="FightNetwork.pt" group-title="Portuguese",PT: Fight Network FHD
-http://loginto.live:80/trial273/8khMjTadEC/80755
+http://loginto.live:80/trial284/jVr6hf7qMq/80755
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT | Tvi 24 HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80721
+http://loginto.live:80/trial284/jVr6hf7qMq/80721
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Tvi Fic�ao HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80722
+http://loginto.live:80/trial284/jVr6hf7qMq/80722
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Tvi HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80723
+http://loginto.live:80/trial284/jVr6hf7qMq/80723
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: VH1 Classic HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80725
+http://loginto.live:80/trial284/jVr6hf7qMq/80725
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Alma Lusa FHD
-http://loginto.live:80/trial273/8khMjTadEC/80728
+http://loginto.live:80/trial284/jVr6hf7qMq/80728
 #EXTINF:0 tvg-id="AMC.pt" group-title="Portuguese",PT: AMC FHD
-http://loginto.live:80/trial273/8khMjTadEC/80729
+http://loginto.live:80/trial284/jVr6hf7qMq/80729
 #EXTINF:0 tvg-id="AXNBlack.pt" group-title="Portuguese",PT: AXN Black FHD
-http://loginto.live:80/trial273/8khMjTadEC/80730
+http://loginto.live:80/trial284/jVr6hf7qMq/80730
 #EXTINF:0 tvg-id="axn.pt" group-title="Portuguese",PT: AXN FHD
-http://loginto.live:80/trial273/8khMjTadEC/80731
+http://loginto.live:80/trial284/jVr6hf7qMq/80731
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: AXN MOVIES FHD
-http://loginto.live:80/trial273/8khMjTadEC/80732
+http://loginto.live:80/trial284/jVr6hf7qMq/80732
 #EXTINF:0 tvg-id="AXNWhite.pt" group-title="Portuguese",PT: AXN WHITE FHD
-http://loginto.live:80/trial273/8khMjTadEC/80733
+http://loginto.live:80/trial284/jVr6hf7qMq/80733
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Blaze FHD
-http://loginto.live:80/trial273/8khMjTadEC/80734
+http://loginto.live:80/trial284/jVr6hf7qMq/80734
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Btv FHD
-http://loginto.live:80/trial273/8khMjTadEC/80735
+http://loginto.live:80/trial284/jVr6hf7qMq/80735
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: CAMPO PEQUENO TV FHD
-http://loginto.live:80/trial273/8khMjTadEC/80736
+http://loginto.live:80/trial284/jVr6hf7qMq/80736
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: CANAL 11 FHD
-http://loginto.live:80/trial273/8khMjTadEC/80737
+http://loginto.live:80/trial284/jVr6hf7qMq/80737
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Sky News HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80705
+http://loginto.live:80/trial284/jVr6hf7qMq/80705
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Sport Tv + HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80706
+http://loginto.live:80/trial284/jVr6hf7qMq/80706
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT | Sport Tv 1 4K HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80707
+http://loginto.live:80/trial284/jVr6hf7qMq/80707
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Sport Tv 3 HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80710
+http://loginto.live:80/trial284/jVr6hf7qMq/80710
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Sport Tv 5 HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80712
+http://loginto.live:80/trial284/jVr6hf7qMq/80712
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Sport Tv Nba HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80713
+http://loginto.live:80/trial284/jVr6hf7qMq/80713
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT | Sporting Tv HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80714
+http://loginto.live:80/trial284/jVr6hf7qMq/80714
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Syfy HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80715
+http://loginto.live:80/trial284/jVr6hf7qMq/80715
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Tv Cine Action HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80716
+http://loginto.live:80/trial284/jVr6hf7qMq/80716
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Tv Cine Edition HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80717
+http://loginto.live:80/trial284/jVr6hf7qMq/80717
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Tv Cine Emotion HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80718
+http://loginto.live:80/trial284/jVr6hf7qMq/80718
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Tv Cine Top HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80719
+http://loginto.live:80/trial284/jVr6hf7qMq/80719
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Historia HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80687
+http://loginto.live:80/trial284/jVr6hf7qMq/80687
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Hollywood HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80688
+http://loginto.live:80/trial284/jVr6hf7qMq/80688
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Investigation Discovery HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80689
+http://loginto.live:80/trial284/jVr6hf7qMq/80689
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: MCS HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80690
+http://loginto.live:80/trial284/jVr6hf7qMq/80690
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: National Geographic HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80691
+http://loginto.live:80/trial284/jVr6hf7qMq/80691
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: National Wild HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80692
+http://loginto.live:80/trial284/jVr6hf7qMq/80692
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Nos Studios HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80693
+http://loginto.live:80/trial284/jVr6hf7qMq/80693
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Odisseia HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80694
+http://loginto.live:80/trial284/jVr6hf7qMq/80694
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Rtp 1 HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80695
+http://loginto.live:80/trial284/jVr6hf7qMq/80695
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Rtp 2 HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80696
+http://loginto.live:80/trial284/jVr6hf7qMq/80696
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Rtp 3 HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80697
+http://loginto.live:80/trial284/jVr6hf7qMq/80697
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: RTP A�ORES HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80698
+http://loginto.live:80/trial284/jVr6hf7qMq/80698
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: RTP A�ORES HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80699
+http://loginto.live:80/trial284/jVr6hf7qMq/80699
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Sic Caras HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80700
+http://loginto.live:80/trial284/jVr6hf7qMq/80700
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Sic HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80701
+http://loginto.live:80/trial284/jVr6hf7qMq/80701
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Sic Mulher HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80702
+http://loginto.live:80/trial284/jVr6hf7qMq/80702
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Sic Noticias HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80703
+http://loginto.live:80/trial284/jVr6hf7qMq/80703
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Sic Radical HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80704
+http://loginto.live:80/trial284/jVr6hf7qMq/80704
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Eleven Sport 5 HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80673
+http://loginto.live:80/trial284/jVr6hf7qMq/80673
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Eleven Sport 6 HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80674
+http://loginto.live:80/trial284/jVr6hf7qMq/80674
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT | Eleven Sports 1 HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80675
+http://loginto.live:80/trial284/jVr6hf7qMq/80675
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT |  Eleven Sports 2 HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80676
+http://loginto.live:80/trial284/jVr6hf7qMq/80676
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Fox Comedy HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80679
+http://loginto.live:80/trial284/jVr6hf7qMq/80679
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Fox Crime HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80680
+http://loginto.live:80/trial284/jVr6hf7qMq/80680
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Fox HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80681
+http://loginto.live:80/trial284/jVr6hf7qMq/80681
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Fox Life HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80682
+http://loginto.live:80/trial284/jVr6hf7qMq/80682
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Fox Movies HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80683
+http://loginto.live:80/trial284/jVr6hf7qMq/80683
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Globo HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80684
+http://loginto.live:80/trial284/jVr6hf7qMq/80684
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Globo Now HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80685
+http://loginto.live:80/trial284/jVr6hf7qMq/80685
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80686
+http://loginto.live:80/trial284/jVr6hf7qMq/80686
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: BLAZE HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80659
+http://loginto.live:80/trial284/jVr6hf7qMq/80659
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Bloomberg Europe HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80660
+http://loginto.live:80/trial284/jVr6hf7qMq/80660
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Btv 4K HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80661
+http://loginto.live:80/trial284/jVr6hf7qMq/80661
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Btv HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80662
+http://loginto.live:80/trial284/jVr6hf7qMq/80662
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Canal 11 HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80663
+http://loginto.live:80/trial284/jVr6hf7qMq/80663
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: CASA E COZINHA HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80664
+http://loginto.live:80/trial284/jVr6hf7qMq/80664
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Cinemundo HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80665
+http://loginto.live:80/trial284/jVr6hf7qMq/80665
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: CMTV HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80666
+http://loginto.live:80/trial284/jVr6hf7qMq/80666
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: CNBC Europe HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80667
+http://loginto.live:80/trial284/jVr6hf7qMq/80667
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: CNN HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80668
+http://loginto.live:80/trial284/jVr6hf7qMq/80668
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Crime Investigation HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80669
+http://loginto.live:80/trial284/jVr6hf7qMq/80669
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Discovery HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80670
+http://loginto.live:80/trial284/jVr6hf7qMq/80670
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Disney Junior HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80671
+http://loginto.live:80/trial284/jVr6hf7qMq/80671
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT |  Eleven Sports 1 2K/4K
-http://loginto.live:80/trial273/8khMjTadEC/80672
+http://loginto.live:80/trial284/jVr6hf7qMq/80672
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Afro Music HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80650
+http://loginto.live:80/trial284/jVr6hf7qMq/80650
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Amc HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80651
+http://loginto.live:80/trial284/jVr6hf7qMq/80651
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: ARTV HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80652
+http://loginto.live:80/trial284/jVr6hf7qMq/80652
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Axn HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80653
+http://loginto.live:80/trial284/jVr6hf7qMq/80653
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Axn Movies HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80654
+http://loginto.live:80/trial284/jVr6hf7qMq/80654
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Axn White HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80655
+http://loginto.live:80/trial284/jVr6hf7qMq/80655
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: BBC Entertainement HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80656
+http://loginto.live:80/trial284/jVr6hf7qMq/80656
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: BBC World News HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80657
+http://loginto.live:80/trial284/jVr6hf7qMq/80657
 #EXTINF:0 tvg-id="ext" group-title="Portuguese",PT: Biggs HEVC
-http://loginto.live:80/trial273/8khMjTadEC/80658
+http://loginto.live:80/trial284/jVr6hf7qMq/80658
