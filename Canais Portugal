@@ -1,5 +1,5 @@
 ####################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  CANAIS TV PT E EXPRESSÃO PT  /////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  CANAIS TV PT  /////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:0000
 ####################################################################################################################################
  
@@ -36,22 +36,13 @@ http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
  
 #EXTINF:-1,[COLOR=white][B]TVM INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
- 
-#EXTINF:-1,[COLOR=white][B]MUNDO TV BR[/B][/COLOR][COLOR=white][/COLOR]
-https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w895377817.m3u8
- 
-#EXTINF:-1,[COLOR=white][B]RETRO CARTOONS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1578064597.m3u8
- 
-#EXTINF:-1,[COLOR=white][B]VINTAGE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1129240952.m3u8
 
-#EXTINF:-1,[COLOR=white][B]1001 NOITES TV[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1155072.m3u8
-
+#EXTINF:-1,[COLOR=white][B]PORTA DOS FUNDOS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+ 
 ##########################################################################################################################
 
-#EXTINF:-1,[COLOR=blue][B]CANAIS TV PORTUGAL[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]CANAIS TV PT 1[/B][/COLOR][COLOR=blue][/COLOR]
 
 #EXTM3U
 
@@ -140,160 +131,13 @@ http://185.236.229.21:9981/play/a03c
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=blue][B]CANAIS BRASILEIROS[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]CANAIS TV PT 2[/B][/COLOR][COLOR=blue][/COLOR]
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]PORTA DOS FUNDOS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1,[COLOR=white][B]DARK MATTER TV BRASIL[/B][/COLOR][COLOR=white][/COLOR]
-https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]REDE GLOBO RJ[/B][/COLOR][COLOR=white][/COLOR]
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]SBT SP BRASIL[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8
 
-#EXTINF:-1,[COLOR=white][B]SBT INTERIOR[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8
 
-#EXTINF:-1,[COLOR=white][B]BAND TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8
 
-#EXTINF:-1,[COLOR=white][B]REDE BRASIL TV[/B][/COLOR][COLOR=white][/COLOR]
-http://177.11.96.110:9080/hls/sictv.m3u8
-
-#EXTINF:-1,[COLOR=white][B]TV MANCHETE[/B][/COLOR][COLOR=white][/COLOR]
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1059031771.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Outdoor",[COLOR=white][B]AGROBRASIL TV[/B][/COLOR][COLOR=white][/COLOR]
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:0 tvg-id="Terraviva.br" group-title="Outdoor",[COLOR=white][B]TERRA VIVA[/B][/COLOR][COLOR=white][/COLOR]
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ALL SPORTS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]TNT SPORTS 2 BRASIL[/B][/COLOR][COLOR=white][/COLOR]
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]TNT SPORTS 3 BRASIL[/B][/COLOR][COLOR=white][/COLOR]
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]TNT SPORTS 4 BRASIL[/B][/COLOR][COLOR=white][/COLOR]
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]TNT SPORTS 5 BRASIL[/B][/COLOR][COLOR=white][/COLOR]
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]TV ABERTA[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Animation",[COLOR=white][B]KANADE TV[/B][/COLOR][COLOR=white][/COLOR]
-http://45.32.74.87:81/hls/kanadetv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Animation",[COLOR=white][B]LOCOMOTION TV[/B][/COLOR][COLOR=white][/COLOR]
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Animation",[COLOR=white][B]METROPOLE NEWS[/B][/COLOR][COLOR=white][/COLOR]
-http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]C-GHOST[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
-#EXTINF:0 tvg-id="26TV.ar" group-title="News",[COLOR=white][B]CANAL 26 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]CANAL SAÚDE[/B][/COLOR][COLOR=white][/COLOR]
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]CBN RIO[/B][/COLOR][COLOR=white][/COLOR]
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]CBN SÃO PAULO[/B][/COLOR][COLOR=white][/COLOR]
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]CENTRAL TV[/B][/COLOR][COLOR=white][/COLOR]
-http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
-#EXTINF:0 tvg-id="RecordNews.pt" group-title="News",[COLOR=white][B]RECORD NEWS[/B][/COLOR][COLOR=white][/COLOR]
-https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]RECORD TV MANAUS[/B][/COLOR][COLOR=white][/COLOR]
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]TV GUARA[/B][/COLOR][COLOR=white][/COLOR]
-https://59f2354c05961.streamlock.net:1443/tvguara/tvguara/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]TVIDEO NEWS[/B][/COLOR][COLOR=white][/COLOR]
-https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Local",[COLOR=white][B]CANAL 25 JUNDIAI[/B][/COLOR][COLOR=white][/COLOR]
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",[COLOR=white][B]ITV[/B][/COLOR][COLOR=white][/COLOR]
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",[COLOR=white][B]NOVA ERA TV[/B][/COLOR][COLOR=white][/COLOR]
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",[COLOR=white][B]REDE RC[/B][/COLOR][COLOR=white][/COLOR]
-http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",[COLOR=white][B]TV CIDADE CANAL 9[/B][/COLOR][COLOR=white][/COLOR]
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",[COLOR=white][B]TV CIDADE DE PETRÓPOLIS[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",[COLOR=white][B]TV JORNAL[/B][/COLOR][COLOR=white][/COLOR]
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",[COLOR=white][B]TV JORNAL DO NORDESTE[/B][/COLOR][COLOR=white][/COLOR]
-https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",[COLOR=white][B]TV SOL COMUNIDADE[/B][/COLOR][COLOR=white][/COLOR]
-http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",[COLOR=white][B]TV UNISANTOS[/B][/COLOR][COLOR=white][/COLOR]
-http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",[COLOR=white][B]TVE BAHIA[/B][/COLOR][COLOR=white][/COLOR]
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",[COLOR=white][B]TVE RS[/B][/COLOR][COLOR=white][/COLOR]
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Local",[COLOR=white][B]TVN BRASIL[/B][/COLOR][COLOR=white][/COLOR]
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",[COLOR=white][B]COM BRASIL[/B][/COLOR][COLOR=white][/COLOR]
-https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",[COLOR=white][B]REDE BRASIL[/B][/COLOR][COLOR=white][/COLOR]
-https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",[COLOR=white][B]TV DESTAK[/B][/COLOR][COLOR=white][/COLOR]
-https://59f2354c05961.streamlock.net:1443/pascoal/pascoal/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",[COLOR=white][B]TV DIÁRIO DO SERTÃO[/B][/COLOR][COLOR=white][/COLOR]
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="TVGazeta.br" group-title="General",[COLOR=white][B]TV GAZETA[/B][/COLOR][COLOR=white][/COLOR]
-https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:0 tvg-id="TVSeries.pt" group-title="Travel",[COLOR=white][B]TV SERIES[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Weather",[COLOR=white][B]WEATHERSPY BRASIL[/B][/COLOR][COLOR=white][/COLOR]
-https://jukin-weatherspy-2-br.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTM3U
-
-#EXTINF:-1,[COLOR=blue][B]CANAIS ÁFRICANOS[/B][/COLOR][COLOR=blue][/COLOR]
-
-#EXTM3U
-
-#EXTINF:-1,[COLOR=white][B]ZIMBO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://iptv-all.lanesh4d0w.codes/angola/tv-zimbo
-
-#EXTINF:-1,[COLOR=white][B]DEMAND ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
-https://demandafrica-oando.amagi.tv/amRdirect/p=da/hls/amagi_hls_data_theafrica-demand-africa-oando/CDN/1920x1080_5055600/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]VOX ÁFRICA TV[/B][/COLOR][COLOR=white][/COLOR]
-http://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,[COLOR=white][B]RTI 1 TV[/B][/COLOR][COLOR=white][/COLOR]
-https://www.enovativecdn.com/rticdn/smil:rti1.smil/chunklist_w1535947788_b650000_sleng.m3u8?nimblesessionid=80327189
-
-#EXTINF:-1,[COLOR=white][B]TVGE[/B][/COLOR][COLOR=white][/COLOR]
-https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w258196624_b1500000.m3u8
-
-#EXTINF:-1,[COLOR=white][B]KURIAKOS ANGOLA[/B][/COLOR][COLOR=white][/COLOR]
-http://csvl02.manasat.com:1935/kktv_ang_apps/kktv_ang_pt3/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]TPA 1 TV[/B][/COLOR][COLOR=white][/COLOR]
-https://iptv-all.lanesh4d0w.codes/angola/tpa1
-
-#EXTINF:-1,[COLOR=white][B]CNA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]FASO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
-
-#EXTINF:-1,[COLOR=white][B]IMPACTO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://edge7.vedge.infomaniak.com/livecast/ik:impacttv_1/manifest.m3u8
-
-#EXTINF:-1,[COLOR=white][B]VISION TV[/B][/COLOR][COLOR=white][/COLOR]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]ADDIS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]BUKEDDE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.hydeug.com/bukedde1flussonic/tracks-v1a1/mono.m3u8
