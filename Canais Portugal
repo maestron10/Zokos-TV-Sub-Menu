@@ -218,8 +218,7 @@ http://185.236.229.21:9981/play/a04v
 
 #EXTINF:-1,Hollywood
 http://185.236.229.21:9981/play/a06k
-#EXTINF:-1,HOT TV
-http://185.236.229.21:9981/play/a03p
+
 #EXTINF:-1,ID Investigation Discovery
 http://185.236.229.21:9981/play/a05s
 #EXTINF:-1,Kuriakos TV HD
@@ -246,8 +245,7 @@ http://185.236.229.21:9981/play/a04p
 http://185.236.229.21:9981/play/a06l
 #EXTINF:-1,PFC
 http://185.236.229.21:9981/play/a06v
-#EXTINF:-1,PLAYBOY TV
-http://185.236.229.21:9981/play/a06z
+
 #EXTINF:-1,SIC Caras
 http://185.236.229.21:9981/play/a07j
 #EXTINF:-1,SIC Mulher
@@ -302,8 +300,7 @@ http://185.236.229.21:9981/play/a06g
 http://185.236.229.21:9981/play/a05o
 #EXTINF:-1,VH1
 http://185.236.229.21:9981/play/a03d
-#EXTINF:-1,VENUS
-http://185.236.229.21:9981/play/a05j
+
 #EXTINF:-1,ZAP VIVA HD
 http://185.236.229.21:9981/play/a052
 
