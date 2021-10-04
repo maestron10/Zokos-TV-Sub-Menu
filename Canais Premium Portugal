@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 29/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA MINI-REVISTA: 04/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 
 
@@ -36,26 +36,13 @@ http://oysteriptv.club:1986/live/Aaron/12345/26135.ts
 #EXTINF:0,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1926
 
-#EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://31.220.41.88:8081/live/pt-sporttv2.stream/playlist.m3u8
-
 #EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv3.stream/playlist.m3u8
 
 #EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://31.220.41.88:8081/live/pt-sporttv4.stream/playlist.m3u8
 
-#EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://31.220.41.88:8081/live/pt-sporttv5.stream/playlist.m3u8
 
-#EXTINF:0,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://oysteriptv.club:1986/live/Aaron/12345/26085.ts
-
-#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/elevensports1.png" group-title="PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://ptip.xyz:8880/live/chicoparreira/chicoparreira/1334.m3u8
-
-#EXTINF:0,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://oysteriptv.club:1986/live/Aaron/12345/26086.ts
 
  
 #EXTINF:-1,[COLOR=blue][B]LISTAS DIVERSAS SPORT TV PT[/B][/COLOR][COLOR=blue][/COLOR]
@@ -135,21 +122,14 @@ http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Wagma OTT",[COLOR=white][B]RMC SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
 http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/2604
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-3-fr.png" group-title="VIP Sports",[COLOR=white][B]RMC SPORTS 3[/B][/COLOR][COLOR=white][/COLOR]
-http://stream.tvtap.live:8081/live/fr-sfr3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDI6MDQ6MTYgUE0maGFzaF92YWx1ZT1oWmZJd1oxc3FmeXMwTXZ3aDZZa3V3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1,[COLOR=white][B]ESPN 1 BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.81:1234
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Wagma OTT",[COLOR=white][B]RMC SPORTS 5[/B][/COLOR][COLOR=white][/COLOR]
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/2607
+#EXTINF:-1,[COLOR=white][B]ESPN 1 BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.128:1234
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Wagma OTT",[COLOR=white][B]RMC SPORTS 6[/B][/COLOR][COLOR=white][/COLOR]
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/2608
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Wagma OTT",[COLOR=white][B]RMC SPORTS 7[/B][/COLOR][COLOR=white][/COLOR]
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/2609
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Wagma OTT",[COLOR=white][B]RMC SPORTS 8[/B][/COLOR][COLOR=white][/COLOR]
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/2610
-
+#EXTINF:-1,[COLOR=white][B]ESPN 2 BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.153:1234
 
 ##################################  BENFICA TV   ###########################################################################
 
@@ -158,11 +138,8 @@ http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/2610
 #EXTINF:-1,[COLOR=blue][B]BENFICA TV[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BENFICA TV HDD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/btv1hdB.png" group-title="PORTUGAL",[COLOR=white][B]BTV FHD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://ptip.xyz:8880/live/chicoparreira/chicoparreira/1353.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BENFICA TV FHD 265" tvg-logo="" group-title="PORTUGAL",[COLOR=white][B]BTV FHD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://ptip.xyz:8880/live/chicoparreira/chicoparreira/16446.m3u8
+#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://000000000000
 
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -172,6 +149,12 @@ plugin://plugin.video.f4mTester/?name=&streamtype=HLSRETRY&amp;url=http://ptip.x
 #EXTINF:-1,[COLOR=blue][B]CANAIS ELEVEN SPORTS PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
+
+#EXTINF:0,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://oysteriptv.club:1986/live/Aaron/12345/26085.ts
+
+#EXTINF:0,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://oysteriptv.club:1986/live/Aaron/12345/26086.ts
 
 #EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a05x
