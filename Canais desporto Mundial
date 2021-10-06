@@ -11,6 +11,43 @@ FONTE DE INFORMAÇÃO: https://iptv-org.github.io/iptv/categories/sports.m3u
 
 #EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 23/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
+
+
+#EXTINF:-1,[COLOR=white][B]SUPER SPORT 1 HD AL[/B][/COLOR][COLOR=white][/COLOR]
+http://93.157.62.180:80/Supersport1/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]SUPER SPORT 2 HD AL[/B][/COLOR][COLOR=white][/COLOR]
+http://93.157.62.180:80/Supersport2/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]SUPER SPORT 3 HD AL[/B][/COLOR][COLOR=white][/COLOR]
+http://93.157.62.180:80/Supersport3/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]SUPER SPORT 4 HD AL[/B][/COLOR][COLOR=white][/COLOR]
+http://93.157.62.180:80/Supersport4/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR=white][B]HRT1 HD HR[/B][/COLOR][COLOR=white][/COLOR]
+http://109.105.201.198:80/HRT1HD/video.m3u8
+#EXTINF:-1,[COLOR=white][B]HRT2 HD HR[/B][/COLOR][COLOR=white][/COLOR]
+http://109.105.201.198:80/HRT2HD/video.m3u8
+#EXTINF:-1,[COLOR=white][B]HRT3 HD HR[/B][/COLOR][COLOR=white][/COLOR]
+http://109.105.201.198:80/HRT3HD/video.m3u8
+#EXTINF:-1,[COLOR=white][B]HRT4 HD HR[/B][/COLOR][COLOR=white][/COLOR]
+http://109.105.201.198:80/HRT4HD/video.m3u8
+#EXTINF:0,[COLOR=white][B]SPORT 2 TR[/B][/COLOR][COLOR=white][/COLOR]
+http://37.221.122.86:8383/hls/trspor/playlist.m3u8 
+
+#EXTINF:-1,[COLOR=white][B]TRING SPORT 1 HD AL[/B][/COLOR][COLOR=white][/COLOR]
+http://us.bestvideostreaming.is/8796/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]TRING SPORT 2 HD AL[/B][/COLOR][COLOR=white][/COLOR]
+http://us.bestvideostreaming.is/8797/playlist.m3u8 
+#EXTINF:-1,[COLOR=white][B]TRING SPORT NEWS HD AL[/B][/COLOR][COLOR=white][/COLOR]
+http://us.bestvideostreaming.is/8785/playlist.m3u8
+
+#EXTINF:0,[COLOR=white][B]BEIN SPORTS 1 HD TR[/B][/COLOR][COLOR=white][/COLOR]
+http://31.220.41.88:8081/live/tr-bein1.stream/chunks.m3u8
+#EXTINF:0,[COLOR=white][B]BEIN SPORTS 2 HD TR[/B][/COLOR][COLOR=white][/COLOR]
+http://31.220.41.88:8081/live/tr-bein2.stream/chunks.m3u8
+#EXTINF:0,[COLOR=white][B]BEIN SPORTS 3 HD TR[/B][/COLOR][COLOR=white][/COLOR]
+http://31.220.41.88:8081/live/tr-bein3.stream/chunks.m3u8
+
 #EXTINF:-1,[COLOR=white][B]RACING.COM[/B][/COLOR][COLOR=white][/COLOR]
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1,[COLOR=white][B]BEK SPORTS WEST[/B][/COLOR][COLOR=white][/COLOR]
