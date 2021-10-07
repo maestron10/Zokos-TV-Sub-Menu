@@ -9,9 +9,33 @@ FONTE DE INFORMAÇÃO: https://iptv-org.github.io/iptv/categories/sports.m3u
  
 #EXTM3U
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 23/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 07/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
-
+#EXTM3U 
+#EXTINF:-1,[COLOR=white][B]AGRO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://81.93.72.46:4000/play/a056/index.m3u8 
+#EXTINF:-1,[COLOR=white][B]ARENA ESPORT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://81.93.72.46:4000/play/a054/index.m3u8 
+#EXTINF:-1,[COLOR=white][B]ARENA FIGHT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://81.93.72.46:4000/play/a055/index.m3u8 
+#EXTINF:-1,[COLOR=white][B]ARENA SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://81.93.72.46:4000/play/a051/index.m3u8
+#EXTINF:-1,[COLOR=white][B]ARENA SPORT 2 HD MTS[/B][/COLOR][COLOR=white][/COLOR]
+http://81.93.72.46:4000/play/a04v/index.m3u8
+#EXTINF:-1,[COLOR=white][B]ARENA SPORT 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://81.93.72.46:4000/play/a052/index.m3u8 
+#EXTINF:-1,[COLOR=white][B]ARENA SPORT 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://81.93.72.46:4000/play/a053/index.m3u8
+#EXTINF:-1,[COLOR=white][B]ARENA SPORT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://81.93.72.46:4000/play/a057/index.m3u8 
+#EXTINF:-1,[COLOR=white][B]ARENA SPORT HR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://81.93.72.46:4000/play/a058/index.m3u8
+#EXTINF:-1,[COLOR=white][B]BN BIH HD[/B][/COLOR][COLOR=white][/COLOR]
+http://81.93.72.46:4000/play/a059/index.m3u8
+#EXTINF:-1,[COLOR=white][B]BALKAN TRIP HD[/B][/COLOR][COLOR=white][/COLOR]
+http://81.93.72.46:4000/play/a03x/index.m3u8
+#EXTINF:-1,[COLOR=white][B]SUPERSTAR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://81.93.72.46:4000/play/a04s/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]SUPER SPORT 1 HD AL[/B][/COLOR][COLOR=white][/COLOR]
 http://93.157.62.180:80/Supersport1/playlist.m3u8
