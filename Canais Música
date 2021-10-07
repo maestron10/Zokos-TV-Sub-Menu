@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 28/09/21[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 1 REVISTA: 07/10/21[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
  
@@ -12,7 +12,8 @@ http://0.0.0.0:00000
 https://000000
 
 
-
+#EXTINF:-1,[COLOR=white][B]NRJ HITS FR[/B][/COLOR][COLOR=white][/COLOR]
+http://showflix.org:5890/live/client/client/686.m3u8 
 
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN AU[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
@@ -44,9 +45,6 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1,[COLOR=white][B]M20 TV[/B][/COLOR][COLOR=white][/COLOR]
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
-#EXTINF:-1,[COLOR=white][B]VIVO RU TV[/B][/COLOR][COLOR=white][/COLOR]
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-
 #EXTINF:-1,[COLOR=white][B]MUSIC TOP[/B][/COLOR][COLOR=white][/COLOR]
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
@@ -65,9 +63,6 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 #EXTINF:-1,[COLOR=white][B]KISS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83
 
-#EXTINF:-1,[COLOR=white][B]BRIDGE[/B][/COLOR][COLOR=white][/COLOR]
-http://ott-cdn.ucom.am/s34/index.m3u8
-
 #EXTINF:-1,[COLOR=white][B]ONE 1[/B][/COLOR][COLOR=white][/COLOR]
 https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
 
@@ -85,9 +80,6 @@ http://rosshow.gcdn.co/streams/1410_287/1080n/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Hit Music Channel (HU)" tvg-logo="https://i.imgur.com/n6zkLpb.png" group-title="MUSIC",[COLOR=white][B]HIT MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://hitmusic.hu/hitmusic.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO 538 (WEBCAM)[/B][/COLOR][COLOR=white][/COLOR]
-https://radio538-nl.prd.talpatvcdn.nl/69b995a427c84417bb6a53a1a2a18e4d/index_2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="XITE (BE)" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="MUSIC",[COLOR=white][B]XITE[/B][/COLOR][COLOR=white][/COLOR]
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
@@ -114,9 +106,6 @@ https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channe
 
 #EXTINF:-1,[COLOR=white][B]CMC USA MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]CADENA ELITE ES[/B][/COLOR][COLOR=white][/COLOR]
-http://cloudvideo.servers10.com:8080/8004/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]CITY MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://5592f056abba8.streamlock.net:1935/citytv/citytv/chunklist.m3u8
@@ -151,9 +140,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1,[COLOR=white][B]DELUXE LOUNGE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/91fcad1e-54b1-4702-9ec1-22a379525281/0.m3u8
 
-#EXTINF:-1,[COLOR=white][B]MELODY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]WHAM TV[/B][/COLOR][COLOR=white][/COLOR]
 https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
   
@@ -170,9 +156,6 @@ http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]ADRIA MUSIC RS[/B][/COLOR][COLOR=white][/COLOR]
 http://91.212.150.248/AdriaMusicTV/index.m3u8
- 
-#EXTINF:-1,[COLOR=white][B]TU MUSICA HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
  
 #EXTINF:-1,[COLOR=white][B]AFROBEAT - ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
@@ -418,8 +401,6 @@ https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]MUZZIK OKK SERBIA[/B][/COLOR][COLOR=white][/COLOR]
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]ONDA DIGITAL PERU[/B][/COLOR][COLOR=white][/COLOR]
-http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]LA MEGA MUNDIAL USA[/B][/COLOR][COLOR=white][/COLOR]
 https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]DITTY TV USA EN[/B][/COLOR][COLOR=white][/COLOR]
