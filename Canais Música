@@ -12,9 +12,6 @@ http://0.0.0.0:00000
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]NRJ HITS FR[/B][/COLOR][COLOR=white][/COLOR]
-http://showflix.org:5890/live/client/client/686.m3u8 
-
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN AU[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
