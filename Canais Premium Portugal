@@ -11,7 +11,28 @@ Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 #EXTM3U
  
 #EXTINF:-1,[COLOR=blue][B]LISTAS DIVERSAS SPORT TV PT[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000
+https://00000000000
+
+#EXTINF:0 tvg-id="ext" group-title=":--- GR GREEK ---:",PT: SPORT TV+ LOW
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86853.m3u8
+
+#EXTINF:0 tvg-id="sporttv2.pt" group-title=":--- GR GREEK ---:",SPORT TV 2 HD
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86785.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title=":--- GR GREEK ---:",SPORT TV 2 LOW
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86857.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title=":--- GR GREEK ---:",SPORT TV  5 HD
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86820.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title=":--- GR GREEK ---:",SPORT TV 5 LOW
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86854.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title=":--- GR GREEK ---:",SPORT TV 5 FHD
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86887.m3u8
+
+
+
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV+[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a03c
@@ -62,8 +83,11 @@ http://189.91.128.146:4444/udp/227.10.20.153:1234
 #EXTINF:-1,[COLOR=blue][B]BENFICA TV[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://000000000000
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title=":--- GR GREEK ---:",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86879.m3u8
+
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title=":--- GR GREEK ---:",[COLOR=white][B]BTV FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86881.m3u8
 
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -72,6 +96,27 @@ http://000000000000
  
 #EXTINF:-1,[COLOR=blue][B]CANAIS ELEVEN SPORTS PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
+
+
+#EXTINF:0 tvg-id="ext" group-title=":--- GR GREEK ---:",ELEVEN SPORTS 1 HD
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86831.m3u8
+#EXTINF:0 tvg-id="ext" group-title=":--- GR GREEK ---:",ELEVEN SPORTS 1
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86832.m3u8
+#EXTINF:0 tvg-id="ext" group-title=":--- GR GREEK ---:",ELEVEN SPORTS 1 SD
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86833.m3u8
+#EXTINF:0 tvg-id="ext" group-title=":--- GR GREEK ---:",ELEVEN SPORTS 2
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86829.m3u8
+#EXTINF:0 tvg-id="ext" group-title=":--- GR GREEK ---:",ELEVEN SPORTS 2 SD
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86830.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title=":--- GR GREEK ---:",ELEVEN SPORTS 2 HD
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86834.m3u8
+#EXTINF:0 tvg-id="ext" group-title=":--- GR GREEK ---:",ELEVEN SPORTS 3 HD
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86827.m3u8
+#EXTINF:0 tvg-id="ext" group-title=":--- GR GREEK ---:",ELEVEN SPORTS 3 SD
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86828.m3u8
+#EXTINF:0 tvg-id="ext" group-title=":--- GR GREEK ---:",ELEVEN SPORTS 4 HD
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86825.m3u8
 
 #EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a05x
@@ -84,6 +129,14 @@ http://185.236.229.21:9981/play/a05y
 
 #EXTINF:0 tvg-id="elevensports5.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 5 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a05y
+
+#EXTINF:0 tvg-id="ext" group-title=":--- GR GREEK ---:",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86823.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title=":--- GR GREEK ---:",ELEVEN SPORTS 6 HD
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86824.m3u8
+
+
 
 
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
@@ -106,6 +159,12 @@ http://185.236.229.21:9981/play/a05z
 
 #EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]TVCINE TOP[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a04w
+
+#EXTINF:0 tvg-id="TVSeries.pt" group-title=":--- GR GREEK ---:",TV SERIES SD
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86924.m3u8
+
+#EXTINF:0 tvg-id="TVSeries.pt" group-title=":--- GR GREEK ---:",TV SERIES HD
+http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86925.m3u8
 
 
 
