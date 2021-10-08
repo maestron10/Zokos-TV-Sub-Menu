@@ -55,6 +55,9 @@ https://000000
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Wagma OTT",[COLOR=white][B]RMC SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
 http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/2603
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="VIP Sports",[COLOR=white][B]RMC SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/137000/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Wagma OTT",[COLOR=white][B]RMC SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
 http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/2604
 
