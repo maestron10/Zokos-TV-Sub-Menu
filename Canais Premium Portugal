@@ -13,18 +13,16 @@ Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 #EXTINF:-1,[COLOR=blue][B]NOVOS LINKS SPORT TV PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://00000000000
 
-#EXTINF:-1,[COLOR=white][B]SPORT TV+[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SPORT TV +[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a03c
 
-#EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]SPORT TV+[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]SPORT TV +[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a03c
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="VIP Sports",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv1.png" group-title="Sport Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1925
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 FHD 265" tvg-logo="" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/16448.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/189
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -34,36 +32,22 @@ http://93.152.174.144:4000/play/sporttv1/index.m3u8
 https://smart-tv.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/12/sport-tv2.png" group-title="Sport Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1926
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 FHD 265" tvg-logo="" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/16449.m3u
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/190
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/12/sport-tv2.png" group-title="Sport Channels",[COLOR=white][B]SPORT TV 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1926
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_3.png" group-title="VIP Sports",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://smart-tv.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 FHD 265" tvg-logo="" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/16450.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 LOW" tvg-logo="" group-title="PORTUGAL LOW",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/12736.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/191
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_4.png" group-title="VIP Sports",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://smart-tv.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 FHD 265" tvg-logo="" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/16451.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4 LOW" tvg-logo="" group-title="PORTUGAL LOW",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/12737.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt.png" group-title="VIP Sports",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://smart-tv.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv5.png" group-title="Sport Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1929
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 FHD 265" tvg-logo="" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/16452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5 LOW" tvg-logo="" group-title="PORTUGAL LOW",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/12738.m3u8
-#EXTINF:-1 tvg-id="SportTVNBAHD" tvg-name="SPORT TV NBA HD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/nba.png" group-title="PORTUGAL",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/1332.m3u8
+
 
 #EXTM3U
 
@@ -94,18 +78,11 @@ http://189.91.128.146:4444/udp/227.10.20.153:1234
  
 #EXTINF:-1,[COLOR=blue][B]BENFICA TV[/B][/COLOR][COLOR=blue][/COLOR]                
 https://000000
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BENFICA TV HDD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/btv1hdB.png" group-title="PORTUGAL",[COLOR=white][B]BENFICA TV[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/1353.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BENFICA TV FHD 265" tvg-logo="" group-title="PORTUGAL",[COLOR=white][B]BENFICA TV[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/16446.m3u8
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BENFICA TV HD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/btv1hdB.png" group-title="PORTUGAL",[COLOR=white][B]BENFICA TV[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/1352.m3u8
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BENFICA TV 1 EXTRA" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/btv1hdB.png" group-title="PORTUGAL",[COLOR=white][B]BENFICA TV[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/12193.m3u8
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BENFICA TV 1 EXTRA HD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/btv1hdB.png" group-title="PORTUGAL",[COLOR=white][B]BENFICA TV[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/12194.m3u8
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BENFICA TV" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/btv1hdB.png" group-title="PORTUGAL",[COLOR=white][B]BENFICA TV[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/1351.m3u8
+
+
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BENFICA TV HDD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/btv1hdB.png" group-title="PORTUGAL",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://00000000000000000000000000000000
+
 
 
 
@@ -118,32 +95,7 @@ https://000000
 
 
 
-#EXTINF:-1 tvg-id="elevensports1FHD" tvg-name="ELEVEN SPORTS 1 HDD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/elevensports1.png" group-title="PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/1335.m3u8
-#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/elevensports1.png" group-title="PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/1334.m3u8
-#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/elevensports1.png" group-title="PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/1333.m3u8
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1 HD EXTRA" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/elevensports1.png" group-title="PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/9276.m3u8
-#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="ELEVEN SPORTS 2 HDD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/elevensports2.png" group-title="PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/1338.m3u8
-#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/elevensports2.png" group-title="PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/1337.m3u8
-#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="ELEVEN SPORTS 2" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/elevensports2.png" group-title="PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/1336.m3u8
-#EXTINF:-1 tvg-id="elevensports3HD" tvg-name="ELEVEN SPORTS 3 HDD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/elevensports3.png" group-title="PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 3 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/1341.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/elevensports3.png" group-title="PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 3 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/1340.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="ELEVEN SPORTS 3" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/elevensports3.png" group-title="PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 3 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/1339.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="ELEVEN SPORTS 4 HDD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/elevensports4.png" group-title="PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/1344.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/elevensports4.png" group-title="PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/1343.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="ELEVEN SPORTS 4" tvg-logo="http://logo.ptip.xyz/LOGOS/LOGOS/LOGOS-PT/elevensports4.png" group-title="PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/1342.m3u8
+
 #EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a05x
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -154,18 +106,6 @@ http://185.236.229.21:9981/play/a05y
 http://185.236.229.21:9981/play/a05y
 #EXTINF:0 tvg-id="ext" group-title=":--- GR GREEK ---:",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://satlok.xyz:8000/live/NEZZ18/NEZZ1805/86823.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 LOW" tvg-logo="" group-title="PORTUGAL LOW",[COLOR=white][B]ELEVEN SPORTS 1 LOW[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/12709.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 LOW" tvg-logo="" group-title="PORTUGAL LOW",[COLOR=white][B]ELEVEN SPORTS 2 LOW[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/12710.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 LOW" tvg-logo="" group-title="PORTUGAL LOW",[COLOR=white][B]ELEVEN SPORTS 3 LOW[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/12711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4 LOW" tvg-logo="" group-title="PORTUGAL LOW",[COLOR=white][B]ELEVEN SPORTS 4 LOW[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/12712.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 5 LOW" tvg-logo="" group-title="PORTUGAL LOW",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ptip.xyz:8880/live/nelsonpinto/nelsonpinto/12713.m3u8
 
 
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
