@@ -14,6 +14,17 @@ Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 https://00000000000
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="VIP Sports",SPORT TV1
+https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_2.png" group-title="VIP Sports",SPORT TV2
+https://smart-tv.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_3.png" group-title="VIP Sports",SPORT TV3
+https://smart-tv.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_4.png" group-title="VIP Sports",SPORT TV4
+https://smart-tv.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt.png" group-title="VIP Sports",SPORT TV5
+https://smart-tv.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]SPORT TV+[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a03c
 
