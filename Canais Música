@@ -48,12 +48,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]1HD RU[/B][/COLOR][COLOR=white][/COLOR]
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,[COLOR=white][B]ONE TV 4K[/B][/COLOR][COLOR=white][/COLOR]
-http://rtmp.one.by:1499
-
-#EXTINF:-1,[COLOR=white][B]ONE TV 4K[/B][/COLOR][COLOR=white][/COLOR]
-http://rtmp.one.by:1400/
-
 #EXTINF:-1,[COLOR=white][B]KISS UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
