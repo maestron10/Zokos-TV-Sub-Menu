@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 26/09/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 12/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ##########################################################################################################################
  
@@ -40,9 +40,6 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1,[COLOR=white][B]FREE SPORTS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 
-#EXTINF:-1,[COLOR=white][B]SPORTS CHANNEL NETWORK[/B][/COLOR][COLOR=white][/COLOR]
-https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
- 
 #EXTINF: -1,[COLOR=white][B]ADVENTURE SPORTS NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
@@ -94,9 +91,6 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]ADULT SWIM TV[/B][/COLOR][COLOR=white][/COLOR]
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 
-#EXTINF:-1,[COLOR=white][B]ADULT SWIM TV[/B][/COLOR][COLOR=white][/COLOR]
-http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
-
 #EXTINF:-1,[COLOR=white][B]RIGHT NOW TV[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn87.theus6tv.tk/cable/rightnowtv.m3u8
 
@@ -105,12 +99,6 @@ https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]WIXLAR[/B][/COLOR][COLOR=white][/COLOR]
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]PEOPLE ARE AWESOME[/B][/COLOR][COLOR=white][/COLOR]
-https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]PEOPLE ARE AWESOME FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://jukin-peopleareawesome-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]FAIL ARMY[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
@@ -130,7 +118,6 @@ https://peopletv-oo.akamaized.net/playlist480p.m3u8
 #EXTINF:155,[COLOR=white][B]GLAMOUR TV[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
  
-
 #EXTINF:-1,[COLOR=white][B]NASA TV 1[/B][/COLOR][COLOR=white][/COLOR]
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
  
@@ -148,15 +135,9 @@ http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
  
 #EXTINF:-1 group-title="Religious",[COLOR=white][B]BETTER NATURE TV[/B][/COLOR][COLOR=white][/COLOR]
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
- 
-#EXTINF:-1,[COLOR=white][B]MAGELLAN TV NOW[/B][/COLOR][COLOR=white][/COLOR]
-https://magellantv-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SOPHIA TV[/B][/COLOR][COLOR=white][/COLOR]
 https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]THE PET COLLECTIVE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]OUTDOOR CHANNEL TV[/B][/COLOR][COLOR=white][/COLOR]
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
@@ -194,12 +175,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e600071
 #EXTINF:-1,[COLOR=blue][B]CANAIS MODA E TEMPO[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
  
-
 #EXTINF:-1,[COLOR=white][B]THE WEATHER CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn88.theus6tv.tk/united-states/cable/the-weather-channel.m3u8
- 
-#EXTINF:-1,[COLOR=white][B]WEATHER SPY (AUSTRÁLIA)[/B][/COLOR][COLOR=white][/COLOR]
-https://jukin-weatherspy-2-au.samsung.wurl.com/manifest/playlist.m3u8
  
 #EXTINF:-1,[COLOR=white][B]WEATHER NATION (USA)[/B][/COLOR][COLOR=white][/COLOR]
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
@@ -215,9 +192,6 @@ https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8
  
 #EXTINF:-1,[COLOR=white][B]FASHION TEEN[/B][/COLOR][COLOR=white][/COLOR]
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1,[COLOR=white][B]FASHION TV PARIS[/B][/COLOR][COLOR=white][/COLOR]
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
  
 #EXTINF:-1,[COLOR=white][B]FASHION TV MIDNIGHT SECRETS[/B][/COLOR][COLOR=white][/COLOR]
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
@@ -272,9 +246,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]GARATE TV (ARG.)[/B][/COLOR][COLOR=white][/COLOR]
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w474176182_b1296000_sleng.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MAV TV (AU.)[/B][/COLOR][COLOR=white][/COLOR]
-https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]BUMBLEBEE TV AUTOMOTOR (ARG.)[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
