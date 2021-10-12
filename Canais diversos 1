@@ -96,6 +96,9 @@ https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,[COLOR=white][B]WIXLAR[/B][/COLOR][COLOR=white][/COLOR]
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PeopleareAwesome.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="US Channels",[COLOR=white][B]PEOPLE ARE AWESOME[/B][/COLOR][COLOR=white][/COLOR]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]FAIL ARMY[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
