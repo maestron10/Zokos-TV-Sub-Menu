@@ -34,6 +34,9 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 ,[COLOR=white][B]JASMIN TV[/B][/COLOR][COLOR=white][/COLOR]
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzdf/JasminTV_880x880.png" group-title="Adults Only | 18+",[COLOR=white][B]JASMIN TV[/B][/COLOR][COLOR=white][/COLOR]
+http://109.71.162.112/live/sd.jasminchannel.stream/.m3u8
+
 #EXTINF:-1 ,[COLOR=white][B]MIAMI TV[/B][/COLOR][COLOR=white][/COLOR]
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1578415761_b2592000.m3u8
 
@@ -52,6 +55,12 @@ https://000000
 
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMxNTUxNDVf/Kaloopy_340x340.png" group-title="Adults Only | 18+",[COLOR=white][B]KALOOPY 18+[/B][/COLOR][COLOR=white][/COLOR]
+https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQxNjAyMTNf/DarcizzleOffshore_312x312.png" group-title="Adults Only | 18+",[COLOR=white][B]DARCIZZLE OFFSHORE TV[/B][/COLOR][COLOR=white][/COLOR]
+https://30a-tv.com/feeds/xodglobal/fishingoffshore.m3u8
 
 #EXTINF:-1,[COLOR=white][B]HOT TV PT[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a03p
