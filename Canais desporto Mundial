@@ -1,7 +1,7 @@
 
 
 ####################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////////  DESPORTOS MUNDIAIS  ////////////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////////  DESPORTOS MUNDIAIS - LISTAS  ////////////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:0000
 ######################################################################################################################################
  
@@ -9,29 +9,22 @@ FONTE DE INFORMAÇÃO: https://iptv-org.github.io/iptv/categories/sports.m3u
  
 #EXTM3U
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 07/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 1 REVISTA: 15/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U 
 
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BEIN PREMIUM 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://viewplayer.ip1v.com:25461/live/maan/test/22.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BEIN SPORTS PR 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://viewplayer.ip1v.com:25461/live/maan/test/23.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BEIN SPORTS PR 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://viewplayer.ip1v.com:25461/live/maan/test/24.m3u8 
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",[COLOR=white][B]BEIN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://viewplayer.ip1v.com:25461/live/maan/test/25.m3u8 
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",[COLOR=white][B]BEIN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://viewplayer.ip1v.com:25461/live/maan/test/26.m3u8 
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",[COLOR=white][B]BEIN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://viewplayer.ip1v.com:25461/live/maan/test/27.m3u8
+#EXTINF:-1,[COLOR=white][B]BT SPORT 1 HD UK[/B][/COLOR][COLOR=white][/COLOR]
+http://93.152.174.144:4000/play/btsport1/index.m3u8 
+#EXTINF:-1,[COLOR=white][B]BT SPORT 2 HD UK[/B][/COLOR][COLOR=white][/COLOR]
+http://93.152.174.144:4000/play/btsport2/index.m3u8 
+#EXTINF:-1,[COLOR=white][B]BT SPORT 3 HD UK[/B][/COLOR][COLOR=white][/COLOR]
+http://93.152.174.144:4000/play/btsport3/index.m3u8 
+#EXTINF:-1,[COLOR=white][B]BT SPORT 3 ESPN HD UK[/B][/COLOR][COLOR=white][/COLOR]
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]AGRO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://81.93.72.46:4000/play/a056/index.m3u8 
 
-#EXTINF:-1,[COLOR=white][B]ARENA ESPORT HD[/B][/COLOR][COLOR=white][/COLOR]
-http://81.93.72.46:4000/play/a054/index.m3u8 
 #EXTINF:-1,[COLOR=white][B]ARENA FIGHT HD[/B][/COLOR][COLOR=white][/COLOR]
 http://81.93.72.46:4000/play/a055/index.m3u8 
 #EXTINF:-1,[COLOR=white][B]ARENA SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -78,15 +71,6 @@ http://37.221.122.86:8383/hls/trspor/playlist.m3u8
 http://us.bestvideostreaming.is/8796/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TRING SPORT 2 HD AL[/B][/COLOR][COLOR=white][/COLOR]
 http://us.bestvideostreaming.is/8797/playlist.m3u8 
-#EXTINF:-1,[COLOR=white][B]TRING SPORT NEWS HD AL[/B][/COLOR][COLOR=white][/COLOR]
-http://us.bestvideostreaming.is/8785/playlist.m3u8
-
-#EXTINF:0,[COLOR=white][B]BEIN SPORTS 1 HD TR[/B][/COLOR][COLOR=white][/COLOR]
-http://31.220.41.88:8081/live/tr-bein1.stream/chunks.m3u8
-#EXTINF:0,[COLOR=white][B]BEIN SPORTS 2 HD TR[/B][/COLOR][COLOR=white][/COLOR]
-http://31.220.41.88:8081/live/tr-bein2.stream/chunks.m3u8
-#EXTINF:0,[COLOR=white][B]BEIN SPORTS 3 HD TR[/B][/COLOR][COLOR=white][/COLOR]
-http://31.220.41.88:8081/live/tr-bein3.stream/chunks.m3u8
 
 #EXTINF:-1,[COLOR=white][B]RACING.COM[/B][/COLOR][COLOR=white][/COLOR]
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
@@ -155,8 +139,6 @@ https://persik.tv/stream/3602/287583/10249.m3u8
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ADSports2.net" group-title="Sports",[COLOR=white][B]ABU DHABI SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ACCDN[/B][/COLOR][COLOR=white][/COLOR]
-https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ADVENTURE SPORTS NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ADVENTURE SPORTS NETWORK[/B][/COLOR][COLOR=white][/COLOR]
@@ -202,14 +184,11 @@ https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
 http://185.236.229.21:9981/play/a05x
 #EXTINF:0 tvg-id="elevensports5.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 5 PT[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a05y
-#EXTINF:0 tvg-id="ESPN2.us" group-title="Sports",[COLOR=white][B]ESPN 2[/B][/COLOR][COLOR=white][/COLOR]
-http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+
 #EXTINF:0 tvg-id="Esport3.es" group-title="Sports",[COLOR=white][B]ESPORT 3[/B][/COLOR][COLOR=white][/COLOR]
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:0 tvg-id="Esport3.es" group-title="Sports",[COLOR=white][B]ESPORT 3[/B][/COLOR][COLOR=white][/COLOR]
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ESTV[/B][/COLOR][COLOR=white][/COLOR]
-https://estv-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ESTV[/B][/COLOR][COLOR=white][/COLOR]
 https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
 
