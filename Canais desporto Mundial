@@ -13,15 +13,6 @@ FONTE DE INFORMAÇÃO: https://iptv-org.github.io/iptv/categories/sports.m3u
 
 #EXTM3U 
 
-#EXTINF:-1,[COLOR=white][B]BT SPORT 1 HD UK[/B][/COLOR][COLOR=white][/COLOR]
-http://93.152.174.144:4000/play/btsport1/index.m3u8 
-#EXTINF:-1,[COLOR=white][B]BT SPORT 2 HD UK[/B][/COLOR][COLOR=white][/COLOR]
-http://93.152.174.144:4000/play/btsport2/index.m3u8 
-#EXTINF:-1,[COLOR=white][B]BT SPORT 3 HD UK[/B][/COLOR][COLOR=white][/COLOR]
-http://93.152.174.144:4000/play/btsport3/index.m3u8 
-#EXTINF:-1,[COLOR=white][B]BT SPORT 3 ESPN HD UK[/B][/COLOR][COLOR=white][/COLOR]
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
-
 #EXTINF:-1,[COLOR=white][B]AGRO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://81.93.72.46:4000/play/a056/index.m3u8 
 
