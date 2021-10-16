@@ -14,17 +14,17 @@ Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 https://00000000000
 
 
-#EXTINF:-1,SPORT TV 1 HD
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.155.157:8000/play/a01e
-#EXTINF:-1,SPORT TV 2 HD
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.155.157:8000/play/a01f
-#EXTINF:-1,SPORT TV 3 HD
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.155.157:8000/play/a01g
-#EXTINF:-1,SPORT TV 4 HD
+#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.155.157:8000/play/a01q
-#EXTINF:-1,SPORT TV 5 HD
+#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.155.157:8000/play/a02a
-#EXTINF:-1,SPORT TV 6 HD
+#EXTINF:-1,[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.155.157:8000/play/a02b
 
 
