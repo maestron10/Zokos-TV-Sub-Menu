@@ -48,6 +48,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346
 
 #EXTM3U
 
+#EXTINF:-1,[COLOR=white][B]FOX COMEDY[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.155.157:8000/play/a01m
 
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
