@@ -68,6 +68,17 @@
 </channel>
 
 
+<channels>
+<channel>
+<name>[COLOR=gold][B]CANAIS TV PT & BR[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601405.us.archive.org/31/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
+<externallink>https://iptv-org.github.io/iptv/languages/por.m3u</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channel>
+
+
 
 <channels>
 <channel>
