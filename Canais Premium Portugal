@@ -14,20 +14,6 @@ Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 https://00000000000
 
 
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.155.157:8000/play/a01e
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.155.157:8000/play/a01f
-#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.155.157:8000/play/a01g
-#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.155.157:8000/play/a01q
-#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.155.157:8000/play/a02a
-#EXTINF:-1,[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.155.157:8000/play/a02b
-
-
 #EXTINF:-1,[COLOR=white][B]SPORT TV +[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a03c
 
@@ -91,12 +77,8 @@ http://189.91.128.146:4444/udp/227.10.20.153:1234
 #EXTINF:-1,[COLOR=blue][B]BENFICA TV[/B][/COLOR][COLOR=blue][/COLOR]                
 https://000000
 
-#EXTINF:-1,[COLOR=white][B]BTV[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.155.157:8000/play/a01l
-
-#EXTINF:-1,[COLOR=white][B]BTV[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.155.157:8000/play/a035
-
+#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://0000000000000000000000000
 
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -106,15 +88,6 @@ http://161.230.155.157:8000/play/a035
 #EXTINF:-1,[COLOR=blue][B]CANAIS ELEVEN SPORTS PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.155.157:8000/play/a02u
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.155.157:8000/play/a01k
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.155.157:8000/play/a01o
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.155.157:8000/play/a02v
 #EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a05x
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=white][/COLOR]
