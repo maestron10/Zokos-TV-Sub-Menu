@@ -4,7 +4,7 @@ http://0.0.0.0:000000
 ####################################################################################################################################
  
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA 1 - LISTA DE FILMES NUVEM: 27/07/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 1 - LISTA DE FILMES NUVEM ATUALIZADA: 27/07/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
  
@@ -43,14 +43,13 @@ https://cld.pt/dl/download/6eef2581-a94f-41c5-8e73-6c074a70ccb2/Wonder%20Woman%2
 ###########################################################################################################
 
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA 2 DUBLADOS: 27/06/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 2 VERIFICADA: 18/10/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
 
 #EXTM3U
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S (2018)",Z-O-M-B-I-E-S (2018)
 http://sv1.maincasa.cf:80/movie/master/123456/32181.mp4
-
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Z-O-M-B-I-E-S 2 (2020)
 http://sv1.maincasa.cf:80/movie/master/123456/33162.mp4
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Z: A Cidade Perdida (2016)
@@ -71,16 +70,12 @@ http://sv1.maincasa.cf:80/movie/master/123456/32938.mp4
 http://sv1.maincasa.cf:80/movie/master/123456/32953.mp4
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Zoombies 2 (2019)
 http://sv1.maincasa.cf:80/movie/master/123456/31746.mp4
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",ZOOTOPIA: ESSA CIDADE É O BICHO
-http://sv1.maincasa.cf:80/movie/master/123456/17441.mp4
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Zumbilândia (2009)
 http://sv1.maincasa.cf:80/movie/master/123456/33647.mp4
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Zumbilândia Atire Duas Vezes (2019)
 http://sv1.maincasa.cf:80/movie/master/123456/33952.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Zumbilândia: Atire Duas Vezes (2019)
 http://sv1.maincasa.cf:80/movie/master/123456/33648.mp4
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",ZÉ DO PERIQUITO
-http://sv1.maincasa.cf:80/movie/master/123456/15491.avi
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Zé do Periquito (1960)
 http://sv1.maincasa.cf:80/movie/master/123456/32184.mp4
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",[REC] (2007)
@@ -103,30 +98,10 @@ http://sv1.maincasa.cf:80/movie/master/123456/32624.mp4
 http://sv1.maincasa.cf:80/movie/master/123456/32625.mp4
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",É o Fim (2013)
 http://sv1.maincasa.cf:80/movie/master/123456/32185.mp4
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Animais em Apuros
-http://sv1.maincasa.cf:80/movie/master/123456/15554.mkv
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",BATMAN VS Tartarugas Ninjas
-http://sv1.maincasa.cf:80/movie/master/123456/15556.mp4
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",O REINO GELADO: A TERRA DOS ESPELHOS
-http://sv1.maincasa.cf:80/movie/master/123456/15558.mp4
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",THE LODGE
-http://sv1.maincasa.cf:80/movie/master/123456/16002.mp4
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",RELATOS SELVAGENS
-http://sv1.maincasa.cf:80/movie/master/123456/16003.mkv
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",NOELLE
-http://sv1.maincasa.cf:80/movie/master/123456/16005.mkv
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",BE COOL - O OUTRO NOME DO JOGO
-http://sv1.maincasa.cf:80/movie/master/123456/16008.mkv
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Uma Aventura no Mundo Boonie Bears
-http://sv1.maincasa.cf:80/movie/master/123456/16601.mkv
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",365 DIAS
-http://sv1.maincasa.cf:80/movie/master/123456/17653.mp4
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",A Assistente 2020
 http://sv1.maincasa.cf:80/movie/master/123456/46974.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Abaixo de Zero (2021)
 http://sv1.maincasa.cf:80/movie/master/123456/46975.mp4
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",A Face da Verdade 2020
-http://sv1.maincasa.cf:80/movie/master/123456/46976.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",A Forca
 http://sv1.maincasa.cf:80/movie/master/123456/46977.mp4
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",A Garota no Trem (2021)
@@ -145,8 +120,6 @@ http://sv1.maincasa.cf:80/movie/master/123456/46983.mp4
 http://sv1.maincasa.cf:80/movie/master/123456/46984.mp4
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",A Hora do Pesadelo 7 - O Novo Pesadelo - O Retorno de Freddy Krueger
 http://sv1.maincasa.cf:80/movie/master/123456/46985.mp4
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",AK_vs_AK 2021
-http://sv1.maincasa.cf:80/movie/master/123456/46986.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",A Maldicao do Espelho 2020
 http://sv1.maincasa.cf:80/movie/master/123456/46987.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Amor² (2021)
@@ -159,8 +132,6 @@ http://sv1.maincasa.cf:80/movie/master/123456/46990.mkv
 http://sv1.maincasa.cf:80/movie/master/123456/46991.mp4
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",A Sentinela (2021)
 http://sv1.maincasa.cf:80/movie/master/123456/46992.mp4
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",A Vinganca da Baba 2017
-http://sv1.maincasa.cf:80/movie/master/123456/46993.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",A Voz Suprema do Blues 2020
 http://sv1.maincasa.cf:80/movie/master/123456/46994.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Bad Trip (2021)
@@ -169,8 +140,6 @@ http://sv1.maincasa.cf:80/movie/master/123456/46995.mp4
 http://sv1.maincasa.cf:80/movie/master/123456/46996.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Bill e Ted Encare a Musica 2020
 http://sv1.maincasa.cf:80/movie/master/123456/46997.mkv
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Capital Humano 2020
-http://sv1.maincasa.cf:80/movie/master/123456/46998.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Casa do Medo
 http://sv1.maincasa.cf:80/movie/master/123456/46999.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Como Construir uma Garota 2020
@@ -197,16 +166,10 @@ http://sv1.maincasa.cf:80/movie/master/123456/47009.mp4
 http://sv1.maincasa.cf:80/movie/master/123456/47010.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Hot Bot - Uma Robô em minha Vida 2018
 http://sv1.maincasa.cf:80/movie/master/123456/47011.mkv
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Jogos de Assassinos 2016
-http://sv1.maincasa.cf:80/movie/master/123456/47012.mp4
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Liga da Justiça de Zack Snyder (2021)
 http://sv1.maincasa.cf:80/movie/master/123456/47013.mp4
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Loucuras de Verao 2020
-http://sv1.maincasa.cf:80/movie/master/123456/47014.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Luccas Neto em Acampamento de Férias 3 (2021)
 http://sv1.maincasa.cf:80/movie/master/123456/47015.mp4
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",O Caminho de Volta 2020
-http://sv1.maincasa.cf:80/movie/master/123456/47016.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",O Dom da Serpente 2019
 http://sv1.maincasa.cf:80/movie/master/123456/47017.mp4
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",O Exterminador do Futuro
@@ -221,8 +184,6 @@ http://sv1.maincasa.cf:80/movie/master/123456/47021.mkv
 http://sv1.maincasa.cf:80/movie/master/123456/47022.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",O Tigre Branco (2021)
 http://sv1.maincasa.cf:80/movie/master/123456/47023.mp4
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Palavras de Familia 2019
-http://sv1.maincasa.cf:80/movie/master/123456/47024.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Palavras nas Paredes do Banheiro 2020
 http://sv1.maincasa.cf:80/movie/master/123456/47025.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Palmer (2021)
@@ -231,8 +192,6 @@ http://sv1.maincasa.cf:80/movie/master/123456/47026.mp4
 http://sv1.maincasa.cf:80/movie/master/123456/47027.mp4
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Pelé (2021)
 http://sv1.maincasa.cf:80/movie/master/123456/47028.mp4
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Pequenos Grandes Heróis 2020
-http://sv1.maincasa.cf:80/movie/master/123456/47029.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Quarto de Guerra
 http://sv1.maincasa.cf:80/movie/master/123456/47030.mp4
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Que Familia e Essa 2016
@@ -249,8 +208,6 @@ http://sv1.maincasa.cf:80/movie/master/123456/47035.mp4
 http://sv1.maincasa.cf:80/movie/master/123456/47036.mp4
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Sonhos de Uma Vida (2020)
 http://sv1.maincasa.cf:80/movie/master/123456/47037.mp4
-#EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Stalking Chernobyl - Exploração Após o Apocalipse (2020)
-http://sv1.maincasa.cf:80/movie/master/123456/47038.mp4
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Submissão (2020)
 http://sv1.maincasa.cf:80/movie/master/123456/47039.mp4
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Superintelligence (2020)
@@ -264,6 +221,8 @@ http://sv1.maincasa.cf:80/movie/master/123456/47043.mkv
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S 2 (2020)",Wonder Woman 1984 2020
 http://sv1.maincasa.cf:80/movie/master/123456/47044.mkv
 
+#EXTINF:-1,[COLOR=yellow][B]LISTA 3 ADICIONADA: 18/10/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
 
+#EXTM3U
 
 
