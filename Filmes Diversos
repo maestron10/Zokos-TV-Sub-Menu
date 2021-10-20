@@ -1,10 +1,10 @@
 ####################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////  FILMES DIVERSOS - LISTAS  //////////////[/B][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////  FILMES DIVERSOS - DIVERSAS LISTAS  //////////////[/B][/COLOR]
 http://0.0.0.0:000000
 ####################################################################################################################################
  
  
-#EXTINF:-1,[COLOR=yellow][B]FILMES NUVEM ATUALIZADA: 27/07/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA DE FILMES - NUVEM - ATUALIZADA: 27/07/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
  
@@ -43,7 +43,7 @@ https://cld.pt/dl/download/6eef2581-a94f-41c5-8e73-6c074a70ccb2/Wonder%20Woman%2
 ###########################################################################################################
 
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA 2 VERIFICADA: 18/10/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA FILES DOBRADOS 2 - VERIFICADA: 18/10/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
 
 
 #EXTINF:0 tvg-id="avi" group-title="Z-O-M-B-I-E-S (2018)",Z-O-M-B-I-E-S (2018)
@@ -220,7 +220,7 @@ http://sv1.maincasa.cf:80/movie/master/123456/47043.mkv
 http://sv1.maincasa.cf:80/movie/master/123456/47044.mkv
 
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA 3 ADICIONADA: 18/10/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA FILMES 3 - ADICIONADA: 18/10/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
 
 
 #EXTINF:0 tvg-id="avi" group-title="MOVIES",Annabelle: Creation (2017)
