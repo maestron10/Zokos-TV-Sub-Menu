@@ -9,33 +9,10 @@ FONTE DE INFORMAÇÃO: https://iptv-org.github.io/iptv/categories/sports.m3u
  
 #EXTM3U
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA 1 REVISTA: 15/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 1 REVISTA: 21/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U 
 
-#EXTINF:-1,[COLOR=white][B]AGRO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://81.93.72.46:4000/play/a056/index.m3u8 
-
-#EXTINF:-1,[COLOR=white][B]ARENA FIGHT HD[/B][/COLOR][COLOR=white][/COLOR]
-http://81.93.72.46:4000/play/a055/index.m3u8 
-#EXTINF:-1,[COLOR=white][B]ARENA SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://81.93.72.46:4000/play/a051/index.m3u8
-#EXTINF:-1,[COLOR=white][B]ARENA SPORT 2 HD MTS[/B][/COLOR][COLOR=white][/COLOR]
-http://81.93.72.46:4000/play/a04v/index.m3u8
-#EXTINF:-1,[COLOR=white][B]ARENA SPORT 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://81.93.72.46:4000/play/a052/index.m3u8 
-#EXTINF:-1,[COLOR=white][B]ARENA SPORT 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://81.93.72.46:4000/play/a053/index.m3u8
-#EXTINF:-1,[COLOR=white][B]ARENA SPORT HD[/B][/COLOR][COLOR=white][/COLOR]
-http://81.93.72.46:4000/play/a057/index.m3u8 
-#EXTINF:-1,[COLOR=white][B]ARENA SPORT HR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://81.93.72.46:4000/play/a058/index.m3u8
-#EXTINF:-1,[COLOR=white][B]BN BIH HD[/B][/COLOR][COLOR=white][/COLOR]
-http://81.93.72.46:4000/play/a059/index.m3u8
-#EXTINF:-1,[COLOR=white][B]BALKAN TRIP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://81.93.72.46:4000/play/a03x/index.m3u8
-#EXTINF:-1,[COLOR=white][B]SUPERSTAR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://81.93.72.46:4000/play/a04s/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]SUPER SPORT 1 HD AL[/B][/COLOR][COLOR=white][/COLOR]
 http://93.157.62.180:80/Supersport1/playlist.m3u8
@@ -171,10 +148,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 4 PT[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05x
-#EXTINF:0 tvg-id="elevensports5.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 5 PT[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05y
 
 #EXTINF:0 tvg-id="Esport3.es" group-title="Sports",[COLOR=white][B]ESPORT 3[/B][/COLOR][COLOR=white][/COLOR]
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
