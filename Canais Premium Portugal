@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA VERIFICADA: 16/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA VERIFICADA: 21/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 
 #EXTM3U
@@ -16,12 +16,8 @@ https://00000000000
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV +[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a03c
-
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]SPORT TV +[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a03c
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="VIP Sports",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv1.png" group-title="Sport Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1925
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -34,12 +30,8 @@ http://aziptv.live:6969/Hdservers/Valendsuk/1926
 http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/190
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/12/sport-tv2.png" group-title="Sport Channels",[COLOR=white][B]SPORT TV 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1926
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_3.png" group-title="VIP Sports",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://smart-tv.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/191
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_4.png" group-title="VIP Sports",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://smart-tv.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv5.png" group-title="Sport Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1929
 
@@ -52,14 +44,8 @@ https://000000
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Wagma OTT",[COLOR=white][B]RMC SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
 http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/2603
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="VIP Sports",[COLOR=white][B]RMC SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
-http://56.bihourmkras.xyz.global.prod.fastly.net/live/137000/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Wagma OTT",[COLOR=white][B]RMC SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
 http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/2604
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-2-fr.png" group-title="VIP Sports",[COLOR=white][B]RMC SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
-http://56.bihourmkras.xyz.global.prod.fastly.net/live/138/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]ESPN 1 BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.81:1234
@@ -88,16 +74,8 @@ http://0000000000000000000000000
 #EXTINF:-1,[COLOR=blue][B]CANAIS ELEVEN SPORTS PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05x
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05x
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.155.157:8000/play/a02w
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05y
-#EXTINF:0 tvg-id="elevensports5.pt" group-title="Sports",[COLOR=white][B]ELEVEN SPORTS 5 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05y
+#EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://0000000000000000000
 
 
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
