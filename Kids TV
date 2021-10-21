@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 28/09/21[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 21/10/21[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #########################################################################################################################################################################
  
@@ -36,20 +36,8 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 #EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]SPACETOON[/B][/COLOR][COLOR=white][/COLOR]
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]SUPER TOONS[/B][/COLOR][COLOR=white][/COLOR]
-https://kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]TIJI RUSSIA[/B][/COLOR][COLOR=white][/COLOR]
 http://188.40.68.167/russia/tiji/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]TOON GOGGLES[/B][/COLOR][COLOR=white][/COLOR]
-https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Kids",[COLOR=white][B]TRT COCUK[/B][/COLOR][COLOR=white][/COLOR]
-https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]AKARAM KIDZ[/B][/COLOR][COLOR=white][/COLOR]
-http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]ATFAL WA MAWAHED[/B][/COLOR][COLOR=white][/COLOR]
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
@@ -77,9 +65,6 @@ https://autopilot.catcast.tv/content/38105/index.m3u8
 
 #EXTINF:0 tvg-id="Gulli.fr" group-title="Kids",[COLOR=white][B]GULLI[/B][/COLOR][COLOR=white][/COLOR]
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
-
-#EXTINF:0 tvg-id="gulli" group-title="Kids",[COLOR=white][B]GULLI GIRLS[/B][/COLOR][COLOR=white][/COLOR]
-http://188.40.68.167/russia/gulli_girl/playlist.m3u8
 
 #EXTINF:0 tvg-id="lale" group-title="Kids",[COLOR=white][B]LALE[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.atr.ua/lale//live/index.m3u8
