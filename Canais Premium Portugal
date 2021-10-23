@@ -13,35 +13,6 @@ Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 #EXTINF:-1,[COLOR=blue][B]NOVOS LINKS SPORT TV PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://00000000000
 
-#EXTINF:-1,SPORT TV+
-http://satlok.xyz:8000/addm15ad/1502add/86819
-
-#EXTINF:-1,SPORT TV 1 HD
-http://satlok.xyz:8000/addm15ad/1502add/86783
-#EXTINF:-1,SPORT TV 1
-http://satlok.xyz:8000/addm15ad/1502add/86891
-
-#EXTINF:-1,SPORT TV 2 LOW
-http://satlok.xyz:8000/addm15ad/1502add/86857
-#EXTINF:-1,SPORT TV 2
-http://satlok.xyz:8000/addm15ad/1502add/86890
-
-#EXTINF:-1,SPORT TV 3 HD
-http://satlok.xyz:8000/addm15ad/1502add/86821
-#EXTINF:-1,SPORT TV 3
-http://satlok.xyz:8000/addm15ad/1502add/86889
-
-#EXTINF:-1,SPORT TV 3 LOW
-http://satlok.xyz:8000/addm15ad/1502add/86856
-
-#EXTINF:-1,SPORT TV 4 HD
-http://satlok.xyz:8000/addm15ad/1502add/86822
-#EXTINF:-1,SPORT TV 4
-http://satlok.xyz:8000/addm15ad/1502add/86888
-
-#EXTINF:-1,SPORT TV NBA
-http://satlok.xyz:8000/addm15ad/1502add/86885
-
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV +[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a03c
@@ -95,9 +66,6 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://0000000000000000000000000
 
-#EXTINF:-1,BTV 1 FHD
-http://satlok.xyz:8000/addm15ad/1502add/86881
-
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
  
@@ -109,18 +77,6 @@ https://000000
 #EXTINF:0 tvg-id="elevensports4.pt" group-title="Sports",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://0000000000000000000
 
-#EXTINF:-1,ELEVEN SPORTS 2
-http://satlok.xyz:8000/addm15ad/1502add/86829
-#EXTINF:-1,ELEVEN SPORTS 2 SD
-http://satlok.xyz:8000/addm15ad/1502add/86830
-#EXTINF:-1,ELEVEN SPORTS 3
-http://satlok.xyz:8000/addm15ad/1502add/86826
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://satlok.xyz:8000/addm15ad/1502add/86827
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://satlok.xyz:8000/addm15ad/1502add/86825
-
-
 
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
 #EXTM3U
@@ -128,12 +84,6 @@ http://satlok.xyz:8000/addm15ad/1502add/86825
 #EXTINF:-1,[COLOR=blue][B]CANAIS PREMIUM CINEMA PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://0000000
 
-
-#EXTINF:-1,TVCINE ACTION
-http://satlok.xyz:8000/addm15ad/1502add/86807
-
-#EXTINF:-1,TVCINE TOP
-http://satlok.xyz:8000/addm15ad/1502add/86808
 
 #EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a054
