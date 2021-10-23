@@ -60,13 +60,13 @@ https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=blue][B]CASAS E CONSTRUÇÃO[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1 tvg-id="USAJ3400020KC" tvg-chno="1211" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/53/USAJ3400020KC_20210525T051656.png" group-title="USA,Food, Home & Travel",[COLOR=white][B]TINY HOUSE NATION TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="USAJ3400020KC" tvg-chno="1211" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/53/USAJ3400020KC_20210525T051656.png" group-title="USA,[COLOR=white][B]TINY HOUSE NATION TV[/B][/COLOR][COLOR=white][/COLOR]
 https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8?ads.wurl_channel=675&ads.wurl_name=TinyHouseNation&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="USAK3508701A" tvg-chno="1213" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/03/USAK3508701A_20210525T051658.png" group-title="USA,Food, Home & Travel",[COLOR=white][B]THIS OLD HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="USAK3508701A" tvg-chno="1213" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/03/USAK3508701A_20210525T051658.png" group-title="USA,[COLOR=white][B]THIS OLD HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://26487f8be0614420a64b6f5964563a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThisOldHouse/playlist.m3u8?ads.wurl_channel=180&ads.wurl_name=ThisOldHouse&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-id="USAJ3400005BA" tvg-chno="1215" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/96/USAJ3400005BA_20210525T051700.png" group-title="USA,Food, Home & Travel",[COLOR=white][B]THE DESIGN NETWORK[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="USAJ3400005BA" tvg-chno="1215" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/96/USAJ3400005BA_20210525T051700.png" group-title="USA,[COLOR=white][B]THE DESIGN NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 https://e60c9a5d763348c6a86c6d98fce3c52a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TheDesignNetwork/playlist.m3u8?
 
 
