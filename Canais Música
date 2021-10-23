@@ -12,16 +12,20 @@ http://0.0.0.0:00000
 https://000000
 
 
-
-
-
-
-
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN AU[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]TRACE HITS UK[/B][/COLOR][COLOR=white][/COLOR]
 http://oysteriptv.club:1986/live/Aaron/12345/238.ts
+
+#EXTINF:-1,[COLOR=white][B]TRACE TROPICAL FR[/B][/COLOR][COLOR=white][/COLOR]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2024
+
+#EXTINF:-1,[COLOR=white][B]TRACE AFRICA FR[/B][/COLOR][COLOR=white][/COLOR]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2023
+
+#EXTINF:-1,[COLOR=white][B]MTV DANCE FR[/B][/COLOR][COLOR=white][/COLOR]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2017
 
 #EXTINF:-1,[COLOR=white][B]BOX HITS UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
@@ -115,6 +119,7 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO MAXIMA 94.9 FM[/B][/COLOR][COLOR=white][/COLOR]
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO MONTECARLO[/B][/COLOR][COLOR=white][/COLOR]
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(BB)/index.m3u8
 
@@ -216,6 +221,9 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]CLUBLAND TV[/B][/COLOR][COLOR=white][/COLOR]
 http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1148
+
+#EXTINF:-1,[COLOR=white][B]MTV DANCE FR[/B][/COLOR][COLOR=white][/COLOR]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2017
 
 #EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF DANCE[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
