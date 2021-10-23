@@ -12,6 +12,11 @@ http://0.0.0.0:00000
 https://000000
 
 
+
+
+
+
+
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN AU[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
@@ -21,8 +26,23 @@ http://oysteriptv.club:1986/live/Aaron/12345/238.ts
 #EXTINF:-1,[COLOR=white][B]BOX HITS UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
+#EXTINF:-1,[COLOR=white][B]BOX HITS UK[/B][/COLOR][COLOR=white][/COLOR]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1146
+
 #EXTINF:-1,[COLOR=white][B]THE BOX UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+
+#EXTINF:-1,[COLOR=white][B]BOX UPFRONT[/B][/COLOR][COLOR=white][/COLOR]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1140
+
+#EXTINF:-1,[COLOR=white][B]KERRANG[/B][/COLOR][COLOR=white][/COLOR]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1145
+
+#EXTINF:-1,[COLOR=white][B]KISS[/B][/COLOR][COLOR=white][/COLOR]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1144
+
+#EXTINF:-1,[COLOR=white][B]MAGIC TV UK[/B][/COLOR][COLOR=white][/COLOR]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1143
 
 #EXTINF:-1,[COLOR=white][B]KRONEHITS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
@@ -81,9 +101,6 @@ http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XITE (BE)" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="MUSIC",[COLOR=white][B]XITE[/B][/COLOR][COLOR=white][/COLOR]
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 
- 
-
-
 #EXTINF:-1,[COLOR=white][B]V2BEAT TV[/B][/COLOR][COLOR=white][/COLOR]
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
@@ -127,6 +144,12 @@ http://5ee0faac3bbae.streamlock.net:1935/visionmusica/visionmusica/playlist.m3u8
 
 #EXTINF:0 tvg-id="VH1.us" group-title="Music",[COLOR=white][B]VH1 FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MTV HITS[/B][/COLOR][COLOR=white][/COLOR]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1136
+
+#EXTINF:-1,M[COLOR=white][B]MTV CLASSIC[/B][/COLOR][COLOR=white][/COLOR]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1135
 
 #EXTINF:-1,[COLOR=white][B]MTV HITS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.179.140.242:8000/play/a0h3
@@ -190,6 +213,9 @@ https://56b50ada2d659.streamlock.net/LoveFM/livestream/chunklist_w541521754.m3u8
 
 #EXTINF:-1,[COLOR=blue][B]MÚSICA ELECTRÓNICA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
+
+#EXTINF:-1,[COLOR=white][B]CLUBLAND TV[/B][/COLOR][COLOR=white][/COLOR]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/1148
 
 #EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF DANCE[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
