@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  CÂMERAS MUNDIAIS AO VIVO  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:0000
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 29/07/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 25/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 ########################################################################################################
 
 Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
@@ -15,23 +15,13 @@ https://000000
 
 #EXTM3U
 
+
+
+#EXTINF:-1,[COLOR=blue][B]LISTA OFICIAL 1[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
 #EXTINF:-1,[COLOR=white][B]AEROPORTO - ALEMANHA[/B][/COLOR][COLOR=white][/COLOR]
 https://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/chunklist_w1253127012.m3u8
-
-#EXTINF:-1,[COLOR=white][B]FRANKFURT - ALEMANHA[/B][/COLOR][COLOR=white][/COLOR]
-https://r1---sn-apn7en7e.googlevideo.com/videoplayback?expire=1632328607&ei=PwdLYfaDKsfoxgKA9YLQCg&ip=2001%3A8a0%3Ab8ca%3A4901%3A20f0%3A9a55%3Acc65%3Ae55f&id=K-mOPO5kUBY.1&itag=248&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=j5VXE9gqQWkup2XjgTCvlp8G&gir=yes&keepalive=yes&fexp=24001373,24007246&c=WEB_EMBEDDED_PLAYER&n=zvhfNi0SXBvKHQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAIh6ocZNDM65x0drd4fWzkQOaXzeUifwAo9B_YclUACxAiEAvtskFtVWURwqJxT2TYaLJP155CiKFs4P-UVZID54jpE%3D&alr=yes&cpn=GTv_dwut7xNgwKVE&cver=1.20210919.0.0&redirect_counter=1&cm2rm=sn-2vgu0b5auxaxjvh-v2vl7k&cms_redirect=yes&mh=mU&mm=29&mn=sn-apn7en7e&ms=rdu&mt=1632306873&mv=u&mvi=1&pl=50&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgBIf9Vmp56cbzkb8vwM-SlgkgJFq5OM66ZYFuE8OAhbICIQCEJcA02e_qEpYO1nhWWPZDKPi3sl9aGCfwzKdSYkAa4A%3D%3D&headm=4&rn=3&rbuf=0
-
-#EXTINF:-1,[COLOR=white][B]FOURSEANS HOTEL - ARGENTINA[/B][/COLOR][COLOR=white][/COLOR]
-https://r1---sn-2vgu0b5auxaxjvh-v2vl.googlevideo.com/videoplayback?expire=1632330218&ei=ig1LYfm9BfPp0wXCiI_oBw&ip=2001%3A8a0%3Ab8ca%3A4901%3A20f0%3A9a55%3Acc65%3Ae55f&id=if91GyWP3zQ.2&itag=247&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=FO&mm=44%2C29&mn=sn-2vgu0b5auxaxjvh-v2vl%2Csn-apn7en7e&ms=lva%2Crdu&mv=m&mvi=1&pl=50&initcwndbps=1395000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=Lu-SMWNU4--bURNVlRZuWgYG&gir=yes&mt=1632307705&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=Rsx3RAyBvmicNA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgAyTvTWviLYLfCX4RMFJmQNNcFBcUJ-joDFMeP9DbwY4CIHs5rX1TPJ9EfhBjn7y7T5n8aWmD4hLkP5d7tR_JDikR&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhALMw0_H0c8v3RwfYFehaCO-IWRSIM5bFXvaRlwvNnBFBAiEAtolC85yDB4K1UuIZw0CYuGIvtaxZ2cR5cpRnD3Lrst4%3D&alr=yes&cpn=8LqLHqFyiAZeLRLe&cver=1.20210919.0.0&sq=4181904&rn=3&rbuf=1894
-
-#EXTINF:-1,[COLOR=white][B]HARBOUR - SYDNEY[/B][/COLOR][COLOR=white][/COLOR]
-https://s65.ipcamlive.com/streams/41ud4hpwhyekqo0sf/stream.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MELBOURNE PLATINUM APARTMENTS - AUSTRÁLIA[/B][/COLOR][COLOR=white][/COLOR]
-https://r5---sn-2vgu0b5auxaxjvh-v2vd.googlevideo.com/videoplayback?expire=1632330356&ei=FA5LYdzHHo7DW_rOhtgK&ip=2001%3A8a0%3Ab8ca%3A4901%3A20f0%3A9a55%3Acc65%3Ae55f&id=EpvIAopAYbw.3&itag=140&source=yt_live_broadcast&requiressl=yes&mh=FL&mm=44%2C29&mn=sn-2vgu0b5auxaxjvh-v2vd%2Csn-apn7en7e&ms=lva%2Crdu&mv=m&mvi=5&pl=50&initcwndbps=1323750&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&ns=-A4L0Go23k6oLhUmSDNuw9gG&gir=yes&mt=1632308431&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=Y_cksItAe2G67A&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgbqu78tyfb2BydLDm0WZlB16EDy2R8wxTXKrkfDO0-EcCIQCcJ1NeOJbv5Fs3V1NPrcwubK_mxr4qx7kPDh-v4tdzYw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgOmWN_QD0fGAow2s23oyH_44-xjtg0d7yXcgWPtX3KWACIQC5vt0zMaxVJxlt7XOhZO2x25nTTrb2UgCJMJZ8EnUorA%3D%3D&alr=yes&cpn=EbynaTlwbeFbN-Gf&cver=1.20210919.0.0&sq=1765557&rn=3&rbuf=4886
-
-#EXTINF:-1,[COLOR=white][B]GRAMADO - BRASIL[/B][/COLOR][COLOR=white][/COLOR]
-https://oci-sd22.camerite.com/record/cc42ee50-f8ce-11e8-a968-ef2bc31db490.stream/chunklist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]PONTE DA AMIZADE - BRASIL[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn.jmvstream.com/w/IPC-7040/camera.stream/chunklist.m3u8
@@ -39,36 +29,11 @@ https://cdn.jmvstream.com/w/IPC-7040/camera.stream/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA DA TIJUCA - BRASIL[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]SANTIAGO - CHILE[/B][/COLOR][COLOR=white][/COLOR]
-https://edge04.balticlivecam.com/blc/p_CL_Santiago_San_Cristobal/tracks-v1/mono.m3u8?token=7942fff9b4a59fa2b0a6ae79d9a5b734%3A1632309025042
-
-#EXTINF:-1,[COLOR=white][B]BESENOVA AQUAPARK - ESLOVÁQUIA[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.profi-net.sk/tmr/STREAM35.stream/chunklist_w777009514.m3u8
-
 #EXTINF:-1,[COLOR=white][B]TATRALANDIA AQUAPARK - ESLOVÁQUIA[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w1002298432.m3u8
 
-#EXTINF:-1,[COLOR=white][B]SAGRADA FAMÍLIA - ESPANHA[/B][/COLOR][COLOR=white][/COLOR]
-https://s46.ipcamlive.com/streams/2esipmb2dflohkhzv/stream.m3u8
-
-#EXTINF:-1,[COLOR=white][B]PALMA DE MAIORCA BEACH - ESPANHA[/B][/COLOR][COLOR=white][/COLOR]
-https://r1---sn-2vgu0b5auxaxjvh-v2vd.googlevideo.com/videoplayback?expire=1632330689&ei=YQ9LYerrOpG4WqyMkNgH&ip=2001%3A8a0%3Ab8ca%3A4901%3A20f0%3A9a55%3Acc65%3Ae55f&id=f9dVWHKRP8o.1&itag=248&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=W9&mm=44%2C29&mn=sn-2vgu0b5auxaxjvh-v2vd%2Csn-apn7en7e&ms=lva%2Crdu&mv=m&mvi=1&pl=50&initcwndbps=1323750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=vZ4hzwBD66yXRp6cVqDchyoG&gir=yes&mt=1632308672&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=S5pmtv9oZDwRoA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgCRD2WnPw0823HH0yfN6n9dEoV2FsdJR67zCS9SY7aMICIG9HEV_Gbm601YtMTu9HyVNqpSBUHRwEl0Z-nKmmvPSw&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgCNvQFU1wMMzG9ruDPmuK3SAogx4AHvPr-E8_Z1MzMfkCIQC65_OFMjH9TDqgxW6QHjbzhoyASv7kiyGynXXQ6tgIGA%3D%3D&alr=yes&cpn=g_w4LuiJ1ow-yiYa&cver=1.20210919.0.0&sq=3052436&rn=4&rbuf=4900
-
-#EXTINF:-1,[COLOR=white][B]WINDOOR REALFLY INDOOR SKYDIVING - ESPANHA[/B][/COLOR][COLOR=white][/COLOR]
-https://e1-eu3.angelcam.com/cameras/7144/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI3MTQ0IiwiZGV2aWNlX2lkIjoiNzE0NCIsInRpbWUiOjE2MzIzMDU3NTkwOTQ2MjUsInRpbWVvdXQiOjM2MDB9%2E11d77fe98251d7597c1c876e78dc5fc9ae1bec6e89b8e5e80382925d72f94251
-
-#EXTINF:-1,[COLOR=white][B]ASHLAND VIRGINIA - E.U.A[/B][/COLOR][COLOR=white][/COLOR]
-https://r3---sn-2vgu0b5auxaxjvh-v2vz.googlevideo.com/videoplayback?expire=1632328933&ei=hQhLYcCnM8LeW_OhmuAC&ip=2001%3A8a0%3Ab8ca%3A4901%3A20f0%3A9a55%3Acc65%3Ae55f&id=99HqvqvUQ6k.2&itag=299&aitags=133%2C134%2C135%2C136%2C160%2C298%2C299&source=yt_live_broadcast&requiressl=yes&mh=oe&mm=44%2C29&mn=sn-2vgu0b5auxaxjvh-v2vz%2Csn-apn7en7l&ms=lva%2Crdu&mv=u&mvi=3&pcm2cms=yes&pl=50&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=FQQrZ1g726-rQvk0XdFfXSMG&gir=yes&mt=1632306658&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=GqnYKp6yxRdeuw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgbdbBIo-OPsbQQavBbM2kpFRKK73zhVJkWzV5jXIV0DkCIQC6WG6tjAadxQRyG28i5qd7fI-KlT_c67TFhGoRY4kMxA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl&lsig=AG3C_xAwRAIgIDeb6ZjAwVmPbqGZU3pb4ckjNgxOih9DpTtWDbngAlECIFMi1ufnRXbR5KZ2ME2uIyPIXQUlR4TWIxxrdjegsqCW&alr=yes&cpn=PMufG-6eGwcUSwxA&cver=1.20210919.0.0&sq=1759940&rn=3&rbuf=4896
-
-#EXTINF:-1,[COLOR=white][B]BROOKLYN BRIGGE& MANHANTTAN - E.U.A[/B][/COLOR][COLOR=white][/COLOR]
-https://r4---sn-2vgu0b5auxaxjvh-v2vd.googlevideo.com/videoplayback?expire=1632329054&ei=_ghLYbEJxuxbv8i3iAE&ip=2001%3A8a0%3Ab8ca%3A4901%3A20f0%3A9a55%3Acc65%3Ae55f&id=KGuCGd726RA.4&itag=248&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=aU&mm=44%2C29&mn=sn-2vgu0b5auxaxjvh-v2vd%2Csn-apn7en7e&ms=lva%2Crdu&mv=u&mvi=4&pcm2cms=yes&pl=50&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=XhmfjVdO56Y_ZAg7StDfd24G&gir=yes&mt=1632306658&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=2VPO2nPVibQExQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhALx6pVuMND8HxP5sVod1n36PKN_eiAp26Jy2zjIr1ZumAiEAtjhBzWvUErM0sRxTINOQ-gc17mHCkb97nRTK_UZg4Fw%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl&lsig=AG3C_xAwRgIhANR3NupvUANN43ACYfw_vXNrihYTLwKcMgzCUJdVgONJAiEA6WOu-AJ9sVStdxvLnjrHUb6PHDTFUjSsG6EI4tvtCEI%3D&alr=yes&cpn=G3eQXm9WioC3Fj3H&cver=1.20210919.0.0&sq=1767518&rn=3&rbuf=4891
-
 #EXTINF:-1,[COLOR=white][B]HOTEL CARRÉ VIEUX PORT - FRANÇA[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming.novazion.com/HotelCarre/hotelcarre.stream/chunklist_w91291873.m3u8
-
-#EXTINF:-1,[COLOR=blue][B]LISTA OFICIAL 1[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000
-
 #EXTINF:-1,[COLOR=white][B]RIO DE JANEIRO - BRASIL (COPACABANA BEACH)[/B][/COLOR][COLOR=white][/COLOR]
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
 
