@@ -8,8 +8,18 @@ http://0.0.0.0:0000
 
 Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
         https://paste.ulvis.net/5vJjIUOA
+        https://www.whatsupcams.com/en/
 
 #EXTM3U
+
+
+#EXTINF:-1,[COLOR=blue][B]WEBCAM TESTES[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+#EXTINF:-1,Live Webcam Port de Las Nieves Agaete – Canary Islands
+https://camserver.agaete.net:8443/agaetepuerto/agaetepuerto/index.m3u8
+
+
 
 #EXTINF:-1,[COLOR=blue][B]LISTA PRINCIPAL[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
