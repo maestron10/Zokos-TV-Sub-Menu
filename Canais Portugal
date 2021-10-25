@@ -51,7 +51,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
 
-
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a08e
 
@@ -67,10 +66,10 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",[COLOR=white][B]SIC SD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
-#EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC I HD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
-#EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC I HD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC K[/B][/COLOR][COLOR=white][/COLOR]
