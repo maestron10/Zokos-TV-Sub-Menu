@@ -1,6 +1,6 @@
 
 ####################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  CÂMERAS MUNDIAIS AO VIVO  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  CÂMARAS MUNDIAIS AO VIVO  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:0000
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 25/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -14,6 +14,7 @@ Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
 https://000000
 
 #EXTM3U
+
 
 
 
@@ -34,6 +35,7 @@ https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w1002298432.m3u8
 
 #EXTINF:-1,[COLOR=white][B]HOTEL CARRÉ VIEUX PORT - FRANÇA[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming.novazion.com/HotelCarre/hotelcarre.stream/chunklist_w91291873.m3u8
+
 #EXTINF:-1,[COLOR=white][B]RIO DE JANEIRO - BRASIL (COPACABANA BEACH)[/B][/COLOR][COLOR=white][/COLOR]
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
 
@@ -109,12 +111,8 @@ http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png" group-title="CÂMERAS AO VIVO",[COLOR=white][B]PONTE DA AMIZADE, SENTIDO BRASIL[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn.jmvstream.com/w/IPC-7040/camera.stream/chunklist_w1189118587.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",[COLOR=white][B]STATEN ISLAND, NEW YORK[/B][/COLOR][COLOR=white][/COLOR]
 http://100.42.129.28:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",[COLOR=white][B]HAMILTON, NEW YORK[/B][/COLOR][COLOR=white][/COLOR]
-http://149.43.156.105:80/mjpg/video.mjpg
 
 #EXTINF:-1,[COLOR=white][B]CZECH HEAVEN[/B][/COLOR][COLOR=white][/COLOR]
 https://www.czechheaven.cz/webcam/playlist/webcam_czechheaven_p1.m3u8
@@ -127,7 +125,6 @@ http://camsecure.co/HLS/ilfracombe2.m3u8
 
 #EXTINF:-1,[COLOR=white][B]USA - DOWNTOWN WILMININGTON[/B][/COLOR][COLOR=white][/COLOR]
 http://169.47.9.197:1935/live/dw.stream/playlist.m3u8
-
 
 #EXTINF:-1,[COLOR=white][B]USA - WEST PARK[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn.estesparkwebcams.com/prospect3/index.m3u8
