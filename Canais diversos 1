@@ -85,6 +85,27 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc1cb279
 https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
 
  
+ ##########################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]CANAIS GENERALISTAS MUNDIAIS[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+#EXTINF:-1,[COLOR=white][B]DUBAI TV[/B][/COLOR][COLOR=white][/COLOR]
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=white][B]CONGO PLANET TELEVISION[/B][/COLOR][COLOR=white][/COLOR]
+https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]PBS AMERICA[/B][/COLOR][COLOR=white][/COLOR]
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]QATAR 2 TV[/B][/COLOR][COLOR=white][/COLOR]
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+
+#EXTINF:-1,[COLOR=white][B]3/24 TV[/B][/COLOR][COLOR=white][/COLOR]
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DEMAND AFRICA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
  
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]OUTROS CANAIS[/B][/COLOR][COLOR=blue][/COLOR]
@@ -92,6 +113,9 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]ADULT SWIM TV[/B][/COLOR][COLOR=white][/COLOR]
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ADULT SWIM DREAM CORP. TV[/B][/COLOR][COLOR=white][/COLOR]
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
 
 #EXTINF:-1,[COLOR=white][B]RIGHT NOW TV[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn87.theus6tv.tk/cable/rightnowtv.m3u8
@@ -112,7 +136,10 @@ https://c39d19b6c720488ba741c4d6e725ebcd.mediatailor.us-east-1.amazonaws.com/v1/
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 #EXTINF:-1,[COLOR=white][B]FAIL ARMY FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://failarmy-linear.vizio.wurl.com/manifest/playlist.m3u8
+https://failarmy-linear.vizio.wurl.com/manifest/playlist.
+
+#EXTINF:-1,[COLOR=white][B]THE PET COLLECTIVE[/B][/COLOR][COLOR=white][/COLOR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 
 #EXTINF:-1,[COLOR=white][B]CHIVE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8
@@ -134,6 +161,9 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1,[COLOR=white][B]NASA TV PUBLIC[/B][/COLOR][COLOR=white][/COLOR]
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1,[COLOR=white][B]NASA TV MEDIA[/B][/COLOR][COLOR=white][/COLOR]
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
  
 #EXTINF:-1 group-title="Religious",[COLOR=white][B]BETTER HEALTH TV[/B][/COLOR][COLOR=white][/COLOR]
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
@@ -143,9 +173,6 @@ http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
  
 #EXTINF:-1 group-title="Religious",[COLOR=white][B]BETTER NATURE TV[/B][/COLOR][COLOR=white][/COLOR]
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SOPHIA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]OUTDOOR CHANNEL TV[/B][/COLOR][COLOR=white][/COLOR]
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
@@ -166,6 +193,15 @@ https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 
 #EXTINF:-1,[COLOR=white][B]AFV (STIRR)[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+
+#EXTINF:-1,[COLOR=white][B]AFV[/B][/COLOR][COLOR=white][/COLOR]
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+
+#EXTINF:-1,[COLOR=white][B]CAMERA SMILE TV[/B][/COLOR][COLOR=white][/COLOR]
+https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DRYBAR COMEDY TV[/B][/COLOR][COLOR=white][/COLOR]
+https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
 
 #EXTINF:-1,[COLOR=white][B]JUST FOR LAUGHS GAGS[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
@@ -188,6 +224,9 @@ https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]PATTRN TV (720p)[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-cetubiausw2live204-01130c4edc259e208.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8
+
+#EXTINF:-1,[COLOR=white][B]THE WEATHER SPY TV[/B][/COLOR][COLOR=white][/COLOR]
+https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]FASHION TV[/B][/COLOR][COLOR=white][/COLOR]
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -306,11 +345,17 @@ https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 https://000000
 
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURONEWS PT[/B][/COLOR][COLOR=white][/COLOR]
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURONEWS BR[/B][/COLOR][COLOR=white][/COLOR]
+https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8 
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BBC NEWS[/B][/COLOR][COLOR=white][/COLOR]
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
+
 #EXTINF:-1,[COLOR=white][B]REUTERS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]CNN INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]RTVE ES 24 HORAS[/B][/COLOR][COLOR=white][/COLOR]
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
@@ -320,12 +365,6 @@ http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AFRICA NEWS[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURONEWS PT[/B][/COLOR][COLOR=white][/COLOR]
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
- 
- #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURONEWS BR[/B][/COLOR][COLOR=white][/COLOR]
-https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8 
  
 #EXTINF:-1,[COLOR=white][B]SKY NEWS[/B][/COLOR][COLOR=white][/COLOR]
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
