@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 12/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 25/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ##########################################################################################################################
  
@@ -68,10 +68,6 @@ https://26487f8be0614420a64b6f5964563a75.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="USAJ3400005BA" tvg-chno="1215" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/96/USAJ3400005BA_20210525T051700.png" group-title="USA,[COLOR=white][B]THE DESIGN NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 https://e60c9a5d763348c6a86c6d98fce3c52a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TheDesignNetwork/playlist.m3u8?
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=white][B]THE DESIGN NETWORK[/B][/COLOR][COLOR=white][/COLOR]
-https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USAJ3400020KC" tvg-chno="1211" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/53/USAJ3400020KC_20210525T051656.png" group-title="USA,[COLOR=white][B]TINY HOUSE NATION TV[/B][/COLOR][COLOR=white][/COLOR]
 https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8?ads.wurl_channel=675&ads.wurl_name=TinyHouseNation&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -174,9 +170,6 @@ https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 #EXTINF:-1,[COLOR=white][B]JUST FOR LAUGHS GAGS[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
 
-#EXTINF:-1,[COLOR=white][B]COMEDY DYNAMICS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8
-
 #EXTINF:-1,[COLOR=white][B]FAILARMY INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
 
@@ -223,9 +216,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]OCEAN TV[/B][/COLOR][COLOR=white][/COLOR]
 http://91.192.168.242:9091
-
-#EXTINF:-1,[COLOR=white][B]MY SURF TV[/B][/COLOR][COLOR=white][/COLOR]
-https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
  
 #EXTINF:-1,[COLOR=white][B]THE BEACH TV[/B][/COLOR][COLOR=white][/COLOR]
 https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8
@@ -258,6 +248,9 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]GARATE TV (ARG.)[/B][/COLOR][COLOR=white][/COLOR]
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w474176182_b1296000_sleng.m3u8
+
+#EXTINF:-1,[COLOR=white][B]GARATE TV (ARG.)[/B][/COLOR][COLOR=white][/COLOR]
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 
 #EXTINF:-1,[COLOR=white][B]BUMBLEBEE TV AUTOMOTOR (ARG.)[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
@@ -301,9 +294,6 @@ https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
  
 #EXTINF:-1,[COLOR=white][B]MOVIES TV[/B][/COLOR][COLOR=white][/COLOR]
 http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
- 
-#EXTINF:-1,[COLOR=white][B]ZEE MUNDO TV[/B][/COLOR][COLOR=white][/COLOR] 
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
  
 #EXTINF:-1,[COLOR=white][B]STIRR MOVIES[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
