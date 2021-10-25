@@ -16,9 +16,14 @@ Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
 #EXTINF:-1,[COLOR=blue][B]WEBCAM TESTES[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1,Live Webcam Port de Las Nieves Agaete – Canary Islands
+#EXTINF:-1,ILHAS CANÁRIAS - PORTO DE LAS NIEVES AGAETE
 https://camserver.agaete.net:8443/agaetepuerto/agaetepuerto/index.m3u8
 
+#EXTINF:-1,BRASIL COPACABANA
+https://livecdn-us-earthtv-com.global.ssl.fastly.net/edge1/cdnedge/HpL-r_4ABwo/chunklist.m3u8?token=EAIY6wE429y1OUCkIUgF.CgdlYXJ0aHR2EAEyC0hwTC1yXzBBQndrOgtIcEwtcl80QUJ3bw.328CsJY6f2bScVlopntXR0LpT3OK5Ju2YJcU4u4boy985LotID9Wu6d51WXk77NP5gw8jH36E3L4yve4IGQ5jA&domain=www.earthtv.com
+
+#EXTINF:-1,CANADA VANCOUVER
+https://livecdn-us-earthtv-com.global.ssl.fastly.net/edge1/cdnedge/HpL_oN2ABBY/chunklist.m3u8?token=EAIY6wE4_961OUCkIUgF.CgdlYXJ0aHR2EAEyC0hwTF9vTnlBQkJVOgtIcExfb04yQUJCWQ.iZZq1dr0ceMoBZF5CmI2K2fbAupQxQAcVHrVCH52bp-10WV5uo8NyXdE3NC3usBFJkU_YBrPTR1mHcORit6awg&domain=www.earthtv.com
 
 
 #EXTINF:-1,[COLOR=blue][B]LISTA PRINCIPAL[/B][/COLOR][COLOR=blue][/COLOR]
