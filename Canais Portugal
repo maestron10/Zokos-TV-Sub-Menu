@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
  FONTE DE INFORMAÇÃO: https://www.player-castv.cf/2021/09/portugal-free-full-multi-iptv-channels.html
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA VERIFICADA: 12/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 25/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
 
@@ -51,7 +51,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
 
-#EXTINF:-1,[COLOR=white][B]RTP INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RTPI SD[/B][/COLOR][COLOR=white][/COLOR]
 http://210.210.155.35/qwr9ew/s/s38/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]PORTO TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -60,7 +60,7 @@ https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVI REALITY TV[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",[COLOR=white][B]SIC[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",[COLOR=white][B]SIC SD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
 #EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
@@ -77,9 +77,6 @@ http://live.impresa.pt/live/sicnot/sicnot.m3u8
 
 #EXTINF:0 tvg-id="TVI24.pt" group-title="News",[COLOR=white][B]TVI 24[/B][/COLOR][COLOR=white][/COLOR]
 https://iptv-all.lanesh4d0w.codes/portugal/tvi24
-
-#EXTINF:0 tvg-id="TVI24.pt" group-title="News",[COLOR=white][B]SIC MULHER[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a037
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="PORTUGAL",[COLOR=white][B]CANAL MACAU[/B][/COLOR][COLOR=white][/COLOR]
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
@@ -118,199 +115,12 @@ https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
 #EXTINF:-1,[COLOR=white][B]TV MANA[/B][/COLOR][COLOR=white][/COLOR]
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
 
-#EXTINF:0 tvg-id="NOSStudios.pt" group-title="Movies",[COLOR=white][B]NOS STUDIOS[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a054
-#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]TVCINE ACTION[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a04n
-#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]TVCINE EDITION[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a061
-#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]TVCINE EMOTION[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05z
-#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]TVCINE TOP[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a04w
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]SPORT TV +[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03c
-
 #EXTM3U
 
-#EXTINF:-1,[COLOR=yellow][B]CANAIS TV PT - LISTA 2 - REVISTA 12/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]CANAIS TV PT - LISTA 2[/B][/COLOR][COLOR=yellow][/COLOR]
 
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]SIC CARAS[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a07j
-#EXTINF:-1,[COLOR=white][B]SIC MULHER[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a037
-#EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a073
-#EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a076
-#EXTINF:-1,[COLOR=white][B]SIC RADICAL[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a06p
-#EXTINF:-1,[COLOR=white][B]SIC RADICAL[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a07i
-#EXTINF:-1,[COLOR=white][B]TVI FICÇÃO[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a075
-#EXTINF:-1,[COLOR=white][B]TVI REALITY[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a036
-#EXTINF:-1,[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a04x
-#EXTINF:-1,[COLOR=white][B]AXN MOVIES HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05l
-#EXTINF:-1,[COLOR=white][B]AXN WHITE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05p
-#EXTINF:-1,[COLOR=white][B]FOX CRIME HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a066
-#EXTINF:-1,[COLOR=white][B]FOX LIFE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05r
-#EXTINF:-1,[COLOR=white][B]FOX MOVIES[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a039
-
-
-
-#EXTINF:-1,[COLOR=white][B]NATIONAL GEOGRAPHIC WILD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a06f
-#EXTINF:-1,[COLOR=white][B]24 KITCHEN HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05m
-
-#EXTINF:-1,[COLOR=white][B]AFRO MUSIC[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05g
-#EXTINF:-1,[COLOR=white][B]BBC ENTERTAINMENT[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05e
-#EXTINF:-1,[COLOR=white][B]BBC WORLD NEWS[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03k
-#EXTINF:-1,[COLOR=white][B]BIGGS[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03g
-#EXTINF:-1,[COLOR=white][B]BLAZE[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03b
-#EXTINF:-1,[COLOR=white][B]BLOOMBERG[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a06w
-
-#EXTINF:-1,[COLOR=white][B]CNBC[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a06x
-#EXTINF:-1,[COLOR=white][B]CNN[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03i
-#EXTINF:-1,[COLOR=white][B]CANAL 11[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a051
-#EXTINF:-1,[COLOR=white][B]CANAL PANDA[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a074
-#EXTINF:-1,[COLOR=white][B]CANAL Q[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a06o
-#EXTINF:-1,[COLOR=white][B]CANÇÃO NOVA[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a07n
-#EXTINF:-1,[COLOR=white][B]CARTOON NETWORK[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a06n
-
-#EXTINF:-1,[COLOR=white][B]CASA & COZINHA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a060
-#EXTINF:-1,[COLOR=white][B]CASA & PESCA[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a04r
-#EXTINF:-1,[COLOR=white][B]CRIME+ INVESTIGATION[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a07t
-#EXTINF:-1,[COLOR=white][B]DISCOVERY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a04l
-
-#EXTINF:-1,[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05a
-#EXTINF:-1,[COLOR=white][B]DISNEY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a056
-#EXTINF:-1,[COLOR=white][B]DISNEY JUNIOR[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03q
-#EXTINF:-1,[COLOR=white][B]EI ENTERTAINMENT[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a07k
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05x
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 [/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05y
-#EXTINF:-1,[COLOR=white][B]EURONEWS[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03l
-
-
-#EXTINF:-1,[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a064
-#EXTINF:-1,[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a07f
-
-#EXTINF:-1,[COLOR=white][B]FTV[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a07l
-#EXTINF:-1,[COLOR=white][B]FRANCE 24[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03m
-#EXTINF:-1,[COLOR=white][B]FUEL TV[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05c
-#EXTINF:-1,[COLOR=white][B]GLOBO NOW[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a04v
-
-#EXTINF:-1,[COLOR=white][B]HOLLYWOOD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a06k
-
-#EXTINF:-1,[COLOR=white][B]ID INVESTIGATION DISCOVERY[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05s
-#EXTINF:-1,[COLOR=white][B]KURIAKOS TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03t
-#EXTINF:-1,[COLOR=white][B]MCM POP[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a06t
-#EXTINF:-1,[COLOR=white][B]MEZZO[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03e
-#EXTINF:-1,[COLOR=white][B]MOTORVISION[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a04z
-#EXTINF:-1,[COLOR=white][B]NBA TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a06c
-#EXTINF:-1,[COLOR=white][B]NHK WORLD JAPAN[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05h
-#EXTINF:-1,[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a054
-#EXTINF:-1,[COLOR=white][B]NICK JUNIOR[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a04s
-
-
-#EXTINF:-1,[COLOR=white][B]NICKELODEON[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a04p
-#EXTINF:-1,[COLOR=white][B]ODISSEIA[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a06l
-#EXTINF:-1,[COLOR=white][B]PFC[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a06v
-
-
-#EXTINF:-1,[COLOR=white][B]SKY NEWS[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a048
-
-
-#EXTINF:-1,[COLOR=white][B]SPORT TV+[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03c
-#EXTINF:-1,[COLOR=white][B]SPORTING TV[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03r
-#EXTINF:-1,[COLOR=white][B]SYFY[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a04j
-#EXTINF:-1,[COLOR=white][B]TLC[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a038
-#EXTINF:-1,[COLOR=white][B]TV GALICIA[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a06y
-#EXTINF:-1,[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a04n
-
-
-#EXTINF:-1,[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a061
-#EXTINF:-1,[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05z
-#EXTINF:-1,[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a04w
-#EXTINF:-1,[COLOR=white][B]TVE 24H[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03h
-#EXTINF:-1,[COLOR=white][B]TVE INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03f
-
-#EXTINF:-1,[COLOR=white][B]TOROS TV[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03o
-#EXTINF:-1,[COLOR=white][B]TRACE TOCA[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a04o
-#EXTINF:-1,[COLOR=white][B]TRACE URBAN[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a06g
-#EXTINF:-1,[COLOR=white][B]TRAVEL CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a05o
-#EXTINF:-1,[COLOR=white][B]VH1[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03d
-#EXTINF:-1,[COLOR=white][B]ZAP VIVA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a052
-
+#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://0000000000000000000000
