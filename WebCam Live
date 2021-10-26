@@ -12,10 +12,6 @@ Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
         https://www.earthcam.com/search/ft_search.php?term=SPAIN
         
         
-        # https://www.youtube.com/channel/UCalCDSmZAYD73tqVZ4l8yJg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]ASOT TV[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
-
 #EXTM3U
 
 ####################################################################################################################################
