@@ -3,8 +3,8 @@
 #EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  CÂMARAS MUNDIAIS AO VIVO  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:0000
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 25/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
-########################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 26/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+####################################################################################################################################
 
 Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
         https://paste.ulvis.net/5vJjIUOA
@@ -12,40 +12,22 @@ Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
 
 #EXTM3U
 
-
+####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]WEBCAM TESTES[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1,ILHAS CANÁRIAS - PORTO DE LAS NIEVES AGAETE
+#EXTINF:-1,[COLOR=white][B]ILHAS CANÁRIAS - PORTO DE LAS NIEVES AGAETE[/B][/COLOR][COLOR=white][/COLOR]
 https://camserver.agaete.net:8443/agaetepuerto/agaetepuerto/index.m3u8
 
-#EXTINF:-1,BRASIL COPACABANA
+#EXTINF:-1,[COLOR=white][B]BRASIL - COPACABANA[/B][/COLOR][COLOR=white][/COLOR]
 https://livecdn-us-earthtv-com.global.ssl.fastly.net/edge1/cdnedge/HpL-r_4ABwo/chunklist.m3u8?token=EAIY6wE429y1OUCkIUgF.CgdlYXJ0aHR2EAEyC0hwTC1yXzBBQndrOgtIcEwtcl80QUJ3bw.328CsJY6f2bScVlopntXR0LpT3OK5Ju2YJcU4u4boy985LotID9Wu6d51WXk77NP5gw8jH36E3L4yve4IGQ5jA&domain=www.earthtv.com
 
-#EXTINF:-1,CANADA VANCOUVER
+#EXTINF:-1,[COLOR=white][B]CANADA - VANCOUVER[/B][/COLOR][COLOR=white][/COLOR]
 https://livecdn-us-earthtv-com.global.ssl.fastly.net/edge1/cdnedge/HpL_oN2ABBY/chunklist.m3u8?token=EAIY6wE4_961OUCkIUgF.CgdlYXJ0aHR2EAEyC0hwTF9vTnlBQkJVOgtIcExfb04yQUJCWQ.iZZq1dr0ceMoBZF5CmI2K2fbAupQxQAcVHrVCH52bp-10WV5uo8NyXdE3NC3usBFJkU_YBrPTR1mHcORit6awg&domain=www.earthtv.com
 
-
-#EXTINF:-1,[COLOR=blue][B]LISTA PRINCIPAL[/B][/COLOR][COLOR=blue][/COLOR]
+####################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]ANIMAIS - ZOO U.S.A[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
-
-#EXTINF:-1,[COLOR=white][B]AEROPORTO - ALEMANHA[/B][/COLOR][COLOR=white][/COLOR]
-https://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/chunklist_w1253127012.m3u8
-
-#EXTINF:-1,[COLOR=white][B]PONTE DA AMIZADE - BRASIL[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn.jmvstream.com/w/IPC-7040/camera.stream/chunklist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]PRAIA DA TIJUCA - BRASIL[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]TATRALANDIA AQUAPARK - ESLOVÁQUIA[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w1002298432.m3u8
-
-#EXTINF:-1,[COLOR=white][B]HOTEL CARRÉ VIEUX PORT - FRANÇA[/B][/COLOR][COLOR=white][/COLOR]
-https://streaming.novazion.com/HotelCarre/hotelcarre.stream/chunklist_w91291873.m3u8
-
-#EXTINF:-1,[COLOR=white][B]RIO DE JANEIRO - BRASIL (COPACABANA BEACH)[/B][/COLOR][COLOR=white][/COLOR]
-https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VBSM7hH.png" group-title="USA",[COLOR=white][B]SAN DIEGO, PANDA 1[/B][/COLOR][COLOR=white][/COLOR]
 http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
@@ -67,6 +49,242 @@ https://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/chunklist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]PINGUINS AO VIVO ZOO USA[/B][/COLOR][COLOR=white][/COLOR]
 https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/chunklist.m3u8
+
+####################################################################################################################################
+#EXTM3U
+
+#EXTINF:-1,[COLOR=blue][B]DIVERSOS PAÍSES & PAISAGENS[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]ESLOVÁQUIA - TATRALANDIA AQUAPARK[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w1002298432.m3u8
+
+#EXTINF:-1,[COLOR=white][B]FRANÇA - HOTEL CARRÉ VIEUX PORT[/B][/COLOR][COLOR=white][/COLOR]
+https://streaming.novazion.com/HotelCarre/hotelcarre.stream/chunklist_w91291873.m3u8
+
+#EXTINF:-1,[COLOR=white][B]NORUEGA - BERGEN[/B][/COLOR][COLOR=white][/COLOR]
+https://s1.worldcam.live:8082/bergen/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0sbrJ6v.png" group-title="NORWAY",[COLOR=white][B]NORUEGA - FINSE (HOTEL FINSE 1222)[/B][/COLOR][COLOR=white][/COLOR]
+https://stream1.vossaskyen.no/bt/FinseStasjon.stream/chunklist_w254227656.m3u8?custom-mdt=on
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xvaoDPV.png" group-title="FINLAND",[COLOR=white][B]FILÂNDIA - PIEKSAMAKI (LAKE)[/B][/COLOR][COLOR=white][/COLOR]
+http://79.141.146.78:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0a8L8Mx.png" group-title="RUSSIA",[COLOR=white][B]RUSSIA -RYAZAN OBLAST[/B][/COLOR][COLOR=white][/COLOR]
+http://212.26.225.115:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kNXLuh.png" group-title="PALESTINE",[COLOR=white][B]CISJORDÂNIA - NABLUS (CITY CENTER)[/B][/COLOR][COLOR=white][/COLOR]
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UkTalha.png" group-title="CHINA",[COLOR=white][B]CHINA - SHANGHAI (SKYLINE)[/B][/COLOR][COLOR=white][/COLOR]
+http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]CANADA - TORONTO (NIAGARA FALLS 1)[/B][/COLOR][COLOR=white][/COLOR]
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/4559/2019/08/11/1300.mp4/chunklist_w1595912559.m3u
+
+#EXTINF:-1,[COLOR=white][B]GRÉCIA - MYKONOS (ANTIGO PORTO)[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn-002.whatsupcams.com/hls/gr_mykonos01.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ITÁLIA - VENICE (PONTE DI RIALTO)[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn-001.whatsupcams.com/hls/it_venezia01.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ITÁLIA - SOTTOMARINA[/B][/COLOR][COLOR=white][/COLOR]
+http://www.webcamparkhotelchioggia.it/stream/?p=0.9229993736371398
+
+#EXTINF:-1,[COLOR=white][B]ISS - INTERNATIONAL SPACE STATION[/B][/COLOR][COLOR=white][/COLOR]
+https://uhsakamai-a.akamaihd.net/sjc03/sjc03-uhs-omega02/live/17074538/1635169527863/plain/uhs/4/chunk_1634766108_b52b4f645b.m4v
+
+########################################################################
+#EXTINF:-1,[COLOR=blue][B]AUSTRIA[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+#EXTINF:-1 ,[COLOR=white][B]AUSTRIA 2[/B][/COLOR][COLOR=white][/COLOR]
+http://5a407a32a4adf.streamlock.net:1935/webcam/webcam.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J4AneE1.png" group-title="AUSTRIA",[COLOR=white][B]RAURIS (RAURISER MARKTPLATZ)[/B][/COLOR][COLOR=white][/COLOR]
+http://195.70.107.151:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DLOcBsT.png" group-title="AUSTRIA",[COLOR=white][B]JERZENS (TIROL AIRPORT)[/B][/COLOR][COLOR=white][/COLOR]
+http://83.218.163.132:8081/mjpg/video.mjpg
+
+
+########################################################################
+#EXTINF:-1,[COLOR=blue][B]BRASIL[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+#EXTINF:-1,[COLOR=white][B]BRASIL SURF[/B][/COLOR][COLOR=white][/COLOR]
+http://egina.nethorizontes.tv:1935/lopesip/lopesip02.stream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRASIL 2[/B][/COLOR][COLOR=white][/COLOR]
+http://cameras.interaviation.com.br/camera02/interaviation2.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRASIL - COPACABANA[/B][/COLOR][COLOR=white][/COLOR]
+https://livecdn-us-earthtv-com.global.ssl.fastly.net/edge1/cdnedge/HpL-r_4ABwo/chunklist.m3u8?token=EAIY6wE429y1OUCkIUgF.CgdlYXJ0aHR2EAEyC0hwTC1yXzBBQndrOgtIcEwtcl80QUJ3bw.328CsJY6f2bScVlopntXR0LpT3OK5Ju2YJcU4u4boy985LotID9Wu6d51WXk77NP5gw8jH36E3L4yve4IGQ5jA&domain=www.earthtv.com
+
+#EXTINF:-1,[COLOR=white][B]BRASIL - PONTE DA AMIZADE[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn.jmvstream.com/w/IPC-7040/camera.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png" group-title="CÂMERAS AO VIVO",[COLOR=white][B]BRASIL - PONTE DA AMIZADE[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn.jmvstream.com/w/IPC-7040/camera.stream/chunklist_w1189118587.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRASIL - PRAIA DA TIJUCA[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRASIL (COPACABANA BEACH) RIO DE JANEIRO[/B][/COLOR][COLOR=white][/COLOR]
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
+
+
+########################################################################
+#EXTINF:-1,[COLOR=blue][B]REPÚBLICA CHECA[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+#EXTINF:-1 ,[COLOR=white][B]REPÚBLICA CHECA - JABLUNKOV[/B][/COLOR][COLOR=white][/COLOR]
+http://stream.silesnet.net/webcams/jablunkov.m3u8
+
+#EXTINF:-1 ,[COLOR=white][B]REPÚBLICA CHECA - RATIBOR[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.hqv.cz/ratibor.obecni.net/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]REPÚBLICA CHECA - HEAVEN[/B][/COLOR][COLOR=white][/COLOR]
+https://www.czechheaven.cz/webcam/playlist/webcam_czechheaven_p1.m3u8
+
+
+########################################################################
+#EXTINF:-1,[COLOR=blue][B]ALEMANHA[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+#EXTINF:-1,[COLOR=white][B]ALEMANHA - AEROPORTO[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/chunklist_w1253127012.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TkRgd7B.png" group-title="GERMANY",[COLOR=white][B]ALEMANHA - BREMEN[/B][/COLOR][COLOR=white][/COLOR]
+http://217.91.208.210:80/mjpg/video.mjpg
+#EXTINF:-1 ,[COLOR=white][B]ALEMANHA - BINZ[/B][/COLOR][COLOR=white][/COLOR]
+http://cam01.binz-kabel.de/cam1/960.m3u8
+#EXTINF:-1 ,[COLOR=white][B]ALEMANHA - DUSSELDORF CAM 1[/B][/COLOR][COLOR=white][/COLOR]
+http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-mp/playlist.m3u8
+#EXTINF:-1 ,[COLOR=white][B]ALEMANHA - DUSSELDORF CAM 2[/B][/COLOR][COLOR=white][/COLOR]
+http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-mp/playlist.m3u8
+#EXTINF:-1 ,[COLOR=white][B]ALEMANHA - DUSSELDORF CAM 3[/B][/COLOR][COLOR=white][/COLOR]
+http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-ru/playlist.m3u8
+#EXTINF:-1 ,[COLOR=white][B]ALEMANHA - DUSSELDORF CAM 4[/B][/COLOR][COLOR=white][/COLOR]
+http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-bp/playlist.m3u8
+#EXTINF:-1 ,[COLOR=white][B]ALEMANHA - DUSSELDORF CAM 5[/B][/COLOR][COLOR=white][/COLOR]
+http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-bp/playlist.m3u8
+#EXTINF:-1 ,[COLOR=white][B]ALEMANHA - VOGEL[/B][/COLOR][COLOR=white][/COLOR]
+http://vogelkamera.dyndns.tv/hls/live.stream.m3u8
+#EXTINF:-1 ,[COLOR=white][B]ALEMANHA - ZINNOWITZ[/B][/COLOR][COLOR=white][/COLOR]
+http://edge30.fms.stream24.net/osltv3/_definst_/mp4:zinnowitz.stream/master.m3u8
+
+
+########################################################################
+#EXTINF:-1,[COLOR=blue][B]HUNGRIA[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+#EXTINF:-1,[COLOR=white][B]HUNGRIA - AQUAPARK[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.hungarospa.hu/hls/axis3/index.m3u8
+#EXTINF:-1,[COLOR=white][B]HUNGRIA - BEACH[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.hungarospa.hu/hls/axis0/index.m3u8
+
+
+########################################################################
+#EXTINF:-1,[COLOR=blue][B]POLÓNIA[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+#EXTINF:-1,[COLOR=white][B]POLAND, CRACOW[/B][/COLOR][COLOR=white][/COLOR]
+http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
+
+#EXTINF:-1 ,POLONIA - CIESZYB
+http://cdn.stream360.pl/CieszynCam/CieszynRynekHD.stream/playlist.m3u8
+#EXTINF:-1 ,POLONIA - CRACOW 1
+http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
+#EXTINF:-1 ,POLONIA - CRACOW 2
+http://hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8
+#EXTINF:-1 ,POLONIA - DARLOWO
+https://hoktastream1.webcamera.pl/darlowo_cam_dc4e72/darlowo_cam_dc4e72.stream/playlist.m3u8
+#EXTINF:-1 ,POLONIA - GDANSK
+http://hoktastream4.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/chunks.m3u8
+#EXTINF:-1 ,POLONIA - HOTEL STOK
+http://hoktastream4.webcamera.pl/hotelstok_cam_77f104/hotelstok_cam_77f104.stream/playlist.m3u8
+#EXTINF:-1 ,POLONIA - KARPACZ
+http://hoktastream2.webcamera.pl/karpacz_cam_ab594f/karpacz_cam_ab594f.stream/playlist.m3u8
+#EXTINF:-1 ,POLONIA - KOLOBRZEG
+http://hoktastream4.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream/playlist.m3u8
+#EXTINF:-1 ,POLONIA - KRUPOWKI
+https://hoktastream4.webcamera.pl/zakopane_cam_cd5b2d_reklamy/zakopane_cam_cd5b2d.stream/playlist.m3u8
+#EXTINF:-1 ,POLONIA - KRYNICKA
+https://hoktastream1.webcamera.pl/skywind_cam_77d44a/skywind_cam_77d44a.stream/playlist.m3u8
+#EXTINF:-1 ,POLONIA - LIPOWA
+http://91.224.104.112:8181/lipowa/index.m3u8
+#EXTINF:-1 ,POLONIA - MYSLENICE
+http://hoktastream1.webcamera.pl/myslenice_cam_27ccab/myslenice_cam_27ccab.stream/playlist.m3u8
+#EXTINF:-1 ,POLONIA - RYSIANKA
+http://91.224.104.112:80/rysianka2/index.m3u8
+
+
+########################################################################
+#EXTINF:-1,[COLOR=blue][B]ESCÓCIA[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+#EXTINF:-1 ,ESCOCIA - EDIMBURGO CAM 1
+http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzoo103750_koala.stream/playlist.m3u8
+#EXTINF:-1 ,ESCOCIA - EDIMBURGO CAM 2
+https://595b9deb3d6ac.streamlock.net/qlive/edinburghzoo104225.stream/playlist.m3u8
+#EXTINF:-1 ,ESCOCIA - EDIMBURGO CAM 3
+http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzootiger1.stream/playlist.m3u8
+#EXTINF:-1 ,ESCOCIA - EDIMBURGO CAM 4
+http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/playlist.m3u8
+#EXTINF:-1 ,ESCOCIA - EDIMBURGO CAM 5
+http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ESCÓCIA - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
+http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]ESCÓCIA - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
+http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]ESCÓCIA - CAM 3[/B][/COLOR][COLOR=white][/COLOR]
+http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzootiger1.stream/playlist.m3u8
+
+
+########################################################################
+#EXTINF:-1,[COLOR=blue][B]REINO UNIDO[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]UK, RESOURT ILFRACOMBE[/B][/COLOR][COLOR=white][/COLOR]
+http://camsecure.co/HLS/ilfracombe2.m3u8
+#EXTINF:-1 ,UK - BISHOPS LYDEARD STATION
+http://maybach.railcam.co.uk:80/BishopsLydeard_59234/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,UK - BLUE ANCHOR STATION
+http://maybach.railcam.co.uk:80/BlueAnchor_68938/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,UK - DAWLISH 
+https://camsecure.co/HLS/dawlish.m3u8
+#EXTINF:-1 ,UK - HARYLYN
+https://cams.cdn-surfline.com/cdn-int/uk-harlyn/chunklist.m3u8
+#EXTINF:-1 ,UK - ILFRACOMBE 1
+http://camsecure.co/HLS/ilfracombe1.m3u8
+#EXTINF:-1 ,UK - ILFRACOMBE 2
+http://camsecure.co/HLS/ilfracombe2.m3u8
+#EXTINF:-1 ,UK - MINEHEAD STATION
+http://maybach.railcam.co.uk:80/Minehead_05286/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,UK - SALCOMBE
+https://camsecure.co/HLS/salcombeyc.m3u8
+#EXTINF:-1 ,UK - TORQUAY
+https://camsecure.co/HLS/boatq.m3u8
+#EXTINF:-1 ,UK - WESTWARD
+https://camsecure.co/HLS/westho.m3u8
+#EXTINF:-1 ,UK - WILLITON STATION
+http://maybach.railcam.co.uk:80/Williton1_17337/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,UK - MARWELL AQUARIUM
+http://stream.wildlifestreaming.io:1935/Marwell/marwell_aquarium.stream/playlist.m3u8
+#EXTINF:-1 ,UK - MARWELL AQUARIUM
+http://stream.wildlifestreaming.io:1935/Marwell/marwell_penguin.stream/playlist.m3u8
+#EXTINF:-1 ,UK - MARWELL AQUARIUM
+http://stream.wildlifestreaming.io:1935/Marwell/marwell_weaver.stream/playlist.m3u8
+
+
+########################################################################
+#EXTINF:-1,[COLOR=blue][B]ESTADOS UNIDOS AMÉRICA[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",[COLOR=white][B]HERNDON - VIRGINIA MIDWAY HOME SERVICE[/B][/COLOR][COLOR=white][/COLOR]
 http://71.41.73.146:80/mjpg/video.mjpg
@@ -92,44 +310,8 @@ http://cs2.pixelcaster.com:1935/live/cedar1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WDZPexg.png" group-title="USA",[COLOR=white][B]CEDAR POINT PARK 2[/B][/COLOR][COLOR=white][/COLOR]
 http://cs2.pixelcaster.com:1935/live/cedar2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TkRgd7B.png" group-title="GERMANY",[COLOR=white][B]BREMEN[/B][/COLOR][COLOR=white][/COLOR]
-http://217.91.208.210:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/J4AneE1.png" group-title="AUSTRIA",[COLOR=white][B]RAURIS (RAURISER MARKTPLATZ)[/B][/COLOR][COLOR=white][/COLOR]
-http://195.70.107.151:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DLOcBsT.png" group-title="AUSTRIA",[COLOR=white][B]JERZENS (TIROL AIRPORT)[/B][/COLOR][COLOR=white][/COLOR]
-http://83.218.163.132:8081/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0sbrJ6v.png" group-title="NORWAY",[COLOR=white][B]FINSE (HOTEL FINSE 1222)[/B][/COLOR][COLOR=white][/COLOR]
-https://stream1.vossaskyen.no/bt/FinseStasjon.stream/chunklist_w254227656.m3u8?custom-mdt=on
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xvaoDPV.png" group-title="FINLAND",[COLOR=white][B]PIEKSAMAKI (LAKE)[/B][/COLOR][COLOR=white][/COLOR]
-http://79.141.146.78:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0a8L8Mx.png" group-title="RUSSIA",[COLOR=white][B]RYAZAN OBLAST[/B][/COLOR][COLOR=white][/COLOR]
-http://212.26.225.115:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kNXLuh.png" group-title="PALESTINE",[COLOR=white][B]NABLUS (CITY CENTER)[/B][/COLOR][COLOR=white][/COLOR]
-http://htvmada.mada.ps:8888/nabluslive/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UkTalha.png" group-title="CHINA",[COLOR=white][B]SHANGHAI (SKYLINE)[/B][/COLOR][COLOR=white][/COLOR]
-http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png" group-title="CÂMERAS AO VIVO",[COLOR=white][B]PONTE DA AMIZADE, SENTIDO BRASIL[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn.jmvstream.com/w/IPC-7040/camera.stream/chunklist_w1189118587.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",[COLOR=white][B]STATEN ISLAND, NEW YORK[/B][/COLOR][COLOR=white][/COLOR]
 http://100.42.129.28:80/mjpg/video.mjpg
-
-#EXTINF:-1,[COLOR=white][B]CZECH HEAVEN[/B][/COLOR][COLOR=white][/COLOR]
-https://www.czechheaven.cz/webcam/playlist/webcam_czechheaven_p1.m3u8
-
-#EXTINF:-1,[COLOR=white][B]POLAND, CRACOW[/B][/COLOR][COLOR=white][/COLOR]
-http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]RESOURT ILFRACOMBE, UK[/B][/COLOR][COLOR=white][/COLOR]
-http://camsecure.co/HLS/ilfracombe2.m3u8
 
 #EXTINF:-1,[COLOR=white][B]USA - DOWNTOWN WILMININGTON[/B][/COLOR][COLOR=white][/COLOR]
 http://169.47.9.197:1935/live/dw.stream/playlist.m3u8
@@ -139,15 +321,6 @@ http://cdn.estesparkwebcams.com/prospect3/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]USA - GREEN PARROT[/B][/COLOR][COLOR=white][/COLOR]
 http://wse1.resortcams.com/live/greenparrot2.stream/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]ESCÓCIA - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
-http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]ESCÓCIA - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
-http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]ESCÓCIA - CAM 3[/B][/COLOR][COLOR=white][/COLOR]
-http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzootiger1.stream/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]USA, ESTES PARK[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn.estesparkwebcams.com/prospect3/index.m3u8
@@ -167,177 +340,20 @@ http://wse1.resortcams.com/live/westjefferson.stream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]USA WRIGHTSVILLE BEACH[/B][/COLOR][COLOR=white][/COLOR]
 http://169.47.9.197:1935/live/wb.stream/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]TORONTO - CANADA (NIAGARA FALLS 1)[/B][/COLOR][COLOR=white][/COLOR]
-https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/4559/2019/08/11/1300.mp4/chunklist_w1595912559.m3u
-
-#EXTINF:-1,[COLOR=white][B]NABLUS (CENTRO DA CIDADE)[/B][/COLOR][COLOR=white][/COLOR]
-http://htvmada.mada.ps:8888/nabluslive/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MYKONOS (ANTIGO PORTO)[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn-002.whatsupcams.com/hls/gr_mykonos01.m3u8
-
-#EXTINF:-1,[COLOR=white][B]VENICE (PONTE DI RIALTO)[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn-001.whatsupcams.com/hls/it_venezia01.m3u8
-
-#EXTINF:-1,[COLOR=white][B]SANDUSKY (CEDAR POINT PARK 1)[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]USA - SANDUSKY (CEDAR POINT PARK 1)[/B][/COLOR][COLOR=white][/COLOR]
 http://cs2.pixelcaster.com:1935/live/cedar1.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SOTTOMARINA[/B][/COLOR][COLOR=white][/COLOR]
-http://www.webcamparkhotelchioggia.it/stream/?p=0.9229993736371398
-
-#EXTINF:-1,[COLOR=white][B]ISS - INTERNATIONAL SPACE STATION[/B][/COLOR][COLOR=white][/COLOR]
-https://uhsakamai-a.akamaihd.net/sjc03/sjc03-uhs-omega02/live/17074538/1635169527863/plain/uhs/4/chunk_1634766108_b52b4f645b.m4v
-
-
-#EXTINF:-1,[COLOR=yellow][B]LISTA 2 ADICIONADA: 25/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-#EXTM3U
-
-#EXTINF:-1,[COLOR=blue][B]AUSTRIA[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000
-
-#EXTINF:-1 ,AUSTRIA 2
-http://5a407a32a4adf.streamlock.net:1935/webcam/webcam.stream/playlist.m3u8
-
-#EXTINF:-1,[COLOR=blue][B]BRASIL[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000
-
-#EXTINF:-1 ,BRASIL - Surf
-http://egina.nethorizontes.tv:1935/lopesip/lopesip02.stream/playlist.m3u8
-#EXTINF:-1 ,BRASIL 2
-http://cameras.interaviation.com.br/camera02/interaviation2.m3u8
-
-#EXTINF:-1,[COLOR=blue][B]REPÚBLICA CHECA[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000
-
-#EXTINF:-1 ,REPÚBLICA CHECA - Jablunkov
-http://stream.silesnet.net/webcams/jablunkov.m3u8
-#EXTINF:-1 ,REPÚBLICA CHECA - Ratibor
-https://stream.hqv.cz/ratibor.obecni.net/index.m3u8
-
-
-#EXTINF:-1,[COLOR=blue][B]ALEMANHA[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000
-
-#EXTINF:-1 ,ALEMANHA - Binz
-http://cam01.binz-kabel.de/cam1/960.m3u8
-#EXTINF:-1 ,ALEMANHA - Düsseldorf 1
-http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-mp/playlist.m3u8
-#EXTINF:-1 ,ALEMANHA - Düsseldorf 1
-http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-mp/playlist.m3u8
-#EXTINF:-1 ,ALEMANHA - Düsseldorf 2
-http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-ru/playlist.m3u8
-#EXTINF:-1 ,ALEMANHA - Düsseldorf 2
-http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-bp/playlist.m3u8
-#EXTINF:-1 ,ALEMANHA - Düsseldorf 3
-http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-bp/playlist.m3u8
-#EXTINF:-1 ,ALEMANHA - Vogel
-http://vogelkamera.dyndns.tv/hls/live.stream.m3u8
-#EXTINF:-1 ,ALEMANHA - Zinnowitz
-http://edge30.fms.stream24.net/osltv3/_definst_/mp4:zinnowitz.stream/master.m3u8
-
-#EXTINF:-1,[COLOR=blue][B]HUNGRIA[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000
-
-#EXTINF:-1 ,HUNGRIA - Aquapark
-https://stream.hungarospa.hu/hls/axis3/index.m3u8
-#EXTINF:-1 ,HUNGRIA - Beach
-https://stream.hungarospa.hu/hls/axis0/index.m3u8
-#EXTINF:-1 ,NORUEGA - Bergen
-https://s1.worldcam.live:8082/bergen/index.m3u8
-
-#EXTINF:-1,[COLOR=blue][B]POLÓNIA[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000
-
-#EXTINF:-1 ,POLONIA - Cieszyn
-http://cdn.stream360.pl/CieszynCam/CieszynRynekHD.stream/playlist.m3u8
-#EXTINF:-1 ,POLONIA - Cracow 1
-http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
-#EXTINF:-1 ,POLONIA - Cracow 2
-http://hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8
-#EXTINF:-1 ,POLONIA - Darlowo
-https://hoktastream1.webcamera.pl/darlowo_cam_dc4e72/darlowo_cam_dc4e72.stream/playlist.m3u8
-#EXTINF:-1 ,POLONIA - Gdansk
-http://hoktastream4.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/chunks.m3u8
-#EXTINF:-1 ,POLONIA - Hotel Stok
-http://hoktastream4.webcamera.pl/hotelstok_cam_77f104/hotelstok_cam_77f104.stream/playlist.m3u8
-#EXTINF:-1 ,POLONIA - Karpacz
-http://hoktastream2.webcamera.pl/karpacz_cam_ab594f/karpacz_cam_ab594f.stream/playlist.m3u8
-#EXTINF:-1 ,POLONIA - Kolobrzeg
-http://hoktastream4.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream/playlist.m3u8
-#EXTINF:-1 ,POLONIA - Krupowki
-https://hoktastream4.webcamera.pl/zakopane_cam_cd5b2d_reklamy/zakopane_cam_cd5b2d.stream/playlist.m3u8
-#EXTINF:-1 ,POLONIA - Krynicka
-https://hoktastream1.webcamera.pl/skywind_cam_77d44a/skywind_cam_77d44a.stream/playlist.m3u8
-#EXTINF:-1 ,POLONIA - Lipowa
-http://91.224.104.112:8181/lipowa/index.m3u8
-#EXTINF:-1 ,POLONIA - Myslenice
-http://hoktastream1.webcamera.pl/myslenice_cam_27ccab/myslenice_cam_27ccab.stream/playlist.m3u8
-#EXTINF:-1 ,POLONIA - Rysianka
-http://91.224.104.112:80/rysianka2/index.m3u8
-
-#EXTINF:-1,[COLOR=blue][B]ESCÓCIA[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000
-
-#EXTINF:-1 ,ESCOCIA - Коала
-http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzoo103750_koala.stream/playlist.m3u8
-#EXTINF:-1 ,ESCOCIA - Обезьяны
-http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/playlist.m3u8
-#EXTINF:-1 ,ESCOCIA - Панда
-http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/playlist.m3u8
-#EXTINF:-1 ,ESCOCIA - Пингвины
-https://595b9deb3d6ac.streamlock.net/qlive/edinburghzoo104225.stream/playlist.m3u8
-#EXTINF:-1 ,ESCOCIA - Тигр
-http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzootiger1.stream/playlist.m3u8
-
-
-#EXTINF:-1,[COLOR=blue][B]REINO UNIDO[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000
-
-#EXTINF:-1 ,UK - Bishops Lydeard Station
-http://maybach.railcam.co.uk:80/BishopsLydeard_59234/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,UK - Blue Anchor Station
-http://maybach.railcam.co.uk:80/BlueAnchor_68938/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,UK - Dawlish
-https://camsecure.co/HLS/dawlish.m3u8
-#EXTINF:-1 ,UK - Harlyn
-https://cams.cdn-surfline.com/cdn-int/uk-harlyn/chunklist.m3u8
-#EXTINF:-1 ,UK - Ilfracombe 1
-http://camsecure.co/HLS/ilfracombe1.m3u8
-#EXTINF:-1 ,UK - Ilfracombe 2
-http://camsecure.co/HLS/ilfracombe2.m3u8
-#EXTINF:-1 ,UK - Minehead Station
-http://maybach.railcam.co.uk:80/Minehead_05286/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,UK - Salcombe
-https://camsecure.co/HLS/salcombeyc.m3u8
-#EXTINF:-1 ,UK - Torquay
-https://camsecure.co/HLS/boatq.m3u8
-#EXTINF:-1 ,UK - Westward
-https://camsecure.co/HLS/westho.m3u8
-#EXTINF:-1 ,UK - Williton Station
-http://maybach.railcam.co.uk:80/Williton1_17337/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,UK - Аквариум
-http://stream.wildlifestreaming.io:1935/Marwell/marwell_aquarium.stream/playlist.m3u8
-#EXTINF:-1 ,UK - Пингвины
-http://stream.wildlifestreaming.io:1935/Marwell/marwell_penguin.stream/playlist.m3u8
-#EXTINF:-1 ,UK - Ткач
-http://stream.wildlifestreaming.io:1935/Marwell/marwell_weaver.stream/playlist.m3u8
-
-#EXTINF:-1,[COLOR=blue][B]ESTADOS UNIDOS AMÉRICA[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000
-
-#EXTINF:-1 ,USA - Claytor Lake
+#EXTINF:-1 ,[COLOR=white][B]USA - CLAYTOR LAKE[/B][/COLOR][COLOR=white][/COLOR]
 https://55507e0501d25.streamlock.net/live/claytorlake.stream/playlist.m3u8
-#EXTINF:-1 ,USA - Folly Beach
+#EXTINF:-1 ,[COLOR=white][B]USA - FOLLY BEACH[/B][/COLOR][COLOR=white][/COLOR]
 http://169.47.9.197:1935/live/fb.stream/playlist.m3u8
-#EXTINF:-1 ,USA - Green Parrot
+#EXTINF:-1 ,[COLOR=white][B]USA - GREEN PARROT CAM 1[/B][/COLOR][COLOR=white][/COLOR]
 http://wse1.resortcams.com/live/greenparrot2.stream/playlist.m3u8
-#EXTINF:-1 ,USA - Green Parrot Bar 2
+#EXTINF:-1 ,[COLOR=white][B]USA - GREEN PARROT CAM 2[/B][/COLOR][COLOR=white][/COLOR]
 http://55507e0501d25.streamlock.net/live/greenparrot2.stream/playlist.m3u8
-#EXTINF:-1 ,USA - Greeneville
+#EXTINF:-1 ,[COLOR=white][B]USA - GREENEVILLE[/B][/COLOR][COLOR=white][/COLOR]
 http://wse1.resortcams.com/live/greeneville.stream/playlist.m3u8
-#EXTINF:-1 ,USA - Hawaii
+#EXTINF:-1 ,[COLOR=white][B]USA - HAWAII[/B][/COLOR][COLOR=white][/COLOR]
 https://edge01.kirillovka.ks.ua/hawaii1/index.m3u8
 #EXTINF:-1 ,USA - Dead Dog Saloon MarshWalk
 http://58f0f58ecd733.streamlock.net:1935/DeadDogSaloonCam3/deaddog3/playlist.m3u8
