@@ -102,11 +102,11 @@ https://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/chunklist.m3u8
 https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/chunklist.m3u8
 
 #  https://www.youtube.com/watch?v=fsV8AWmr4SA&ab_channel=Hamptons.com
-#EXTINF:-1,[COLOR=white][B]NOVA IORQUE - AQUÁRIO LONGA ILHA[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]NOVA IORQUE - AQUÁRIO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=fsV8AWmr4SA&ab_channel=Hamptons.com
 
 #  https://www.youtube.com/watch?v=oPGH65HrseA&ab_channel=AqualinkHawaii
-#EXTINF:-1,[COLOR=white][B]HAVAI- AQUALINK (AQUÁRIO)[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]HAVAI - AQUALINK[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=oPGH65HrseA&ab_channel=AqualinkHawaii
 
 
