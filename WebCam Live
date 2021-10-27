@@ -69,6 +69,10 @@ https://camsecure.uk/HLS/bayv.m3u8
 #EXTINF:-1,[COLOR=white][B]BRASIL COPACABANA SKYLINE[/B][/COLOR][COLOR=white][/COLOR]
 https://hd-auth.skylinewebcams.com/live.m3u8?a=kdno0kqmrhpt7tkh9f8a79kiv1
 
+#   https://www.youtube.com/watch?v=kyZBy84Ct_E&ab_channel=earthTV
+#EXTINF:-1,[COLOR=white][B]BRASIL - LIVE COPACABANA EARTHCAM[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=kyZBy84Ct_E&ab_channel=earthTV
+
 #EXTINF:-1,[COLOR=white][B]BRASIL ILHA DAS CABRAS[/B][/COLOR][COLOR=white][/COLOR]
 https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2009.stream/chunklist_w727613944.m3u8
 
