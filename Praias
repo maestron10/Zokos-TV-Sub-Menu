@@ -17,9 +17,6 @@ https://0000000000000000000000
 #EXTINF:-1,[COLOR=white][B]ESPINHO - PRAIA DA BAIA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=PCCvAHCX0Ao
 
-#EXTINF:-1,[COLOR=white][B]ALGARVE - PENECO ALBUFEIRA[/B][/COLOR][COLOR=white][/COLOR]
-https://s68.ipcamlive.com/streams/44bqjm2ldcihm8owr/stream.m3u8
-
 #  https://www.youtube.com/watch?v=SyeHtarR6Mg&ab_channel=Playocean
 #EXTINF:-1,[COLOR=white][B]SETUBAL - PRAIA DA FONTE DA TELHA (NORTE)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=SyeHtarR6Mg&ab_channel=Playocean
@@ -300,6 +297,9 @@ https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]VILAMOURA[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]ALGARVE - PENECO ALBUFEIRA[/B][/COLOR][COLOR=white][/COLOR]
+https://s68.ipcamlive.com/streams/44bqjm2ldcihm8owr/stream.m3u8
+
  
 OFFLINE: 1
  
