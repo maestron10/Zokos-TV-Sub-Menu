@@ -77,29 +77,38 @@ plugin://plugin.video.youtube/play/?video_id=kyZBy84Ct_E&ab_channel=earthTV
 https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2009.stream/chunklist_w727613944.m3u8
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]ANIMAIS - ZOO U.S.A[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]ANIMAIS - DIVERSOS ZOOS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VBSM7hH.png" group-title="USA",[COLOR=white][B]SAN DIEGO, PANDA 1[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VBSM7hH.png" group-title="USA",[COLOR=white][B]USA - PANDA 1[/B][/COLOR][COLOR=white][/COLOR]
 http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IcLi495.png" group-title="USA",[COLOR=white][B]SAN DIEGO, URSO POLAR [/B][/COLOR][COLOR=white][/COLOR]
-http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/Playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]PANDA SAO DIEGO ZOO USA[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]USA - PANDA 2[/B][/COLOR][COLOR=white][/COLOR]
 https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]ELEFANTES ZOO[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IcLi495.png" group-title="USA",[COLOR=white][B]USA - URSO POLAR [/B][/COLOR][COLOR=white][/COLOR]
+http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/Playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]USA - ELEFANTES[/B][/COLOR][COLOR=white][/COLOR]
 https://elephants.hls.camzonecdn.com/CamzoneStreams/elephants/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]MACACOS AO VIVO ZOO USA[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]USA - MACACOS[/B][/COLOR][COLOR=white][/COLOR]
 https://ape.hls.camzonecdn.com/CamzoneStreams/ape/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]KOALAS AO VIVO ZOO USA[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]USA - KOALAS[/B][/COLOR][COLOR=white][/COLOR]
 https://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]PINGUINS AO VIVO ZOO USA[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]USA - PINGUINS[/B][/COLOR][COLOR=white][/COLOR]
 https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/chunklist.m3u8
+
+#  https://www.youtube.com/watch?v=fsV8AWmr4SA&ab_channel=Hamptons.com
+#EXTINF:-1,[COLOR=white][B]NOVA IORQUE - AQUÁRIO LONGA ILHA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=fsV8AWmr4SA&ab_channel=Hamptons.com
+
+#  https://www.youtube.com/watch?v=oPGH65HrseA&ab_channel=AqualinkHawaii
+#EXTINF:-1,[COLOR=white][B]HAVAI- AQUALINK (AQUÁRIO)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=oPGH65HrseA&ab_channel=AqualinkHawaii
+
 
 ####################################################################################################################################
 #EXTM3U
