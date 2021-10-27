@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  CÂMARAS PT & MUNDIAIS AO VIVO  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:0000
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 26/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 27/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 ####################################################################################################################################
 
 Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
@@ -17,7 +17,7 @@ Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]ESPECIAL WEBCAM PORTUGAL[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000
+https://000000000
 
 
 #  https://www.youtube.com/watch?v=7AGCLUwf89A&ab_channel=Playocean
@@ -48,9 +48,11 @@ plugin://plugin.video.youtube/play/?video_id=UJQd9RckYwc&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - CAMARA DE LOBOS[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=UUZME5QX6x0
 
+
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]WEBCAM TESTES[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000
+https://00000000
+
 
 #EXTINF:-1,[COLOR=white][B]ILHAS CANÁRIAS - PORTO DE LAS NIEVES AGAETE[/B][/COLOR][COLOR=white][/COLOR]
 https://camserver.agaete.net:8443/agaetepuerto/agaetepuerto/index.m3u8
@@ -64,6 +66,11 @@ https://s44.ipcamlive.com/streams/2cl4taheojrly3m56/stream.m3u8
 #EXTINF:-1,[COLOR=white][B]UK - WEYMOUTH BEACH[/B][/COLOR][COLOR=white][/COLOR]
 https://camsecure.uk/HLS/bayv.m3u8
 
+#EXTINF:-1,[COLOR=white][B]BRASIL COPACABANA SKYLINE[/B][/COLOR][COLOR=white][/COLOR]
+https://hd-auth.skylinewebcams.com/live.m3u8?a=kdno0kqmrhpt7tkh9f8a79kiv1
+
+#EXTINF:-1,[COLOR=white][B]BRASIL ILHA DAS CABRAS[/B][/COLOR][COLOR=white][/COLOR]
+https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2009.stream/chunklist_w727613944.m3u8
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]ANIMAIS - ZOO U.S.A[/B][/COLOR][COLOR=blue][/COLOR]
@@ -131,7 +138,7 @@ https://cdn-001.whatsupcams.com/hls/it_venezia01.m3u8
 http://www.webcamparkhotelchioggia.it/stream/?p=0.9229993736371398
 
 
-########################################################################
+####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]AUSTRIA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
@@ -139,7 +146,7 @@ https://000000
 http://83.218.163.132:8081/mjpg/video.mjpg
 
 
-########################################################################
+####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]BRASIL[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
@@ -158,7 +165,7 @@ https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist.m3u8
 
 
 
-########################################################################
+####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]REPÚBLICA CHECA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
@@ -169,7 +176,7 @@ http://stream.silesnet.net/webcams/jablunkov.m3u8
 https://stream.hqv.cz/ratibor.obecni.net/index.m3u8
 
 
-########################################################################
+####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]ALEMANHA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
@@ -190,7 +197,7 @@ http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-bp/playlist.m3u8
 http://edge30.fms.stream24.net/osltv3/_definst_/mp4:zinnowitz.stream/master.m3u8
 
 
-########################################################################
+####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]HUNGRIA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
@@ -198,7 +205,7 @@ https://000000
 https://stream.hungarospa.hu/hls/axis3/index.m3u8
 
 
-########################################################################
+####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]POLÓNIA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
@@ -223,7 +230,7 @@ https://hoktastream4.webcamera.pl/zakopane_cam_cd5b2d_reklamy/zakopane_cam_cd5b2
 http://91.224.104.112:8181/lipowa/index.m3u8
 
 
-########################################################################
+####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]ESCÓCIA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
@@ -235,7 +242,7 @@ http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/pla
 http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/playlist.m3u8
 
 
-########################################################################
+####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]REINO UNIDO[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
@@ -264,7 +271,7 @@ http://maybach.railcam.co.uk:80/Williton1_17337/tracks-v1a1/mono.m3u8
 http://stream.wildlifestreaming.io:1935/Marwell/marwell_penguin.stream/playlist.m3u8
 
 
-########################################################################
+####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]ESTADOS UNIDOS AMÉRICA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
