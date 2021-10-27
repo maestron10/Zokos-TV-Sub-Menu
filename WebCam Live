@@ -19,6 +19,11 @@ Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
 #EXTINF:-1,[COLOR=blue][B]ESPECIAL WEBCAM PORTUGAL[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
+
+#  https://www.youtube.com/watch?v=7AGCLUwf89A&ab_channel=Playocean
+#EXTINF:-1,[COLOR=white][B]SETUBAL - PORTINHO DA ARRÁBIDA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=7AGCLUwf89A&ab_channel=Playocean
+
 #  https://www.youtube.com/watch?v=WI4mP963GvE&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - AV. DO MAR - FUNCHAL[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=WI4mP963GvE&ab_channel=Madeira-Web
@@ -26,10 +31,6 @@ plugin://plugin.video.youtube/play/?video_id=WI4mP963GvE&ab_channel=Madeira-Web
 #  https://www.youtube.com/watch?v=4Hhsra66kwY&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - MARINA DO FUNCHAL[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=4Hhsra66kwY&ab_channel=Madeira-Web
-
-#  https://www.youtube.com/watch?v=7AGCLUwf89A&ab_channel=Playocean
-#EXTINF:-1,[COLOR=white][B]SETUBAL - PORTINHO DA ARRÁBIDA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=7AGCLUwf89A&ab_channel=Playocean
 
 #  https://www.youtube.com/watch?v=jwzmmDdG8pU&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - QUINTA DO FURÃO[/B][/COLOR][COLOR=white][/COLOR]
@@ -54,33 +55,14 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]ILHAS CANÁRIAS - PORTO DE LAS NIEVES AGAETE[/B][/COLOR][COLOR=white][/COLOR]
 https://camserver.agaete.net:8443/agaetepuerto/agaetepuerto/index.m3u8
 
-#EXTINF:-1,[COLOR=white][B]BRASIL - COPACABANA[/B][/COLOR][COLOR=white][/COLOR]
-https://livecdn-us-earthtv-com.global.ssl.fastly.net/edge1/cdnedge/HpL-r_4ABwo/chunklist.m3u8?token=EAIY6wE429y1OUCkIUgF.CgdlYXJ0aHR2EAEyC0hwTC1yXzBBQndrOgtIcEwtcl80QUJ3bw.328CsJY6f2bScVlopntXR0LpT3OK5Ju2YJcU4u4boy985LotID9Wu6d51WXk77NP5gw8jH36E3L4yve4IGQ5jA&domain=www.earthtv.com
-
-#EXTINF:-1,[COLOR=white][B]CANADA - VANCOUVER[/B][/COLOR][COLOR=white][/COLOR]
-https://livecdn-us-earthtv-com.global.ssl.fastly.net/edge1/cdnedge/HpL_oN2ABBY/chunklist.m3u8?token=EAIY6wE4_961OUCkIUgF.CgdlYXJ0aHR2EAEyC0hwTF9vTnlBQkJVOgtIcExfb04yQUJCWQ.iZZq1dr0ceMoBZF5CmI2K2fbAupQxQAcVHrVCH52bp-10WV5uo8NyXdE3NC3usBFJkU_YBrPTR1mHcORit6awg&domain=www.earthtv.com
-
 #EXTINF:-1,[COLOR=white][B]USA - MYRTLE BEACH[/B][/COLOR][COLOR=white][/COLOR]
 https://5ed7b8fd7bf40.streamlock.net:444/northbeachplantation/northbeach/chunklist_w1410368773.m3u8
-
-#EXTINF:-1,[COLOR=white][B]USA - NAPLE BEACH[/B][/COLOR][COLOR=white][/COLOR]
-https://videos-3.earthcam.com/fecnetwork/8763.flv/chunklist_w1511701545.m3u8?t=snSTyCgD%2FfvzLbC0ug9AeueHu4yeaRgD9xhPn8VfuN0%3D&cid=
 
 #EXTINF:-1,[COLOR=white][B]ESPANHA - PRAIA BENIDORM[/B][/COLOR][COLOR=white][/COLOR]
 https://s44.ipcamlive.com/streams/2cl4taheojrly3m56/stream.m3u8
 
-#EXTINF:-1,[COLOR=white][B]UK - ABBEY ROAD[/B][/COLOR][COLOR=white][/COLOR]
-https://videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/chunklist_w1347895087.m3u8
-
-#EXTINF:-1,[COLOR=white][B]UK - ST-IVES ROAD[/B][/COLOR][COLOR=white][/COLOR]
-https://eu01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.xnqtb7o.fd0.sm1.av2.at0.sh2.rt2599.rc0.basic.stream/chunklist_w2123301017.m3u8
-
 #EXTINF:-1,[COLOR=white][B]UK - WEYMOUTH BEACH[/B][/COLOR][COLOR=white][/COLOR]
 https://camsecure.uk/HLS/bayv.m3u8
-
-
-
-
 
 
 ####################################################################################################################################
@@ -130,9 +112,6 @@ https://stream1.vossaskyen.no/bt/FinseStasjon.stream/chunklist_w254227656.m3u8?c
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xvaoDPV.png" group-title="FINLAND",[COLOR=white][B]FILÂNDIA - PIEKSAMAKI (LAKE)[/B][/COLOR][COLOR=white][/COLOR]
 http://79.141.146.78:80/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0a8L8Mx.png" group-title="RUSSIA",[COLOR=white][B]RUSSIA -RYAZAN OBLAST[/B][/COLOR][COLOR=white][/COLOR]
-http://212.26.225.115:80/mjpg/video.mjpg
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kNXLuh.png" group-title="PALESTINE",[COLOR=white][B]CISJORDÂNIA - NABLUS (CIDADE)[/B][/COLOR][COLOR=white][/COLOR]
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 
@@ -151,18 +130,10 @@ https://cdn-001.whatsupcams.com/hls/it_venezia01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ITÁLIA - SOTTOMARINA[/B][/COLOR][COLOR=white][/COLOR]
 http://www.webcamparkhotelchioggia.it/stream/?p=0.9229993736371398
 
-#EXTINF:-1,[COLOR=white][B]ISS - INTERNATIONAL SPACE STATION[/B][/COLOR][COLOR=white][/COLOR]
-https://uhsakamai-a.akamaihd.net/sjc03/sjc03-uhs-omega02/live/17074538/1635169527863/plain/uhs/4/chunk_1634766108_b52b4f645b.m4v
 
 ########################################################################
 #EXTINF:-1,[COLOR=blue][B]AUSTRIA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
-
-#EXTINF:-1 ,[COLOR=white][B]AUSTRIA 2[/B][/COLOR][COLOR=white][/COLOR]
-http://5a407a32a4adf.streamlock.net:1935/webcam/webcam.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/J4AneE1.png" group-title="AUSTRIA",[COLOR=white][B]RAURIS (RAURISER MARKTPLATZ)[/B][/COLOR][COLOR=white][/COLOR]
-http://195.70.107.151:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DLOcBsT.png" group-title="AUSTRIA",[COLOR=white][B]JERZENS (TIROL AIRPORT)[/B][/COLOR][COLOR=white][/COLOR]
 http://83.218.163.132:8081/mjpg/video.mjpg
