@@ -146,20 +146,11 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]BRASIL SURF[/B][/COLOR][COLOR=white][/COLOR]
 http://egina.nethorizontes.tv:1935/lopesip/lopesip02.stream/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]BRASIL 2[/B][/COLOR][COLOR=white][/COLOR]
-http://cameras.interaviation.com.br/camera02/interaviation2.m3u8
-
-#EXTINF:-1,[COLOR=white][B]BRASIL - PRAIA DE COPACABANA[/B][/COLOR][COLOR=white][/COLOR]
-https://livecdn-us-earthtv-com.global.ssl.fastly.net/edge1/cdnedge/HpL-r_4ABwo/chunklist.m3u8?token=EAIY6wE429y1OUCkIUgF.CgdlYXJ0aHR2EAEyC0hwTC1yXzBBQndrOgtIcEwtcl80QUJ3bw.328CsJY6f2bScVlopntXR0LpT3OK5Ju2YJcU4u4boy985LotID9Wu6d51WXk77NP5gw8jH36E3L4yve4IGQ5jA&domain=www.earthtv.com
-
 #EXTINF:-1,[COLOR=white][B]BRASIL - PRAIA DE COPACABANA[/B][/COLOR][COLOR=white][/COLOR]
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]BRASIL - PONTE DA AMIZADE CAM 1[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]BRASIL - PONTE DA AMIZADE CAM[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn.jmvstream.com/w/IPC-7040/camera.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://lucasdejesus.com.br/v3.0/wp-content/uploads/logo_2.fw_.png" group-title="CÂMERAS AO VIVO",[COLOR=white][B]BRASIL - PONTE DA AMIZADE CAM 2[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn.jmvstream.com/w/IPC-7040/camera.stream/chunklist_w1189118587.m3u8
 
 #EXTINF:-1,[COLOR=white][B]BRASIL - PRAIA DA TIJUCA[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist.m3u8
@@ -177,32 +168,24 @@ http://stream.silesnet.net/webcams/jablunkov.m3u8
 #EXTINF:-1 ,[COLOR=white][B]REPÚBLICA CHECA - RATIBOR[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.hqv.cz/ratibor.obecni.net/index.m3u8
 
-#EXTINF:-1,[COLOR=white][B]REPÚBLICA CHECA - HEAVEN[/B][/COLOR][COLOR=white][/COLOR]
-https://www.czechheaven.cz/webcam/playlist/webcam_czechheaven_p1.m3u8
-
 
 ########################################################################
 #EXTINF:-1,[COLOR=blue][B]ALEMANHA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=white][B]ALEMANHA - AEROPORTO[/B][/COLOR][COLOR=white][/COLOR]
-https://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/chunklist_w1253127012.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TkRgd7B.png" group-title="GERMANY",[COLOR=white][B]ALEMANHA - BREMEN[/B][/COLOR][COLOR=white][/COLOR]
 http://217.91.208.210:80/mjpg/video.mjpg
 #EXTINF:-1 ,[COLOR=white][B]ALEMANHA - BINZ[/B][/COLOR][COLOR=white][/COLOR]
 http://cam01.binz-kabel.de/cam1/960.m3u8
 #EXTINF:-1 ,[COLOR=white][B]ALEMANHA - DUSSELDORF CAM 1[/B][/COLOR][COLOR=white][/COLOR]
 http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-mp/playlist.m3u8
-#EXTINF:-1 ,[COLOR=white][B]ALEMANHA - DUSSELDORF CAM 2[/B][/COLOR][COLOR=white][/COLOR]
-http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-mp/playlist.m3u8
+
 #EXTINF:-1 ,[COLOR=white][B]ALEMANHA - DUSSELDORF CAM 3[/B][/COLOR][COLOR=white][/COLOR]
 http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-ru/playlist.m3u8
 #EXTINF:-1 ,[COLOR=white][B]ALEMANHA - DUSSELDORF CAM 4[/B][/COLOR][COLOR=white][/COLOR]
 http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-bp/playlist.m3u8
-#EXTINF:-1 ,[COLOR=white][B]ALEMANHA - DUSSELDORF CAM 5[/B][/COLOR][COLOR=white][/COLOR]
-http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-bp/playlist.m3u8
-#EXTINF:-1 ,[COLOR=white][B]ALEMANHA - VOGEL[/B][/COLOR][COLOR=white][/COLOR]
-http://vogelkamera.dyndns.tv/hls/live.stream.m3u8
+
 #EXTINF:-1 ,[COLOR=white][B]ALEMANHA - ZINNOWITZ[/B][/COLOR][COLOR=white][/COLOR]
 http://edge30.fms.stream24.net/osltv3/_definst_/mp4:zinnowitz.stream/master.m3u8
 
@@ -213,8 +196,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]HUNGRIA - AQUAPARK[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.hungarospa.hu/hls/axis3/index.m3u8
-#EXTINF:-1,[COLOR=white][B]HUNGRIA - BEACH[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.hungarospa.hu/hls/axis0/index.m3u8
 
 
 ########################################################################
@@ -228,51 +209,30 @@ http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/play
 http://cdn.stream360.pl/CieszynCam/CieszynRynekHD.stream/playlist.m3u8
 #EXTINF:-1 ,POLONIA - CRACOW 1
 http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
-#EXTINF:-1 ,POLONIA - CRACOW 2
-http://hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8
 #EXTINF:-1 ,POLONIA - DARLOWO
 https://hoktastream1.webcamera.pl/darlowo_cam_dc4e72/darlowo_cam_dc4e72.stream/playlist.m3u8
 #EXTINF:-1 ,POLONIA - GDANSK
 http://hoktastream4.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/chunks.m3u8
-#EXTINF:-1 ,POLONIA - HOTEL STOK
-http://hoktastream4.webcamera.pl/hotelstok_cam_77f104/hotelstok_cam_77f104.stream/playlist.m3u8
 #EXTINF:-1 ,POLONIA - KARPACZ
 http://hoktastream2.webcamera.pl/karpacz_cam_ab594f/karpacz_cam_ab594f.stream/playlist.m3u8
 #EXTINF:-1 ,POLONIA - KOLOBRZEG
 http://hoktastream4.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream/playlist.m3u8
 #EXTINF:-1 ,POLONIA - KRUPOWKI
 https://hoktastream4.webcamera.pl/zakopane_cam_cd5b2d_reklamy/zakopane_cam_cd5b2d.stream/playlist.m3u8
-#EXTINF:-1 ,POLONIA - KRYNICKA
-https://hoktastream1.webcamera.pl/skywind_cam_77d44a/skywind_cam_77d44a.stream/playlist.m3u8
 #EXTINF:-1 ,POLONIA - LIPOWA
 http://91.224.104.112:8181/lipowa/index.m3u8
-#EXTINF:-1 ,POLONIA - MYSLENICE
-http://hoktastream1.webcamera.pl/myslenice_cam_27ccab/myslenice_cam_27ccab.stream/playlist.m3u8
-#EXTINF:-1 ,POLONIA - RYSIANKA
-http://91.224.104.112:80/rysianka2/index.m3u8
 
 
 ########################################################################
 #EXTINF:-1,[COLOR=blue][B]ESCÓCIA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1 ,ESCOCIA - EDIMBURGO CAM 1
-http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzoo103750_koala.stream/playlist.m3u8
-#EXTINF:-1 ,ESCOCIA - EDIMBURGO CAM 2
+#EXTINF:-1 ,ESCOCIA - PINGUINS
 https://595b9deb3d6ac.streamlock.net/qlive/edinburghzoo104225.stream/playlist.m3u8
-#EXTINF:-1 ,ESCOCIA - EDIMBURGO CAM 3
-http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzootiger1.stream/playlist.m3u8
 #EXTINF:-1 ,ESCOCIA - EDIMBURGO CAM 4
 http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/playlist.m3u8
-#EXTINF:-1 ,ESCOCIA - EDIMBURGO CAM 5
+#EXTINF:-1 ,ESCOCIA - ZOO PANDA
 http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]ESCÓCIA - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
-http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]ESCÓCIA - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
-http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]ESCÓCIA - CAM 3[/B][/COLOR][COLOR=white][/COLOR]
-http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzootiger1.stream/playlist.m3u8
 
 
 ########################################################################
@@ -286,9 +246,9 @@ http://camsecure.co/HLS/ilfracombe2.m3u8
 http://maybach.railcam.co.uk:80/BishopsLydeard_59234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,UK - BLUE ANCHOR STATION
 http://maybach.railcam.co.uk:80/BlueAnchor_68938/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,UK - DAWLISH 
+#EXTINF:-1 ,UK - PRAIA DAWLISH 
 https://camsecure.co/HLS/dawlish.m3u8
-#EXTINF:-1 ,UK - HARYLYN
+#EXTINF:-1 ,UK - PRAIA HARYLYN
 https://cams.cdn-surfline.com/cdn-int/uk-harlyn/chunklist.m3u8
 #EXTINF:-1 ,UK - ILFRACOMBE 1
 http://camsecure.co/HLS/ilfracombe1.m3u8
@@ -296,20 +256,12 @@ http://camsecure.co/HLS/ilfracombe1.m3u8
 http://camsecure.co/HLS/ilfracombe2.m3u8
 #EXTINF:-1 ,UK - MINEHEAD STATION
 http://maybach.railcam.co.uk:80/Minehead_05286/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,UK - SALCOMBE
-https://camsecure.co/HLS/salcombeyc.m3u8
-#EXTINF:-1 ,UK - TORQUAY
-https://camsecure.co/HLS/boatq.m3u8
-#EXTINF:-1 ,UK - WESTWARD
+#EXTINF:-1 ,UK - PRAIA WESTWARD
 https://camsecure.co/HLS/westho.m3u8
 #EXTINF:-1 ,UK - WILLITON STATION
 http://maybach.railcam.co.uk:80/Williton1_17337/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,UK - MARWELL AQUARIUM
-http://stream.wildlifestreaming.io:1935/Marwell/marwell_aquarium.stream/playlist.m3u8
-#EXTINF:-1 ,UK - MARWELL AQUARIUM
 http://stream.wildlifestreaming.io:1935/Marwell/marwell_penguin.stream/playlist.m3u8
-#EXTINF:-1 ,UK - MARWELL AQUARIUM
-http://stream.wildlifestreaming.io:1935/Marwell/marwell_weaver.stream/playlist.m3u8
 
 
 ########################################################################
