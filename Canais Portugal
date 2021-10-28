@@ -57,7 +57,10 @@ http://185.236.229.21:9981/play/a08e
 #EXTINF:-1,[COLOR=white][B]RTP INTERNACIONAL SD[/B][/COLOR][COLOR=white][/COLOR]
 http://210.210.155.35/qwr9ew/s/s38/index.m3u8
 
-#EXTINF:-1,[COLOR=white][B]PORTO TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]PORTO CANAL SD[/B][/COLOR][COLOR=white][/COLOR]
+https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Porto Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/300px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",[COLOR=white][B]PORTO CANAL SD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]TVI REALITY TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -66,7 +69,7 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",[COLOR=white][B]SIC SD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
-#EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC I HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -127,10 +130,10 @@ http://195.22.11.11:1935/ktv/ktv1/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sobrenatural TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="PORTUGAL",[COLOR=white][B]SOBRENATURAL TV[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Porto Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/300px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",[COLOR=white][B]PORTO CANAL[/B][/COLOR][COLOR=white][/COLOR]
-https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TV Fatima" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="PORTUGAL",[COLOR=white][B]FÁTIMA TV[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8 
+
 #EXTINF:-1,[COLOR=white][B]TV MANA[/B][/COLOR][COLOR=white][/COLOR]
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
 
