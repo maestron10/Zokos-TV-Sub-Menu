@@ -54,7 +54,7 @@ http://162.212.178.69:41042/bysid/608
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a08e
 
-#EXTINF:-1,[COLOR=white][B]RTPI SD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RTP INTERNACIONAL SD[/B][/COLOR][COLOR=white][/COLOR]
 http://210.210.155.35/qwr9ew/s/s38/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]PORTO TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -69,7 +69,7 @@ http://live.impresa.pt/live/sic/sic540p.m3u8
 #EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC I HD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
-#EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC I HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC K[/B][/COLOR][COLOR=white][/COLOR]
@@ -81,7 +81,7 @@ http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",[COLOR=white][B]SIC NOTÍCIAS SD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",[COLOR=white][B]SIC NOTÍCIAS SD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",[COLOR=white][B]SIC NOTÍCIAS FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 
 #EXTINF:0 tvg-id="TVI24.pt" group-title="News",[COLOR=white][B]TVI FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -98,6 +98,7 @@ http://185.236.229.21:9981/play/a083
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="PORTUGAL",[COLOR=white][B]CANAL MACAU[/B][/COLOR][COLOR=white][/COLOR]
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Igreja Online" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="PORTUGAL",[COLOR=white][B]IGREJA ONLINE[/B][/COLOR][COLOR=white][/COLOR]
 http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
 
