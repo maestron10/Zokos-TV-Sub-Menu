@@ -31,6 +31,14 @@ http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/191
 http://aziptv.live:6969/Hdservers/Valendsuk/1929
 
 
+#EXTINF:-1  tvg-id="Sport 1" group-title="MIX SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",SPORT TV 1
+http://51.15.0.141:88/PT_SPORT_TV_1_HD/index.m3u8
+#EXTINF:-1  tvg-id="Sport 2" group-title="MIX SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",SPORT TV 2
+http://51.15.0.141:88/PT_SPORT_TV_2_HD/index.m3u8
+#EXTINF:-1  tvg-id="Sport 5" group-title="MIX SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",SPORT TV 5
+http://51.15.0.141:88/PT_SPORT_TV_5_HD/index.m3u8
+
+
 #EXTM3U
 
 #EXTINF:-1,[COLOR=blue][B]CANAIS INTERNACIONAIS ONDE DÁ FUTEBOL PT[/B][/COLOR][COLOR=blue][/COLOR]
