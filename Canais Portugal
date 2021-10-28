@@ -54,6 +54,9 @@ http://162.212.178.69:41042/bysid/608
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a08e
 
+#EXTINF:0 tvg-id="rtp1.pt" group-title="PORTUGAL TV",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://usa2.iptvteam.org:8000/live/picamiolos8/picamiolos8/128.m3u8
+
 #EXTINF:-1,[COLOR=white][B]RTP INTERNACIONAL SD[/B][/COLOR][COLOR=white][/COLOR]
 http://210.210.155.35/qwr9ew/s/s38/index.m3u8
 
@@ -75,6 +78,9 @@ http://live.impresa.pt/live/sicint/sicint.m3u8
 #EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
+#EXTINF:0 tvg-id="CMTV.pt" group-title="PORTUGAL TV",[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://usa2.iptvteam.org:8000/live/picamiolos8/picamiolos8/104.m3u8
+
 #EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC K[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.21:9981/play/a089
 
@@ -92,6 +98,18 @@ http://185.236.229.21:9981/play/a08z
 
 #EXTINF:0 tvg-id="TVI24.pt" group-title="News",[COLOR=white][B]TVI 24[/B][/COLOR][COLOR=white][/COLOR]
 https://iptv-all.lanesh4d0w.codes/portugal/tvi24
+
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL TV",[COLOR=white][B]TVI FICÇÃO[/B][/COLOR][COLOR=white][/COLOR]
+http://usa2.iptvteam.org:8000/live/picamiolos8/picamiolos8/642.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL TV",[COLOR=white][B]SPORT TV +[/B][/COLOR][COLOR=white][/COLOR]
+http://usa2.iptvteam.org:8000/live/picamiolos8/picamiolos8/234.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL TV",[COLOR=white][B]ELEVEN SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
+http://usa2.iptvteam.org:8000/live/picamiolos8/picamiolos8/545.m3u8
+
+#EXTINF:0 tvg-id="hollywood" group-title="PORTUGAL TV",[COLOR=white][B]HOLLYWOOD[/B][/COLOR][COLOR=white][/COLOR]
+http://usa2.iptvteam.org:8000/live/picamiolos8/picamiolos8/182.m3u8
 
 #EXTINF:-1,[COLOR=white][B]CANAL PARLAMENTO[/B][/COLOR][COLOR=white][/COLOR]
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
