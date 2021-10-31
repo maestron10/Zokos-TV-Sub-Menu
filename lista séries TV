@@ -5,12 +5,12 @@ http://0.0.0.0:000000
 ####################################################################################################################################
  
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA DE SÉRIES DE TV ADICIONADA: 29/10/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]LISTA DE SÉRIES DE TV ADICIONADA: 29/10/2021 [/B][/COLOR][COLOR=blue][/COLOR]
  
 #EXTM3U
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] /////////// SÉRIES DE TV: CSI: CRIME SCENE INVESTIGATION ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] /////////// CSI: CRIME SCENE INVESTIGATION ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",CSI: Crime Scene Investigation - English  S01 E01
