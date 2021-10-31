@@ -9,6 +9,58 @@ http://0.0.0.0:000000
  
 #EXTM3U
 
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B] /////////// DESIGNATED SURVIVOR T2 (LEG: PT) ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E01
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235913.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E02
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235912.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E03
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235911.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E04
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235910.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E05
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235909.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E06
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235908.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E07
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235907.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E08
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235906.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E09
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235905.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E10
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235904.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E11
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235903.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E12
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235902.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E13
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235901.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E14
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235900.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E15
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235899.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E16
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235898.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E17
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235897.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E18
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235896.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E19
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235895.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E20
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235894.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E21
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235893.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E22
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235892.mkv
+
+
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////// CSI: CRIME SCENE INVESTIGATION ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
