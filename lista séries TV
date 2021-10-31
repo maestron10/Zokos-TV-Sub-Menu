@@ -125,6 +125,31 @@ http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/229807.mkv
 #EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Narcos  S03 E10
 http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/229806.mkv
 
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B] /////////// NARCOS MÉXICO ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Narcos: Mexico  S01 E01
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/237249.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Narcos: Mexico  S01 E02
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/237248.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Narcos: Mexico  S01 E03
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/237247.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Narcos: Mexico  S01 E04
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/237246.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Narcos: Mexico  S01 E05
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/237245.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Narcos: Mexico  S01 E06
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/237244.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Narcos: Mexico  S01 E07
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/237243.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Narcos: Mexico  S01 E08
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/237242.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Narcos: Mexico  S01 E09
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/237241.mkv
+#EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Narcos: Mexico  S01 E10
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/237240.mkv
+
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////// CSI: CRIME SCENE INVESTIGATION ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
