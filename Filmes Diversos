@@ -50,14 +50,17 @@ http://r00tv.ddns.me:25461/movie/theplug/GSlLPKMDqG/563.mkv
 #EXTINF:0 tvg-id="avi" group-title="Action",VELOCIDADE FURIOSA F9 (2021)
 http://r00tv.ddns.me:25461/movie/theplug/GSlLPKMDqG/6181.mp4
 
+#EXTINF:0 tvg-id="avi" group-title="MOVIES",VELOCIDADE FURIOSA 6 (2013)
+http://www.deadlyblogger.com/NewRelease/fast6.mp4
+
 #EXTINF:0 tvg-id="avi" group-title="MOVIES",VELOCIDADE FURIOSA 5 (2011)
 http://www.deadlyblogger.com/NewRelease/fast5.mp4
 
 #EXTINF:0 tvg-id="avi" group-title="MOVIES",VELOCIDADE FURIOSA 2009
 http://www.deadlyblogger.com/NewRelease/fast4.mp4
 
-	#EXTINF:0 tvg-id="avi" group-title="MOVIES",VELOCIDADE FURIOSA: TOQUIO 2006
-	http://www.deadlyblogger.com/NewRelease/fast3.mp4
+#EXTINF:0 tvg-id="avi" group-title="MOVIES",VELOCIDADE FURIOSA: TOQUIO 2006
+http://www.deadlyblogger.com/NewRelease/fast3.mp4
 
 #EXTINF:0 tvg-id="avi" group-title="MOVIES",VELOCIDADE FURIOSA 2003
 http://www.deadlyblogger.com/NewRelease/fast2.mp4
