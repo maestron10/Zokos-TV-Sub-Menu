@@ -12,6 +12,15 @@ http://0.0.0.0:00000
 https://000000
 
 
+#EXTINF:-1,[COLOR=white][B]MULTISHOW BR FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://srv-source.stream:80/toptv/XGmvmQefc3/2357
+
+#EXTINF:-1,[COLOR=white][B]TRACE BRAZUCA BR FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://srv-source.stream:80/toptv/XGmvmQefc3/2626
+
+#EXTINF:-1,[COLOR=white][B]MTV LIVE BR FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://srv-source.stream:80/toptv/XGmvmQefc3/4089
+
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN AU[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
