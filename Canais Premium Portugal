@@ -53,11 +53,24 @@ http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/2604
 #EXTINF:-1,[COLOR=white][B]ESPN 1 BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.81:1234
 
+#EXTINF:-1,[COLOR=white][B]ESPN BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://srv-source.stream:80/toptv/XGmvmQefc3/2553
+
+#EXTINF:-1,[COLOR=white][B]ESPN EXTRA BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://srv-source.stream:80/toptv/XGmvmQefc3/2554
+
 #EXTINF:-1,[COLOR=white][B]ESPN 1 BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.128:1234
 
 #EXTINF:-1,[COLOR=white][B]ESPN 2 BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.153:1234
+
+#EXTINF:-1,[COLOR=white][B]ESPN 2 BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://srv-source.stream:80/toptv/XGmvmQefc3/2258
+
+#EXTINF:-1,[COLOR=white][B]ESPN 2 BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://srv-source.stream:80/toptv/XGmvmQefc3/2556
+
 
 ##################################  BENFICA TV   ###########################################################################
 
