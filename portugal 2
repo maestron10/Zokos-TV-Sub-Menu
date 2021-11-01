@@ -219,84 +219,32 @@ http://189.91.128.146:4444/udp/227.10.20.177:1234
 
 
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA 2 ADICIONADA: 31/10/21[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 2 VERIFICADA: 01/11/21[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
 #EXTINF:0 tvg-id="AE.ca" group-title="SD",A&E SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2149
-#EXTINF:0 tvg-id="ext" group-title="SD",AgroMais SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2152
-#EXTINF:0 tvg-id="mgm-int" group-title="SD",AMC SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2155
-#EXTINF:0 tvg-id="animal_rus" group-title="SD",Animal Planet SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2158
-#EXTINF:0 tvg-id="Arte1.br" group-title="SD",Arte 1 SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2161
-
-#EXTINF:0 tvg-id="AXN.bg" group-title="SD",AXN SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2164
-#EXTINF:0 tvg-id="ext" group-title="SD",AXN SD [LEG]
-http://srv-source.stream:80/toptv/XGmvmQefc3/3700
-#EXTINF:0 tvg-id="baby-tv" group-title="SD",Baby TV SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2099
-
-#EXTINF:0 tvg-id="Bandnews.br" group-title="SD",Band News SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2167
-#EXTINF:0 tvg-id="Bandsports.br" group-title="SD",Band Sports SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2170
-#EXTINF:0 tvg-id="Bandsp.br" group-title="SD",Band SP SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/4021
 #EXTINF:0 tvg-id="Bis.br" group-title="SD",BIS SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2173
-#EXTINF:0 tvg-id="Boavontadetv.br" group-title="SD",Boa Vontade TV SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2100
 #EXTINF:0 tvg-id="boomerang" group-title="SD",Boomerang SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2176
 #EXTINF:0 tvg-id="Canalbrasil.br" group-title="SD",Canal Brasil SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2179
 #EXTINF:0 tvg-id="CanaldoBoi.br" group-title="SD",Canal do Boi SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2182
-#EXTINF:0 tvg-id="Sony.br" group-title="SD",Canal Sony SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2185
 #EXTINF:0 tvg-id="ext" group-title="SD",Canal Sony SD [LEG]
 http://srv-source.stream:80/toptv/XGmvmQefc3/3703
 #EXTINF:0 tvg-id="cartoon" group-title="SD",Cartoon Network SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2188
-#EXTINF:0 tvg-id="CinemaxO.mx" group-title="SD",Cinemax SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2191
-#EXTINF:0 tvg-id="ext" group-title="SD",CNN Brasil SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2194
-#EXTINF:0 tvg-id="Combate.br" group-title="SD",Combate SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2197
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="SD",Comedy Central SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2200
-
-#EXTINF:0 tvg-id="Culturasp.br" group-title="SD",Cultura SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2215
-#EXTINF:0 tvg-id="ext" group-title="SD",Curta! SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2218
-#EXTINF:0 tvg-id="ext" group-title="SD",Disc. Home & Health SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2221
-#EXTINF:0 tvg-id="discov_rus" group-title="SD",Discovery Channel SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2224
 #EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="SD",Discovery Kids SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2227
 #EXTINF:0 tvg-id="discov_sci" group-title="SD",Discovery Science SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2230
-#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="SD",Discovery Theater SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2233
-#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="SD",Discovery Turbo SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2236
-#EXTINF:0 tvg-id="discov_turbo-extra" group-title="SD",Discovery World SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2239
 #EXTINF:0 tvg-id="disney" group-title="SD",Disney Channel SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2242
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="SD",Disney Junior SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2245
 #EXTINF:0 tvg-id="disney-xd-blt" group-title="SD",Disney XD SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2101
-
 #EXTINF:0 tvg-id="E.uk" group-title="SD",E! SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2248
 #EXTINF:0 tvg-id="ESPN2.mx" group-title="SD",ESPN2 SD
@@ -307,13 +255,10 @@ http://srv-source.stream:80/toptv/XGmvmQefc3/2257
 http://srv-source.stream:80/toptv/XGmvmQefc3/2251
 #EXTINF:0 tvg-id="Espnextra.br" group-title="SD",ESPN Extra SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2254
-#EXTINF:0 tvg-id="eurochannel" group-title="SD",Eurochannel SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/4143
 #EXTINF:0 tvg-id="fashion" group-title="SD",Fashion TV SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2263
 #EXTINF:0 tvg-id="ext" group-title="SD",Film&Arts SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/4146
-
 #EXTINF:0 tvg-id="food-network-rus" group-title="SD",Food Network SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2269
 #EXTINF:0 tvg-id="FoxSports2.mx" group-title="SD",FOX Sports 2 SD
@@ -328,24 +273,14 @@ http://srv-source.stream:80/toptv/XGmvmQefc3/2293
 http://srv-source.stream:80/toptv/XGmvmQefc3/3706
 #EXTINF:0 tvg-id="GloboBrasilia.br" group-title="SD",Globo Brasilia SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/3767
-
-#EXTINF:0 tvg-id="ext" group-title="SD",Globo Nacional SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/4202
-#EXTINF:0 tvg-id="Globonews.br" group-title="SD",GloboNews SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2296
 #EXTINF:0 tvg-id="Globonordeste.br" group-title="SD",Globo Nordeste SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/3779
-
 #EXTINF:0 tvg-id="Globorj.br" group-title="SD",Globo RJ SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/3788
 #EXTINF:0 tvg-id="Globosp.br" group-title="SD",Globo SP SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/3794
-#EXTINF:0 tvg-id="ext" group-title="SD",Gloobinho SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/3681
 #EXTINF:0 tvg-id="Gloob.br" group-title="SD",Gloob SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2299
-#EXTINF:0 tvg-id="Gnt.br" group-title="SD",GNT SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2302
 #EXTINF:0 tvg-id="ext" group-title="SD",HBO+ SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2323
 #EXTINF:0 tvg-id="ext" group-title="SD",HBO+ SD [LEG]
@@ -354,16 +289,12 @@ http://srv-source.stream:80/toptv/XGmvmQefc3/3724
 http://srv-source.stream:80/toptv/XGmvmQefc3/2326
 #EXTINF:0 tvg-id="Hbofamily.br" group-title="SD",HBO Family SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2305
-#EXTINF:0 tvg-id="Max.br" group-title="SD",HBO MUNDI SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2311
 #EXTINF:0 tvg-id="ext" group-title="SD",HBO MUNDI SD [LEG]
 http://srv-source.stream:80/toptv/XGmvmQefc3/3721
 #EXTINF:0 tvg-id="Maxup.br" group-title="SD",HBO POP SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2314
 #EXTINF:0 tvg-id="ext" group-title="SD",HBO POP SD [LEG]
 http://srv-source.stream:80/toptv/XGmvmQefc3/3727
-#EXTINF:0 tvg-id="HBOAdria.rs" group-title="SD",HBO SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2308
 #EXTINF:0 tvg-id="ext" group-title="SD",HBO SD [LEG]
 http://srv-source.stream:80/toptv/XGmvmQefc3/3718
 #EXTINF:0 tvg-id="HBOSignature.mx" group-title="SD",HBO Signature SD
@@ -386,26 +317,18 @@ http://srv-source.stream:80/toptv/XGmvmQefc3/2338
 http://srv-source.stream:80/toptv/XGmvmQefc3/4252
 #EXTINF:0 tvg-id="Lifetime.uk" group-title="SD",Lifetime SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2341
-#EXTINF:0 tvg-id="ext" group-title="SD",Like SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2344
-#EXTINF:0 tvg-id="ext" group-title="SD",Loading SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/4152
 #EXTINF:0 tvg-id="ext" group-title="SD",Mais na Tela SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2347
 #EXTINF:0 tvg-id="Megapix.br" group-title="SD",Megapix SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2350
 #EXTINF:0 tvg-id="ext" group-title="SD",Megapix SD [LEG]
 http://srv-source.stream:80/toptv/XGmvmQefc3/3736
-#EXTINF:0 tvg-id="mega" group-title="SD",Mega TV SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/4155
 #EXTINF:0 tvg-id="mtvlive-hd" group-title="SD",MTV LIVE SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2356
 #EXTINF:0 tvg-id="ext" group-title="SD",MTVs 00 SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2509
 #EXTINF:0 tvg-id="mtv-rus" group-title="SD",MTV SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2353
-#EXTINF:0 tvg-id="Multishow.br" group-title="SD",Multishow SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2359
 #EXTINF:0 tvg-id="ext" group-title="SD",Music Box Brazil SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2362
 #EXTINF:0 tvg-id="ext" group-title="SD",Nat Geo Kids SD
@@ -414,12 +337,8 @@ http://srv-source.stream:80/toptv/XGmvmQefc3/2365
 http://srv-source.stream:80/toptv/XGmvmQefc3/2368
 #EXTINF:0 tvg-id="natgeo" group-title="SD",National Geographic SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2371
-#EXTINF:0 tvg-id="Nbr.br" group-title="SD",NBR SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2102
-#EXTINF:0 tvg-id="NHK.mx" group-title="SD",NHK SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2103
-#EXTINF:0 tvg-id="nickelodeon-rus" group-title="SD",Nickelodeon SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2377
+
+
 #EXTINF:0 tvg-id="nick-jr" group-title="SD",Nick Jr. SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2374
 #EXTINF:0 tvg-id="Off.br" group-title="SD",OFF SD
@@ -428,154 +347,18 @@ http://srv-source.stream:80/toptv/XGmvmQefc3/2380
 http://srv-source.stream:80/toptv/XGmvmQefc3/2383
 #EXTINF:0 tvg-id="Paramount.es" group-title="SD",Paramount Network SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2386
-#EXTINF:0 tvg-id="playboy" group-title="SD",Playboy SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2389
-
 #EXTINF:0 tvg-id="ext" group-title="SD",Prime Box Brazil SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2413
 #EXTINF:0 tvg-id="RAI.mx" group-title="SD",RAI SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2105
-#EXTINF:0 tvg-id="RecordNews.pt" group-title="SD",Record News SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/4185
-
 #EXTINF:0 tvg-id="ext" group-title="SD",RecordTV SP SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/3829
 #EXTINF:0 tvg-id="ext" group-title="SD",Rede 21 SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/4157
-#EXTINF:0 tvg-id="ext" group-title="SD",RedeTV PR SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/4012
-#EXTINF:0 tvg-id="Redetvsp.br" group-title="SD",RedeTV SP SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/3832
-
-#EXTINF:0 tvg-id="Rit.br" group-title="SD",RIT TV SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2106
-#EXTINF:0 tvg-id="ext" group-title="SD",Sabor & Arte SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/4205
-#EXTINF:0 tvg-id="ext" group-title="SD",SBT PR SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/4181
-#EXTINF:0 tvg-id="Sbt.br" group-title="SD",SBT RJ SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/4193
-#EXTINF:0 tvg-id="Sbtsp.br" group-title="SD",SBT SP SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/3835
-#EXTINF:0 tvg-id="Sextreme.ar" group-title="SD",Sextreme SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2107
-#EXTINF:0 tvg-id="Sexyhot.br" group-title="SD",Sexy Hot SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2108
 #EXTINF:0 tvg-id="Shoptime.br" group-title="SD",Shoptime SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2109
 #EXTINF:0 tvg-id="ext" group-title="SD",Smithsonian SD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2419
-#EXTINF:0 tvg-id="Space.br" group-title="SD",Space SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2422
 #EXTINF:0 tvg-id="ext" group-title="SD",Space SD [LEG]
 http://srv-source.stream:80/toptv/XGmvmQefc3/3739
-#EXTINF:0 tvg-id="Sportv2.br" group-title="SD",SporTV2 SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2428
-#EXTINF:0 tvg-id="Sportv3.br" group-title="SD",SporTV3 SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2431
-#EXTINF:0 tvg-id="Sportv.br" group-title="SD",SporTV SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2425
-#EXTINF:0 tvg-id="otr" group-title="SD",Star Channel SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2272
-#EXTINF:0 tvg-id="ext" group-title="SD",Star Channel SD [LEG]
-http://srv-source.stream:80/toptv/XGmvmQefc3/3709
-#EXTINF:0 tvg-id="ext" group-title="SD",Star Hits 1 SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2278
-#EXTINF:0 tvg-id="ext" group-title="SD",Star Hits 1 SD [LEG]
-http://srv-source.stream:80/toptv/XGmvmQefc3/3712
-#EXTINF:0 tvg-id="ext" group-title="SD",Star Hits 2 SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2281
-#EXTINF:0 tvg-id="ext" group-title="SD",Star Hits 2 SD [LEG]
-http://srv-source.stream:80/toptv/XGmvmQefc3/3715
-#EXTINF:0 tvg-id="StarOne.uk" group-title="SD",Star Life SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2275
-#EXTINF:0 tvg-id="StudioUniversal.it" group-title="SD",Studio Universal SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2434
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="SD",SYFY SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2437
-#EXTINF:0 tvg-id="24dok" group-title="SD",TBS SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2440
-#EXTINF:0 tvg-id="Tcaction.br" group-title="SD",Telecine Action SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2443
-#EXTINF:0 tvg-id="ext" group-title="SD",Telecine Action SD [LEG]
-http://srv-source.stream:80/toptv/XGmvmQefc3/3748
-#EXTINF:0 tvg-id="Tccult.br" group-title="SD",Telecine Cult SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2446
-#EXTINF:0 tvg-id="ext" group-title="SD",Telecine Cult SD [LEG]
-http://srv-source.stream:80/toptv/XGmvmQefc3/3751
-#EXTINF:0 tvg-id="Tcfun.br" group-title="SD",Telecine Fun SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2449
-#EXTINF:0 tvg-id="ext" group-title="SD",Telecine Fun SD [LEG]
-http://srv-source.stream:80/toptv/XGmvmQefc3/3754
-#EXTINF:0 tvg-id="Tcpipoca.br" group-title="SD",Telecine Pipoca SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2452
-#EXTINF:0 tvg-id="ext" group-title="SD",Telecine Pipoca SD [LEG]
-http://srv-source.stream:80/toptv/XGmvmQefc3/3757
-#EXTINF:0 tvg-id="Tcpremium.br" group-title="SD",Telecine Premium SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2455
-#EXTINF:0 tvg-id="ext" group-title="SD",Telecine Premium SD [LEG]
-http://srv-source.stream:80/toptv/XGmvmQefc3/3760
-#EXTINF:0 tvg-id="Tctouch.br" group-title="SD",Telecine Touch SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2458
-#EXTINF:0 tvg-id="ext" group-title="SD",Telecine Touch SD [LEG]
-http://srv-source.stream:80/toptv/XGmvmQefc3/3763
-#EXTINF:0 tvg-id="tlc-russia" group-title="SD",TLC SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2461
-#EXTINF:0 tvg-id="tnt" group-title="SD",TNT SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2464
-#EXTINF:0 tvg-id="ext" group-title="SD",TNT SD [LEG]
-http://srv-source.stream:80/toptv/XGmvmQefc3/3742
-#EXTINF:0 tvg-id="TNTSeries.cl" group-title="SD",TNT Series SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2467
-#EXTINF:0 tvg-id="ext" group-title="SD",TNT Series SD [LEG]
-http://srv-source.stream:80/toptv/XGmvmQefc3/3745
-#EXTINF:0 tvg-id="ext" group-title="SD",Trace Brazuca SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2470
-#EXTINF:0 tvg-id="ext" group-title="SD",Travel Box Brazil SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2473
-#EXTINF:0 tvg-id="TruTV.uk" group-title="SD",TruTV SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/4210
-#EXTINF:0 tvg-id="Tvaparecida.br" group-title="SD",TV Aparecida SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2476
-#EXTINF:0 tvg-id="ext" group-title="SD",TV Brasil 2 SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/4161
-#EXTINF:0 tvg-id="Tvbrasil.br" group-title="SD",TV Brasil SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2110
-#EXTINF:0 tvg-id="Tvbrasil.br" group-title="SD",TV Brasil SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2479
-#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="SD",TV Cancao Nova SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/4133
-#EXTINF:0 tvg-id="ext" group-title="SD",TV Cidade - RECORDTV SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2482
-#EXTINF:0 tvg-id="ext" group-title="SD",TV Diario SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2485
-#EXTINF:0 tvg-id="TVGazeta.br" group-title="SD",TV Gazeta SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/4149
-#EXTINF:0 tvg-id="ext" group-title="SD",TV Jangadeiro - SBT SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2488
-#EXTINF:0 tvg-id="Tvjustica.br" group-title="SD",TV Justica SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2111
-#EXTINF:0 tvg-id="Tvnovotempo.br" group-title="SD",TV Novo Tempo SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2491
-#EXTINF:0 tvg-id="ext" group-title="SD",TV O Povo SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2112
-#EXTINF:0 tvg-id="Tvratimbum.br" group-title="SD",TV Ra Tim Bum SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2497
-#EXTINF:0 tvg-id="Tvsenado.br" group-title="SD",TV Senado SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2113
-#EXTINF:0 tvg-id="TVUniao.br" group-title="SD",TV Uniao SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2500
-#EXTINF:0 tvg-id="ext" group-title="SD",Universal TV SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2506
-#EXTINF:0 tvg-id="VenusTV.uk" group-title="SD",Venus SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2114
-#EXTINF:0 tvg-id="Viva.uk" group-title="SD",Viva SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2512
-#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="SD",Warner Channel SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2515
-#EXTINF:0 tvg-id="ext" group-title="SD",Warner Channel SD [LEG]
-http://srv-source.stream:80/toptv/XGmvmQefc3/3766
-#EXTINF:0 tvg-id="Woohoo.br" group-title="SD",Woohoo SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/2518
-#EXTINF:0 tvg-id="Zoomoo.br" group-title="SD",Zoomoo SD
-http://srv-source.stream:80/toptv/XGmvmQefc3/4164
+
