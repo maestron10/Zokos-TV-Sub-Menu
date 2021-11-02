@@ -5,7 +5,7 @@ http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 21/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 02/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
   
 #EXTM3U
 
@@ -62,20 +62,8 @@ https://000000
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQxNjAyMTNf/DarcizzleOffshore_312x312.png" group-title="Adults Only | 18+",[COLOR=white][B]DARCIZZLE OFFSHORE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://30a-tv.com/feeds/xodglobal/fishingoffshore.m3u8
 
-#EXTINF:-1,[COLOR=white][B]HOT TV PT[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03p
-
-#EXTINF:-1,[COLOR=white][B]PLAYBOY PT[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a06z
-
 #EXTINF:-1 tvg-id="ExtasyTVHD.cz" tvg-name="Extasy TV HD" tvg-country="CZ" tvg-language="Czech" tvg-logo="" tvg-url="" group-title="XXX",[COLOR=white][B]EXTASY TV[/B][/COLOR][COLOR=white][/COLOR]
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-
-#EXTINF:-1,[COLOR=white][B]HOT TV PT[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03p
-
-#EXTINF:0 tvg-id="Hot.pt" group-title="XXX",[COLOR=white][B]HOT[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a03p
 
 #EXTINF:-1,[COLOR=white][B]FILMON EROTIC SENSATIONS[/B][/COLOR][COLOR=white][/COLOR]
 https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
@@ -89,28 +77,7 @@ http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 ,[COLOR=white][B]POV[/B][/COLOR][COLOR=white][/COLOR]
 http://live.redtraffic.xyz/pov.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HUSTLER HD[/B][/COLOR][COLOR=white][/COLOR]
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/1
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BRAZZERS TV[/B][/COLOR][COLOR=white][/COLOR]
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/2
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DORCEL[/B][/COLOR][COLOR=white][/COLOR]
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/3
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BLUE HUSTLER[/B][/COLOR][COLOR=white][/COLOR]
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/4
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PENTHOUSE GOLD[/B][/COLOR][COLOR=white][/COLOR]
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/5
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FRENCH LOVER[/B][/COLOR][COLOR=white][/COLOR]
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/6
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PENTHOUSE PASSION[/B][/COLOR][COLOR=white][/COLOR]
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/7
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BARELY LEGAL[/B][/COLOR][COLOR=white][/COLOR]
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PLAYBOY[/B][/COLOR][COLOR=white][/COLOR]
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/9
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PRIVATE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/10
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]REDLIGHT HD[/B][/COLOR][COLOR=white][/COLOR]
-http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/12
+
 
 #EXTM3U
 
