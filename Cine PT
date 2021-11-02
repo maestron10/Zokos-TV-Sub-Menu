@@ -2,15 +2,12 @@
 #EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////////  FILMES CINE PT E/OU LEG. ///////////////////////[/B][/COLOR]
 http://0.0.0.0:000000
 ####################################################################################################################################
- 
- 
-#EXTINF:-1,[COLOR=yellow][B]FILMES ADICIONADOS: 02/11/2021 [/B][/COLOR][COLOR=yellow][/COLOR]
- 
+  
 #EXTM3U
 
+#EXTINF:-1,[COLOR=yellow][B]FILMES PT OU LEGENDADOS: 02/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
- #EXTINF:-1,[COLOR=yellow][B]FILMES PT OU LEGENDADOS: 02/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
- 
+
 #EXTINF:-1,PT: Cro Minion
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/221889.mp4
 #EXTINF:-1,PT: Cruzeiro Seixas - As Cartas Do Rei Artur
