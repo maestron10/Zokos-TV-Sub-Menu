@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 25/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 04/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ##########################################################################################################################
  
@@ -24,9 +24,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=white][B]NITRO CIRCUS[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]BIKE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/tracks-v2a1/playlist.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="UK",[COLOR=white][B]EDGE SPORTS UK[/B][/COLOR][COLOR=white][/COLOR]
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
@@ -92,8 +89,7 @@ https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=blue][B]ACROBACIAS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1 tvg-id="PeopleareAwesome.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="US Channels",[COLOR=white][B]PEOPLE ARE AWESOME[/B][/COLOR][COLOR=white][/COLOR]
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="CAAJ34000089L" tvg-chno="1181" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/55/CAAJ34000089L_20210525T053257.png" group-title="Canada,[COLOR=white][B]PEOPLE ARE AWESOME[/B][/COLOR][COLOR=white][/COLOR]
 https://c39d19b6c720488ba741c4d6e725ebcd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=386&ads.wurl_name=PeopleAreAwesome&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -102,7 +98,7 @@ https://c39d19b6c720488ba741c4d6e725ebcd.mediatailor.us-east-1.amazonaws.com/v1/
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 #EXTINF:-1,[COLOR=white][B]FAIL ARMY FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://failarmy-linear.vizio.wurl.com/manifest/playlist.
+https://failarmy-linear.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]THE PET COLLECTIVE[/B][/COLOR][COLOR=white][/COLOR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
@@ -120,9 +116,6 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 
 #EXTINF:-1,[COLOR=white][B]ADULT SWIM DREAM CORP. TV[/B][/COLOR][COLOR=white][/COLOR]
 https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
-
-#EXTINF:-1,[COLOR=white][B]RIGHT NOW TV[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn87.theus6tv.tk/cable/rightnowtv.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HIPER TV[/B][/COLOR][COLOR=white][/COLOR]
 https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
@@ -204,9 +197,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e600071
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS MODA E TEMPO[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
- 
-#EXTINF:-1,[COLOR=white][B]THE WEATHER CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn88.theus6tv.tk/united-states/cable/the-weather-channel.m3u8
+
  
 #EXTINF:-1,[COLOR=white][B]WEATHER NATION (USA)[/B][/COLOR][COLOR=white][/COLOR]
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
@@ -242,9 +233,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
 #EXTINF:-1,[COLOR=blue][B]CANAIS PRAIA E NAUTICOS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=white][B]OCEAN TV[/B][/COLOR][COLOR=white][/COLOR]
-http://91.192.168.242:9091
- 
+
 #EXTINF:-1,[COLOR=white][B]THE BEACH TV[/B][/COLOR][COLOR=white][/COLOR]
 https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8
 
@@ -339,9 +328,6 @@ https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURONEWS BR[/B][/COLOR][COLOR=white][/COLOR]
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8 
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BBC NEWS[/B][/COLOR][COLOR=white][/COLOR]
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]REUTERS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
