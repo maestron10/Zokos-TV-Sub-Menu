@@ -203,9 +203,6 @@ https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF TECNHO[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionthree/2/dancetelevisionthree.m3u8
 
-#EXTINF:-1,[COLOR=white][B]TECHNO WAREHOUSE[/B][/COLOR][COLOR=white][/COLOR]
-https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="",[COLOR=white][B]CLUBBING TV[/B][/COLOR][COLOR=white][/COLOR]
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
@@ -259,21 +256,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1,[COLOR=white][B]PORTALFOXMIX[/B][/COLOR][COLOR=white][/COLOR]
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]REWIND TV[/B][/COLOR][COLOR=white][/COLOR]
-https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w590134734.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]VINTAGE MUSIC TV[/B][/COLOR][COLOR=white][/COLOR]
-https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]NOW 70'S[/B][/COLOR][COLOR=white][/COLOR]
-https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]NOW 80'S[/B][/COLOR][COLOR=white][/COLOR]
-https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]NOW 90'S[/B][/COLOR][COLOR=white][/COLOR]
-https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
- 
   
 ######################################################################################
 #EXTINF:-1,[COLOR=blue][B]MÚSICA LATINA[/B][/COLOR][COLOR=blue][/COLOR]
@@ -297,8 +279,6 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]VEVO LATINO[/B][/COLOR][COLOR=white][/COLOR]
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
-#EXTINF:-1,[COLOR=white][B]ZONA LATINA[/B][/COLOR][COLOR=white][/COLOR]
-http://38.131.11.9:1080/play/a00x
 
 ######################################################################################
 #EXTINF:-1,[COLOR=blue][B]OUTROS GÉNEROS[/B][/COLOR][COLOR=blue][/COLOR]
@@ -414,7 +394,7 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTM3U
 
 #############################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA: 23/09/21[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA VERIFICADA: 05/11/21[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
