@@ -13,17 +13,9 @@ http://0.0.0.0:000000
 https://0000000000000000000000
 
 
-#  https://www.youtube.com/watch?v=PCCvAHCX0Ao
-#EXTINF:-1,[COLOR=white][B]ESPINHO - PRAIA DA BAIA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=PCCvAHCX0Ao
-
 #  https://www.youtube.com/watch?v=SyeHtarR6Mg&ab_channel=Playocean
 #EXTINF:-1,[COLOR=white][B]SETUBAL - PRAIA DA FONTE DA TELHA (NORTE)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=SyeHtarR6Mg&ab_channel=Playocean
-
-#  https://www.youtube.com/watch?v=ywTXuxoEoqY&ab_channel=Playocean
-#EXTINF:-1,[COLOR=white][B]SETUBAL - PRAIA DO MECO[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=ywTXuxoEoqY&ab_channel=Playocean
 
 #  https://www.youtube.com/watch?v=DsgBqKj_sto&ab_channel=Playocean
 #EXTINF:-1,[COLOR=white][B]COSTA DA CAPARICA - PRAIA DA SEREIA[/B][/COLOR][COLOR=white][/COLOR]
