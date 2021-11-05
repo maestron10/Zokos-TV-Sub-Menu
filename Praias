@@ -17,6 +17,14 @@ https://0000000000000000000000
 #EXTINF:-1,[COLOR=white][B]SETUBAL - PRAIA DA FONTE DA TELHA (NORTE)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=SyeHtarR6Mg&ab_channel=Playocean
 
+# https://www.youtube.com/watch?v=48ggvEUQqQY&ab_channel=Playocean
+#EXTINF:-1,[COLOR=white][B]SETUBAL - PRAIA DA FONTE DA TELHA (SUL)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=48ggvEUQqQY&ab_channel=Playocean
+
+#  https://www.youtube.com/watch?v=XedQpU0W1bQ&ab_channel=Playocean
+#EXTINF:-1,[COLOR=white][B]SESIMBRA - PRAIA DO MECO (MOÍNHO DE BAIXO)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=XedQpU0W1bQ&ab_channel=Playocean
+
 #  https://www.youtube.com/watch?v=DsgBqKj_sto&ab_channel=Playocean
 #EXTINF:-1,[COLOR=white][B]COSTA DA CAPARICA - PRAIA DA SEREIA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=DsgBqKj_sto&ab_channel=Playocean
