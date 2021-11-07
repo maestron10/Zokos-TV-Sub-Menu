@@ -57,7 +57,6 @@
 </channel>
 
 
-
 <channels>
 <channel>
 <name>[COLOR=gold][B]CANAIS TV BR[/B][/COLOR][COLOR=gold][/COLOR]</name>
@@ -67,7 +66,6 @@
 <info></info>
 </channel>
 </channel>
-
 
  
 <channels>
@@ -79,32 +77,6 @@
 <info></info>
 </channel>
 </channel>
-
-
-
- 
-<channels>
-<channel>
-<name>[COLOR=gold][B]CANAIS TV CINEMA[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
-<externallink>https://iptv-org.github.io/iptv/categories/movies.m3u</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channel>
-
-
-
-<channels>
-<channel>
-<name>[COLOR=gold][B]CANAIS TV SÉRIES[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
-<externallink>https://iptv-org.github.io/iptv/categories/series.m3u</externallink>
-<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
-<info></info>
-</channel>
-</channel>
-
 
   
 <channels>
