@@ -10,6 +10,36 @@ http://0.0.0.0:000000
 #EXTM3U
 
 
+#EXTINF:-1,[COLOR=blue][B]CANAIS YOUTUBE TV[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+
+# https://www.youtube.com/watch?v=ri5MVDeTz68&ab_channel=RaFoSe
+#EXTINF:-1,[COLOR=white][B]CNN INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=ri5MVDeTz68&ab_channel=RaFoSe
+
+
+# https://www.youtube.com/watch?v=JDLrM2RdTlQ&ab_channel=Tryleen
+#EXTINF:-1,[COLOR=white][B]OS SIMPSONS BR LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=JDLrM2RdTlQ&ab_channel=Tryleen
+
+
+# https://www.youtube.com/watch?v=HqqVcLXQTbo&ab_channel=LOUDKami
+#EXTINF:-1,[COLOR=white][B]CANAL GLOBO BR LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=HqqVcLXQTbo&ab_channel=LOUDKami
+
+
+# https://www.youtube.com/watch?v=VOw7bts_rGQ&ab_channel=euronews%28emportugu%C3%AAs%29
+#EXTINF:-1,[COLOR=white][B]EURONEWS PT LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=VOw7bts_rGQ&ab_channel=euronews%28emportugu%C3%AAs%29
+
+
+# https://www.youtube.com/watch?v=DDU-rZs-Ic4&ab_channel=SPACE%28Official%29
+#EXTINF:-1,[COLOR=white][B]NASA - TERRA VISTA DO ESPAÇO LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=DDU-rZs-Ic4&ab_channel=SPACE%28Official%29
+
+
+
 #EXTINF:-1,[COLOR=blue][B]CANAIS DE DESPORTO[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
