@@ -44,6 +44,12 @@ plugin://plugin.video.youtube/play/?video_id=21X5lGlDOfg&ab_channel=NASA
 plugin://plugin.video.youtube/play/?video_id=DDU-rZs-Ic4&ab_channel=SPACE%28Official%29
 
 
+# https://www.youtube.com/watch?v=VH0h4TVwJ24&ab_channel=VaticanNews-Portugu%C3%AAs
+#EXTINF:-1,[COLOR=white][B]VATICANO TV BR[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=VH0h4TVwJ24&ab_channel=VaticanNews-Portugu%C3%AAs
+
+
+
 
 #EXTINF:-1,[COLOR=blue][B]CANAIS DE DESPORTO[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
