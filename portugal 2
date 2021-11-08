@@ -3,38 +3,21 @@
 http://0.0.0.0:0000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 31/10/21[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 08/11/21[/B][/COLOR][COLOR=yellow][/COLOR]
  
 Fonte de Informação: https://discord.com/channels/853410635383177267/877504671743348757/890223023603470399
 LISTA DIÁRIA DO SITE: https://www.player-castv.cf/2021/09/portugal-free-full-multi-iptv-channels.html
  
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="A FAZENDA 13",A FAZENDA 13
-http://newxplusnew2.xyz:2095/live/NEW_LIVE2296018904/5431504928/830.m3u8
-
-#EXTINF:0 tvg-id="AMC.uk" group-title="FILMES & SERIES",AMC HD 
-http://newxplusnew2.xyz:2095/live/NEW_LIVE2296018904/5431504928/229.m3u8
-
-#EXTINF:0 tvg-id="HBO.hu" group-title="FILMES & SERIES",HBO HD 
-http://newxplusnew2.xyz:2095/live/NEW_LIVE2296018904/5431504928/255.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="CANAIS DUAL AUDIO ",HBO DUAL 
-http://newxplusnew2.xyz:2095/live/NEW_LIVE2296018904/5431504928/793.m3u8
-
-#EXTINF:0 tvg-id="animal-hd" group-title="DOCUMENTARIOS",ANIMAL PLANET HD 
-http://newxplusnew2.xyz:2095/live/NEW_LIVE2296018904/5431504928/62.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="INFANTIS",CARTOON NETWORK 4K 
-http://newxplusnew2.xyz:2095/live/NEW_LIVE2296018904/5431504928/346.m3u8
 
 #EXTINF:-1,DISCOVERY CHANNEL HD 
 http://189.91.128.146:4444/udp/227.10.20.80:1234 
 #EXTINF:-1,ESPN BR HD 
 http://189.91.128.146:4444/udp/227.10.20.81:1234 
-#EXTINF:-1,DISC. TURBO HD 
+#EXTINF:-1,DISCOVERY TURBO HD 
 http://189.91.128.146:4444/udp/227.10.20.82:1234 
-#EXTINF:-1,DISC. KIDS 
+#EXTINF:-1,DISCOVERY KIDS 
 http://189.91.128.146:4444/udp/227.10.20.83:1234 
 #EXTINF:-1,TLC 
 http://189.91.128.146:4444/udp/227.10.20.84:1234 
@@ -148,8 +131,6 @@ http://189.91.128.146:4444/udp/227.10.20.138:1234
 http://189.91.128.146:4444/udp/227.10.20.139:1234
 #EXTINF:-1,PMCBR HD 
 http://189.91.128.146:4444/udp/227.10.20.140:1234
-#EXTINF:-1,RADIO SERTANEJA 
-http://189.91.128.146:4444/udp/227.10.20.141:1234 
 #EXTINF:-1,TERRA VIVA 
 http://189.91.128.146:4444/udp/227.10.20.142:1234
 #EXTINF:-1,IDEAL TV HD 
