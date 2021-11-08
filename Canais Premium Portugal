@@ -70,6 +70,16 @@ http://aziptv.live:6969/Hdservers/Valendsuk/1929
 #EXTINF:-1,[COLOR=blue][B]CANAIS INTERNACIONAIS ONDE DÁ FUTEBOL PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
+#EXTINF:-1,[COLOR=white][B]RMC SPORTS 1 FR.[/B][/COLOR][COLOR=white][/COLOR]
+http://winges-4k.com:25461/ABDELAZIZ@REGHID/xtpTttmFlQ/573
+
+#EXTINF:-1,[COLOR=white][B]RMC SPORTS 2 FR.[/B][/COLOR][COLOR=white][/COLOR]
+http://iptv3.kbc.al:25461/Nexhmedinibishi/ZBdmV9k2wo/274
+
+#EXTINF:-1,[COLOR=white][B]RMC SPORTS 3 FR.[/B][/COLOR][COLOR=white][/COLOR]
+http://winges-4k.com:25461/ABDELAZIZ@REGHID/xtpTttmFlQ/574
+
+
 #EXTINF:-1,[COLOR=white][B]ESPN 1 BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.81:1234
 
