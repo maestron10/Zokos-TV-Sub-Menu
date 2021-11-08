@@ -16,11 +16,6 @@ https://000000
 #EXTM3U
 
 
-#  https://www.youtube.com/watch?v=ltu7FcAyJ6s&ab_channel=MTV
-#EXTINF:-1,[COLOR=white][B]MTV LIVE[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=ltu7FcAyJ6s&ab_channel=MTV
-
-
 # https://www.youtube.com/channel/UCalCDSmZAYD73tqVZ4l8yJg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]ASOT TV[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
@@ -32,12 +27,12 @@ plugin://plugin.video.youtube/play/?video_id=DY_rFed96mg&ab_channel=Tomorrowland
 
 
 # https://www.youtube.com/watch?v=N65Jb683pXQ&ab_channel=Spinnin%27Records
-#EXTINF:-1,[COLOR=white][B]SPINNING 24/7 LIVE RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SPINNING RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=N65Jb683pXQ&ab_channel=Spinnin%27Records
 
 
 #  https://www.youtube.com/watch?v=6Irus3d5f0E&ab_channel=MinimalGroup
-#EXTINF:-1,[COLOR=white][B]TECHNO RAVE RADIO 24/7 MIX LIVE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]TECHNO RAVE RADIO MIX[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=6Irus3d5f0E&ab_channel=MinimalGroup
 
 
@@ -114,27 +109,27 @@ plugin://plugin.video.youtube/play/?video_id=3qdEMXmwTkQ&ab_channel=earthTV
 
 
 # https://www.youtube.com/watch?v=AdUw5RdyZxI&ab_channel=EarthCam
-#EXTINF:-1,[COLOR=white][B]EARTH TV - TIMES SQUARE LIVE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]EARTH TV - TIMES SQUARE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=AdUw5RdyZxI&ab_channel=EarthCam
 
 
 # https://www.youtube.com/watch?v=5XFp-YW1Zfo&ab_channel=earthTV
-#EXTINF:-1,[COLOR=white][B]EARTH TV - ALPENLÄNDER ALEMANHA LIVE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]EARTH TV - ALPENLÄNDER ALEMANHA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=5XFp-YW1Zfo&ab_channel=earthTV
 
 
 # https://www.youtube.com/watch?v=YJVjv8qNIDY&ab_channel=earthTV
-#EXTINF:-1,[COLOR=white][B]EARTH TV - AMÉRICA LIVE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]EARTH TV - AMÉRICA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=YJVjv8qNIDY&ab_channel=earthTV
 
 
 # https://www.youtube.com/watch?v=kyZBy84Ct_E&ab_channel=earthTV
-#EXTINF:-1,[COLOR=white][B]EARTH TV - COPACABANA BRASIL LIVE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]EARTH TV - COPACABANA BRASIL[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=kyZBy84Ct_E&ab_channel=earthTV
 
 
 # https://www.youtube.com/watch?v=hrGprEPdjoE&ab_channel=earthTV
-#EXTINF:-1,[COLOR=white][B]EARTH TV - BERLIN ALEMANHA LIVE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]EARTH TV - BERLIN ALEMANHA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=hrGprEPdjoE&ab_channel=earthTV
 
 
@@ -143,10 +138,6 @@ plugin://plugin.video.youtube/play/?video_id=hrGprEPdjoE&ab_channel=earthTV
 #EXTINF:-1,[COLOR=blue][B]///// ESPAÇO INFANTIL - KIDS /////[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-
-# https://www.youtube.com/watch?v=hsd7TCqiHBI&ab_channel=LE1ZIN
-#EXTINF:-1,[COLOR=white][B]OS SIMPSONS BR[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=hsd7TCqiHBI&ab_channel=LE1ZIN
 
 
 # https://www.youtube.com/watch?v=b6sPQ8x3kDs&ab_channel=BobEsponjaemPortugu%C3%AAs
