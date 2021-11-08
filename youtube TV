@@ -42,6 +42,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346
 #EXTINF:-1,[COLOR=blue][B]NOTÍCIAS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
+
+# https://www.youtube.com/watch?v=VOw7bts_rGQ&ab_channel=euronews%28emportugu%C3%AAs%29
+#EXTINF:-1,[COLOR=white][B]EURONEWS PT[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=VOw7bts_rGQ&ab_channel=euronews%28emportugu%C3%AAs%29
+
+
 # https://www.youtube.com/watch?v=ri5MVDeTz68&ab_channel=RaFoSe
 #EXTINF:-1,[COLOR=white][B]CNN INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=ri5MVDeTz68&ab_channel=RaFoSe
@@ -50,11 +56,6 @@ plugin://plugin.video.youtube/play/?video_id=ri5MVDeTz68&ab_channel=RaFoSe
 # https://www.youtube.com/watch?v=HqqVcLXQTbo&ab_channel=LOUDKami
 #EXTINF:-1,[COLOR=white][B]CANAL GLOBO BR[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=HqqVcLXQTbo&ab_channel=LOUDKami
-
-
-# https://www.youtube.com/watch?v=VOw7bts_rGQ&ab_channel=euronews%28emportugu%C3%AAs%29
-#EXTINF:-1,[COLOR=white][B]EURONEWS PT[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=VOw7bts_rGQ&ab_channel=euronews%28emportugu%C3%AAs%29
 
 
 # https://www.youtube.com/watch?v=5xBISTcDIyY&ab_channel=JovemPanNews
@@ -77,8 +78,48 @@ plugin://plugin.video.youtube/play/?video_id=21X5lGlDOfg&ab_channel=NASA
 
 
 # https://www.youtube.com/watch?v=DDU-rZs-Ic4&ab_channel=SPACE%28Official%29
-#EXTINF:-1,[COLOR=white][B]NASA - TERRA VISTA DO ESPAÇO[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]NASA - VISTA DO ESPAÇO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=DDU-rZs-Ic4&ab_channel=SPACE%28Official%29
+
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]EARTH TV E OUTRAS CAM LIVE[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+# https://www.youtube.com/watch?v=4t96znzCcMQ&ab_channel=earthTV
+#EXTINF:-1,[COLOR=white][B]EARTH TV - CAM 1 LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=4t96znzCcMQ&ab_channel=earthTV
+
+
+# https://www.youtube.com/watch?v=3qdEMXmwTkQ&ab_channel=earthTV
+#EXTINF:-1,[COLOR=white][B]EARTH TV - CAM 2 LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=3qdEMXmwTkQ&ab_channel=earthTV
+
+
+# https://www.youtube.com/watch?v=AdUw5RdyZxI&ab_channel=EarthCam
+#EXTINF:-1,[COLOR=white][B]EARTH TV - TIMES SQUARE LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=AdUw5RdyZxI&ab_channel=EarthCam
+
+
+# https://www.youtube.com/watch?v=5XFp-YW1Zfo&ab_channel=earthTV
+#EXTINF:-1,[COLOR=white][B]EARTH TV - ALPENLÄNDER ALEMANHA LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=5XFp-YW1Zfo&ab_channel=earthTV
+
+
+# https://www.youtube.com/watch?v=YJVjv8qNIDY&ab_channel=earthTV
+#EXTINF:-1,[COLOR=white][B]EARTH TV - AMÉRICA LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=YJVjv8qNIDY&ab_channel=earthTV
+
+
+# https://www.youtube.com/watch?v=kyZBy84Ct_E&ab_channel=earthTV
+#EXTINF:-1,[COLOR=white][B]EARTH TV - COPACABANA BRASIL LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=kyZBy84Ct_E&ab_channel=earthTV
+
+
+# https://www.youtube.com/watch?v=hrGprEPdjoE&ab_channel=earthTV
+#EXTINF:-1,[COLOR=white][B]EARTH TV - BERLIN ALEMANHA LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=hrGprEPdjoE&ab_channel=earthTV
 
 
 
