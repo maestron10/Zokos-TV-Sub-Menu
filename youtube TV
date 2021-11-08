@@ -96,7 +96,7 @@ plugin://plugin.video.youtube/play/?video_id=DDU-rZs-Ic4&ab_channel=SPACE%28Offi
 
 
 # https://www.youtube.com/watch?v=nA9UZF-SZoQ&ab_channel=NASA
-#EXTINF:-1,[COLOR=white][B]NASA TV -MEDIA LIVE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]NASA TV - MEDIA LIVE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=nA9UZF-SZoQ&ab_channel=NASA
 
 #######################################################################################################################
