@@ -10,7 +10,7 @@ http://0.0.0.0:00000
 
  
 #######################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]///// MÚSICA /////[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]///// MÚSICA - TV & RÁDIOS /////[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 #EXTM3U
@@ -31,10 +31,28 @@ plugin://plugin.video.youtube/play/?video_id=DY_rFed96mg&ab_channel=Tomorrowland
 plugin://plugin.video.youtube/play/?video_id=N65Jb683pXQ&ab_channel=Spinnin%27Records
 
 
-#  https://www.youtube.com/watch?v=6Irus3d5f0E&ab_channel=MinimalGroup
+# https://www.youtube.com/watch?v=6Irus3d5f0E&ab_channel=MinimalGroup
 #EXTINF:-1,[COLOR=white][B]TECHNO RAVE RADIO MIX[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=6Irus3d5f0E&ab_channel=MinimalGroup
 
+
+# https://www.youtube.com/watch?v=aa5DvK-pOoM&ab_channel=RadioRecord
+#EXTINF:-1,[COLOR=white][B]RECORD DANCE RADIO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=aa5DvK-pOoM&ab_channel=RadioRecord
+
+
+# https://www.youtube.com/watch?v=a6m5HetKn0c&ab_channel=RetroR%C3%A1di%C3%B3
+#EXTINF:-1,[COLOR=white][B]RETRO RÁDIO TV[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=a6m5HetKn0c&ab_channel=RetroR%C3%A1di%C3%B3
+
+#  https://www.youtube.com/watch?v=nV1lL74IBTQ&ab_channel=RGN
+#EXTINF:-1,[COLOR=white][B]ROCK RADIO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=nV1lL74IBTQ&ab_channel=RGN
+
+
+# https://www.youtube.com/watch?v=dyUW_-38fTw&ab_channel=RadioMovimentoPTOn-Line
+#EXTINF:-1,[COLOR=white][B]RÁDIO MOVIMENTO ESTÚDIO PT[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=dyUW_-38fTw&ab_channel=RadioMovimentoPTOn-Line
 
 
 
