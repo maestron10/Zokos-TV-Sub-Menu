@@ -21,10 +21,14 @@ https://000000
 plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
 
 
-#  https://www.youtube.com/watch?v=DY_rFed96mg&ab_channel=Tomorrowland
+# https://www.youtube.com/watch?v=DY_rFed96mg&ab_channel=Tomorrowland
 #EXTINF:-1,[COLOR=white][B]TOMORROLAND RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=DY_rFed96mg&ab_channel=Tomorrowland
 
+
+# https://www.youtube.com/watch?v=N65Jb683pXQ&ab_channel=Spinnin%27Records
+#EXTINF:-1,[COLOR=white][B]SPINNING 24/7 LIVE RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=N65Jb683pXQ&ab_channel=Spinnin%27Records
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]STAND UP COMEDY[/B][/COLOR][COLOR=blue][/COLOR]
@@ -53,6 +57,16 @@ plugin://plugin.video.youtube/play/?video_id=HqqVcLXQTbo&ab_channel=LOUDKami
 plugin://plugin.video.youtube/play/?video_id=VOw7bts_rGQ&ab_channel=euronews%28emportugu%C3%AAs%29
 
 
+# https://www.youtube.com/watch?v=5xBISTcDIyY&ab_channel=JovemPanNews
+#EXTINF:-1,[COLOR=white][B]JOVEM PAN NEWS BR[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=5xBISTcDIyY&ab_channel=JovemPanNews
+
+
+# https://www.youtube.com/watch?v=9Auq9mYxFEE&ab_channel=SkyNews
+#EXTINF:-1,[COLOR=white][B]SKY NEWS TV[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=9Auq9mYxFEE&ab_channel=SkyNews
+
+
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]NASA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
@@ -69,15 +83,29 @@ plugin://plugin.video.youtube/play/?video_id=DDU-rZs-Ic4&ab_channel=SPACE%28Offi
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]DIVERSOS[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]ESPAÇO INFANTIL - KIDS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 
-# https://www.youtube.com/watch?v=JDLrM2RdTlQ&ab_channel=Tryleen
+# https://www.youtube.com/watch?v=sgUx24vQ-xQ&ab_channel=%F0%9D%99%8D%F0%9D%99%85%F0%9D%99%89%F0%9D%99%8A%F0%9D%99%88A%F0%9D%99%93%F0%9D%99%84%F0%9D%99%88%F0%9D%99%8A%CF%9F
 #EXTINF:-1,[COLOR=white][B]OS SIMPSONS BR[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=JDLrM2RdTlQ&ab_channel=Tryleen
+plugin://plugin.video.youtube/play/?video_id=sgUx24vQ-xQ&ab_channel=%F0%9D%99%8D%F0%9D%99%85%F0%9D%99%89%F0%9D%99%8A%F0%9D%99%88A%F0%9D%99%93%F0%9D%99%84%F0%9D%99%88%F0%9D%99%8A%CF%9F
 
+
+# https://www.youtube.com/watch?v=b6sPQ8x3kDs&ab_channel=BobEsponjaemPortugu%C3%AAs
+#EXTINF:-1,[COLOR=white][B]BOB ESPONJA BR[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=b6sPQ8x3kDs&ab_channel=BobEsponjaemPortugu%C3%AAs
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]DIVERSOS[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
 
 # https://www.youtube.com/watch?v=VH0h4TVwJ24&ab_channel=VaticanNews-Portugu%C3%AAs
 #EXTINF:-1,[COLOR=white][B]VATICANO TV BR[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=VH0h4TVwJ24&ab_channel=VaticanNews-Portugu%C3%AAs
+
+
+
+
+
