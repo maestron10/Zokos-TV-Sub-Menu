@@ -22,6 +22,8 @@ http://45.153.35.221:8000/play/533
 http://45.153.35.221:8000/play/067
 #EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.153.35.221:8000/play/066
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://93.152.174.144:4000/play/sporttv1/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.153.35.221:8000/play/069
 #EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
