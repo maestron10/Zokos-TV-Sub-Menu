@@ -96,12 +96,6 @@ https://iptv-all.lanesh4d0w.codes/portugal/tvi24
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL TV",[COLOR=white][B]TVI FICÇÃO[/B][/COLOR][COLOR=white][/COLOR]
 http://usa2.iptvteam.org:8000/live/picamiolos8/picamiolos8/642.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL TV",[COLOR=white][B]SPORT TV +[/B][/COLOR][COLOR=white][/COLOR]
-http://usa2.iptvteam.org:8000/live/picamiolos8/picamiolos8/234.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL TV",[COLOR=white][B]ELEVEN SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
-http://usa2.iptvteam.org:8000/live/picamiolos8/picamiolos8/545.m3u8
-
 #EXTINF:0 tvg-id="hollywood" group-title="PORTUGAL TV",[COLOR=white][B]HOLLYWOOD[/B][/COLOR][COLOR=white][/COLOR]
 http://usa2.iptvteam.org:8000/live/picamiolos8/picamiolos8/182.m3u8
 
