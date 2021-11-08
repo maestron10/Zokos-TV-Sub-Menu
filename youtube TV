@@ -16,19 +16,32 @@ https://000000
 #EXTM3U
 
 
+#  https://www.youtube.com/watch?v=ltu7FcAyJ6s&ab_channel=MTV
+#EXTINF:-1,[COLOR=white][B]MTV LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=ltu7FcAyJ6s&ab_channel=MTV
+
+
 # https://www.youtube.com/channel/UCalCDSmZAYD73tqVZ4l8yJg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]ASOT TV[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
 
 
 # https://www.youtube.com/watch?v=DY_rFed96mg&ab_channel=Tomorrowland
-#EXTINF:-1,[COLOR=white][B]TOMORROLAND RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]TOMORROWLAND RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=DY_rFed96mg&ab_channel=Tomorrowland
 
 
 # https://www.youtube.com/watch?v=N65Jb683pXQ&ab_channel=Spinnin%27Records
 #EXTINF:-1,[COLOR=white][B]SPINNING 24/7 LIVE RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=N65Jb683pXQ&ab_channel=Spinnin%27Records
+
+
+#  https://www.youtube.com/watch?v=6Irus3d5f0E&ab_channel=MinimalGroup
+#EXTINF:-1,[COLOR=white][B]TECHNO RAVE RADIO 24/7 MIX LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=6Irus3d5f0E&ab_channel=MinimalGroup
+
+
+
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]////// STAND UP COMEDY /////[/B][/COLOR][COLOR=blue][/COLOR]
@@ -72,7 +85,7 @@ plugin://plugin.video.youtube/play/?video_id=9Auq9mYxFEE&ab_channel=SkyNews
 #EXTINF:-1,[COLOR=blue][B]///// NASA /////[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#  https://www.youtube.com/watch?v=21X5lGlDOfg&ab_channel=NASA
+# https://www.youtube.com/watch?v=21X5lGlDOfg&ab_channel=NASA
 #EXTINF:-1,[COLOR=white][B]NASA TV[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=21X5lGlDOfg&ab_channel=NASA
 
@@ -82,9 +95,12 @@ plugin://plugin.video.youtube/play/?video_id=21X5lGlDOfg&ab_channel=NASA
 plugin://plugin.video.youtube/play/?video_id=DDU-rZs-Ic4&ab_channel=SPACE%28Official%29
 
 
+# https://www.youtube.com/watch?v=nA9UZF-SZoQ&ab_channel=NASA
+#EXTINF:-1,[COLOR=white][B]NASA TV -MEDIA LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=nA9UZF-SZoQ&ab_channel=NASA
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]///// EARTH TV E OUTRAS CAM LIVE /////[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]///// EARTH TV E OUTRAS LIVE CAM /////[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 # https://www.youtube.com/watch?v=4t96znzCcMQ&ab_channel=earthTV
@@ -128,15 +144,24 @@ plugin://plugin.video.youtube/play/?video_id=hrGprEPdjoE&ab_channel=earthTV
 https://000000
 
 
-# https://www.youtube.com/watch?v=sgUx24vQ-xQ&ab_channel=%F0%9D%99%8D%F0%9D%99%85%F0%9D%99%89%F0%9D%99%8A%F0%9D%99%88A%F0%9D%99%93%F0%9D%99%84%F0%9D%99%88%F0%9D%99%8A%CF%9F
+# https://www.youtube.com/watch?v=hsd7TCqiHBI&ab_channel=LE1ZIN
 #EXTINF:-1,[COLOR=white][B]OS SIMPSONS BR[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=sgUx24vQ-xQ&ab_channel=%F0%9D%99%8D%F0%9D%99%85%F0%9D%99%89%F0%9D%99%8A%F0%9D%99%88A%F0%9D%99%93%F0%9D%99%84%F0%9D%99%88%F0%9D%99%8A%CF%9F
+plugin://plugin.video.youtube/play/?video_id=hsd7TCqiHBI&ab_channel=LE1ZIN
 
 
 # https://www.youtube.com/watch?v=b6sPQ8x3kDs&ab_channel=BobEsponjaemPortugu%C3%AAs
 #EXTINF:-1,[COLOR=white][B]BOB ESPONJA BR[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=b6sPQ8x3kDs&ab_channel=BobEsponjaemPortugu%C3%AAs
 
+
+# https://www.youtube.com/watch?v=Dm4SC7PM2hg&ab_channel=WBKids
+#EXTINF:-1,[COLOR=white][B]WARNER BROS ENG[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=Dm4SC7PM2hg&ab_channel=WBKids
+
+
+# https://www.youtube.com/watch?v=SMuoQTsYZuw&ab_channel=TVOkidsPawPatrol
+#EXTINF:-1,[COLOR=white][B]PATRULHA PATA ENG[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=SMuoQTsYZuw&ab_channel=TVOkidsPawPatrol
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]///// DIVERSOS /////[/B][/COLOR][COLOR=blue][/COLOR]
