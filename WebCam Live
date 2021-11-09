@@ -44,7 +44,7 @@ plugin://plugin.video.youtube/play/?video_id=G6_JuBzlhTY&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA CALHETA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=UJQd9RckYwc&ab_channel=Madeira-Web
 
-#  https://www.youtube.com/watch?v=UUZME5QX6x0&ab_channel=Madeira-Web
+# https://www.youtube.com/watch?v=UUZME5QX6x0&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - CAMARA DE LOBOS[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=UUZME5QX6x0
 
@@ -53,6 +53,31 @@ plugin://plugin.video.youtube/play/?video_id=UUZME5QX6x0
 #EXTINF:-1,[COLOR=blue][B]WEBCAM TESTES[/B][/COLOR][COLOR=blue][/COLOR]
 https://00000000
 
+
+#EXTINF:-1,[COLOR=white][B]BRASIL - PRAIA TAPERAPUAN[/B][/COLOR][COLOR=white][/COLOR]
+https://hd-auth.skylinewebcams.com/live.m3u8?a=mql1ud2oift1e2ooq4728an7a6
+
+#EXTINF:-1,[COLOR=white][B]BRASIL - BALNEÁRIO CAMBORIU[/B][/COLOR][COLOR=white][/COLOR]
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20007.stream/chunklist_w47385935.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRASIL - ITAJAÍ PORT CAM[/B][/COLOR][COLOR=white][/COLOR]
+https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2005.stream/chunklist_w1250523850.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRASIL - MOLHE DA BARRA SUL[/B][/COLOR][COLOR=white][/COLOR]
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20008.stream/chunklist_w374406763.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRASIL - AV. ATLÂNTICA[/B][/COLOR][COLOR=white][/COLOR]
+https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2002.stream/chunklist_w113295286.m3u8
+
+# https://www.youtube.com/watch?v=if91GyWP3zQ&ab_channel=FourSeasonsBuenosAires
+#EXTINF:-1,[COLOR=white][B]ARGENTINA - AV. 9 DE JULHO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=if91GyWP3zQ&ab_channel=FourSeasonsBuenosAires
+
+#EXTINF:-1,[COLOR=white][B]ARUBA - BUCUTI BEACH CAM[/B][/COLOR][COLOR=white][/COLOR]
+https://videos-3.earthcam.com/fecnetwork/4646.flv/playlist.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwBEv8HGaLmxs5qEzp2JOofwZZ4hONIlhkgfNt5zHeM%2B%2B
+
+#EXTINF:-1,[COLOR=white][B]BERMUDAS - PENBROKE[B][/COLOR][COLOR=white][/COLOR]
+https://videos-3.earthcam.com/fecnetwork/8174.flv/playlist.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwLjwII8qXqobOGUoAodkVO%2BKibLS9sP69DUbjjEUFgsV
 
 #EXTINF:-1,[COLOR=white][B]ILHAS CANÁRIAS - PORTO DE LAS NIEVES AGAETE[/B][/COLOR][COLOR=white][/COLOR]
 https://camserver.agaete.net:8443/agaetepuerto/agaetepuerto/index.m3u8
