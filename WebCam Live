@@ -84,6 +84,9 @@ plugin://plugin.video.youtube/play/?video_id=fwddN7aCpg4&ab_channel=azeLivecam%E
 #EXTINF:-1,[COLOR=white][B]BULGÁRIA - BURGAS CENTER[/B][/COLOR][COLOR=white][/COLOR]
 https://frn.rtsp.me/EE9P9KYidwjfYSBiyYVxww/1636576257/hls/yDrH3iEn.m3u8?ip=188.80.165.183
 
+#EXTINF:-1,[COLOR=white][B]CARAÍBAS - CURACAO[/B][/COLOR][COLOR=white][/COLOR]
+https://5f27cc8163c2e.streamlock.net/498/498.stream/chunklist_w327678117_tkd293emF0b2tlbmhhc2g9Uk8xZHItbHZucGxnaTREZlpMbVN6S3JzUE5IODBzOS16eUpWR0hlMjZ2MD0md293emF0b2tlbmVuZHRpbWU9MTYzNjQ5MDA1NyZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzY0ODY0NTc=.m3u8
+
 #EXTINF:-1,[COLOR=white][B]ILHAS CAIMÃO - PRAIA SEVEN MILE CAM 1[/B][/COLOR][COLOR=white][/COLOR]
 https://s19.ipcamlive.com/streams/13rgo7lxfqaip5rxw/stream.m3u8
 
