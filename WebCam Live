@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  CÂMARAS PT & MUNDIAIS AO VIVO  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:0000
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 27/10/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 09/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 ####################################################################################################################################
 
 Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
@@ -60,17 +60,11 @@ https://camserver.agaete.net:8443/agaetepuerto/agaetepuerto/index.m3u8
 #EXTINF:-1,[COLOR=white][B]USA - MYRTLE BEACH[/B][/COLOR][COLOR=white][/COLOR]
 https://5ed7b8fd7bf40.streamlock.net:444/northbeachplantation/northbeach/chunklist_w1410368773.m3u8
 
-#EXTINF:-1,[COLOR=white][B]ESPANHA - PRAIA BENIDORM[/B][/COLOR][COLOR=white][/COLOR]
-https://s44.ipcamlive.com/streams/2cl4taheojrly3m56/stream.m3u8
-
 #EXTINF:-1,[COLOR=white][B]UK - WEYMOUTH BEACH[/B][/COLOR][COLOR=white][/COLOR]
 https://camsecure.uk/HLS/bayv.m3u8
 
-#EXTINF:-1,[COLOR=white][B]BRASIL COPACABANA SKYLINE[/B][/COLOR][COLOR=white][/COLOR]
-https://hd-auth.skylinewebcams.com/live.m3u8?a=kdno0kqmrhpt7tkh9f8a79kiv1
-
 #   https://www.youtube.com/watch?v=kyZBy84Ct_E&ab_channel=earthTV
-#EXTINF:-1,[COLOR=white][B]BRASIL - LIVE COPACABANA EARTHCAM[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]BRASIL - PRAIA COPACABANA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=kyZBy84Ct_E&ab_channel=earthTV
 
 #EXTINF:-1,[COLOR=white][B]BRASIL ILHA DAS CABRAS[/B][/COLOR][COLOR=white][/COLOR]
@@ -196,13 +190,16 @@ https://000000
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TkRgd7B.png" group-title="GERMANY",[COLOR=white][B]ALEMANHA - BREMEN[/B][/COLOR][COLOR=white][/COLOR]
 http://217.91.208.210:80/mjpg/video.mjpg
+
 #EXTINF:-1 ,[COLOR=white][B]ALEMANHA - BINZ[/B][/COLOR][COLOR=white][/COLOR]
 http://cam01.binz-kabel.de/cam1/960.m3u8
+
 #EXTINF:-1 ,[COLOR=white][B]ALEMANHA - DUSSELDORF CAM 1[/B][/COLOR][COLOR=white][/COLOR]
 http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-mp/playlist.m3u8
 
 #EXTINF:-1 ,[COLOR=white][B]ALEMANHA - DUSSELDORF CAM 3[/B][/COLOR][COLOR=white][/COLOR]
 http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-ru/playlist.m3u8
+
 #EXTINF:-1 ,[COLOR=white][B]ALEMANHA - DUSSELDORF CAM 4[/B][/COLOR][COLOR=white][/COLOR]
 http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-bp/playlist.m3u8
 
@@ -239,8 +236,7 @@ http://hoktastream2.webcamera.pl/karpacz_cam_ab594f/karpacz_cam_ab594f.stream/pl
 http://hoktastream4.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]POLONIA - KRUPOWKI[/B][/COLOR][COLOR=white][/COLOR]
 https://hoktastream4.webcamera.pl/zakopane_cam_cd5b2d_reklamy/zakopane_cam_cd5b2d.stream/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]POLONIA - LIPOWA[/B][/COLOR][COLOR=white][/COLOR]
-http://91.224.104.112:8181/lipowa/index.m3u8
+
 
 
 ####################################################################################################################################
