@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA VERIFICADA: 04/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA VERIFICADA: 10/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 
 #EXTM3U
@@ -14,47 +14,16 @@ Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 https://00000000000
 
 
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV +[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/532
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV +[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/533
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/067
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/066
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://93.152.174.144:4000/play/sporttv1/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/069
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/068
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/071
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/070
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/208
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://45.153.35.221:8000/play/207
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/209
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/210
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/211
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/212
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/331
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/330
- 
+#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://00000000000000000000000000
  
 #EXTINF:-1,[COLOR=blue][B]LINKS SPORT TV PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://00000000000
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv1.png" group-title="Sport Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1925
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://93.152.174.144:4000/play/sporttv1/index.m3u8
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://93.152.174.144:4000/play/sporttv1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/12/sport-tv2.png" group-title="Sport Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -70,8 +39,6 @@ http://aziptv.live:6969/Hdservers/Valendsuk/1929
 #EXTINF:-1,[COLOR=blue][B]CANAIS INTERNACIONAIS ONDE DÁ FUTEBOL PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=white][B]RMC SPORTS 1 FR.[/B][/COLOR][COLOR=white][/COLOR]
-http://winges-4k.com:25461/ABDELAZIZ@REGHID/xtpTttmFlQ/573
 
 #EXTINF:-1,[COLOR=white][B]RMC SPORTS 2 FR.[/B][/COLOR][COLOR=white][/COLOR]
 http://iptv3.kbc.al:25461/Nexhmedinibishi/ZBdmV9k2wo/274
@@ -79,31 +46,19 @@ http://iptv3.kbc.al:25461/Nexhmedinibishi/ZBdmV9k2wo/274
 #EXTINF:-1,[COLOR=white][B]RMC SPORTS 3 FR.[/B][/COLOR][COLOR=white][/COLOR]
 http://winges-4k.com:25461/ABDELAZIZ@REGHID/xtpTttmFlQ/574
 
-
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 POL.[/B][/COLOR][COLOR=white][/COLOR]
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 POL.[/B][/COLOR][COLOR=white][/COLOR]
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1,[COLOR=white][B]ESPN 1 BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.81:1234
-
-#EXTINF:-1,[COLOR=white][B]ESPN BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://srv-source.stream:80/toptv/XGmvmQefc3/2553
-
-#EXTINF:-1,[COLOR=white][B]ESPN EXTRA BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://srv-source.stream:80/toptv/XGmvmQefc3/2554
 
 #EXTINF:-1,[COLOR=white][B]ESPN 1 BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.128:1234
 
-#EXTINF:-1,[COLOR=white][B]ESPN 2 BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://srv-source.stream:80/toptv/XGmvmQefc3/2258
 
-#EXTINF:-1,[COLOR=white][B]ESPN 2 BR. FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://srv-source.stream:80/toptv/XGmvmQefc3/2556
 
 
 ##################################  BENFICA TV   ###########################################################################
@@ -114,10 +69,9 @@ http://srv-source.stream:80/toptv/XGmvmQefc3/2556
 https://000000
 
 
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/044
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/045
+#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://0000000000000000000000000
+
 
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -128,34 +82,9 @@ http://45.153.35.221:8000/play/045
 https://000000
 
 
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/318
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/315
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/310
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/054
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/049
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/055
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/052
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/051
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/319
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://45.153.35.221:8000/play/316
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL", [COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/320
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL", [COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/317
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/056
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/053
+#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://0000000000000000000000000
+
 
 
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
@@ -164,23 +93,7 @@ http://45.153.35.221:8000/play/053
 #EXTINF:-1,[COLOR=blue][B]CANAIS PREMIUM CINEMA PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://0000000
 
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/424
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://45.153.35.221:8000/play/427
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/335
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/337
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/336
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/338
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/426
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.221:8000/play/428
-
-
+#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://0000000000000000000000000000
 
 
