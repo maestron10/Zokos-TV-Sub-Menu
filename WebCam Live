@@ -87,71 +87,6 @@ plugin://plugin.video.youtube/play/?video_id=UJQd9RckYwc&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - CAMARA DE LOBOS[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=UUZME5QX6x0
 
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]WEBCAM TESTES[/B][/COLOR][COLOR=blue][/COLOR]
-https://00000000
-
-
-#EXTINF:-1,[COLOR=white][B]BRASIL - PRAIA TAPERAPUAN[/B][/COLOR][COLOR=white][/COLOR]
-https://hd-auth.skylinewebcams.com/live.m3u8?a=mql1ud2oift1e2ooq4728an7a6
-
-#EXTINF:-1,[COLOR=white][B]BRASIL - BALNEÁRIO CAMBORIU[/B][/COLOR][COLOR=white][/COLOR]
-https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20007.stream/chunklist_w47385935.m3u8
-
-#EXTINF:-1,[COLOR=white][B]BRASIL - ITAJAÍ PORT CAM[/B][/COLOR][COLOR=white][/COLOR]
-https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2005.stream/chunklist_w1250523850.m3u8
-
-#EXTINF:-1,[COLOR=white][B]BRASIL - MOLHE DA BARRA SUL[/B][/COLOR][COLOR=white][/COLOR]
-https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20008.stream/chunklist_w374406763.m3u8
-
-#EXTINF:-1,[COLOR=white][B]BRASIL - AV. ATLÂNTICA[/B][/COLOR][COLOR=white][/COLOR]
-https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2002.stream/chunklist_w113295286.m3u8
-
-# https://www.youtube.com/watch?v=eatQkDP2Oj0&ab_channel=AmzLive
-#EXTINF:-1,[COLOR=white][B]BRASIL - MANAUS PONTA NEGRA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=eatQkDP2Oj0&ab_channel=AmzLive
-
-# https://www.youtube.com/watch?v=if91GyWP3zQ&ab_channel=FourSeasonsBuenosAires
-#EXTINF:-1,[COLOR=white][B]ARGENTINA - AV. 9 DE JULHO[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=if91GyWP3zQ&ab_channel=FourSeasonsBuenosAires
-
-# https://www.youtube.com/watch?v=fwddN7aCpg4&ab_channel=azeLivecam%E2%80%A2Subscribe
-#EXTINF:-1,[COLOR=white][B]ARUBA - PRAIA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=fwddN7aCpg4&ab_channel=azeLivecam%E2%80%A2Subscribe
-
-#EXTINF:-1,[COLOR=white][B]BULGÁRIA - BURGAS CENTER[/B][/COLOR][COLOR=white][/COLOR]
-https://frn.rtsp.me/EE9P9KYidwjfYSBiyYVxww/1636576257/hls/yDrH3iEn.m3u8?ip=188.80.165.183
-
-#EXTINF:-1,[COLOR=white][B]CARAÍBAS - CURACAO[/B][/COLOR][COLOR=white][/COLOR]
-https://5f27cc8163c2e.streamlock.net/498/498.stream/chunklist_w327678117_tkd293emF0b2tlbmhhc2g9Uk8xZHItbHZucGxnaTREZlpMbVN6S3JzUE5IODBzOS16eUpWR0hlMjZ2MD0md293emF0b2tlbmVuZHRpbWU9MTYzNjQ5MDA1NyZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzY0ODY0NTc=.m3u8
-
-#EXTINF:-1,[COLOR=white][B]ILHAS CAIMÃO - PRAIA SEVEN MILE CAM 1[/B][/COLOR][COLOR=white][/COLOR]
-https://s19.ipcamlive.com/streams/13rgo7lxfqaip5rxw/stream.m3u8
-
-#EXTINF:-1,[COLOR=white][B]ILHAS CAIMÃO - PRAIA SEVEN MILE CAM 2[/B][/COLOR][COLOR=white][/COLOR]
-https://s12.ipcamlive.com/streams/0ctepxpau3g0ylzkn/stream.m3u8
-
-# https://www.youtube.com/watch?v=CUyy8rBnuzY&ab_channel=JosephShenouda
-#EXTINF:-1,[COLOR=white][B]USA - LAS VEGAS CAM[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=CUyy8rBnuzY&ab_channel=JosephShenouda
-
-#EXTINF:-1,[COLOR=white][B]ILHAS CANÁRIAS - PORTO DE LAS NIEVES AGAETE[/B][/COLOR][COLOR=white][/COLOR]
-https://camserver.agaete.net:8443/agaetepuerto/agaetepuerto/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]USA - MYRTLE BEACH[/B][/COLOR][COLOR=white][/COLOR]
-https://5ed7b8fd7bf40.streamlock.net:444/northbeachplantation/northbeach/chunklist_w1410368773.m3u8
-
-#EXTINF:-1,[COLOR=white][B]UK - WEYMOUTH BEACH[/B][/COLOR][COLOR=white][/COLOR]
-https://camsecure.uk/HLS/bayv.m3u8
-
-#   https://www.youtube.com/watch?v=kyZBy84Ct_E&ab_channel=earthTV
-#EXTINF:-1,[COLOR=white][B]BRASIL - PRAIA COPACABANA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=kyZBy84Ct_E&ab_channel=earthTV
-
-#EXTINF:-1,[COLOR=white][B]BRASIL ILHA DAS CABRAS[/B][/COLOR][COLOR=white][/COLOR]
-https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2009.stream/chunklist_w727613944.m3u8
-
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]ANIMAIS - DIVERSOS ZOOS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
@@ -192,6 +127,29 @@ plugin://plugin.video.youtube/play/?video_id=oPGH65HrseA&ab_channel=AqualinkHawa
 #EXTINF:-1,[COLOR=blue][B]DIVERSOS PAÍSES & PAISAGENS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
+
+# https://www.youtube.com/watch?v=if91GyWP3zQ&ab_channel=FourSeasonsBuenosAires
+#EXTINF:-1,[COLOR=white][B]ARGENTINA - AV. 9 DE JULHO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=if91GyWP3zQ&ab_channel=FourSeasonsBuenosAires
+
+# https://www.youtube.com/watch?v=fwddN7aCpg4&ab_channel=azeLivecam%E2%80%A2Subscribe
+#EXTINF:-1,[COLOR=white][B]ARUBA - PRAIA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=fwddN7aCpg4&ab_channel=azeLivecam%E2%80%A2Subscribe
+
+#EXTINF:-1,[COLOR=white][B]BULGÁRIA - BURGAS CENTER[/B][/COLOR][COLOR=white][/COLOR]
+https://frn.rtsp.me/EE9P9KYidwjfYSBiyYVxww/1636576257/hls/yDrH3iEn.m3u8?ip=188.80.165.183
+
+#EXTINF:-1,[COLOR=white][B]CARAÍBAS - CURACAO[/B][/COLOR][COLOR=white][/COLOR]
+https://5f27cc8163c2e.streamlock.net/498/498.stream/chunklist_w327678117_tkd293emF0b2tlbmhhc2g9Uk8xZHItbHZucGxnaTREZlpMbVN6S3JzUE5IODBzOS16eUpWR0hlMjZ2MD0md293emF0b2tlbmVuZHRpbWU9MTYzNjQ5MDA1NyZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzY0ODY0NTc=.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ILHAS CAIMÃO - PRAIA SEVEN MILE CAM 1[/B][/COLOR][COLOR=white][/COLOR]
+https://s19.ipcamlive.com/streams/13rgo7lxfqaip5rxw/stream.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ILHAS CAIMÃO - PRAIA SEVEN MILE CAM 2[/B][/COLOR][COLOR=white][/COLOR]
+https://s12.ipcamlive.com/streams/0ctepxpau3g0ylzkn/stream.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ILHAS CANÁRIAS - PORTO DE LAS NIEVES AGAETE[/B][/COLOR][COLOR=white][/COLOR]
+https://camserver.agaete.net:8443/agaetepuerto/agaetepuerto/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]ESLOVÁQUIA - TATRALANDIA AQUAPARK[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w1002298432.m3u8
@@ -246,7 +204,31 @@ https://cdn.jmvstream.com/w/IPC-7040/camera.stream/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]BRASIL - PRAIA DA TIJUCA[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist.m3u8
 
+#EXTINF:-1,[COLOR=white][B]BRASIL - PRAIA TAPERAPUAN[/B][/COLOR][COLOR=white][/COLOR]
+https://hd-auth.skylinewebcams.com/live.m3u8?a=mql1ud2oift1e2ooq4728an7a6
 
+#EXTINF:-1,[COLOR=white][B]BRASIL - BALNEÁRIO CAMBORIU[/B][/COLOR][COLOR=white][/COLOR]
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20007.stream/chunklist_w47385935.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRASIL - ITAJAÍ PORT CAM[/B][/COLOR][COLOR=white][/COLOR]
+https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2005.stream/chunklist_w1250523850.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRASIL - MOLHE DA BARRA SUL[/B][/COLOR][COLOR=white][/COLOR]
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20008.stream/chunklist_w374406763.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRASIL - AV. ATLÂNTICA[/B][/COLOR][COLOR=white][/COLOR]
+https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2002.stream/chunklist_w113295286.m3u8
+
+# https://www.youtube.com/watch?v=eatQkDP2Oj0&ab_channel=AmzLive
+#EXTINF:-1,[COLOR=white][B]BRASIL - MANAUS PONTA NEGRA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=eatQkDP2Oj0&ab_channel=AmzLive
+
+#   https://www.youtube.com/watch?v=kyZBy84Ct_E&ab_channel=earthTV
+#EXTINF:-1,[COLOR=white][B]BRASIL - PRAIA COPACABANA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=kyZBy84Ct_E&ab_channel=earthTV
+
+#EXTINF:-1,[COLOR=white][B]BRASIL ILHA DAS CABRAS[/B][/COLOR][COLOR=white][/COLOR]
+https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2009.stream/chunklist_w727613944.m3u8
 
 
 ####################################################################################################################################
@@ -332,6 +314,8 @@ http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/playlis
 #EXTINF:-1,[COLOR=blue][B]REINO UNIDO[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
+#EXTINF:-1,[COLOR=white][B]UK - WEYMOUTH BEACH[/B][/COLOR][COLOR=white][/COLOR]
+https://camsecure.uk/HLS/bayv.m3u8
 
 #EXTINF:-1,[COLOR=white][B]UK, RESOURT ILFRACOMBE[/B][/COLOR][COLOR=white][/COLOR]
 http://camsecure.co/HLS/ilfracombe2.m3u8
@@ -361,6 +345,9 @@ http://stream.wildlifestreaming.io:1935/Marwell/marwell_penguin.stream/playlist.
 #EXTINF:-1,[COLOR=blue][B]ESTADOS UNIDOS AMÉRICA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
+# https://www.youtube.com/watch?v=CUyy8rBnuzY&ab_channel=JosephShenouda
+#EXTINF:-1,[COLOR=white][B]USA - LAS VEGAS CAM[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=CUyy8rBnuzY&ab_channel=JosephShenouda
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",[COLOR=white][B]HERNDON - VIRGINIA MIDWAY HOME SERVICE[/B][/COLOR][COLOR=white][/COLOR]
 http://71.41.73.146:80/mjpg/video.mjpg
@@ -398,10 +385,12 @@ http://cams.lasvegas.net:1935/live/LVNetOrleansDown.stream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]USA - MINNESOTA[/B][/COLOR][COLOR=white][/COLOR]
 https://55507e0501d25.streamlock.net/live/spiritmtn.stream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]USA - MYRTLE BEACH CAM 1[/B][/COLOR][COLOR=white][/COLOR]
-https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-beach.stream/playlist.m3u8
+https://5ed7b8fd7bf40.streamlock.net:444/northbeachplantation/northbeach/chunklist_w1410368773.m3u8
 #EXTINF:-1,[COLOR=white][B]USA - MYRTLE BEACH CAM 2[/B][/COLOR][COLOR=white][/COLOR]
-https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-volleyball.stream/playlist.m3u8
+https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-beach.stream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]USA - MYRTLE BEACH CAM 3[/B][/COLOR][COLOR=white][/COLOR]
+https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-volleyball.stream/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]USA - MYRTLE BEACH CAM 4[/B][/COLOR][COLOR=white][/COLOR]
 https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-blvd.stream/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]USA - SCHOONERS BEACH CAM 1[/B][/COLOR][COLOR=white][/COLOR]
