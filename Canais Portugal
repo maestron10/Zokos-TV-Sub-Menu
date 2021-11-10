@@ -40,6 +40,9 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 #EXTINF:-1,[COLOR=white][B]MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
 http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="PORTUGAL",[COLOR=white][B]CANAL MACAU[/B][/COLOR][COLOR=white][/COLOR]
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
  
 #EXTINF:-1,[COLOR=white][B]MOÇAMBIQUE TV[/B][/COLOR][COLOR=white][/COLOR]
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
@@ -118,11 +121,17 @@ http://usa2.iptvteam.org:8000/live/picamiolos8/picamiolos8/182.m3u8
 #EXTINF:-1,[COLOR=white][B]CANAL PARLAMENTO[/B][/COLOR][COLOR=white][/COLOR]
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="PORTUGAL",[COLOR=white][B]CANAL MACAU[/B][/COLOR][COLOR=white][/COLOR]
-http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Igreja Online" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="PORTUGAL",[COLOR=white][B]IGREJA ONLINE[/B][/COLOR][COLOR=white][/COLOR]
 http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS TV[/B][/COLOR][COLOR=white][/COLOR]
+http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS TV[/B][/COLOR][COLOR=white][/COLOR]
+http://195.22.11.11:1935/ktv/ktv1/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Kuriakos Cine" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS CINE[/B][/COLOR][COLOR=white][/COLOR]
 http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
@@ -140,12 +149,6 @@ http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]KURIAKOS MUSICA[/B][/COLOR][COLOR=white][/COLOR]
 http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS TV[/B][/COLOR][COLOR=white][/COLOR]
-http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS TV[/B][/COLOR][COLOR=white][/COLOR]
-http://195.22.11.11:1935/ktv/ktv1/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sobrenatural TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="PORTUGAL",[COLOR=white][B]SOBRENATURAL TV[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
