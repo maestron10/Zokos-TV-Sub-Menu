@@ -29,7 +29,15 @@ https://streamer-b02.videos.sapo.pt/live/famatv/chunklist_w1059365209.m3u8
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS EXPRESSÃO PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
- 
+
+
+# https://www.youtube.com/watch?v=saz29dZJR04&ab_channel=RecordNews
+#EXTINF:-1,[COLOR=white][B]RECORD NEWS BR[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=saz29dZJR04&ab_channel=RecordNews
+
+#EXTINF:-1,[COLOR=white][B]CBN TV BR[/B][/COLOR][COLOR=white][/COLOR]
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
 #EXTINF:-1,[COLOR=white][B]MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
 http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
  
@@ -39,8 +47,13 @@ http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
 
-#EXTINF:-1,[COLOR=white][B]PORTA DOS FUNDOS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+# https://www.youtube.com/watch?v=NQjabLGdP5g&ab_channel=africanews
+#EXTINF:-1,[COLOR=white][B]AFRICANEWS ENG. TV[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=NQjabLGdP5g&ab_channel=africanews
+
+# https://www.youtube.com/watch?v=RAWAJiDpWew&ab_channel=MTAAfrica
+#EXTINF:-1,[COLOR=white][B]MTA 4 AFRICA FR. TV[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=RAWAJiDpWew&ab_channel=MTAAfrica
  
 ##########################################################################################################################
 
