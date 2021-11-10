@@ -120,6 +120,12 @@ plugin://plugin.video.youtube/play/?video_id=fsV8AWmr4SA&ab_channel=Hamptons.com
 #EXTINF:-1,[COLOR=white][B]HAVAI - AQUALINK[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=oPGH65HrseA&ab_channel=AqualinkHawaii
 
+#EXTINF:-1,[COLOR=white][B]ESCÓCIA - PINGUINS[/B][/COLOR][COLOR=white][/COLOR]
+https://595b9deb3d6ac.streamlock.net/qlive/edinburghzoo104225.stream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ESCÓCIA - ZOO PANDA[/B][/COLOR][COLOR=white][/COLOR]
+http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/playlist.m3u8
+
 
 ####################################################################################################################################
 #EXTM3U
@@ -302,12 +308,10 @@ https://hoktastream4.webcamera.pl/zakopane_cam_cd5b2d_reklamy/zakopane_cam_cd5b2
 #EXTINF:-1,[COLOR=blue][B]ESCÓCIA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=white][B]ESCOCIA - PINGUINS[/B][/COLOR][COLOR=white][/COLOR]
-https://595b9deb3d6ac.streamlock.net/qlive/edinburghzoo104225.stream/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]ESCOCIA - EDIMBURGO CAM 4[/B][/COLOR][COLOR=white][/COLOR]
 http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]ESCOCIA - ZOO PANDA[/B][/COLOR][COLOR=white][/COLOR]
-http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/playlist.m3u8
+
 
 
 ####################################################################################################################################
