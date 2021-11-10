@@ -284,7 +284,7 @@ https://stream.hungarospa.hu/hls/axis3/index.m3u8
 #EXTINF:-1,[COLOR=blue][B]POLÓNIA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=white][B]POLAND, CRACOW[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]POLAND - CRACOW[/B][/COLOR][COLOR=white][/COLOR]
 http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]POLONIA - CIESZYB[/B][/COLOR][COLOR=white][/COLOR]
@@ -321,7 +321,7 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]UK - WEYMOUTH BEACH[/B][/COLOR][COLOR=white][/COLOR]
 https://camsecure.uk/HLS/bayv.m3u8
 
-#EXTINF:-1,[COLOR=white][B]UK, RESOURT ILFRACOMBE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]UK - RESOURT ILFRACOMBE[/B][/COLOR][COLOR=white][/COLOR]
 http://camsecure.co/HLS/ilfracombe2.m3u8
 #EXTINF:-1,[COLOR=white][B]UK - BISHOPS LYDEARD STATION[/B][/COLOR][COLOR=white][/COLOR]
 http://maybach.railcam.co.uk:80/BishopsLydeard_59234/tracks-v1a1/mono.m3u8
