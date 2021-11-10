@@ -107,45 +107,6 @@ plugin://plugin.video.youtube/play/?video_id=DDU-rZs-Ic4&ab_channel=SPACE%28Offi
 #EXTINF:-1,[COLOR=white][B]NASA TV - MEDIA LIVE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=nA9UZF-SZoQ&ab_channel=NASA
 
-#######################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]///// EARTH TV E OUTRAS LIVE CAM /////[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000
-
-# https://www.youtube.com/watch?v=4t96znzCcMQ&ab_channel=earthTV
-#EXTINF:-1,[COLOR=white][B]EARTH TV - CAM 1 LIVE[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=4t96znzCcMQ&ab_channel=earthTV
-
-
-# https://www.youtube.com/watch?v=3qdEMXmwTkQ&ab_channel=earthTV
-#EXTINF:-1,[COLOR=white][B]EARTH TV - CAM 2 LIVE[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=3qdEMXmwTkQ&ab_channel=earthTV
-
-
-# https://www.youtube.com/watch?v=AdUw5RdyZxI&ab_channel=EarthCam
-#EXTINF:-1,[COLOR=white][B]EARTH TV - TIMES SQUARE[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=AdUw5RdyZxI&ab_channel=EarthCam
-
-
-# https://www.youtube.com/watch?v=5XFp-YW1Zfo&ab_channel=earthTV
-#EXTINF:-1,[COLOR=white][B]EARTH TV - ALPENLÄNDER ALEMANHA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=5XFp-YW1Zfo&ab_channel=earthTV
-
-
-# https://www.youtube.com/watch?v=YJVjv8qNIDY&ab_channel=earthTV
-#EXTINF:-1,[COLOR=white][B]EARTH TV - AMÉRICA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=YJVjv8qNIDY&ab_channel=earthTV
-
-
-# https://www.youtube.com/watch?v=kyZBy84Ct_E&ab_channel=earthTV
-#EXTINF:-1,[COLOR=white][B]EARTH TV - COPACABANA BRASIL[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=kyZBy84Ct_E&ab_channel=earthTV
-
-
-# https://www.youtube.com/watch?v=hrGprEPdjoE&ab_channel=earthTV
-#EXTINF:-1,[COLOR=white][B]EARTH TV - BERLIN ALEMANHA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=hrGprEPdjoE&ab_channel=earthTV
-
-
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]///// ESPAÇO INFANTIL - KIDS /////[/B][/COLOR][COLOR=blue][/COLOR]
