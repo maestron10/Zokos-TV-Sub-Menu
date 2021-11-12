@@ -25,6 +25,9 @@ http://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]RDP INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://radiocast.rtp.pt/rdpint80a.mp3
+
+#EXTINF:-1,[COLOR=white][B]RDP ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
  
 #EXTINF:0 tvg-logo="" group-title="https://medias.unifrance.org/medias/23/162/41495/format_hd/tsf.jpg",[COLOR=white][B]TSF NACIONAL [/B][/COLOR][COLOR=white][/COLOR]
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
@@ -34,6 +37,9 @@ http://centova.radio.com.pt:9470/;
 
 #EXTINF:-0,[COLOR=white][B]RÁDIO RENASCENÇA[/B][/COLOR][COLOR=white][/COLOR]
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
+
+#EXTINF:-0,[COLOR=white][B]RÁDIO RENASCENÇA[/B][/COLOR][COLOR=white][/COLOR]
+https://20723.live.streamtheworld.com/RADIO_RENASCENCAAAC
 
 #EXTINF:0 tvg-logo="" group-title="https://upload.wikimedia.org/wikipedia/pt/c/ce/Logotipo_da_R%C3%A1dio_Cidade_%28Rio_de_Janeiro%29.png",[COLOR=white][B]CIDADE FM[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/cidadefm
@@ -52,6 +58,9 @@ http://21313.live.streamtheworld.com/MEGA_HITSAAC.aac
  
 #EXTINF:-0,[COLOR=white][B]VODAFONE FM[/B][/COLOR][COLOR=white][/COLOR]
 http://195.23.102.207/vodafone
+
+#EXTINF:-0,[COLOR=white][B]RÁDIO SUPERFM[/B][/COLOR][COLOR=white][/COLOR]
+http://95.217.75.38:9962/;&13202692901&duration=99999&id=scplayer&autostart=true
  
 ########################################################################
  
