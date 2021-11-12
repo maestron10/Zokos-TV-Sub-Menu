@@ -9,7 +9,7 @@ FONTE DE INFORMAÇÃO: https://iptv-org.github.io/iptv/categories/sports.m3u
  
 #EXTM3U
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 08/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 12/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
@@ -42,8 +42,7 @@ http://93.152.174.144:4000/play/bein3fr/index.m3u8
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 #EXTINF:-1,BEIN SPORTS 7 AR
 http://93.152.174.144:4000/play/bein7/index.m3u8
-#EXTINF:-1,CH. 12  - IL
-http://93.152.174.144:4000/play/ch12/index.m3u8
+
 #EXTINF:-1,CUATRO HD SP
 http://93.152.174.144:4000/play/cuatrosp/index.m3u8
 #EXTINF:-1,FDF SP 
@@ -77,20 +76,15 @@ http://93.157.62.180:80/Supersport3/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]SUPER SPORT 4 HD AL[/B][/COLOR][COLOR=white][/COLOR]
 http://93.157.62.180:80/Supersport4/playlist.m3u8
 
-
 #EXTINF:-1,[COLOR=white][B]HRT1 HD HR[/B][/COLOR][COLOR=white][/COLOR]
 http://109.105.201.198:80/HRT1HD/video.m3u8
 #EXTINF:-1,[COLOR=white][B]HRT2 HD HR[/B][/COLOR][COLOR=white][/COLOR]
 http://109.105.201.198:80/HRT2HD/video.m3u8
 #EXTINF:-1,[COLOR=white][B]HRT3 HD HR[/B][/COLOR][COLOR=white][/COLOR]
 http://109.105.201.198:80/HRT3HD/video.m3u8
-#EXTINF:-1,[COLOR=white][B]HRT4 HD HR[/B][/COLOR][COLOR=white][/COLOR]
-http://109.105.201.198:80/HRT4HD/video.m3u8
+
 #EXTINF:0,[COLOR=white][B]SPORT 2 TR[/B][/COLOR][COLOR=white][/COLOR]
 http://37.221.122.86:8383/hls/trspor/playlist.m3u8 
-
-#EXTINF:-1,[COLOR=white][B]TRING SPORT 1 HD AL[/B][/COLOR][COLOR=white][/COLOR]
-http://us.bestvideostreaming.is/8796/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TRING SPORT 2 HD AL[/B][/COLOR][COLOR=white][/COLOR]
 http://us.bestvideostreaming.is/8797/playlist.m3u8 
 
