@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
  FONTE DE INFORMAÇÃO: https://www.player-castv.cf/2021/09/portugal-free-full-multi-iptv-channels.html
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 04/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 12/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
 
@@ -106,12 +106,6 @@ http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",[COLOR=white][B]SIC NOTÍCIAS FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 
-#EXTINF:0 tvg-id="TVI24.pt" group-title="News",[COLOR=white][B]TVI FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.21:9981/play/a08z
-
-#EXTINF:0 tvg-id="TVI24.pt" group-title="News",[COLOR=white][B]TVI 24[/B][/COLOR][COLOR=white][/COLOR]
-https://iptv-all.lanesh4d0w.codes/portugal/tvi24
-
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL TV",[COLOR=white][B]TVI FICÇÃO[/B][/COLOR][COLOR=white][/COLOR]
 http://usa2.iptvteam.org:8000/live/picamiolos8/picamiolos8/642.m3u8
 
@@ -121,11 +115,8 @@ http://usa2.iptvteam.org:8000/live/picamiolos8/picamiolos8/182.m3u8
 #EXTINF:-1,[COLOR=white][B]CANAL PARLAMENTO[/B][/COLOR][COLOR=white][/COLOR]
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Igreja Online" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="PORTUGAL",[COLOR=white][B]IGREJA ONLINE[/B][/COLOR][COLOR=white][/COLOR]
 http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS TV[/B][/COLOR][COLOR=white][/COLOR]
 http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
