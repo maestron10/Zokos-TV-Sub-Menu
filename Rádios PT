@@ -26,10 +26,13 @@ http://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]RDP INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://radiocast.rtp.pt/rdpint80a.mp3
 
+#EXTINF:-1,[COLOR=white][B]RDP INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+http://radiocast.rtp.pt/rdpint80a.mp3
+
 #EXTINF:-1,[COLOR=white][B]RDP ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
  
-#EXTINF:0 tvg-logo="" group-title="https://medias.unifrance.org/medias/23/162/41495/format_hd/tsf.jpg",[COLOR=white][B]TSF NACIONAL [/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="https://medias.unifrance.org/medias/23/162/41495/format_hd/tsf.jpg",[COLOR=white][B]TSF NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
  
 #EXTINF:-0,[COLOR=white][B]TSF MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
@@ -70,6 +73,13 @@ https://media1.mcr.iol.pt/livefm/smooth/livefm/smooth_128k/chunks.m3u8?nimbleses
 
 #EXTINF:-0,[COLOR=white][B]RÁDIO RECORD FM[/B][/COLOR][COLOR=white][/COLOR]
 https://nl.digitalrm.pt:8010/stream
+
+#EXTINF:-0,[COLOR=white][B]RÁDIO MUNDIAL FM[/B][/COLOR][COLOR=white][/COLOR]
+https://play.omstudio.pt:9302/stream
+ 
+#EXTINF:-0,[COLOR=white][B]RÁDIO OBSERVADOR FM[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.observador.pt/aac_hifi.m3u8
+ 
  
 ########################################################################
  
@@ -78,21 +88,28 @@ https://nl.digitalrm.pt:8010/stream
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS ONLINE E/OU LOCAIS[/B][/COLOR][COLOR=blue][/COLOR]
 https://video-auth1.iol.pt
  
-#EXTINF:-1,[COLOR=white][B]RÁDIO ZIG ZAG[/B][/COLOR][COLOR=white][/COLOR]
-http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8?DVR
- 
-#EXTINF:-1,[COLOR=white][B]RDP INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
-http://radiocast.rtp.pt/rdpint80a.mp3
- 
-#EXTINF:-1,[COLOR=white][B]RÁDIO SUPER BOCK, SUPER ROCK[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:8435/stream
  
 #EXTINF:0 tvg-logo="https://static-media.streema.com/media/cache/26/58/26586a648e60970c51f0cf1cbc4a90f1.jpg" group-title="",[COLOR=white][B]RÁDIO ORBITAL[/B][/COLOR][COLOR=white][/COLOR]
 http://195.23.85.126:8401/stream/1/
  
 #EXTINF:-1,[COLOR=white][B]RÁDIO ORBITAL[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:8401/stream
+
+#EXTINF:-1,[COLOR=white][B]94 FM[/B][/COLOR][COLOR=white][/COLOR]
+http://185.11.164.106:35022/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO ZIG ZAG[/B][/COLOR][COLOR=white][/COLOR]
+http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8?DVR
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO REGIONAL DO CENTRO[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8030/stream
  
+#EXTINF:-1,[COLOR=white][B]RÁDIO SUPER BOCK, SUPER ROCK[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:8435/stream
+ 
+#EXTINF:-1,[COLOR=white][B]RÁDIO BEIRA LITORAL[/B][/COLOR][COLOR=white][/COLOR]
+http://radios.dotsi.pt:8057/
+
 #EXTINF:-0,[COLOR=white][B]ESTAÇÃO DIÁRIA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9430/;
  
@@ -119,6 +136,7 @@ http://centova.radio.com.pt:9506/;
  
 #EXTINF:-0,[COLOR=white][B]RÁDIO FESTIVAL[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:9520/stream/1/
+
 #EXTINF:-0,[COLOR=white][B]RÁDIO NOVA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:9528/stream/1/
  
@@ -133,9 +151,16 @@ http://137.74.160.250:8000/;stream/1
  
 #EXTINF:-0,[COLOR=white][B]RÁDIO BOTAREU ÁGUEDA[/B][/COLOR][COLOR=white][/COLOR]
 http://213.239.218.99:7022/stream
+
+#EXTINF:-0,[COLOR=white][B]RÁDIO SOBENARIA ÁGUEDA[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8034/stream
+
+#EXTINF:-0,[COLOR=white][B]RÁDIO PROVÍNCIA ANADIA[/B][/COLOR][COLOR=white][/COLOR]
+http://cp5.serverse.com:7006/stream.mp3
  
 #EXTINF:-0,[COLOR=white][B]RÁDIO CLUBE DA FEIRA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9544/;
+
 #EXTINF:-0,[COLOR=white][B]RÁDIO REGIONAL AROUCA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:8485/;
 
