@@ -22,15 +22,27 @@ http://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
  
 #EXTINF:-1,[COLOR=white][B]RÁDIO ANTENA 3[/B][/COLOR][COLOR=white][/COLOR]
 http://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RDP INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+http://radiocast.rtp.pt/rdpint80a.mp3
  
 #EXTINF:0 tvg-logo="" group-title="https://medias.unifrance.org/medias/23/162/41495/format_hd/tsf.jpg",[COLOR=white][B]TSF NACIONAL [/B][/COLOR][COLOR=white][/COLOR]
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
  
 #EXTINF:-0,[COLOR=white][B]TSF MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9470/;
- 
+
+#EXTINF:-0,[COLOR=white][B]RÁDIO RENASCENÇA[/B][/COLOR][COLOR=white][/COLOR]
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
+
 #EXTINF:0 tvg-logo="" group-title="https://upload.wikimedia.org/wikipedia/pt/c/ce/Logotipo_da_R%C3%A1dio_Cidade_%28Rio_de_Janeiro%29.png",[COLOR=white][B]CIDADE FM[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/cidadefm
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL[/B][/COLOR][COLOR=white][/COLOR]
+http://mcrscast.mcr.iol.pt/comercial.mp3
+
+#EXTINF:-1,[COLOR=white][B]M80[/B][/COLOR][COLOR=white][/COLOR]
+http://mcrscast.mcr.iol.pt/m80
  
 #EXTINF:-1,[COLOR=white][B]RFM[/B][/COLOR][COLOR=white][/COLOR]
 http://21313.live.streamtheworld.com/RFMAAC.aac
