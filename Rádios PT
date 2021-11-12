@@ -5,7 +5,7 @@ http://0.0.0.0:000000
  
  
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 26/08/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 12/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
  
@@ -29,35 +29,12 @@ http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 #EXTINF:-0,[COLOR=white][B]TSF MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9470/;
  
-#EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL[/B][/COLOR][COLOR=white][/COLOR]
-http://mcrwowza6.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]RÁDIO COMERCIAL ROCK[/B][/COLOR][COLOR=white][/COLOR]
-http://mcrwowza7.mcr.iol.pt/rcrock/rcrock.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]RÁDIO COMERCIAL DANCE[/B][/COLOR][COLOR=white][/COLOR]
-http://mcrwowza7.mcr.iol.pt/rcdance/rcdance.stream/playlist.m3u8
- 
 #EXTINF:0 tvg-logo="" group-title="https://upload.wikimedia.org/wikipedia/pt/c/ce/Logotipo_da_R%C3%A1dio_Cidade_%28Rio_de_Janeiro%29.png",[COLOR=white][B]CIDADE FM[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/cidadefm
-
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]CIDADE FM HIP HOP[/B][/COLOR][COLOR=white][/COLOR]
-http://mcrwowza7.mcr.iol.pt/cidhiphop/cidhiphop.stream/playlist.m3u8
- 
-#EXTINF:-1,[COLOR=white][B]RÁDIO M80[/B][/COLOR][COLOR=white][/COLOR]
-http://mcrwowza6.mcr.iol.pt/m80/smil:m80.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]RÁDIO M80 DANCE[/B][/COLOR][COLOR=white][/COLOR]
-http://mcrwowza7.mcr.iol.pt/m80dance/m80dance.stream/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]RÁDIO M80 80´S[/B][/COLOR][COLOR=white][/COLOR]
-http://mcrwowza7.mcr.iol.pt/m8080/m8080.stream/playlist.m3u8
  
 #EXTINF:-1,[COLOR=white][B]RFM[/B][/COLOR][COLOR=white][/COLOR]
 http://21313.live.streamtheworld.com/RFMAAC.aac
- 
-#EXTINF:-1,[COLOR=white][B]RÁDIO RENASCENÇA[/B][/COLOR][COLOR=white][/COLOR]
-http://21283.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac
- 
+  
 #EXTINF:-1,[COLOR=white][B]RÁDIO MEGA HITS[/B][/COLOR][COLOR=white][/COLOR]
 http://21313.live.streamtheworld.com/MEGA_HITSAAC.aac
  
@@ -103,25 +80,7 @@ http://centova.radios.pt:9478/stream/1/
  
 #EXTINF:-0,[COLOR=white][B]RÁDIO NOVA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:9528/stream/1/
- 
-#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://i.imgur.com/0vmzhdz.png" group-title="Radios",[COLOR=white][B]RÁDIO REGIONAL[/B][/COLOR][COLOR=white][/COLOR]
-http://streaming.radioregional.pt:8002
- 
-#EXTINF:-1,[COLOR=white][B]REGIONAL DANCE[/B][/COLOR][COLOR=white][/COLOR]
-http://streaming.radioregional.pt:8064/stream?type=http&nocache=3416
- 
-#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://i.imgur.com/tKrKYOR.png" group-title="Radios",[COLOR=white][B]REGIONAL ROCK[/B][/COLOR][COLOR=white][/COLOR]
-http://streaming.radioregional.pt:8046
- 
-#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://i.imgur.com/aPZ5joL.png" group-title="Radios",[COLOR=white][B]REGIONAL LOVE SONGS[/B][/COLOR][COLOR=white][/COLOR]
-http://streaming.radioregional.pt:8058
- 
-#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://i.imgur.com/1zntJ9S.png" group-title="Radios",[COLOR=white][B]REGIONAL OLDIES[/B][/COLOR][COLOR=white][/COLOR]
-http://streaming.radioregional.pt:8052
- 
-#EXTINF:-1 radio="true" tvg-id="n/a" tvg-logo="http://i.imgur.com/x48qEMX.png" group-title="Radios",[COLOR=white][B]REGIONAL PORTUGUESA[/B][/COLOR][COLOR=white][/COLOR]
-http://streaming.radioregional.pt:8040
- 
+  
 #EXTINF:-1,[COLOR=white][B]NOITE FM[/B][/COLOR][COLOR=white][/COLOR]
 http://live.noite.pt:8080/;
  
@@ -145,15 +104,11 @@ http://137.74.160.250:8000/;stream/1
 #EXTINF:-0,[COLOR=white][B]RÁDIO BOTAREU ÁGUEDA[/B][/COLOR][COLOR=white][/COLOR]
 http://213.239.218.99:7022/stream
  
-#EXTINF:-0,[COLOR=white][B]RÁDIO SOBERANIA ÁGUEDA[/B][/COLOR][COLOR=white][/COLOR]
-http://213.239.218.99:7132/Soberania
- 
 #EXTINF:-0,[COLOR=white][B]RÁDIO CLUBE DA FEIRA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9544/;
 #EXTINF:-0,[COLOR=white][B]RÁDIO REGIONAL AROUCA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:8485/;
-#EXTINF:-0,[COLOR=white][B]RÁDIO REGIONAL SANJOANENSE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8117/;
+
 #EXTINF:-0,[COLOR=white][B]RÁDIO TERRA NOVA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9404/;
 #EXTINF:-0,[COLOR=white][B]RÁDIO VOZ DA RIA[/B][/COLOR][COLOR=white][/COLOR]
