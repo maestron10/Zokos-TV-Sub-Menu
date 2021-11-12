@@ -89,8 +89,10 @@ https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA DA COSTA NOVA[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]VAGUEIRA[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]VAGUEIRA - CASABLANCA[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/vagueiracasablanca/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]VAGUEIRA - LABREGO[/B][/COLOR][COLOR=white][/COLOR]
+https://video-auth1.iol.pt/beachcam/vagueira/playlist.m3u8
  
 #EXTINF:-1,[COLOR=white][B]PRAIA DE MIRA[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/bcmira/playlist.m3u8
@@ -153,7 +155,7 @@ OFFLINE: 0
 #EXTINF:-1,[COLOR=blue][B]PRAIAS DE MAFRA[/B][/COLOR][COLOR=blue][/COLOR]
 https://video-auth1.iol.pt
  
-#EXTINF:-1,[COLOR=white][B]PRAIA DA CALDA[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]PRAIA DA CALADA[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/praiadacalada/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA SÃO LOURENÇO[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/saolourenco/playlist.m3u8
@@ -167,6 +169,7 @@ https://video-auth1.iol.pt/beachcam/matadouroskatepark/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA DA ERICEIRA SUL[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]PRAIA FOZ DO LIZARDO[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8
  
@@ -187,7 +190,7 @@ OFFLINE: 0
 #EXTINF:-1,[COLOR=blue][B]PRAIAS DE CASCAIS[/B][/COLOR][COLOR=blue][/COLOR]
 https://video-auth1.iol.pt
  
-#EXTINF:-1,[COLOR=white][B]PRAIA DO GINCHO NORTE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]PRAIA DO GUINCHO NORTE[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/praiaguinchonorte/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA DO GUINCHO SUL[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
@@ -203,6 +206,7 @@ https://video-auth1.iol.pt/beachcam/conceicao/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA DO TAMARIZ[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/tamariz/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]PRAIA SÃO JOÃO DO ESTORIL[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/saojoaodoestoril/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA PDG SKATE-PARK[/B][/COLOR][COLOR=white][/COLOR]
@@ -234,6 +238,7 @@ https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/caxias/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CAXIAS 2[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/caxias/playlist.m3u8
+
  
 OFFLINE: 0
 
@@ -249,6 +254,8 @@ https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]FONTE DA TELHA[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/fontedatelha/playlist.m3u8
+
+
  
 OFFLINE: 0
 
@@ -331,3 +338,148 @@ https://video-auth1.iol.pt/beachcam/caisdosodre/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
  
 OFFLINE: 2
+
+
+#EXTINF:-1,[COLOR=yellow][B]LISTA 2 ADICIONADA: 12/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+
+
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Leça da Palmeira
+https://video-auth1.iol.pt/beachcam/lecadapalmeira/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Matosinhos
+https://video-auth1.iol.pt/beachcam/matosinhos/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Espinho
+https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Esmoriz
+https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Furadouro
+https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia da Torreira
+https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia da Barra
+https://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Costa Nova
+https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Vagueira - Casablanca
+https://video-auth1.iol.pt/beachcam/vagueiracasablanca/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Vagueira - Labrego
+https://video-auth1.iol.pt/beachcam/vagueira/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia de Mira
+https://video-auth1.iol.pt/beachcam/bcmira/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia da Tocha
+https://video-auth1.iol.pt/beachcam/tocha/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Figueira da Foz
+https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Figueira da Foz - Cabedelo
+https://video-auth1.iol.pt/beachcam/cabedelo/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Nazaré - Praia do Norte
+https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Nazaré - Praia do Norte panorâmica
+https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Nazaré - Praia da Vila
+https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Peniche - Lagide
+https://video-auth1.iol.pt/beachcam/lagide/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Peniche - Supertubos
+https://video-auth1.iol.pt/beachcam/supertubos/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Santa Cruz
+https://video-auth1.iol.pt/beachcam/santacruz/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia da Calada
+https://video-auth1.iol.pt/beachcam/praiadacalada/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Ribeira D'Ilhas
+https://video-auth1.iol.pt/beachcam/ribeiradilhas/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Ericeira
+https://video-auth1.iol.pt/beachcam/ericeiraspots/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Matadouro + SkatePark
+https://video-auth1.iol.pt/beachcam/matadouroskatepark/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia dos Pescadores
+https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Ericeira - Praia do Sul
+https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Foz do Lizandro
+https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia Grande - Norte
+https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia Grande - Sul
+https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia do Guincho - Norte
+https://video-auth1.iol.pt/beachcam/praiaguinchonorte/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia do Guincho - Sul
+https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Baía de Cascais
+https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia das Moitas
+https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Tamariz
+https://video-auth1.iol.pt/beachcam/tamariz/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",São João do Estoril
+https://video-auth1.iol.pt/beachcam/saojoaodoestoril/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",PDG - SkatePark
+https://video-auth1.iol.pt/beachcam/skateparkparquegeracoes/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",São Pedro do Estoril
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia das Avencas
+https://video-auth1.iol.pt/beachcam/praiadasavencas/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Parede
+https://video-auth1.iol.pt/beachcam/parede/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Carcavelos
+https://video-auth1.iol.pt/beachcam/carcavelos/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Carcavelos - Calhau
+https://video-auth1.iol.pt/beachcam/carcavelos2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia da Torre
+https://video-auth1.iol.pt/beachcam/bctorre/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Santo Amaro
+https://video-auth1.iol.pt/beachcam/santoamaro/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Paço de Arcos
+https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Caxias
+https://video-auth1.iol.pt/beachcam/caxias/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Costa de Caparica - S. João
+https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Costa de Caparica - CDS
+https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Costa de Caparica - Riviera
+https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Fonte da Telha
+https://video-auth1.iol.pt/beachcam/fontedatelha/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia do Carvalhal
+https://video-auth1.iol.pt/beachcam/carvalhal/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",S. Torpes
+https://video-auth1.iol.pt/beachcam/saotorpes/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Zambujeira do Mar
+https://video-auth1.iol.pt/beachcam/zambujeira/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Arrifana
+https://video-auth1.iol.pt/beachcam/arrifana/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia da Luz
+https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Meia Praia
+https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Alvor
+https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia da Rocha
+https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Ferragudo - Praia Grande
+https://video-auth1.iol.pt/beachcam/ferragudo/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Carvoeiro
+https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Senhora da Rocha e Praia Nova
+https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia da Galé
+https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia do Evaristo
+https://video-auth1.iol.pt/beachcam/evaristo/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Praia do Peneco
+https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Vilamoura
+https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Jardim do Mar
+https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Ferreira do Zêzere - Cable Park
+https://video-auth1.iol.pt/beachcam/bccableferreira/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Ferreira do Zêzere - Lago Azul
+https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Ferreira do Zêzere - Dornes
+https://video-auth1.iol.pt/beachcam/bcdornes/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Lisboa - Cais do Sodré
+https://video-auth1.iol.pt/beachcam/caisdosodre/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Beachcam",Lisboa - Belém
+https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
