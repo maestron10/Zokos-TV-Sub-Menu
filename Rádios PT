@@ -4,7 +4,7 @@ http://0.0.0.0:000000
 ######################################################################################################################################
  
  
-FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top
+FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top  -  https://www.radios-online.pt
  
  
 #EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 13/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -18,6 +18,15 @@ https://000000000000000000000
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO VIVA PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com/9920/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO OVOS MOLES[/B][/COLOR][COLOR=white][/COLOR]
+https://sp0.redeaudio.com/9330/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO TOP FM[/B][/COLOR][COLOR=white][/COLOR]
+http://213.136.92.8:8038/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO AGITA[/B][/COLOR][COLOR=white][/COLOR]
+https://sp0.redeaudio.com:10963/;
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO BOTAREU FM[/B][/COLOR][COLOR=white][/COLOR]
 https://nl.digitalrm.pt:8114/stream
@@ -39,12 +48,6 @@ http://radios.dotsi.pt:8001/stream
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO PROVÍNCIA FM[/B][/COLOR][COLOR=white][/COLOR]
 https://nl.digitalrm.pt:8138/stream
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO OVOS MOLES[/B][/COLOR][COLOR=white][/COLOR]
-https://sp0.redeaudio.com/9330/;
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO AGITA[/B][/COLOR][COLOR=white][/COLOR]
-https://sp0.redeaudio.com:10963/;
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO AV FM[/B][/COLOR][COLOR=white][/COLOR]
 http://116.202.241.212:7035/;
