@@ -26,6 +26,9 @@ https://5d82644094cc0.streamlock.net/xradiotv/xradiotv/chunklist_w1017197052.m3u
 #EXTINF:-1,[COLOR=white][B]FAMA TV[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-b02.videos.sapo.pt/live/famatv/chunklist_w1059365209.m3u8
 
+#EXTINF:-1,[COLOR=white][B]WEB TV PAIXÃO FM[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv3.samcast.com.br/romeu6622/romeu6622/chunklist_w964879918.m3u8
+
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS EXPRESSÃO PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
@@ -86,6 +89,8 @@ http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sicint/sicint.m3u8
+
+
 
 #EXTINF:-1,[COLOR=white][B]SIC ADVANCE[/B][/COLOR][COLOR=white][/COLOR]
 http://supremetv.club:8080/udashboard100/k5PurHjQWw/42040
