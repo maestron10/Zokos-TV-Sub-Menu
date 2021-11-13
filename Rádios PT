@@ -10,6 +10,54 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top
 #EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 13/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
+
+
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - AVEIRO[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000000000000000000
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO VIVA PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
+https://sp0.redeaudio.com/9920/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO BOTAREU FM[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8114/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO REGIONAL DE AROUCA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:8485/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO VOZ DO CAIMA[/B][/COLOR][COLOR=white][/COLOR]
+http://213.136.92.8:8090/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO TERRA NOVA FM[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:9404/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO SOBERANIA FM[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8034/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO VOZ DE ESMORIZ[/B][/COLOR][COLOR=white][/COLOR]
+http://radios.dotsi.pt:8001/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO PROVÍNCIA FM[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8138/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO OVOS MOLES[/B][/COLOR][COLOR=white][/COLOR]
+https://sp0.redeaudio.com/9330/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO AGITA[/B][/COLOR][COLOR=white][/COLOR]
+https://sp0.redeaudio.com:10963/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO AV FM[/B][/COLOR][COLOR=white][/COLOR]
+http://116.202.241.212:7035/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO VOZ DA RIA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:8541/stream/1/
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO VAGOS FM[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8110/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO INFORMÉDIA FM[/B][/COLOR][COLOR=white][/COLOR]
+http://server.zibiz.net:8000/stream1;/stats?json=1&sid=1&callback=jQuery32102876812099474182_1636806011042&_=1636806011043
+
  
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS INFANTIS[/B][/COLOR][COLOR=blue][/COLOR]
@@ -22,11 +70,6 @@ http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8?DVR
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO MIÚDOS[/B][/COLOR][COLOR=white][/COLOR]
 https://s4.radio.co/s6b2edc98f/listen
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO MIÚDOS[/B][/COLOR][COLOR=white][/COLOR]
-http://109.71.41.6:8020/live
-
-
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS NACIONAIS E/OU ONLINE[/B][/COLOR][COLOR=blue][/COLOR]
