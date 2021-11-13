@@ -13,7 +13,7 @@ http://0.0.0.0:000000
 https://0000000000000000000000
 
 
-#  https://www.youtube.com/watch?v=SyeHtarR6Mg&ab_channel=Playocean
+# https://www.youtube.com/watch?v=SyeHtarR6Mg&ab_channel=Playocean
 #EXTINF:-1,[COLOR=white][B]SETUBAL - PRAIA DA FONTE DA TELHA (NORTE)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=SyeHtarR6Mg&ab_channel=Playocean
 
@@ -21,43 +21,39 @@ plugin://plugin.video.youtube/play/?video_id=SyeHtarR6Mg&ab_channel=Playocean
 #EXTINF:-1,[COLOR=white][B]SETUBAL - PRAIA DA FONTE DA TELHA (SUL)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=48ggvEUQqQY&ab_channel=Playocean
 
-#  https://www.youtube.com/watch?v=XedQpU0W1bQ&ab_channel=Playocean
-#EXTINF:-1,[COLOR=white][B]SESIMBRA - PRAIA DO MECO (MOÍNHO DE BAIXO)[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=XedQpU0W1bQ&ab_channel=Playocean
-
-#  https://www.youtube.com/watch?v=DsgBqKj_sto&ab_channel=Playocean
+# https://www.youtube.com/watch?v=DsgBqKj_sto&ab_channel=Playocean
 #EXTINF:-1,[COLOR=white][B]COSTA DA CAPARICA - PRAIA DA SEREIA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=DsgBqKj_sto&ab_channel=Playocean
 
-#  https://www.youtube.com/watch?v=Nw5DEO8qngA&ab_channel=Playocean
+# https://www.youtube.com/watch?v=Nw5DEO8qngA&ab_channel=Playocean
 #EXTINF:-1,[COLOR=white][B]COSTA DA CAPARICA - PANORÂMICA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=Nw5DEO8qngA&ab_channel=Playocean
 
-#  https://www.youtube.com/watch?v=nG-a43uwt74&ab_channel=Playocean
+# https://www.youtube.com/watch?v=nG-a43uwt74&ab_channel=Playocean
 #EXTINF:-1,[COLOR=white][B]SETUBAL - PRAIA DE SANTO ANTONIO DA CAPARICA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=nG-a43uwt74&ab_channel=Playocean
 
-#  https://www.youtube.com/watch?v=ardeumMsaVk&ab_channel=Madeira-Web
+# https://www.youtube.com/watch?v=ardeumMsaVk&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DE FRANÇA MAR[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=ardeumMsaVk&ab_channel=Madeira-Web
 
-#  https://www.youtube.com/watch?v=E-smPoYIt5Y
+# https://www.youtube.com/watch?v=E-smPoYIt5Y
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA ALAGOA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=E-smPoYIt5Y
 
-#  https://www.youtube.com/watch?v=UJQd9RckYwc&ab_channel=Madeira-Web
+# https://www.youtube.com/watch?v=UJQd9RckYwc&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA CALHETA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=UJQd9RckYwc&ab_channel=Madeira-Web
 
-#  https://www.youtube.com/watch?v=oUXTrtZudSE&ab_channel=Madeira-Web
+# https://www.youtube.com/watch?v=oUXTrtZudSE&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PONTA DELGADA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=oUXTrtZudSE&ab_channel=Madeira-Web
 
-#  https://www.youtube.com/watch?v=NESZhNT7QdA&ab_channel=Madeira-Web
+# https://www.youtube.com/watch?v=NESZhNT7QdA&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA FORMOSA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=NESZhNT7QdA&ab_channel=Madeira-Web
 
-#  https://www.youtube.com/watch?v=G6_JuBzlhTY&ab_channel=Madeira-Web
+# https://www.youtube.com/watch?v=G6_JuBzlhTY&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA PORTO MONIZ[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=G6_JuBzlhTY&ab_channel=Madeira-Web
 
