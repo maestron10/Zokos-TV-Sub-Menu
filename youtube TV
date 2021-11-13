@@ -69,9 +69,9 @@ https://000000
 plugin://plugin.video.youtube/play/?video_id=VOw7bts_rGQ&ab_channel=euronews%28emportugu%C3%AAs%29
 
 
-# https://www.youtube.com/watch?v=ri5MVDeTz68&ab_channel=RaFoSe
-#EXTINF:-1,[COLOR=white][B]CNN INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=ri5MVDeTz68&ab_channel=RaFoSe
+# https://www.youtube.com/watch?v=V0I5eglJMRI&ab_channel=RT
+#EXTINF:-1,[COLOR=white][B]RT NEWS LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=V0I5eglJMRI&ab_channel=RT
 
 
 # https://www.youtube.com/watch?v=HqqVcLXQTbo&ab_channel=LOUDKami
@@ -79,14 +79,22 @@ plugin://plugin.video.youtube/play/?video_id=ri5MVDeTz68&ab_channel=RaFoSe
 plugin://plugin.video.youtube/play/?video_id=HqqVcLXQTbo&ab_channel=LOUDKami
 
 
-# https://www.youtube.com/watch?v=5xBISTcDIyY&ab_channel=JovemPanNews
-#EXTINF:-1,[COLOR=white][B]JOVEM PAN NEWS BR[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=5xBISTcDIyY&ab_channel=JovemPanNews
-
-
 # https://www.youtube.com/watch?v=9Auq9mYxFEE&ab_channel=SkyNews
 #EXTINF:-1,[COLOR=white][B]SKY NEWS TV[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=9Auq9mYxFEE&ab_channel=SkyNews
+
+# https://www.youtube.com/watch?v=dp8PhLsUcFE&ab_channel=BloombergQuicktake
+#EXTINF:-1,[COLOR=white][B]BLOOMBERG GLOBAL NEWS TV[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=dp8PhLsUcFE&ab_channel=BloombergQuicktake
+
+# https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews
+#EXTINF:-1,[COLOR=white][B]ABC NEWS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=w_Ma8oQLmSM&ab_channel=ABCNews
+
+# https://www.youtube.com/watch?v=GgPvrIdzFoM&ab_channel=CGTNEurope
+#EXTINF:-1,[COLOR=white][B]CGTN EUROPE NEWS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=GgPvrIdzFoM&ab_channel=CGTNEurope
+
 
 
 #######################################################################################################################
@@ -135,3 +143,9 @@ https://000000
 # https://www.youtube.com/watch?v=VH0h4TVwJ24&ab_channel=VaticanNews-Portugu%C3%AAs
 #EXTINF:-1,[COLOR=white][B]VATICANO TV BR[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=VH0h4TVwJ24&ab_channel=VaticanNews-Portugu%C3%AAs
+
+
+# https://www.youtube.com/watch?v=OmrLmsJ6Jp0&ab_channel=Santu%C3%A1riodeF%C3%A1tima
+#EXTINF:-1,[COLOR=white][B]SANTUÁRIO DE FÁTIMA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=OmrLmsJ6Jp0&ab_channel=Santu%C3%A1riodeF%C3%A1tima
+
