@@ -51,9 +51,6 @@ http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="PORTUGAL",[COLOR=white][B]TDM MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]TPA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://iptv-all.lanesh4d0w.repl.co/angola/tpa1
-
 #EXTINF:-1,[COLOR=white][B]TVGE TV[/B][/COLOR][COLOR=white][/COLOR]
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 
