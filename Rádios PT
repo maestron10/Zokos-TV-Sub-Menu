@@ -53,6 +53,39 @@ https://nl.digitalrm.pt:8110/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO INFORMÉDIA FM[/B][/COLOR][COLOR=white][/COLOR]
 http://server.zibiz.net:8000/stream1;/stats?json=1&sid=1&callback=jQuery32102876812099474182_1636806011042&_=1636806011043
 
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - AÇORES[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000000000000000000
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO ATLÂNTICA FM[/B][/COLOR][COLOR=white][/COLOR]
+http://195.154.62.41/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO SUPER ONDA FM[/B][/COLOR][COLOR=white][/COLOR]
+http://212.129.2.71/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DE ANGRA[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8104/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE ASAS DO ATLÂNTICO[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:9538/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO HORIZONTE[/B][/COLOR][COLOR=white][/COLOR]
+http://212.83.138.48:8029/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO ALCABIDECHE[/B][/COLOR][COLOR=white][/COLOR]
+http://185.32.188.17:8038/stream
+
+#EXTINF:-1,[COLOR=white][B]RVA[/B][/COLOR][COLOR=white][/COLOR]
+http://ca5.rcast.net:8024/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CANAL FM[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:9466/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO NOVA CIDADE[/B][/COLOR][COLOR=white][/COLOR]
+http://95.217.75.38:9818/;stream/1
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO LINHA HORIZONTE[/B][/COLOR][COLOR=white][/COLOR]
+https://player-ssl.kshost.com.br:10406/live
  
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS INFANTIS[/B][/COLOR][COLOR=blue][/COLOR]
@@ -109,7 +142,7 @@ http://mcrscast.mcr.iol.pt/comercial.mp3
 
 #EXTINF:-1,[COLOR=white][B]M80[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/m80
- 
+
 #EXTINF:-1,[COLOR=white][B]RFM[/B][/COLOR][COLOR=white][/COLOR]
 http://21313.live.streamtheworld.com/RFMAAC.aac
   
