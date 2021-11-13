@@ -63,14 +63,16 @@ plugin://plugin.video.youtube/play/?video_id=Wz_mSdgUEP4&ab_channel=Madeira-Web
 
 
 ########################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]PRAIAS EM TESTE[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]PRAIAS EM TESTE - SITE SURFTOTAL[/B][/COLOR][COLOR=yellow][/COLOR]
 https://video-auth1.iol.pt
 
+FONTE: https://surftotal.com/camaras-report
+
 #EXTINF:-1,[COLOR=white][B]MINHO - PRAIA DO MOLEDO[/B][/COLOR][COLOR=white][/COLOR]
-https://59775c8bd0cf7.streamlock.net/live/moledo.stream/chunklist_w208824405_tkd293emF0b2tlbmVuZHRpbWU9MTYzNjgwMDU3NyZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzY4MDAzMzcmd293emF0b2tlbmhhc2g9VXd3N3RxMExlcmZBQVhRdjVFZmlwdVZDSVF5MVk3aXRMVHFwLTFqUVhWVT0=.m3u8
+https://59775c8bd0cf7.streamlock.net/live/moledo.stream/chunklist_w744182776_tkd293emF0b2tlbmVuZHRpbWU9MTYzNjgwMjM1OSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzY4MDIxMTkmd293emF0b2tlbmhhc2g9TXA4bVB3b0dpRDYyZjNDTlJFSXVweVpFVFZYMHJMWEJsM2ppbG03X19sYz0=.m3u8
 
 #EXTINF:-1,[COLOR=white][B]MINHO - VILA PRAIA DE ANCORA[/B][/COLOR][COLOR=white][/COLOR]
-https://59775c8bd0cf7.streamlock.net/live/ancora.stream/chunklist_w618927166_tkd293emF0b2tlbmVuZHRpbWU9MTYzNjgwMDY2NCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzY4MDA0MjQmd293emF0b2tlbmhhc2g9akhucFdEbkNOOHBFTXQzaXoyMDZXT29QaEJoTThsei1rbDJNVHhfb28yQT0=.m3u8
+https://59775c8bd0cf7.streamlock.net/live/ancora.stream/chunklist_w1661863334_tkd293emF0b2tlbmVuZHRpbWU9MTYzNjgwMjQwMiZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzY4MDIxNjImd293emF0b2tlbmhhc2g9X0Q2RHJpRVBwd3dtMmZkdlhXX1VvMGN2b1lyTkVVRHBsc3Bld1djdFNTUT0=.m3u8
 
 #EXTINF:-1,[COLOR=white][B]MINHO - VIANA DO CASTELO[/B][/COLOR][COLOR=white][/COLOR]
 https://59775c8bd0cf7.streamlock.net/live/viana.stream/chunklist_w1871207215_tkd293emF0b2tlbmVuZHRpbWU9MTYzNjgwMDc1NiZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzY4MDA1MTYmd293emF0b2tlbmhhc2g9TEtUaVZ4bU1sQy1XeWJDY3NsYzN6RTBQX2wxdkQ5ZFZ0UWFoeEdpb2dFaz0=.m3u8
