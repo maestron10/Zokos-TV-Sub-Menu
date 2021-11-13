@@ -11,10 +11,16 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top
  
 #EXTM3U
  
- #EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - NORTE[/B][/COLOR][COLOR=blue][/COLOR]
+ #EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000000000000000
 
-FONTE: https://radioonline.com.pt 
+FONTE: https://radioonline.com.pt; https://www.radios-online.pt/mundial-fm
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO REGIONAL NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+https://play.radioregional.pt/stream/1/
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO MUNDIAL FM[/B][/COLOR][COLOR=white][/COLOR]
+http://95.217.75.38:9000/
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO REGIONAL (BRAGANÇA)[/B][/COLOR][COLOR=white][/COLOR]
 https://play.radioregional.pt/stream/5/
