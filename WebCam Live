@@ -49,9 +49,7 @@ plugin://plugin.video.youtube/play/?video_id=YJVjv8qNIDY&ab_channel=earthTV
 plugin://plugin.video.youtube/play/?video_id=kyZBy84Ct_E&ab_channel=earthTV
 
 
-# https://www.youtube.com/watch?v=hrGprEPdjoE&ab_channel=earthTV
-#EXTINF:-1,[COLOR=white][B]EARTH TV - BERLIN ALEMANHA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=hrGprEPdjoE&ab_channel=earthTV
+
 
 
 ####################################################################################################################################
@@ -59,23 +57,23 @@ plugin://plugin.video.youtube/play/?video_id=hrGprEPdjoE&ab_channel=earthTV
 https://000000000
 
 
-#  https://www.youtube.com/watch?v=7AGCLUwf89A&ab_channel=Playocean
+# https://www.youtube.com/watch?v=7AGCLUwf89A&ab_channel=Playocean
 #EXTINF:-1,[COLOR=white][B]SETUBAL - PORTINHO DA ARRÁBIDA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=7AGCLUwf89A&ab_channel=Playocean
 
-#  https://www.youtube.com/watch?v=WI4mP963GvE&ab_channel=Madeira-Web
+# https://www.youtube.com/watch?v=WI4mP963GvE&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - AV. DO MAR - FUNCHAL[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=WI4mP963GvE&ab_channel=Madeira-Web
 
-#  https://www.youtube.com/watch?v=4Hhsra66kwY&ab_channel=Madeira-Web
+# https://www.youtube.com/watch?v=4Hhsra66kwY&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - MARINA DO FUNCHAL[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=4Hhsra66kwY&ab_channel=Madeira-Web
 
-#  https://www.youtube.com/watch?v=jwzmmDdG8pU&ab_channel=Madeira-Web
+# https://www.youtube.com/watch?v=jwzmmDdG8pU&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - QUINTA DO FURÃO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=jwzmmDdG8pU&ab_channel=Madeira-Web
 
-#  https://www.youtube.com/watch?v=G6_JuBzlhTY&ab_channel=Madeira-Web
+# https://www.youtube.com/watch?v=G6_JuBzlhTY&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PORTO MONIZ[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=G6_JuBzlhTY&ab_channel=Madeira-Web
 
@@ -83,9 +81,6 @@ plugin://plugin.video.youtube/play/?video_id=G6_JuBzlhTY&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA CALHETA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=UJQd9RckYwc&ab_channel=Madeira-Web
 
-# https://www.youtube.com/watch?v=UUZME5QX6x0&ab_channel=Madeira-Web
-#EXTINF:-1,[COLOR=white][B]MADEIRA - CAMARA DE LOBOS[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=UUZME5QX6x0
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]ANIMAIS - DIVERSOS ZOOS[/B][/COLOR][COLOR=blue][/COLOR]
