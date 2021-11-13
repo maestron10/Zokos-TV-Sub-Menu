@@ -41,7 +41,7 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1,[COLOR=white][B]MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
 http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="PORTUGAL",[COLOR=white][B]CANAL MACAU[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="PORTUGAL",[COLOR=white][B]MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
  
 #EXTINF:-1,[COLOR=white][B]MOÇAMBIQUE TV[/B][/COLOR][COLOR=white][/COLOR]
