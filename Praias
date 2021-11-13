@@ -57,6 +57,33 @@ plugin://plugin.video.youtube/play/?video_id=NESZhNT7QdA&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA PORTO MONIZ[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=G6_JuBzlhTY&ab_channel=Madeira-Web
 
+# https://www.youtube.com/watch?v=Wz_mSdgUEP4&ab_channel=Madeira-Web
+#EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DO CANIÇAL[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=Wz_mSdgUEP4&ab_channel=Madeira-Web
+
+
+########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]PRAIAS EM TESTE[/B][/COLOR][COLOR=yellow][/COLOR]
+https://video-auth1.iol.pt
+
+#EXTINF:-1,[COLOR=white][B]MINHO - PRAIA DO MOLEDO[/B][/COLOR][COLOR=white][/COLOR]
+https://59775c8bd0cf7.streamlock.net/live/moledo.stream/chunklist_w208824405_tkd293emF0b2tlbmVuZHRpbWU9MTYzNjgwMDU3NyZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzY4MDAzMzcmd293emF0b2tlbmhhc2g9VXd3N3RxMExlcmZBQVhRdjVFZmlwdVZDSVF5MVk3aXRMVHFwLTFqUVhWVT0=.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MINHO - VILA PRAIA DE ANCORA[/B][/COLOR][COLOR=white][/COLOR]
+https://59775c8bd0cf7.streamlock.net/live/ancora.stream/chunklist_w618927166_tkd293emF0b2tlbmVuZHRpbWU9MTYzNjgwMDY2NCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzY4MDA0MjQmd293emF0b2tlbmhhc2g9akhucFdEbkNOOHBFTXQzaXoyMDZXT29QaEJoTThsei1rbDJNVHhfb28yQT0=.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MINHO - VIANA DO CASTELO[/B][/COLOR][COLOR=white][/COLOR]
+https://59775c8bd0cf7.streamlock.net/live/viana.stream/chunklist_w1871207215_tkd293emF0b2tlbmVuZHRpbWU9MTYzNjgwMDc1NiZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzY4MDA1MTYmd293emF0b2tlbmhhc2g9TEtUaVZ4bU1sQy1XeWJDY3NsYzN6RTBQX2wxdkQ5ZFZ0UWFoeEdpb2dFaz0=.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MINHO - PRAIA DE ESPOSENDE[/B][/COLOR][COLOR=white][/COLOR]
+https://59775c8bd0cf7.streamlock.net/live/esposendesul.stream/chunklist_w1146853311_tkd293emF0b2tlbmVuZHRpbWU9MTYzNjgwMDgwMiZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzY4MDA1NjImd293emF0b2tlbmhhc2g9bHZaZkJOWUdOWWdKOHE4c2hlZnFTZ1ljSDREc19uR1pyT21FZVdvVGthVT0=.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MINHO - PRAIA DE OFIR[/B][/COLOR][COLOR=white][/COLOR]
+https://59775c8bd0cf7.streamlock.net/live/ofir.stream/chunklist_w334260200_tkd293emF0b2tlbmVuZHRpbWU9MTYzNjgwMDg0NSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzY4MDA2MDUmd293emF0b2tlbmhhc2g9dmR6SV9pby00ZjhyZzBfanRmSXBYeFdtYTlELXlXMDc1RDlkaW9sNHBSbz0=.m3u8
+
+
+
+
 
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]PRAIAS DO NORTE[/B][/COLOR][COLOR=blue][/COLOR]
