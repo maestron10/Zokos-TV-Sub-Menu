@@ -46,6 +46,12 @@ http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="PORTUGAL",[COLOR=white][B]TDM MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]TPA INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+https://playback2.akamaized.net/streams/30360708_9496693_lsiw9qj57zcqiox14jq_1/exp=1636914783~acl=%2f*~data=hdntl~hmac=2caedf59c2c845ff9ffafeaccb34f1ba08eaa0470f8b0044d4116b4da129c337/media/30360708_9496693_lsiw9qj57zcqiox14jq_1@1628000p.m3u8?dw=14400&ts=1636826400
+ 
+#EXTINF:-1,[COLOR=white][B]TPA INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+https://playback2.akamaized.net/streams/30360708_9496693_lsiw9qj57zcqiox14jq_1/exp=1636914859~acl=%2f*~data=hdntl~hmac=ddc8e44544ac108d3966b2d2c4bf42909963372444bcc32cc0c395e5c2148c2e/media/30360708_9496693_lsiw9qj57zcqiox14jq_1@1628000p.m3u8?dw=14400&ts=1636826400
  
 #EXTINF:-1,[COLOR=white][B]TVM TV[/B][/COLOR][COLOR=white][/COLOR]
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
