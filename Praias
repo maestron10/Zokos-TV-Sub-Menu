@@ -92,8 +92,12 @@ https://video-auth1.iol.pt
 https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA DA TORREIRA[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
+#EXTINF:-1 group-title="camera portugal" tvg-logo="https://i.postimg.cc/L61CJkFk/images.jpg",[COLOR=white][B]PRAIA DA TORREIRA[/B][/COLOR][COLOR=white][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/torreira/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA DA BARRA[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8
+#EXTINF:-1 group-title="camera portugal" tvg-logo="https://i.postimg.cc/L61CJkFk/images.jpg",[COLOR=white][B]PRAIA DA BARRA[/B][/COLOR][COLOR=white][/COLOR]
+http://video-auth1.iol.pt:1935/beachcam/aveiro/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA DA COSTA NOVA[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]VAGUEIRA - CASABLANCA[/B][/COLOR][COLOR=white][/COLOR]
@@ -211,9 +215,14 @@ https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/conceicao/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA DAS MOITAS[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
+
+
+########################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]PRAIAS DE ESTORIL[/B][/COLOR][COLOR=blue][/COLOR]
+https://video-auth1.iol.pt
+
 #EXTINF:-1,[COLOR=white][B]PRAIA DO TAMARIZ[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/tamariz/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]PRAIA SÃO JOÃO DO ESTORIL[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/saojoaodoestoril/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA PDG SKATE-PARK[/B][/COLOR][COLOR=white][/COLOR]
