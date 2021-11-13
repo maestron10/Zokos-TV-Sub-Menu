@@ -78,6 +78,9 @@ https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Porto Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/300px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",[COLOR=white][B]PORTO CANAL SD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 
+#EXTINF:-1,[COLOR=white][B]TVI 24[/B][/COLOR][COLOR=white][/COLOR]
+https://iptv-all.lanesh4d0w.repl.co/portugal/tvi24
+
 #EXTINF:-1,[COLOR=white][B]TVI REALITY TV[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 
