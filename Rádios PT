@@ -11,7 +11,27 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top
  
 #EXTM3U
  
- 
+ #EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - NORTE[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000000000000000000
+
+FONTE: https://radioonline.com.pt 
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO REGIONAL (BRAGANÇA)[/B][/COLOR][COLOR=white][/COLOR]
+https://play.radioregional.pt/stream/5/
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO NOVA ERA[/B][/COLOR][COLOR=white][/COLOR]
+https://centova.radios.pt/proxy/478?mp=/stream/1/
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO BARCELOS[/B][/COLOR][COLOR=white][/COLOR]
+https://centova.radios.pt/proxy/563?mp=/stream/1/
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CISTER FM[/B][/COLOR][COLOR=white][/COLOR]
+https://centova.radios.pt/proxy/453?mp=/stream/1/
+
+
+
+
+
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS NACIONAIS[/B][/COLOR][COLOR=blue][/COLOR]
 https://video-auth1.iol.pt
  
