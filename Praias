@@ -223,12 +223,12 @@ https://video-auth1.iol.pt
 
 #EXTINF:-1,[COLOR=white][B]PRAIA DO TAMARIZ[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/tamariz/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]PRAIA SÃO JOÃO DO ESTORIL[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SÃO JOÃO DO ESTORIL[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/saojoaodoestoril/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]PRAIA PDG SKATE-PARK[/B][/COLOR][COLOR=white][/COLOR]
-https://video-auth1.iol.pt/beachcam/skateparkparquegeracoes/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]SÃO PEDRO DO ESTORIL[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/saopedroestoria/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]PRAIA PDG SKATE-PARK[/B][/COLOR][COLOR=white][/COLOR]
+https://video-auth1.iol.pt/beachcam/skateparkparquegeracoes/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA DAS AVENCAS[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/praiadasavencas/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]SANTA CRUZ[/B][/COLOR][COLOR=white][/COLOR]
