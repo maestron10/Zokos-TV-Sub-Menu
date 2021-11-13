@@ -7,38 +7,29 @@ http://0.0.0.0:000000
 FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top
  
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 12/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 13/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
  
- #EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES[/B][/COLOR][COLOR=blue][/COLOR]
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS INFANTIS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000000000000000
 
 FONTE: https://radioonline.com.pt; https://www.radios-online.pt/mundial-fm
 
-#EXTINF:-1,[COLOR=white][B]RÁDIO REGIONAL NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
-https://play.radioregional.pt/stream/1/
+#EXTINF:-1,[COLOR=white][B]RÁDIO ZIG ZAG[/B][/COLOR][COLOR=white][/COLOR]
+http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8?DVR
 
-#EXTINF:-1,[COLOR=white][B]RÁDIO MUNDIAL FM[/B][/COLOR][COLOR=white][/COLOR]
-http://95.217.75.38:9000/
+#EXTINF:-1,[COLOR=white][B]RÁDIO MIÚDOS[/B][/COLOR][COLOR=white][/COLOR]
+https://s4.radio.co/s6b2edc98f/listen
 
-#EXTINF:-1,[COLOR=white][B]RÁDIO REGIONAL (BRAGANÇA)[/B][/COLOR][COLOR=white][/COLOR]
-https://play.radioregional.pt/stream/5/
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO NOVA ERA[/B][/COLOR][COLOR=white][/COLOR]
-https://centova.radios.pt/proxy/478?mp=/stream/1/
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO BARCELOS[/B][/COLOR][COLOR=white][/COLOR]
-https://centova.radios.pt/proxy/563?mp=/stream/1/
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO CISTER FM[/B][/COLOR][COLOR=white][/COLOR]
-https://centova.radios.pt/proxy/453?mp=/stream/1/
+#EXTINF:-1,[COLOR=white][B]RÁDIO MIÚDOS[/B][/COLOR][COLOR=white][/COLOR]
+http://109.71.41.6:8020/live
 
 
 
-
-
-#EXTINF:-1,[COLOR=blue][B]RÁDIOS NACIONAIS[/B][/COLOR][COLOR=blue][/COLOR]
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS NACIONAIS E/OU ONLINE[/B][/COLOR][COLOR=blue][/COLOR]
 https://video-auth1.iol.pt
  
  
@@ -101,9 +92,15 @@ https://nl.digitalrm.pt:8010/stream
  
 #EXTINF:-0,[COLOR=white][B]RÁDIO OBSERVADOR FM[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.observador.pt/aac_hifi.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO REGIONAL NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+https://play.radioregional.pt/stream/1/
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO MUNDIAL FM[/B][/COLOR][COLOR=white][/COLOR]
+http://95.217.75.38:9000/
  
  
-########################################################################
+######################################################################################################################################
  
 #EXTM3U
  
@@ -120,8 +117,7 @@ http://centova.radios.pt:8401/stream
 #EXTINF:-1,[COLOR=white][B]94 FM[/B][/COLOR][COLOR=white][/COLOR]
 http://185.11.164.106:35022/stream
 
-#EXTINF:-1,[COLOR=white][B]RÁDIO ZIG ZAG[/B][/COLOR][COLOR=white][/COLOR]
-http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8?DVR
+
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO REGIONAL DO CENTRO[/B][/COLOR][COLOR=white][/COLOR]
 https://nl.digitalrm.pt:8030/stream
