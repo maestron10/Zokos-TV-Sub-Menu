@@ -16,17 +16,9 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top  -  https://www.r
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - AVEIRO[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000000000000000
 
-#EXTINF:-1,[COLOR=white][B]RÁDIO VIVA PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
-https://sp0.redeaudio.com/9920/stream
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO OVOS MOLES[/B][/COLOR][COLOR=white][/COLOR]
-https://sp0.redeaudio.com/9330/;
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO TOP FM[/B][/COLOR][COLOR=white][/COLOR]
 http://213.136.92.8:8038/;
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO AGITA[/B][/COLOR][COLOR=white][/COLOR]
-https://sp0.redeaudio.com:10963/;
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO BOTAREU FM[/B][/COLOR][COLOR=white][/COLOR]
 https://nl.digitalrm.pt:8114/stream
