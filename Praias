@@ -61,6 +61,15 @@ plugin://plugin.video.youtube/play/?video_id=G6_JuBzlhTY&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DO CANIÇAL[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=Wz_mSdgUEP4&ab_channel=Madeira-Web
 
+########################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]PRAIAS EM TESTE[/B][/COLOR][COLOR=blue][/COLOR]
+https://video-auth1.iol.pt
+
+#EXTINF:-1,[COLOR=white][B]VIANA DO CASTELO - CABEDELO[/B][/COLOR][COLOR=white][/COLOR]
+https://cams.cdn-surfline.com/cdn-int/pt-viana/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]SINTRA - PRAIA GRANDE[/B][/COLOR][COLOR=white][/COLOR]
+https://edge04.balticlivecam.com/blc/p_PT_Praia_Grande_Sintra/tracks-v1/mono.m3u8?token=7fb0191ff040432c0e2f999022586fcc%3A1636825789864
 
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]PRAIAS DO NORTE[/B][/COLOR][COLOR=blue][/COLOR]
