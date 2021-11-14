@@ -20,6 +20,9 @@ https://000000000000000000000
 #EXTINF:-1,[COLOR=white][B]RÁDIO TOP FM[/B][/COLOR][COLOR=white][/COLOR]
 http://213.136.92.8:8038/;
 
+#EXTINF:-1,[COLOR=white][B]RÁDIO RCP FM[/B][/COLOR][COLOR=white][/COLOR]
+http://95.217.75.38:9802/;stream/1
+
 #EXTINF:-1,[COLOR=white][B]RÁDIO BOTAREU FM[/B][/COLOR][COLOR=white][/COLOR]
 https://nl.digitalrm.pt:8114/stream
 
