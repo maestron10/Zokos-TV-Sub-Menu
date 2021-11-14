@@ -153,3 +153,30 @@ http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 https://0000000000000000000000000000
+
+ #EXTM3U
+#EXTINF:-1,RTP1
+http://51.154.223.105:8000/play/a0ik/index.m3u8
+#EXTINF:-1,RTP2
+http://51.154.223.105:8000/play/a0il/index.m3u8
+#EXTINF:-1,SIC
+http://51.154.223.105:8000/play/a0iz/index.m3u8
+#EXTINF:-1,TVI
+http://51.154.223.105:8000/play/a0j0/index.m3u8
+#EXTINF:-1,CMTV
+http://51.154.223.105:8000/play/a0j1/index.m3u8
+#EXTINF:-1,TVI FICÇÃO
+http://51.154.223.105:8000/play/a0mb/index.m3u8
+
+#EXTINF:-1,SPORT TV 1 HD
+http://51.154.223.105:8000/play/a0jp/index.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://51.154.223.105:8000/play/a0jq/index.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://51.154.223.105:8000/play/a0n3/index.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://51.154.223.105:8000/play/a0jv/index.m3u8
+
+
+  
+
