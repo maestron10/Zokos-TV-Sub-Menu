@@ -123,6 +123,127 @@ http://centova.radio.com.pt:8487/;
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - BRAGA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000000000000000
 
+#EXTINF:-1,[COLOR=white][B]RÁDIO NOVE3CINCO[/B][/COLOR][COLOR=white][/COLOR]
+https://centova.radios.pt/proxy/522?mp=%2Fstream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO SANTIAGO FM[/B][/COLOR][COLOR=white][/COLOR]
+http://eu6.fastcast4u.com:5002/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO BARCELOS FM[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:8563/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CIDADE HOJE[/B][/COLOR][COLOR=white][/COLOR]
+https://centova.radios.pt/proxy/119?mp=%2Fstream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO ANTENA MINHO[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:9464/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO VIZELA[/B][/COLOR][COLOR=white][/COLOR]
+http://109.71.41.6:8100/;
+
+#EXTINF:-1,[COLOR=white][B]FAMA RÁDIO[/B][/COLOR][COLOR=white][/COLOR]
+http://digitalfm.dynu.com:8000/digitalfm64
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO REGIÃO DE BASTOS[/B][/COLOR][COLOR=white][/COLOR]
+http://46.105.172.166:8104/;
+ 
+ #EXTINF:-1,[COLOR=white][B]RÁDIO VIEIRA DO MINHO[/B][/COLOR][COLOR=white][/COLOR]
+ http://centova.radios.pt:8517/;
+ 
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - BRAGANÇA[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000000000000000000
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO ANSIÃES FM[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:8419/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO BRIGANTIA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:8491/stream;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO ONDA LIVRE MACEDENSE[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:9572/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO TERRA QUENTE FM[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:9402/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO LOUSA[/B][/COLOR][COLOR=white][/COLOR]
+http://109.71.41.6:8022/stream
+ 
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - CASTELO BRANCO[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000000000000000000
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO VIBE FM[/B][/COLOR][COLOR=white][/COLOR]
+http://109.71.41.6:8046/stream
+  
+#EXTINF:-1,[COLOR=white][B]RÁDIO COVA DA BEIRA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:8467/;
+ 
+#EXTINF:-1,[COLOR=white][B]RÁDIO CONDESTÁVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:8427/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO URBANA FM[/B][/COLOR][COLOR=white][/COLOR]
+http://213.136.92.8:8024/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CARIA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:8521/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DA COVILHÃ[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:9450/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DE MONSANTO[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:9424/;
+
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - COIMBRA[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000000000000000000
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO FADO DE COIMBRA[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8048/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO LUNA FM[/B][/COLOR][COLOR=white][/COLOR]
+http://lunaportugal.lunabroadcasting.net/stream
+
+#EXTINF:-1,[COLOR=white][B]RUC - RÁDIO UNIV. DE COIMBRA[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.ruc.pt/high
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO FOLCLORE PORTUGUÊS[/B][/COLOR][COLOR=white][/COLOR]
+https://sonic.servsonic.com/8012/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO SÉNIOR DA MISERICÓRDIA[/B][/COLOR][COLOR=white][/COLOR]
+http://95.217.75.38:9314/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO SAUDADE[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8068/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO REGIONAL DO CENTRO[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8030/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO POPULAR DE SOURE[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8072/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO BOA NOVA[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8094/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO DUEÇA[/B][/COLOR][COLOR=white][/COLOR]
+http://109.71.41.6:8008/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO MANCHETE[/B][/COLOR][COLOR=white][/COLOR]
+https://radios.justweb.pt/8008/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO MONDEGO FM[/B][/COLOR][COLOR=white][/COLOR]
+https://player-ssl.kshost.com.br:10738/live
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO BEIRA LITORAL[/B][/COLOR][COLOR=white][/COLOR]
+http://radios.dotsi.pt:8057/%3Bstream.nsv&type=mp3&volume=50&autostart=true
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO SÃO MIGUEL[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8140/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO FOZ DO MONDEGO[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.xps-ip.eu:8084/stream
+
+
  
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS INFANTIS[/B][/COLOR][COLOR=blue][/COLOR]
