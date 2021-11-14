@@ -207,9 +207,6 @@ http://lunaportugal.lunabroadcasting.net/stream
 #EXTINF:-1,[COLOR=white][B]RUC - RÁDIO UNIV. DE COIMBRA[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.ruc.pt/high
 
-#EXTINF:-1,[COLOR=white][B]RÁDIO FOLCLORE PORTUGUÊS[/B][/COLOR][COLOR=white][/COLOR]
-https://sonic.servsonic.com/8012/stream
-
 #EXTINF:-1,[COLOR=white][B]RÁDIO SÉNIOR DA MISERICÓRDIA[/B][/COLOR][COLOR=white][/COLOR]
 http://95.217.75.38:9314/;
 
@@ -243,6 +240,42 @@ https://nl.digitalrm.pt:8140/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO FOZ DO MONDEGO[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.xps-ip.eu:8084/stream
 
+#EXTINF:-1,[COLOR=white][B]RÁDIO MAIORCA[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8182/stream
+
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - FARO[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000000000000000000
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO KISS FM[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8024/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO FOIA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:8559/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO GILÃO[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:9440/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO SOLAR FM[/B][/COLOR][COLOR=white][/COLOR]
+http://5.189.189.245:8006/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO UNIV. DO ALGARVE[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:9536/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO TOTAL FM[/B][/COLOR][COLOR=white][/COLOR]
+http://176.61.144.80:9300/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO GUADIANA[/B][/COLOR][COLOR=white][/COLOR]
+http://95.217.75.38:9844/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO ALVOR FM[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:8469/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO LAGOA FM[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:9488/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO PORTIMÃO[/B][/COLOR][COLOR=white][/COLOR]
+http://95.217.75.38:9440/;
 
  
 ######################################################################################################################################
