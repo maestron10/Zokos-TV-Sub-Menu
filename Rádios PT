@@ -277,7 +277,35 @@ http://centova.radios.pt:9488/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO PORTIMÃO[/B][/COLOR][COLOR=white][/COLOR]
 http://95.217.75.38:9440/;
 
+
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]DISTRITO: GUARDA[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000000000000000000 
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO ANTENA LIVRE[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:9456/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO IMAGEM[/B][/COLOR][COLOR=white][/COLOR]
+http://62.171.165.22:9308/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO DOM BOSCO[/B][/COLOR][COLOR=white][/COLOR]
+http://radiodbosco.myftp.biz:8000/radio
  
+#EXTINF:-1,[COLOR=white][B]RÁDIO F[/B][/COLOR][COLOR=white][/COLOR]
+https://centova.radio.com.pt/proxy/579?mp=%2Fstream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DE MEDA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:8493/stream
+
+#EXTINF:-1,[COLOR=white][B]ALTITUDE FM[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:9034/;
+
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]DISTRITO: LEIRIA[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000000000000000000 
+
+
+
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS INFANTIS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000000000000000
