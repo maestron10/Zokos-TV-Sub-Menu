@@ -149,6 +149,7 @@ http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
 
 #EXTINF:-1,[COLOR=yellow][B]CANAIS TV PT - LISTA 2[/B][/COLOR][COLOR=yellow][/COLOR]
 
+#EXTM3U
 
 #EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 https://0000000000000000000000000000
