@@ -13,7 +13,7 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top  -  https://www.r
 
 
 ######################################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - AVEIRO[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]DISTRITO: AVEIRO[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000000000000000
 
 
@@ -57,7 +57,7 @@ https://nl.digitalrm.pt:8110/stream
 http://server.zibiz.net:8000/stream1;/stats?json=1&sid=1&callback=jQuery32102876812099474182_1636806011042&_=1636806011043
 
 ######################################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - AÇORES[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]ARQUIPÉLAGO: AÇORES[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000000000000000
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO ATLÂNTICA FM[/B][/COLOR][COLOR=white][/COLOR]
@@ -91,7 +91,7 @@ http://95.217.75.38:9818/;stream/1
 https://player-ssl.kshost.com.br:10406/live
 
 ######################################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - BEJA[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]DISTRITO: BEJA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000000000000000
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO VIDIGUEIRA[/B][/COLOR][COLOR=white][/COLOR]
@@ -120,7 +120,7 @@ http://centova.radio.com.pt:8487/;
 
 
 ######################################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - BRAGA[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]DISTRITO: BRAGA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000000000000000
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO NOVE3CINCO[/B][/COLOR][COLOR=white][/COLOR]
@@ -151,7 +151,7 @@ http://46.105.172.166:8104/;
  http://centova.radios.pt:8517/;
  
 ######################################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - BRAGANÇA[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]DISTRITO: BRAGANÇA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000000000000000
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO ANSIÃES FM[/B][/COLOR][COLOR=white][/COLOR]
@@ -170,7 +170,7 @@ http://centova.radio.com.pt:9402/;
 http://109.71.41.6:8022/stream
  
 ######################################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - CASTELO BRANCO[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]DISTRITO: CASTELO BRANCO[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000000000000000
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO VIBE FM[/B][/COLOR][COLOR=white][/COLOR]
@@ -195,7 +195,7 @@ http://centova.radios.pt:9450/;
 http://centova.radio.com.pt:9424/;
 
 ######################################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - COIMBRA[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]DISTRITO: COIMBRA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000000000000000
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO FADO DE COIMBRA[/B][/COLOR][COLOR=white][/COLOR]
@@ -244,7 +244,7 @@ http://s1.xps-ip.eu:8084/stream
 https://nl.digitalrm.pt:8182/stream
 
 ######################################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]RÁDIOS TESTES - FARO[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]DISTRITO: ALGARVE[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000000000000000
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO KISS FM[/B][/COLOR][COLOR=white][/COLOR]
