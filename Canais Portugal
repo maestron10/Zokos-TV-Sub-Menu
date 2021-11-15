@@ -235,6 +235,7 @@ http://b5.vc:80/441908/byt61w/74824.m3u8
 http://b5.vc:80/441908/byt61w/74825.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: BTV SD
 http://b5.vc:80/441908/byt61w/74822.m3u8
+
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Cacavision
 http://b5.vc:80/441908/byt61w/74826.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Canal 11
@@ -259,6 +260,7 @@ http://b5.vc:80/441908/byt61w/74835.m3u8
 http://b5.vc:80/441908/byt61w/74836.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: CineMundo
 http://b5.vc:80/441908/byt61w/74837.m3u8
+
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: CineMundo FHD
 http://b5.vc:80/441908/byt61w/74838.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Clubbing TV
@@ -285,6 +287,7 @@ http://b5.vc:80/441908/byt61w/74848.m3u8
 http://b5.vc:80/441908/byt61w/74849.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: E! Entertainment
 http://b5.vc:80/441908/byt61w/74851.m3u8
+
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Eleven Sports 1 FHD
 http://b5.vc:80/441908/byt61w/74853.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Eleven Sports 1 FHD [H265]
@@ -297,28 +300,16 @@ http://b5.vc:80/441908/byt61w/74857.m3u8
 http://b5.vc:80/441908/byt61w/74858.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Eleven Sports 2 HD
 http://b5.vc:80/441908/byt61w/74859.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Eleven Sports 2 SD
-http://b5.vc:80/441908/byt61w/74856.m3u8
+
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Eleven Sports 3 FHD
 http://b5.vc:80/441908/byt61w/74861.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Eleven Sports 3 HD
-http://b5.vc:80/441908/byt61w/74862.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Eleven Sports 3 SD
-http://b5.vc:80/441908/byt61w/74860.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Eleven Sports 4 HD
-http://b5.vc:80/441908/byt61w/74865.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Eleven Sports 4 SD
-http://b5.vc:80/441908/byt61w/74863.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Eleven Sports 5 FHD
 http://b5.vc:80/441908/byt61w/74867.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Eleven Sports 5 HD
-http://b5.vc:80/441908/byt61w/74868.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Eleven Sports 5 SD
-http://b5.vc:80/441908/byt61w/74866.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Eleven Sports 6 FHD
 http://b5.vc:80/441908/byt61w/74870.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Eleven Sports 6 SD
-http://b5.vc:80/441908/byt61w/74869.m3u8
+
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Euronews
 http://b5.vc:80/441908/byt61w/74871.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Eurosport 1 FHD
@@ -331,8 +322,7 @@ http://b5.vc:80/441908/byt61w/74874.m3u8
 http://b5.vc:80/441908/byt61w/74875.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Fight Network FHD
 http://b5.vc:80/441908/byt61w/74876.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Fine Living Network FHD
-http://b5.vc:80/441908/byt61w/74877.m3u8
+
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Food Network FHD
 http://b5.vc:80/441908/byt61w/74878.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Fox
@@ -361,8 +351,7 @@ http://b5.vc:80/441908/byt61w/74889.m3u8
 http://b5.vc:80/441908/byt61w/74890.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Fox Movies FHD
 http://b5.vc:80/441908/byt61w/74891.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Fox News
-http://b5.vc:80/441908/byt61w/74892.m3u8
+
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Fuel TV
 http://b5.vc:80/441908/byt61w/74893.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Fuel TV FHD
@@ -439,6 +428,8 @@ http://b5.vc:80/441908/byt61w/74928.m3u8
 http://b5.vc:80/441908/byt61w/74929.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: RECORD TV (NA)
 http://b5.vc:80/441908/byt61w/74930.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: RTP 1
 http://b5.vc:80/441908/byt61w/74931.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: RTP 1 FHD
@@ -509,28 +500,16 @@ http://b5.vc:80/441908/byt61w/74965.m3u8
 http://b5.vc:80/441908/byt61w/74966.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Sport TV 2 HD
 http://b5.vc:80/441908/byt61w/74967.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Sport TV 2 SD
-http://b5.vc:80/441908/byt61w/74964.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Sport TV 3
-http://b5.vc:80/441908/byt61w/74968.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Sport TV 3 FHD
 http://b5.vc:80/441908/byt61w/74969.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Sport TV 3 FHD [H265]
 http://b5.vc:80/441908/byt61w/74970.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Sport TV 3 HD
 http://b5.vc:80/441908/byt61w/74971.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Sport TV 4
-http://b5.vc:80/441908/byt61w/74972.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Sport TV 4 FHD
-http://b5.vc:80/441908/byt61w/74973.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Sport TV 4 HD
-http://b5.vc:80/441908/byt61w/74974.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Sport TV 5
-http://b5.vc:80/441908/byt61w/74975.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Sport TV 5 FHD
-http://b5.vc:80/441908/byt61w/74976.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Sport TV 5 HD
-http://b5.vc:80/441908/byt61w/74977.m3u8
+
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Sport TV NBA FHD [H265]
 http://b5.vc:80/441908/byt61w/74978.m3u8
 #EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais Inter | Portugal [PT]",PT: Sport TV+
