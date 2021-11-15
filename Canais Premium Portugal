@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA VERIFICADA: 10/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA VERIFICADA: 15/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 
 #EXTM3U
@@ -23,9 +23,9 @@ https://00000000000
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv1.png" group-title="Sport Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1925
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://93.152.174.144:4000/play/sporttv1/index.m3u8
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://93.152.174.144:4000/play/sporttv1/index.m3u8
+http://51.154.223.105:8000/play/a0jp/index.m3u8
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://51.154.223.105:8000/play/a0jq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/12/sport-tv2.png" group-title="Sport Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aziptv.live:6969/Hdservers/Valendsuk/1926
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/12/sport-tv2.png" group-title="Sport Channels",[COLOR=white][B]SPORT TV 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -39,24 +39,9 @@ http://aziptv.live:6969/Hdservers/Valendsuk/1929
 #EXTINF:-1,[COLOR=blue][B]CANAIS INTERNACIONAIS ONDE DÁ FUTEBOL PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=white][B]RMC SPORTS 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://smartgo.site:8080/8298937393816531/8298937393816531/35591
-#EXTINF:-1,[COLOR=white][B]RMC SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://smartgo.site:8080/8298937393816531/8298937393816531/35590
 
-#EXTINF:-1,[COLOR=white][B]RMC SPORTS 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://smartgo.site:8080/8298937393816531/8298937393816531/35588
-#EXTINF:-1[COLOR=white][B]RMC SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://smartgo.site:8080/8298937393816531/8298937393816531/35587
 #EXTINF:-1,[COLOR=white][B]RMC SPORTS 2 FR.[/B][/COLOR][COLOR=white][/COLOR]
 http://iptv3.kbc.al:25461/Nexhmedinibishi/ZBdmV9k2wo/274
-
-#EXTINF:-1,[COLOR=white][B]RMC SPORTS 3 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://smartgo.site:8080/8298937393816531/8298937393816531/35585
-#EXTINF:-1,[COLOR=white][B]RMC SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://smartgo.site:8080/8298937393816531/8298937393816531/35584
-#EXTINF:-1,[COLOR=white][B]RMC SPORTS 3 FR.[/B][/COLOR][COLOR=white][/COLOR]
-http://winges-4k.com:25461/ABDELAZIZ@REGHID/xtpTttmFlQ/574
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 POL.[/B][/COLOR][COLOR=white][/COLOR]
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
@@ -93,9 +78,11 @@ http://0000000000000000000000000
 #EXTINF:-1,[COLOR=blue][B]CANAIS ELEVEN SPORTS PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://51.154.223.105:8000/play/a0n3/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="MEO PORTUGAL",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://0000000000000000000000000
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://51.154.223.105:8000/play/a0jv/index.m3u8
 
 
 
