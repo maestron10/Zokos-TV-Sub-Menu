@@ -13,9 +13,19 @@ Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 #EXTINF:-1,[COLOR=blue][B]NOVOS LINKS SPORT TV PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://00000000000
 
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://vstreams.tv:2082/ericVlite99/16846546/1170913
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://00000000000000000000000000
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://vstreams.tv:2082/ericVlite99/16846546/1170914
+ 
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://vstreams.tv:2082/ericVlite99/16846546/1170915
+
+#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://vstreams.tv:2082/ericVlite99/16846546/1170916
+
+
  
 #EXTINF:-1,[COLOR=blue][B]LINKS SPORT TV PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://00000000000
