@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
  FONTE DE INFORMAÇÃO: https://www.player-castv.cf/2021/09/portugal-free-full-multi-iptv-channels.html
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 15/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 20/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
 
@@ -62,9 +62,6 @@ http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
 
-#EXTINF:0 tvg-id="rtp1.pt" group-title="PORTUGAL TV",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://usa2.iptvteam.org:8000/live/picamiolos8/picamiolos8/128.m3u8
-
 #EXTINF:-1,[COLOR=white][B]RTP INTERNACIONAL SD[/B][/COLOR][COLOR=white][/COLOR]
 http://210.210.155.35/qwr9ew/s/s38/index.m3u8
 
@@ -73,9 +70,6 @@ https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Porto Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/300px-Logo_Porto_Canal.jpg" group-title="PORTUGAL",[COLOR=white][B]PORTO CANAL SD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]TVI 24[/B][/COLOR][COLOR=white][/COLOR]
-https://iptv-all.lanesh4d0w.repl.co/portugal/tvi24
 
 #EXTINF:-1,[COLOR=white][B]TVI REALITY TV[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
@@ -89,9 +83,6 @@ http://live.impresa.pt/live/sicint/sicint.m3u8
 #EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sicint/sicint.m3u8
 
-#EXTINF:0 tvg-id="CMTV.pt" group-title="PORTUGAL TV",[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://usa2.iptvteam.org:8000/live/picamiolos8/picamiolos8/104.m3u8
-
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",[COLOR=white][B]SIC SD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sic/sic.m3u8
 
@@ -100,12 +91,6 @@ http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",[COLOR=white][B]SIC NOTÍCIAS FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL TV",[COLOR=white][B]TVI FICÇÃO[/B][/COLOR][COLOR=white][/COLOR]
-http://usa2.iptvteam.org:8000/live/picamiolos8/picamiolos8/642.m3u8
-
-#EXTINF:0 tvg-id="hollywood" group-title="PORTUGAL TV",[COLOR=white][B]HOLLYWOOD[/B][/COLOR][COLOR=white][/COLOR]
-http://usa2.iptvteam.org:8000/live/picamiolos8/picamiolos8/182.m3u8
 
 #EXTINF:-1,[COLOR=white][B]CANAL PARLAMENTO[/B][/COLOR][COLOR=white][/COLOR]
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
@@ -145,207 +130,14 @@ https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
 #EXTINF:-1,[COLOR=white][B]TV MANA[/B][/COLOR][COLOR=white][/COLOR]
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
 
-#EXTM3U
+#EXTM3
 
 #EXTINF:-1,[COLOR=yellow][B]CANAIS TV PT - LISTA 2[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Porto.pt" tvg-name="|.PT.S.| PORTO CANAL" tvg-logo="http://one-iptv.com/imageslogo/Porto.pt.png" group-title="PORTUGAL",|.PT.S.| PORTO CANAL
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58867
-#EXTINF:-1 tvg-id="Porto.pt" tvg-name="|.PT.S.| PORTO CANAL HD" tvg-logo="http://one-iptv.com/imageslogo/Porto.pt.png" group-title="PORTUGAL",|.PT.S.| PORTO CANAL HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58868
-#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="|.PT.S.| A BOLA TV" tvg-logo="http://one-iptv.com/imageslogo/ABolaTV.pt.png" group-title="PORTUGAL",|.PT.S.| A BOLA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58869
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="|.PT.S.| EUROSPORT 1 HD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport1.pt.png" group-title="PORTUGAL",|.PT.S.| EUROSPORT 1 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58871
-#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="|.PT.S.| EUROSPORT 2 HD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.pt.png" group-title="PORTUGAL",|.PT.S.| EUROSPORT 2 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58872
-#EXTINF:-1 tvg-id="" tvg-name="|.PT.S.| REAL MADRID" tvg-logo="http://one-iptv.com/imageslogo/RealMadridTV.es.png" group-title="PORTUGAL",|.PT.S.| REAL MADRID
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58873
-#EXTINF:-1 tvg-id="" tvg-name="|.PT.S.| TOROS TV" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_1399_30_36_CE40000_0_0_0.png" group-title="PORTUGAL",|.PT.S.| TOROS TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58874
-#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="|.PT.S.| SPORTING TV" tvg-logo="http://one-iptv.com/imageslogo/SportingTV.pt.png" group-title="PORTUGAL",|.PT.S.| SPORTING TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58875
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="|.PT.S.| BENFICA TV" tvg-logo="http://one-iptv.com/imageslogo/BenficaTV1.pt.png" group-title="PORTUGAL",|.PT.S.| BENFICA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58876
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="|.PT.S.| SPORT TV+" tvg-logo="http://one-iptv.com/imageslogo/SportTVPlus.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV+
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58878
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="|.PT.S.| SPORT TV 1" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 1
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58879
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="|.PT.S.| SPORT TV 1 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 1 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/31368
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="|.PT.S.| SPORT TV 2" tvg-logo="http://one-iptv.com/imageslogo/SportTV2.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 2
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58881
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="|.PT.S.| SPORT TV 2 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV2.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 2 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58880
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="|.PT.S.| SPORT TV 3" tvg-logo="http://one-iptv.com/imageslogo/SportTV3.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 3
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58883
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="|.PT.S.| SPORT TV 3 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV3.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 3 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58882
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="|.PT.S.| SPORT TV 4" tvg-logo="http://one-iptv.com/imageslogo/SportTV4.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 4
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58885
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="|.PT.S.| SPORT TV 4 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV4.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 4 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58884
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="|.PT.S.| SPORT TV 5" tvg-logo="http://one-iptv.com/imageslogo/SportTV5.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 5
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58887
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="|.PT.S.| SPORT TV 5 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV5.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 5 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58886
-#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 1 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports1.pt.png" group-title="PORTUGAL",|.PT.S.| ELEVEN SPORTS 1 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58888
-#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 2 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports2.pt.png" group-title="PORTUGAL",|.PT.S.| ELEVEN SPORTS 2 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58889
-#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 3 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports3.pt.png" group-title="PORTUGAL",|.PT.S.| ELEVEN SPORTS 3 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58890
-#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 4 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",|.PT.S.| ELEVEN SPORTS 4 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58891
-#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 5 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",|.PT.S.| ELEVEN SPORTS 5 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58892
-#EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 6 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",|.PT.S.| ELEVEN SPORTS 6 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58893
-#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="|.PT.| BENFICA TV FHD" tvg-logo="http://one-iptv.com/imageslogo/BenficaTV1.pt.png" group-title="PORTUGAL",|.PT.| BENFICA TV FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/95819
-#EXTINF:-1 tvg-id="CancaoNova.pt" tvg-name="|.PT.| CANCAO NOVA" tvg-logo="http://one-iptv.com/imageslogo/CancaoNova.pt.png" group-title="PORTUGAL",|.PT.| CANCAO NOVA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/107845
-#EXTINF:-1 tvg-id="" tvg-name="|.PT.| SANTUARIO DE FATIMA TV" tvg-logo="" group-title="PORTUGAL",|.PT.| SANTUARIO DE FATIMA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/107846
-#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="|.PT.| SIC CARAS FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_51C_67_53_CE40000_0_0_0.png" group-title="PORTUGAL",|.PT.| SIC CARAS FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58799
-#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="|.PT.| RTP 1" tvg-logo="http://one-iptv.com/imageslogo/Rtp1.pt.png" group-title="PORTUGAL",|.PT.| RTP 1
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58777
-#EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="|.PT.| RTP 2" tvg-logo="http://one-iptv.com/imageslogo/Rtp2.pt.png" group-title="PORTUGAL",|.PT.| RTP 2
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58779
-#EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="|.PT.| RTP 3" tvg-logo="http://one-iptv.com/imageslogo/Rtp3.pt.png" group-title="PORTUGAL",|.PT.| RTP 3
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58781
-#EXTINF:-1 tvg-id="" tvg-name="---??|D PORTUGAL |??---" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMN8HEwsENhf7PIaHnZEDXmqTtRj8EgPeanXR6e0bAzIgqnxB2K8X8Cz7&s" group-title="PORTUGAL",---??|D PORTUGAL |??---
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58776
-#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="|.PT.| CANAL 11" tvg-logo="http://one-iptv.com/imageslogo/pu_tv-station-canal-11-1787.png" group-title="PORTUGAL",|.PT.| CANAL 11
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/48564
-#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="|.PT.| RTP 1 HD" tvg-logo="http://one-iptv.com/imageslogo/Rtp1.pt.png" group-title="PORTUGAL",|.PT.| RTP 1 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58778
-#EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="|.PT.| RTP 2 HD" tvg-logo="http://one-iptv.com/imageslogo/Rtp2.pt.png" group-title="PORTUGAL",|.PT.| RTP 2 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58780
-#EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="|.PT.| RTP 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf-y1Cd-ihH_jItjfsqKzJgwHDTcAFKiW1lqxjNGf8g3GEkYiYTxvFYr8&s" group-title="PORTUGAL",|.PT.| RTP 3 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58782
-#EXTINF:-1 tvg-id="RtpMemoria.pt" tvg-name="|.PT.| RTP MEMORIA HD" tvg-logo="http://one-iptv.com/imageslogo/RtpMemoria.pt.png" group-title="PORTUGAL",|.PT.| RTP MEMORIA HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58783
-#EXTINF:-1 tvg-id="RtpMadeira.pt" tvg-name="|.PT.| RTP MADEIRA HD" tvg-logo="http://one-iptv.com/imageslogo/RtpMadeira.pt.png" group-title="PORTUGAL",|.PT.| RTP MADEIRA HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58784
-#EXTINF:-1 tvg-id="RtpAcores.pt" tvg-name="|.PT.| RTP ACORES HD" tvg-logo="http://one-iptv.com/imageslogo/RtpAcores.pt.png" group-title="PORTUGAL",|.PT.| RTP ACORES HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58785
-#EXTINF:-1 tvg-id="RtpAfrica.pt" tvg-name="|.PT.| RTP AFRICA HD" tvg-logo="http://one-iptv.com/imageslogo/RtpAfrica.pt.png" group-title="PORTUGAL",|.PT.| RTP AFRICA HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58786
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="|.PT.| TVI FICCAO HD" tvg-logo="http://one-iptv.com/imageslogo/TVIFiccao.pt.png" group-title="PORTUGAL",|.PT.| TVI FICCAO HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58787
-#EXTINF:-1 tvg-id="Tvi.pt" tvg-name="|.PT.| TVI FHD" tvg-logo="http://one-iptv.com/imageslogo/Tvi.pt.png" group-title="PORTUGAL",|.PT.| TVI FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58788
-#EXTINF:-1 tvg-id="Tvi.pt" tvg-name="|.PT.| TVI HD" tvg-logo="http://one-iptv.com/imageslogo/Tvi.pt.png" group-title="PORTUGAL",|.PT.| TVI HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58789
-#EXTINF:-1 tvg-id="Tvi24.pt" tvg-name="|.PT.| TVI 24 HD" tvg-logo="http://one-iptv.com/imageslogo/Tvi24.pt.png" group-title="PORTUGAL",|.PT.| TVI 24 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58790
-#EXTINF:-1 tvg-id="Globo.pt" tvg-name="|.PT.| TV GLOBO HD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_130_26_36_CE40000_0_0_0.png" group-title="PORTUGAL",|.PT.| TV GLOBO HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58791
-#EXTINF:-1 tvg-id="Sic.pt" tvg-name="|.PT.| SIC" tvg-logo="http://one-iptv.com/imageslogo/Sic.pt.png" group-title="PORTUGAL",|.PT.| SIC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58795
-#EXTINF:-1 tvg-id="Sic.pt" tvg-name="|.PT.| SIC HD" tvg-logo="http://one-iptv.com/imageslogo/Sic.pt.png" group-title="PORTUGAL",|.PT.| SIC HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58796
-#EXTINF:-1 tvg-id="SicNoticias.pt" tvg-name="|.PT.| SIC NOTICIAS" tvg-logo="http://one-iptv.com/imageslogo/SicNoticias.pt.png" group-title="PORTUGAL",|.PT.| SIC NOTICIAS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58797
-#EXTINF:-1 tvg-id="SicNoticias.pt" tvg-name="|.PT.| SIC NOTICIAS HD" tvg-logo="http://one-iptv.com/imageslogo/SicNoticias.pt.png" group-title="PORTUGAL",|.PT.| SIC NOTICIAS HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58798
-#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="|.PT.| SIC CARAS HD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_51C_67_53_CE40000_0_0_0.png" group-title="PORTUGAL",|.PT.| SIC CARAS HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58800
-#EXTINF:-1 tvg-id="SicRadical.pt" tvg-name="|.PT.| SIC RADICAL HD" tvg-logo="http://one-iptv.com/imageslogo/SicRadical.pt.png" group-title="PORTUGAL",|.PT.| SIC RADICAL HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58802
-#EXTINF:-1 tvg-id="SicMulher.pt" tvg-name="|.PT.| SIC MULHER" tvg-logo="http://one-iptv.com/imageslogo/SicMulher.pt.png" group-title="PORTUGAL",|.PT.| SIC MULHER
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58803
-#EXTINF:-1 tvg-id="SicMulher.pt" tvg-name="|.PT.| SIC MULHER HD" tvg-logo="http://one-iptv.com/imageslogo/SicMulher.pt.png" group-title="PORTUGAL",|.PT.| SIC MULHER HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58804
-#EXTINF:-1 tvg-id="Cmtv.pt" tvg-name="|.PT.| CMTV FHD" tvg-logo="http://one-iptv.com/imageslogo/Cmtv.pt.png" group-title="PORTUGAL",|.PT.| CMTV FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58805
-#EXTINF:-1 tvg-id="Cmtv.pt" tvg-name="|.PT.| CMTV HD" tvg-logo="http://one-iptv.com/imageslogo/Cmtv.pt.png" group-title="PORTUGAL",|.PT.| CMTV HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58806
-#EXTINF:-1 tvg-id="" tvg-name="---??|D CINEMA |??---" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDE3AxMnpazNw2o9afAGazFD_zhTpD5ms0TXZbr4zN7eEe_AQkW5w4bU0VA&s" group-title="PORTUGAL",---??|D CINEMA |??---
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58807
-#EXTINF:-1 tvg-id="Mov.pt" tvg-name="|.PT.| MOV HD" tvg-logo="http://one-iptv.com/imageslogo/Mov.pt.png" group-title="PORTUGAL",|.PT.| MOV HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58816
-#EXTINF:-1 tvg-id="CrimeInvestigation.pt" tvg-name="|.PT.| CRIME INVESTIGATION HD" tvg-logo="http://one-iptv.com/imageslogo/CrimeInvestigation.pt.png" group-title="PORTUGAL",|.PT.| CRIME INVESTIGATION HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58817
-#EXTINF:-1 tvg-id="" tvg-name="|.PT.| CINE MUNDO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCMmU2RS-ziEh-OYj6paceU9GYs2-TYq4Zs2-4_ydNKoJhA6nnb9QIAM&s" group-title="PORTUGAL",|.PT.| CINE MUNDO HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58818
-#EXTINF:-1 tvg-id="CanalHollywood.pt" tvg-name="|.PT.| HOLLYWOOD" tvg-logo="http://one-iptv.com/imageslogo/CanalHollywood.pt.png" group-title="PORTUGAL",|.PT.| HOLLYWOOD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58819
-#EXTINF:-1 tvg-id="CanalHollywood.pt" tvg-name="|.PT.| HOLLYWOOD HD" tvg-logo="http://one-iptv.com/imageslogo/CanalHollywood.pt.png" group-title="PORTUGAL",|.PT.| HOLLYWOOD HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58820
-#EXTINF:-1 tvg-id="FoxCrime.pt" tvg-name="|.PT.| FOX CRIME HD" tvg-logo="http://one-iptv.com/imageslogo/FoxCrime.pt.png" group-title="PORTUGAL",|.PT.| FOX CRIME HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58821
-#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="|.PT.| FOX MOVIES HD" tvg-logo="http://one-iptv.com/imageslogo/FoxMovies.pt.png" group-title="PORTUGAL",|.PT.| FOX MOVIES HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58823
-#EXTINF:-1 tvg-id="FoxComedy.pt" tvg-name="|.PT.| FOX COMEDY HD" tvg-logo="http://one-iptv.com/imageslogo/FoxComedy.pt.png" group-title="PORTUGAL",|.PT.| FOX COMEDY HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58825
-#EXTINF:-1 tvg-id="FoxLife.pt" tvg-name="|.PT.| FOX LIFE HD" tvg-logo="http://one-iptv.com/imageslogo/FoxLife.pt.png" group-title="PORTUGAL",|.PT.| FOX LIFE HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58827
-#EXTINF:-1 tvg-id="Fox.pt" tvg-name="|.PT.| FOX HD" tvg-logo="http://one-iptv.com/imageslogo/Fox.pt.png" group-title="PORTUGAL",|.PT.| FOX HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58829
-#EXTINF:-1 tvg-id="TLC.pt" tvg-name="|.PT.| TLC" tvg-logo="http://one-iptv.com/imageslogo/TLC.pt.png" group-title="PORTUGAL",|.PT.| TLC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58830
-#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="|.PT.| SYFY HD" tvg-logo="http://one-iptv.com/imageslogo/Syfy.pt.png" group-title="PORTUGAL",|.PT.| SYFY HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58832
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="|.PT.| AMC" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_519_2F_36_CE40000_0_0_0.png" group-title="PORTUGAL",|.PT.| AMC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58833
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="|.PT.| AMC HD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_519_2F_36_CE40000_0_0_0.png" group-title="PORTUGAL",|.PT.| AMC HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58834
-#EXTINF:-1 tvg-id="AXN.pt" tvg-name="|.PT.| AXN HD" tvg-logo="http://one-iptv.com/imageslogo/AXN.pt.png" group-title="PORTUGAL",|.PT.| AXN HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58836
-#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="|.PT.| AXN WHITE HD" tvg-logo="http://one-iptv.com/imageslogo/AXNWhite.pt.png" group-title="PORTUGAL",|.PT.| AXN WHITE HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58838
-#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="|.PT.| AXN BLACK HD" tvg-logo="http://one-iptv.com/imageslogo/AXNBlack.pt.png" group-title="PORTUGAL",|.PT.| AXN BLACK HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58840
-#EXTINF:-1 tvg-id="" tvg-name="---??|D CULTURA |??---" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqDnd04PDbqz-HxR_qOrFjeCMdIhEApv2aeMWc69xGFmyFF6BmmbyeSg&s" group-title="PORTUGAL",---??|D CULTURA |??---
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58841
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="|.PT.| 24 KITCHEN HD" tvg-logo="http://one-iptv.com/imageslogo/24Kitchen.pt.png" group-title="PORTUGAL",|.PT.| 24 KITCHEN HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58843
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.| MY CUISINE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRla68atiRY0eHPN4NJiFq11DlVrgB5tf25sm45IZ4SRCDN_xT6DXrV-II&s" group-title="PORTUGAL",|.PT.| MY CUISINE HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58844
-#EXTINF:-1 tvg-id="FoodNetwork.pt" tvg-name="|.PT.| FOOD NETWORK HD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_CD14_902_2_11A0000_0_0_0.png" group-title="PORTUGAL",|.PT.| FOOD NETWORK HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58845
-#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="|.PT.| TVI REALITY HD" tvg-logo="http://one-iptv.com/imageslogo/TviReality.pt.png" group-title="PORTUGAL",|.PT.| TVI REALITY HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58847
-#EXTINF:-1 tvg-id="" tvg-name="|.PT.| CBS REALITY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSpfCloiFeTuYCDntScd7W12DNlXCYa6lTYovSWp8vN7m5l1ZpDi-wdiwk&s" group-title="PORTUGAL",|.PT.| CBS REALITY HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58848
-#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="|.PT.| ODISSEIA HD" tvg-logo="http://one-iptv.com/imageslogo/Odisseia.pt.png" group-title="PORTUGAL",|.PT.| ODISSEIA HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58849
-#EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-name="|.PT.| CACA PESCA HD" tvg-logo="http://one-iptv.com/imageslogo/CacaEPesca.pt.png" group-title="PORTUGAL",|.PT.| CACA PESCA HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58850
-#EXTINF:-1 tvg-id="NatGeo.pt" tvg-name="|.PT.| NATIONAL GEOGRAPHIC HD" tvg-logo="http://one-iptv.com/imageslogo/NatGeo.pt.png" group-title="PORTUGAL",|.PT.| NATIONAL GEOGRAPHIC HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58851
-#EXTINF:-1 tvg-id="" tvg-name="|.PT.| NAT GEO WILD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcDeHhRCy9tFjZ9byh4tF59BnVsuzbDa97P7lADfnnjykC6FOrIGSfC-Dq&s" group-title="PORTUGAL",|.PT.| NAT GEO WILD HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58852
-#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="|.PT.| DISCOVERY CHANNEL HD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_D1_66_53_CE40000_0_0_0.png" group-title="PORTUGAL",|.PT.| DISCOVERY CHANNEL HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58853
-#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="|.PT.| TRAVEL CHANNEL FHD" tvg-logo="http://one-iptv.com/imageslogo/TravelChannel.pt.png" group-title="PORTUGAL",|.PT.| TRAVEL CHANNEL FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58854
-#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="|.PT.| CANAL HISTORIA HD" tvg-logo="http://one-iptv.com/imageslogo/HistoryChannel.pt.png" group-title="PORTUGAL",|.PT.| CANAL HISTORIA HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58855
-#EXTINF:-1 tvg-id="" tvg-name="---??| CRIANCAS |??---" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpt597c_BKhhcVm4LJJbK18ApFs8B8_E5pAAJtHCSyCnl7BoUVVbe2shdG9w&s" group-title="PORTUGAL",---??| CRIANCAS |??---
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58856
-#EXTINF:-1 tvg-id="JimJam.pt" tvg-name="|.PT.| JIMJAM HD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_13CC_C95_3_EB0000_0_0_0.png" group-title="PORTUGAL",|.PT.| JIMJAM HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58857
-#EXTINF:-1 tvg-id="" tvg-name="|.PT.| SIC K HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-AAT2A97ErLgwmenR2JK0FklWOYOItTLt4jbTnYzfaf75QausaOi6bw&s" group-title="PORTUGAL",|.PT.| SIC K HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58858
-#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="|.PT.| NICKELODEON HD" tvg-logo="http://one-iptv.com/imageslogo/pu_200px-Nickelodeon_2009_logo.svg.png" group-title="PORTUGAL",|.PT.| NICKELODEON HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58859
-#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="|.PT.| CARTOON NETWORK HD" tvg-logo="http://one-iptv.com/imageslogo/CartoonNetwork.pt.png" group-title="PORTUGAL",|.PT.| CARTOON NETWORK HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58860
-#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="|.PT.| BABY TV HD" tvg-logo="http://one-iptv.com/imageslogo/pu_babytv.png" group-title="PORTUGAL",|.PT.| BABY TV HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58861
-#EXTINF:-1 tvg-id="Panda.pt" tvg-name="|.PT.| CANAL PANDA HD" tvg-logo="http://one-iptv.com/imageslogo/Panda.pt.png" group-title="PORTUGAL",|.PT.| CANAL PANDA HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58862
-#EXTINF:-1 tvg-id="Biggs.pt" tvg-name="|.PT.| PANDA BIGGS HD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_1391_30_36_CE40000_0_0_0.png" group-title="PORTUGAL",|.PT.| PANDA BIGGS HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58863
-#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="|.PT.| DISNEY JUNIOR HD" tvg-logo="http://one-iptv.com/imageslogo/DisneyJunior.sa.png" group-title="PORTUGAL",|.PT.| DISNEY JUNIOR HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58864
-#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="|.PT.| DISNEY CHANNEL HD" tvg-logo="http://one-iptv.com/imageslogo/DisneyChannel.pt.png" group-title="PORTUGAL",|.PT.| DISNEY CHANNEL HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/58865
-#EXTINF:-1 tvg-id="" tvg-name="---??| LATINO |??---" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFsaL36OdcgDIh5PnU_ld45b_-qGilY97_NeX01fC2E2_pIbxsFG4qH4vF" group-title="LATINO",---??| LATINO |??---
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/22486
+#EXTINF:-1 tvg-id="Porto.pt" tvg-name="|.PT.S.| PORTO CANAL" tvg-logo="http://one-iptv.com/imageslogo/Porto.pt.png" group-title="PORTUGAL",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://00000000000000000000000000000000
+
+
+
