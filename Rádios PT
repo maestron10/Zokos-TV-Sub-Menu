@@ -551,6 +551,12 @@ https://ssl.xpspainel.eu/KF5VexOINjOssXo5lK2T
 #EXTINF:-1,[COLOR=blue][B]DISTRITO: VISEU[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000000000000000
 
+#EXTINF:-1,[COLOR=white][B]RÁDIO DÃO DIGITAL[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8206/stream?1637497604160
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO ESTAÇÃO DIÁRIA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:9430/;
+
 #EXTINF:-1,[COLOR=white][B]RÁDIO EMISSORA DAS BEIRAS[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:8465/;
 
@@ -574,9 +580,6 @@ https://ssls.stmxp.net:7066/stream
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO LIMITE[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9408/;
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO ESTAÇÃO DIÁRIA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9430/;
 
 #EXTINF:-1,[COLOR=white][B]VFM ONLINE[/B][/COLOR][COLOR=white][/COLOR]
 http://cast.redewt.net:9141/live
