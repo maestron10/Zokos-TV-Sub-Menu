@@ -304,6 +304,119 @@ http://centova.radio.com.pt:9034/;
 #EXTINF:-1,[COLOR=blue][B]DISTRITO: LEIRIA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000000000000000 
 
+#EXTINF:-1,[COLOR=white][B]RÁDIO CISTER FM[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:8453/;
+
+#EXTINF:-1,[COLOR=white][B]94 FM[/B][/COLOR][COLOR=white][/COLOR]
+http://185.11.164.106:35022/stream
+
+#EXTINF:-1,[COLOR=white][B]ABC PORTUAL[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:8547/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO MORTARD FM[/B][/COLOR][COLOR=white][/COLOR]
+https://sp0.redeaudio.com:10938/;
+
+#EXTINF:-1,[COLOR=white][B]HIT FM ONLINE[/B][/COLOR][COLOR=white][/COLOR]
+https://node-22.zeno.fm/88ck6ggfqm0uv?rj-ttl=5&rj-tok=AAABfUIYfukAmuqemx_0CFqpvg
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO MAIS OESTE[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:8515/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CARDAL FM[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8204/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO DOM FUAS[/B][/COLOR][COLOR=white][/COLOR]
+https://prosc1.evspt.com/dfuas
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DE POMBAL[/B][/COLOR][COLOR=white][/COLOR]
+http://radioclubepombal.no-ip.biz:8081/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE MARINHENSE[/B][/COLOR][COLOR=white][/COLOR]
+http://185.164.137.42:8000/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO VIDA NOVA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:8061/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO ALCOBAÇA[/B][/COLOR][COLOR=white][/COLOR]
+https://sonic1.transmissaodigital.com/8120/stream
+
+
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]DISTRITO: LISBOA[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000000000000000000 
+
+#EXTINF:-1,[COLOR=white][B]BREVEMENTE[/B][/COLOR][COLOR=white][/COLOR]
+https://000000000000000000000000000
+
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]DISTRITO: MADEIRA[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000000000000000000
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CANTINHO DA MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
+http://109.71.41.6:8129/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO TSF MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:9470/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CALHETA[/B][/COLOR][COLOR=white][/COLOR]
+https://streamonline.pt/radio/8000/radiocalheta
+
+#EXTINF:-1,[COLOR=white][B]POSTO EMISSOR DO FUNCHAL[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:9422/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO FESTIVAL MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
+http://radiosmadeira.net:8012/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO JORNAL MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
+https://radio.jm-madeira.pt/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
+http://radiosmadeira.net:8020/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO AMOR ETERNO[/B][/COLOR][COLOR=white][/COLOR]
+https://ssl.stmxp.net:7134/
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO POPULAR[/B][/COLOR][COLOR=white][/COLOR]
+http://radiosmadeira.net:8008/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO SANTANA FM[/B][/COLOR][COLOR=white][/COLOR]
+https://streamonline.pt/radio/8020/radio.mp3
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO SOL[/B][/COLOR][COLOR=white][/COLOR]
+http://radiosmadeira.net:8010/;stream.mp3
+
+
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]DISTRITO: PORTALEGRE[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000000000000000000
+
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO PORTALEGRE[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:9492/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO NOSTALGIA ELVAS[/B][/COLOR][COLOR=white][/COLOR]
+http://stm6.srvstm.com:6162/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO ELVAS ONLINE[/B][/COLOR][COLOR=white][/COLOR]
+http://radios.dotsi.pt:8025/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO JOTA[/B][/COLOR][COLOR=white][/COLOR]
+http://51.75.145.68:9874/;
+
+
+
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]DISTRITO: PORTO[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000000000000000000
+
+#EXTINF:-1,[COLOR=white][B]BREVEMENTE[/B][/COLOR][COLOR=white][/COLOR]
+https://000000000000000000000000000
+
+
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]DISTRITO: SANTAREM[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000000000000000000
+
 
 
 ######################################################################################################################################
