@@ -66,6 +66,9 @@ http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 #EXTINF:-0,[COLOR=white][B]TSF MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9470/;
 
+#EXTINF:-0,[COLOR=white][B]RÁDIO MEO SUDOESTE[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:8495/;
+
 #EXTINF:-0,[COLOR=white][B]RÁDIO RENASCENÇA[/B][/COLOR][COLOR=white][/COLOR]
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
 
