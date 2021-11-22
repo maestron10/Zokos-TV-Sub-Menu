@@ -11,6 +11,129 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top  -  https://www.r
  
 #EXTM3U
 
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]TOP RÁDIOS FAVORITAS[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000000000000000000
+
+#EXTINF:0 tvg-logo="https://static-media.streema.com/media/cache/26/58/26586a648e60970c51f0cf1cbc4a90f1.jpg" group-title="",[COLOR=white][B]RÁDIO ORBITAL[/B][/COLOR][COLOR=white][/COLOR]
+http://195.23.85.126:8401/stream/1/
+ #EXTINF:-1,[COLOR=white][B]RÁDIO ORBITAL[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:8401/stream
+#EXTINF:-0,[COLOR=white][B]HIPER FM[/B][/COLOR][COLOR=white][/COLOR]
+http://195.23.85.126:9500/stream/1/
+#EXTINF:-1,[COLOR=white][B]NOITE FM[/B][/COLOR][COLOR=white][/COLOR]
+http://live.noite.pt:8080/;
+#EXTINF:-0,[COLOR=white][B]RÁDIO NOVA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:9528/stream/1/
+
+
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS INFANTIS[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000000000000000000
+
+FONTE: https://radioonline.com.pt; https://www.radios-online.pt/mundial-fm
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO ZIG ZAG[/B][/COLOR][COLOR=white][/COLOR]
+http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8?DVR
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO MIÚDOS[/B][/COLOR][COLOR=white][/COLOR]
+https://s4.radio.co/s6b2edc98f/listen
+
+######################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS NACIONAIS E/OU ONLINE[/B][/COLOR][COLOR=blue][/COLOR]
+https://video-auth1.iol.pt
+ 
+ 
+#EXTINF:-1,[COLOR=white][B]RÁDIO ANTENA 1[/B][/COLOR][COLOR=white][/COLOR]
+http://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=white][B]RÁDIO ANTENA 2[/B][/COLOR][COLOR=white][/COLOR]
+http://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=white][B]RÁDIO ANTENA 3[/B][/COLOR][COLOR=white][/COLOR]
+http://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RDP INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+http://radiocast.rtp.pt/rdpint80a.mp3
+
+#EXTINF:-1,[COLOR=white][B]RDP INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+http://radiocast.rtp.pt/rdpint80a.mp3
+
+#EXTINF:-1,[COLOR=white][B]RDP ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="https://medias.unifrance.org/medias/23/162/41495/format_hd/tsf.jpg",[COLOR=white][B]TSF NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+ 
+#EXTINF:-0,[COLOR=white][B]TSF MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:9470/;
+
+#EXTINF:-0,[COLOR=white][B]RÁDIO RENASCENÇA[/B][/COLOR][COLOR=white][/COLOR]
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
+
+#EXTINF:-0,[COLOR=white][B]RÁDIO RENASCENÇA[/B][/COLOR][COLOR=white][/COLOR]
+https://20723.live.streamtheworld.com/RADIO_RENASCENCAAAC
+
+#EXTINF:0 tvg-logo="" group-title="https://upload.wikimedia.org/wikipedia/pt/c/ce/Logotipo_da_R%C3%A1dio_Cidade_%28Rio_de_Janeiro%29.png",[COLOR=white][B]CIDADE FM[/B][/COLOR][COLOR=white][/COLOR]
+http://mcrscast.mcr.iol.pt/cidadefm
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL[/B][/COLOR][COLOR=white][/COLOR]
+http://mcrscast.mcr.iol.pt/comercial.mp3
+
+#EXTINF:-1,[COLOR=white][B]M80 NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+http://mcrscast.mcr.iol.pt/m80
+
+#EXTINF:-1,[COLOR=white][B]M80 PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
+https://media3.mcr.iol.pt/wrm80/m80nacional.aac/icecast.audio
+
+#EXTINF:-1,[COLOR=white][B]M80 BALADAS[/B][/COLOR][COLOR=white][/COLOR]
+https://media2.mcr.iol.pt/wrm80/m80ballads.stream/chunks.m3u8?nimblesessionid=27356095
+
+#EXTINF:-1,[COLOR=white][B]M80 ANOS 80[/B][/COLOR][COLOR=white][/COLOR]
+https://media2.mcr.iol.pt/wrm80/m8080.stream/l_461658_276522005_46087.aac?nimblesessionid=27356279
+
+#EXTINF:-1,[COLOR=white][B]RFM[/B][/COLOR][COLOR=white][/COLOR]
+http://21313.live.streamtheworld.com/RFMAAC.aac
+
+#EXTINF:-1,[COLOR=white][B]RFM - OCEANO PACÍFICO[/B][/COLOR][COLOR=white][/COLOR]
+https://23603.live.streamtheworld.com/OCEANPACIFICAAC_SC?dist=triton-widget&pname=tdwidgets
+
+#EXTINF:-1,[COLOR=white][B]RFM - DANCE FLOOR[/B][/COLOR][COLOR=white][/COLOR]
+https://22543.live.streamtheworld.com/DANCEONTHEFLOORAAC_SC
+  
+#EXTINF:-1,[COLOR=white][B]RÁDIO MEGA HITS[/B][/COLOR][COLOR=white][/COLOR]
+http://21313.live.streamtheworld.com/MEGA_HITSAAC.aac
+ 
+#EXTINF:-0,[COLOR=white][B]VODAFONE FM[/B][/COLOR][COLOR=white][/COLOR]
+http://195.23.102.207/vodafone
+
+#EXTINF:-0,[COLOR=white][B]RÁDIO SUPERFM[/B][/COLOR][COLOR=white][/COLOR]
+http://95.217.75.38:9962/;&13202692901&duration=99999&id=scplayer&autostart=true
+
+#EXTINF:-0,[COLOR=white][B]RÁDIO AMÁLIA[/B][/COLOR][COLOR=white][/COLOR]
+http://link.radios.pt/amalia?1487014253471.mp3
+
+#EXTINF:-0,[COLOR=white][B]RÁDIO RECORD FM[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8010/stream
+ 
+#EXTINF:-0,[COLOR=white][B]RÁDIO OBSERVADOR FM[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.observador.pt/aac_hifi.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO REGIONAL NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+https://play.radioregional.pt/stream/1/
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO GOLO FM[/B][/COLOR][COLOR=white][/COLOR]
+http://play.golo.fm:8020/;stream.mp3
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO MUNDIAL FM[/B][/COLOR][COLOR=white][/COLOR]
+http://95.217.75.38:9000/
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO SMOOTH[/B][/COLOR][COLOR=white][/COLOR]
+https://media3.mcr.iol.pt/livefm/smooth.mp3/icecast.audio
+
+
+
+
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]DISTRITO: AVEIRO[/B][/COLOR][COLOR=blue][/COLOR]
@@ -642,370 +765,4 @@ http://radios.dotsi.pt:8023/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO AMOR ANA DA NOITE[/B][/COLOR][COLOR=white][/COLOR]
 http://144.76.58.102:9944/index.stream
 
-
-######################################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]RÁDIOS INFANTIS[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000000000000000000
-
-FONTE: https://radioonline.com.pt; https://www.radios-online.pt/mundial-fm
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO ZIG ZAG[/B][/COLOR][COLOR=white][/COLOR]
-http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8?DVR
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO MIÚDOS[/B][/COLOR][COLOR=white][/COLOR]
-https://s4.radio.co/s6b2edc98f/listen
-
-######################################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]RÁDIOS NACIONAIS E/OU ONLINE[/B][/COLOR][COLOR=blue][/COLOR]
-https://video-auth1.iol.pt
  
- 
-#EXTINF:-1,[COLOR=white][B]RÁDIO ANTENA 1[/B][/COLOR][COLOR=white][/COLOR]
-http://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
- 
-#EXTINF:-1,[COLOR=white][B]RÁDIO ANTENA 2[/B][/COLOR][COLOR=white][/COLOR]
-http://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
- 
-#EXTINF:-1,[COLOR=white][B]RÁDIO ANTENA 3[/B][/COLOR][COLOR=white][/COLOR]
-http://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]RDP INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
-http://radiocast.rtp.pt/rdpint80a.mp3
-
-#EXTINF:-1,[COLOR=white][B]RDP INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
-http://radiocast.rtp.pt/rdpint80a.mp3
-
-#EXTINF:-1,[COLOR=white][B]RDP ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
-https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
- 
-#EXTINF:0 tvg-logo="" group-title="https://medias.unifrance.org/medias/23/162/41495/format_hd/tsf.jpg",[COLOR=white][B]TSF NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
-http://tsfdirecto.tsf.pt/tsfdirecto.mp3
- 
-#EXTINF:-0,[COLOR=white][B]TSF MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9470/;
-
-#EXTINF:-0,[COLOR=white][B]RÁDIO RENASCENÇA[/B][/COLOR][COLOR=white][/COLOR]
-http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
-
-#EXTINF:-0,[COLOR=white][B]RÁDIO RENASCENÇA[/B][/COLOR][COLOR=white][/COLOR]
-https://20723.live.streamtheworld.com/RADIO_RENASCENCAAAC
-
-#EXTINF:0 tvg-logo="" group-title="https://upload.wikimedia.org/wikipedia/pt/c/ce/Logotipo_da_R%C3%A1dio_Cidade_%28Rio_de_Janeiro%29.png",[COLOR=white][B]CIDADE FM[/B][/COLOR][COLOR=white][/COLOR]
-http://mcrscast.mcr.iol.pt/cidadefm
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL[/B][/COLOR][COLOR=white][/COLOR]
-http://mcrscast.mcr.iol.pt/comercial.mp3
-
-#EXTINF:-1,[COLOR=white][B]M80[/B][/COLOR][COLOR=white][/COLOR]
-http://mcrscast.mcr.iol.pt/m80
-
-#EXTINF:-1,[COLOR=white][B]RFM[/B][/COLOR][COLOR=white][/COLOR]
-http://21313.live.streamtheworld.com/RFMAAC.aac
-  
-#EXTINF:-1,[COLOR=white][B]RÁDIO MEGA HITS[/B][/COLOR][COLOR=white][/COLOR]
-http://21313.live.streamtheworld.com/MEGA_HITSAAC.aac
- 
-#EXTINF:-0,[COLOR=white][B]VODAFONE FM[/B][/COLOR][COLOR=white][/COLOR]
-http://195.23.102.207/vodafone
-
-#EXTINF:-0,[COLOR=white][B]RÁDIO SUPERFM[/B][/COLOR][COLOR=white][/COLOR]
-http://95.217.75.38:9962/;&13202692901&duration=99999&id=scplayer&autostart=true
-
-#EXTINF:-0,[COLOR=white][B]RÁDIO AMÁLIA[/B][/COLOR][COLOR=white][/COLOR]
-http://link.radios.pt/amalia?1487014253471.mp3
-
-#EXTINF:-0,[COLOR=white][B]RÁDIO RECORD FM[/B][/COLOR][COLOR=white][/COLOR]
-https://nl.digitalrm.pt:8010/stream
- 
-#EXTINF:-0,[COLOR=white][B]RÁDIO OBSERVADOR FM[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.observador.pt/aac_hifi.m3u8
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO REGIONAL NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
-https://play.radioregional.pt/stream/1/
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO MUNDIAL FM[/B][/COLOR][COLOR=white][/COLOR]
-http://95.217.75.38:9000/
- 
- 
-######################################################################################################################################
- 
-#EXTM3U
- 
-#EXTINF:-1,[COLOR=blue][B]RÁDIOS ONLINE E/OU LOCAIS[/B][/COLOR][COLOR=blue][/COLOR]
-https://video-auth1.iol.pt
- 
- 
-#EXTINF:0 tvg-logo="https://static-media.streema.com/media/cache/26/58/26586a648e60970c51f0cf1cbc4a90f1.jpg" group-title="",[COLOR=white][B]RÁDIO ORBITAL[/B][/COLOR][COLOR=white][/COLOR]
-http://195.23.85.126:8401/stream/1/
- 
-#EXTINF:-1,[COLOR=white][B]RÁDIO ORBITAL[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:8401/stream
-
-#EXTINF:-1,[COLOR=white][B]94 FM[/B][/COLOR][COLOR=white][/COLOR]
-http://185.11.164.106:35022/stream
-
-
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO REGIONAL DO CENTRO[/B][/COLOR][COLOR=white][/COLOR]
-https://nl.digitalrm.pt:8030/stream
- 
-#EXTINF:-1,[COLOR=white][B]RÁDIO SUPER BOCK, SUPER ROCK[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:8435/stream
- 
-#EXTINF:-1,[COLOR=white][B]RÁDIO BEIRA LITORAL[/B][/COLOR][COLOR=white][/COLOR]
-http://radios.dotsi.pt:8057/
-
-#EXTINF:-0,[COLOR=white][B]ESTAÇÃO DIÁRIA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9430/;
- 
-#EXTINF:-0,[COLOR=white][B]RÁDIO SUDOESTE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:8495/;listen.pls
- 
-#EXTINF:-0,[COLOR=white][B]HIPER FM[/B][/COLOR][COLOR=white][/COLOR]
-http://195.23.85.126:9500/stream/1/
- 
-#EXTINF:-0,[COLOR=white][B]RÁDIO MARGINAL[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:8499/stream/1/
- 
-#EXTINF:-0,[COLOR=white][B]NOVA ERA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:9478/stream/1/
- 
-#EXTINF:-0,[COLOR=white][B]RÁDIO NOVA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:9528/stream/1/
-  
-#EXTINF:-1,[COLOR=white][B]NOITE FM[/B][/COLOR][COLOR=white][/COLOR]
-http://live.noite.pt:8080/;
- 
-#EXTINF:-0,[COLOR=white][B]ULTRA FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9506/;
- 
-#EXTINF:-0,[COLOR=white][B]RÁDIO FESTIVAL[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:9520/stream/1/
-
-#EXTINF:-0,[COLOR=white][B]RÁDIO NOVA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:9528/stream/1/
- 
-#EXTINF:-0,[COLOR=white][B]RÁDIO ONDA VIVA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:9524/stream
- 
-#EXTINF:-0,[COLOR=white][B]RÁDIO CLUBE PENAFIEL[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:9476/;
- 
-#EXTINF:-0,[COLOR=white][B]MARCOENSE FM[/B][/COLOR][COLOR=white][/COLOR]
-http://137.74.160.250:8000/;stream/1
- 
-#EXTINF:-0,[COLOR=white][B]RÁDIO BOTAREU ÁGUEDA[/B][/COLOR][COLOR=white][/COLOR]
-http://213.239.218.99:7022/stream
-
-#EXTINF:-0,[COLOR=white][B]RÁDIO SOBENARIA ÁGUEDA[/B][/COLOR][COLOR=white][/COLOR]
-https://nl.digitalrm.pt:8034/stream
-
-#EXTINF:-0,[COLOR=white][B]RÁDIO PROVÍNCIA ANADIA[/B][/COLOR][COLOR=white][/COLOR]
-http://cp5.serverse.com:7006/stream.mp3
- 
-#EXTINF:-0,[COLOR=white][B]RÁDIO CLUBE DA FEIRA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9544/;
-
-#EXTINF:-0,[COLOR=white][B]RÁDIO REGIONAL AROUCA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8485/;
-
-#EXTINF:-0,[COLOR=white][B]RÁDIO TERRA NOVA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9404/;
-#EXTINF:-0,[COLOR=white][B]RÁDIO VOZ DA RIA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8541/;
- 
-#EXTINF:-0,[COLOR=white][B]RADIO CASTRENSE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8431/;
-#EXTINF:-0,[COLOR=white][B]RADIO PAX[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9484/;
-#EXTINF:-0,[COLOR=white][B]RADIO VOZ DA PLANÍCIE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8441/;
-#EXTINF:-0,[COLOR=white][B]TLA RADIO[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8545/;
-#EXTINF:-0,[COLOR=white][B]RADIO ALTO AVE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8517/;
-#EXTINF:-0,[COLOR=white][B]RÁDIO ANTENA MINHO[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9464/;
-#EXTINF:-0,[COLOR=white][B]RADIO BARCELOS[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8563/;
-#EXTINF:-0,[COLOR=white][B]RÁDIO CIDADE HOJE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8119/;
-#EXTINF:-0,[COLOR=white][B]RADIO NOVE3CINCO[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9522/;
-#EXTINF:-0,[COLOR=white][B]RADIO UNIVERSITÁRIA DO MINHO[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9558/;
-#EXTINF:-0,[COLOR=white][B]RADIO ANSIÃES[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8419/;
-#EXTINF:-0,[COLOR=white][B]RADIO ONDA LIVRE MACEDENCE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9572/;
-#EXTINF:-0,[COLOR=white][B]RADIO TERRA QUENTE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9402/;
-#EXTINF:-0,[COLOR=white][B]RADIO CARIA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8521/;
-#EXTINF:-0,[COLOR=white][B]RADIO CASTELO BRANCO[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9462/;
-#EXTINF:-0,[COLOR=white][B]RADIO CLUBE DA COVILHÃ[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9450/;
-#EXTINF:-0,[COLOR=white][B]RADIO CLUBE DE MONSANTO[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9424/;
-#EXTINF:-0,[COLOR=white][B]RADIO CONDESTÁVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8427/;
-#EXTINF:-0,[COLOR=white][B]RADIO VOZ DA RAIA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8557/;
-#EXTINF:-0,[COLOR=white][B]RADIO COVA DA BEIRA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8467/;
-#EXTINF:-0,[COLOR=white][B]RADIO BORBA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:9578/;
-#EXTINF:-0,[COLOR=white][B]RADIO CAMPANÁRIO[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8425/;
-#EXTINF:-0,[COLOR=white][B]RADIO DIANA FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9460/;
-#EXTINF:-0,[COLOR=white][B]RADIO GRANADA FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8549/;
-#EXTINF:-0,[COLOR=white][B]RADIO TELEFONIA DO ALENTEJO[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8561/;
-#EXTINF:-0,[COLOR=white][B]RC ALENTEJO[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9184/;
-#EXTINF:-0,[COLOR=white][B]ALVOR FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8469/;
-#EXTINF:-0,[COLOR=white][B]RADIO FOIA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8559/;
-#EXTINF:-0,[COLOR=white][B]RADIO GILÃO[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9440/;
-#EXTINF:-0,[COLOR=white][B]RADIO HORIZONTE ALGARVE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9458/;
-#EXTINF:-0,[COLOR=white][B]RADIO LAGOA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9488/;
- 
-#EXTINF:-0,[COLOR=white][B]RADIO UNIVERSITÁRIA DO ALGARVE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9536/;
-#EXTINF:-0,[COLOR=white][B]RADIO ALTITUDE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9034/;
-#EXTINF:-0,[COLOR=white][B]RADIO ANTENA LIVRE GOUVEIA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9456/;
-#EXTINF:-0,[COLOR=white][B]RADIO CLUBE DA MEDA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8493/;
-#EXTINF:-0,[COLOR=white][B]RADIO ELMO[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8463/;
-#EXTINF:-0,[COLOR=white][B]ABC PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8547/;
-#EXTINF:-0,[COLOR=white][B]RADIO CISTER[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8453/;
- 
-#EXTINF:-0,[COLOR=white][B]RADIO VIDA NOVA FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8061/;
-#EXTINF:-0,[COLOR=white][B]RADIO OESTE RADIO[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8515/;
-#EXTINF:-0,[COLOR=white][B]RADIO CLUBE DE SINTRA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8445/;
-#EXTINF:-0,[COLOR=white][B]RADIO CONCELHO DE MAFRA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8551/;
-#EXTINF:-0,[COLOR=white][B]RADIO HORIZONTE FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9436/;
- 
- 
-#EXTINF:-0,[COLOR=white][B]RADIO VIDA FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9482/;
-#EXTINF:-0,[COLOR=white][B]RADIO VOZ DE ALENQUER[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8479/;
-#EXTINF:-0,[COLOR=white][B]RADIO ULTRA FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9506/;
-#EXTINF:-0,[COLOR=white][B]RADIO PORTO ALEGRE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9492/;
- 
-#EXTINF:-0,[COLOR=white][B]RADIO FELGUEIRAS[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8459/;
- 
-#EXTINF:-0,[COLOR=white][B]IRIS FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8529/;
-#EXTINF:-0,[COLOR=white][B]RADIO ANTENA LIVRE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8571/;
- 
-#EXTINF:-0,[COLOR=white][B]RADIO DA SORRAIA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8511/;
-#EXTINF:-0,[COLOR=white][B]TEJO RADIO JORNAL[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8531/;
-#EXTINF:-0,[COLOR=white][B]TORRES NOVAS FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8475/;
-#EXTINF:-0,[COLOR=white][B]RADIO CLUBE DE GRÂNDOLA[/B][/COLOR][COLOR=white][/COLOR]
-http://link.radios.pt/rcg
-#EXTINF:-0,[COLOR=white][B]SESIMBRA FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9444/;
- 
-#EXTINF:-0,[COLOR=white][B]RADIO BARCA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8483/;
-#EXTINF:-0,[COLOR=white][B]RADIO ECOS DA RAINHA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9434/;
-#EXTINF:-0,[COLOR=white][B]RADIO ONDAS DO LIMA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8407/;
-#EXTINF:-0,[COLOR=white][B]RADIO POPULAR AFIFENSE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8471/;
-#EXTINF:-0,[COLOR=white][B]RADIO VALDEVEZ[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9508/;
-#EXTINF:-0,[COLOR=white][B]RADIO MONTALEGRE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9566/;
-#EXTINF:-0,[COLOR=white][B]UNIVERSIDADE FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8405/;
-#EXTINF:-0,[COLOR=white][B]ALIVE FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9468/;
-#EXTINF:-0,[COLOR=white][B]DOURO FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8437/;
-#EXTINF:-0,[COLOR=white][B]EMISSORA DAS BEIRAS[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8465/;
- 
-#EXTINF:-0,[COLOR=white][B]RÁDIO LAFÕES[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9564/
- 
-#EXTINF:-0,[COLOR=white][B]RÁDIO LIMITE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9408/
- 
-#EXTINF:-0,[COLOR=white][B]ALGARVE FM[/B][/COLOR][COLOR=white][/COLOR]
-http://213.239.218.99:7128/stream
- 
-#EXTINF:-0,[COLOR=white][B]ALIVE FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:9468/stream
- 
-#EXTINF:-0,[COLOR=white][B]ALTITUDE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:9034/stream
- 
-#EXTINF:-0,[COLOR=white][B]RADIO ALTO AVE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:8517/stream
- 
-#EXTINF:-0,[COLOR=white][B]ALVOR FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:8469/stream
- 
-#EXTINF:-0,[COLOR=white][B]RADIO AMÁLIA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:9496/stream
- 
-#EXTINF:-0,[COLOR=white][B]RADIO AMÁLIA[/B][/COLOR][COLOR=white][/COLOR]
-http://link.radios.pt/amalia?1487014253471.mp3
- 
-#EXTINF:-0,[COLOR=white][B]ANSIÕES FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:8419/stream
- 
-#EXTINF:-0,[COLOR=white][B]ANTENA LIVRE[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:8571/stream
-
-#EXTINF:-0,[COLOR=white][B]RADIO CLUBE ANGRA[/B][/COLOR][COLOR=white][/COLOR]
-http://213.239.218.99:7130
- 
-#EXTINF:-0,[COLOR=white][B]RADIO CLUBE ASAS DO ATLÂNTICO[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:9538/stream
- 
-#EXTINF:-0,[COLOR=white][B]RADIO CLUBE DA FEIRA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:9544/stream
-  
-#EXTINF:-0,[COLOR=white][B]RADIO CLUBE DE GRÂNDOLA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:9474/stream
- 
-#EXTINF:-0,[COLOR=white][B]RADIO CLUBE LAMEGO[/B][/COLOR][COLOR=white][/COLOR]
-http://46.4.33.73:9300/
- 
-#EXTINF:-0,[COLOR=white][B]RADIO CLUBE MONSANTO[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:9424/stream
- 
-#EXTINF:-0,[COLOR=white][B]RADIO CLUBE DE PENAFIEL[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:9476/stream
- 
-#EXTINF:-0,[COLOR=white][B]RADIO CLUBE MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
-http://radiosmadeira.net:8020/stream
