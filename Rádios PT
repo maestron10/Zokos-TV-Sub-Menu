@@ -81,6 +81,9 @@ https://s4.radio.co/s7e7b6c165/listen
 #EXTINF:0 tvg-logo="" group-title="https://upload.wikimedia.org/wikipedia/pt/c/ce/Logotipo_da_R%C3%A1dio_Cidade_%28Rio_de_Janeiro%29.png",[COLOR=white][B]CIDADE FM[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/cidadefm
 
+#EXTINF:-1,[COLOR=white][B]CIDADE HIP-HOP[/B][/COLOR][COLOR=white][/COLOR]
+https://media1.mcr.iol.pt/wrcidade/cidhiphop.stream/chunks.m3u8?nimblesessionid=58809277
+
 #EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/comercial.mp3
 
