@@ -59,6 +59,9 @@ http://radiocast.rtp.pt/rdpint80a.mp3
 
 #EXTINF:-1,[COLOR=white][B]RDP ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RDP AÇORES[/B][/COLOR][COLOR=white][/COLOR]
+http://radiocast.rtp.pt/antena1acores80a.mp3
  
 #EXTINF:0 tvg-logo="" group-title="https://medias.unifrance.org/medias/23/162/41495/format_hd/tsf.jpg",[COLOR=white][B]TSF NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
