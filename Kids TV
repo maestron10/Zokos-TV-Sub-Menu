@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 21/10/21[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 22/11/21[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #########################################################################################################################################################################
  
@@ -83,5 +83,11 @@ https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]MASTER BUILDER[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]A VIDA MODERNA DE ROCKO[/B][/COLOR][COLOR=white][/COLOR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+
+#EXTINF:-1,[COLOR=white][B]LEGO CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
+https://legochannel-roku.amagi.tv/playlist.m3u8 
 
 
