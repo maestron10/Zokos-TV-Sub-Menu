@@ -101,7 +101,7 @@ http://189.91.128.146:4444/udp/227.10.20.128:1234
 #EXTINF:-1,[COLOR=blue][B]BENFICA TV[/B][/COLOR][COLOR=blue][/COLOR]                
 https://000000
 
-#EXTINF:-1,[COLOR=white][B]BTV PT[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]BTV FHD PT[/B][/COLOR][COLOR=white][/COLOR]
 http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3308
 
 
@@ -127,17 +127,18 @@ http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/23323
 #EXTINF:-1,[COLOR=blue][B]CANAIS PREMIUM CINEMA PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://0000000
 
-#EXTINF:-1,TVCINE TOP PT
-http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/15796
-#EXTINF:-1,TVCINE TOP FHD PT
-http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5545
-#EXTINF:-1,TVCINE EDITION PT
-http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/15797
-#EXTINF:-1,TVCINE EMOTION FHD PT
-http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5547
-#EXTINF:-1,TVCINE ACTION PT
-http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/15799
-#EXTINF:-1,NOS STUDIOS FHD PT
+#EXTINF:-1,[COLOR=white][B]NOS STUDIOS FHD PT[/B][/COLOR][COLOR=white][/COLOR]
 http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/27665
+#EXTINF:-1,[COLOR=white][B]TVCINE TOP PT[/B][/COLOR][COLOR=white][/COLOR]
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/15796
+#EXTINF:-1,[COLOR=white][B]TVCINE TOP FHD PT[/B][/COLOR][COLOR=white][/COLOR]
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5545
+#EXTINF:-1,[COLOR=white][B]TVCINE EDITION PT[/B][/COLOR][COLOR=white][/COLOR]
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/15797
+#EXTINF:-1,[COLOR=white][B]TVCINE EMOTION FHD PT[/B][/COLOR][COLOR=white][/COLOR]
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5547
+#EXTINF:-1,[COLOR=white][B]TVCINE ACTION PT[/B][/COLOR][COLOR=white][/COLOR]
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/15799
+
 
 
