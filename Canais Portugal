@@ -132,265 +132,290 @@ http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
 
 #EXTM3
 
-#EXTINF:-1,[COLOR=yellow][B]CANAIS TV PT DIÁRIA - LISTA 2[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]CANAIS TV PT - LISTA 2[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 FONTE DE INFORMAÇÃO: https://freeiptvm3u4u2.blogspot.com/2021/11/free-iptv-m3u-lists-updated-21-nov-2021.html?fbclid=IwAR2a9gMTkN9p_Q7N-bSRkoTRUw3Sir5eusLlD2sub5leKXX8CTLH8RbseOg
 
 
-#EXTINF:-1,RTP 1
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3199
-#EXTINF:-1,RTP 2
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3198
-#EXTINF:-1,RTP 3
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3197
-#EXTINF:-1,SIC
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3196
-#EXTINF:-1,SIC NOTÍCIAS
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3194
-#EXTINF:-1,SIC RADICAL
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3193
-#EXTINF:-1,TVI
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3173
-#EXTINF:-1,TVI 24
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3172
-#EXTINF:-1,TVI REALITY HD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29406
-#EXTINF:-1,RTP MEMóRIA
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29405
-#EXTINF:-1,RTP AÇORES
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29403
-#EXTINF:-1,RTP MADEIRA
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29402
-#EXTINF:-1,TVI REALITY
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29409
-#EXTINF:-1,FOODS NETWORK
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29407
-#EXTINF:-1,CMTV
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29396
+#EXTINF:-1,RTP 1 PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3208
+#EXTINF:-1,RTP 1 FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/19040
+#EXTINF:-1,RTP 2 FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/20257
+#EXTINF:-1,SIC PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3227
 
-#EXTINF:-1,PT:-----|DESPORTO PT|--------------------------------------
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/60650
+#EXTINF:-1,Canal Q PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/9465
+#EXTINF:-1,Sporting TV HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3246
+#EXTINF:-1,AXN HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3255
+#EXTINF:-1,AXN Movies HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5551
+#EXTINF:-1,AXN White HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3242
 
-#EXTINF:-1,BENFICA TV FHD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3239
-#EXTINF:-1,BENFICA TV FHD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3238
-#EXTINF:-1,SPORT TV 1 HD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3192
-#EXTINF:-1,SPORT TV 2 HD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3191
-#EXTINF:-1,SPORT TV 3 HD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3190
-#EXTINF:-1,SPORT TV 4 HD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3189
-#EXTINF:-1,SPORT TV 5 HD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3188
-#EXTINF:-1,PT093:EUROSPORT
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29397
-#EXTINF:-1,SPORT TV 1 FHD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29392
-#EXTINF:-1,SPORT TV 2 FHD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29391
-#EXTINF:-1,SPORT TV 3 FHD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29390
-#EXTINF:-1,SPORT TV 5 FHD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/49958
-#EXTINF:-1,SPORT TV 2 SD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29387
-#EXTINF:-1,SPORT TV 3 SD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29386
-#EXTINF:-1,SPORT TV 4 SD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29385
+#EXTINF:-1,FOX FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3232
+#EXTINF:-1,FOX Crime HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5549
+#EXTINF:-1,FOX Comedy PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/9489
+#EXTINF:-1,FOX Comedy FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/20260
+#EXTINF:-1,FOX Life FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3233
 
-#EXTINF:-1,CANAL 11
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29378
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29371
-#EXTINF:-1,ELEVEN SPORTS 1 SD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/49966
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29370
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29369
-#EXTINF:-1,ELEVEN SPORTS 5 FHD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29334
-#EXTINF:-1,SPORT TV NBA
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29366
-#EXTINF:-1,SPORT TV NBA FHD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29349
+«««««««««««««««««««««««««««««««««««««««««« FALTA VERIFICAR SE DÃO «««««««««««««««««««««««««««««
 
 
-#EXTINF:-1,PT005:ARTV
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3245
-#EXTINF:-1,PT024:E! Entertainment
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3226
-#EXTINF:-1,PT031:Fox Life
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3219
-#EXTINF:-1,PT034:Globo
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3216
-#EXTINF:-1,PT043:MTV Portuga
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3207
-#EXTINF:-1,PT050:Porto Canal
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3200
-#EXTINF:-1,PT065:SYFY
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3185
-#EXTINF:-1,PT066:TLC
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3184
-#EXTINF:-1,PT073:TV Galicia
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3177
-#EXTINF:-1,PT079:VH1
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3171
-#EXTINF:-1,PT080:VH1 Classic
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3170
-#EXTINF:-1,PT096:CANAL Q
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29394
-#EXTINF:-1,PT097:24 KITCHEN
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29393
-#EXTINF:-1,PT106:Blaze
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29384
-#EXTINF:-1,PT109:TVI FICCAO HD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29381
-#EXTINF:-1,PT110:MCM POP
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29380
-#EXTINF:-1,PT111:Trace Urban
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29379
-#EXTINF:-1,PT115:TVCINE 2
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29375
-#EXTINF:-1,PT118:TPA
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29372
-#EXTINF:-1,PT125:DOG TV
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29365
-#EXTINF:-1,PT127:CACAVISION
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29363
-#EXTINF:-1,PT129:RTP INTERNACIONAL
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29361
-#EXTINF:-1,PT132:Globo Now HD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29358
+#EXTINF:-1,TVCine Top PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/15796
+#EXTINF:-1,TVCine Top FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5545
+#EXTINF:-1,TVCine Edition PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/15797
+#EXTINF:-1,TVCine Edition FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5546
+#EXTINF:-1,TVCine Emotion PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/15798
+#EXTINF:-1,TVCine Emotion FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5547
+#EXTINF:-1,TVCine Action PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/15799
+#EXTINF:-1,TVCine Action FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5548
+#EXTINF:-1,Canal Hollywood HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3307
+#EXTINF:-1,FOX Movies PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5550
+#EXTINF:-1,Fuel TV HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/20255
+#EXTINF:-1,Cine Mundo PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5544
+#EXTINF:-1,E! PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3257
+#EXTINF:-1,BBC Entertainment PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/9488
+#EXTINF:-1,CBS Reality PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3215
+#EXTINF:-1,TVI Ficção PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5542
+#EXTINF:-1,TVI Reality PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/9464
+#EXTINF:-1,Bloomberg PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/19590
+#EXTINF:-1,CNN PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/19588
+#EXTINF:-1,Caça e Pesca PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5543
+#EXTINF:-1,Eleven Sports 1 HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/23325
+#EXTINF:-1,Eleven Sports 2 HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/23320
+#EXTINF:-1,Eleven Sports 3 HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/23321
+#EXTINF:-1,Eleven Sports 4 HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/23322
+#EXTINF:-1,Eleven Sports 5 HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/23323
+#EXTINF:-1,Eleven Sports 6 FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/23324
+#EXTINF:-1,National Geographic HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3306
+#EXTINF:-1,National Geographic Wild PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5556
+#EXTINF:-1,National Geographic Wild HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/20259
+#EXTINF:-1,Discovery Channel HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3247
+#EXTINF:-1,TLC PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/9496
+#EXTINF:-1,Odisseia PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3230
+#EXTINF:-1,MTV PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/9478
+#EXTINF:-1,Travel Channel HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/9497
+#EXTINF:-1,Nickelodeon PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3240
+#EXTINF:-1,Nick Jr. PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/19042
+#EXTINF:-1,História PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3238
+#EXTINF:-1,24 Kitchen HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3243
+#EXTINF:-1,Fashion TV PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/9495
+#EXTINF:-1,Trace Urban PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3219
+#EXTINF:-1,Baby TV PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/9490
+#EXTINF:-1,SIC K PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3228
+#EXTINF:-1,Disney Channel PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3310
+#EXTINF:-1,Disney Junior PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3258
+#EXTINF:-1,JimJam PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/9491
+#EXTINF:-1,Cartoon Network PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5554
+#EXTINF:-1,Panda Biggs PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5553
+#EXTINF:-1,Canal Panda PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3239
+#EXTINF:-1,RTP Memória PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3212
+#EXTINF:-1,RTP África PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5539
+#EXTINF:-1,RTP Madeira PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3211
+#EXTINF:-1,RTP Açores PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3210
+#EXTINF:-1,Porto Canal PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5538
+#EXTINF:-1,TV Globo PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/9471
+#EXTINF:-1,Record Europa PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3249
+#EXTINF:-1,Afro Music Channel PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3250
+#EXTINF:-1,MTV 80s PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/9475
+#EXTINF:-1,TV Canção Nova PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3237
+#EXTINF:-1,RTP 3 PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3213
+#EXTINF:-1,CM TV PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3236
+#EXTINF:-1,SIC Notícias PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3229
+#EXTINF:-1,TVI 24 PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5536
+#EXTINF:-1,FOX News PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/9476
+#EXTINF:-1,TVI HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5537
+#EXTINF:-1,Toros TV PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5555
+#EXTINF:-1,Sport TV + PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/9499
+#EXTINF:-1,Sport TV 1 PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/7846
+#EXTINF:-1,Sport TV 1 HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3221
+#EXTINF:-1,Sport TV 1 FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/17744
+#EXTINF:-1,Sport TV 2 PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/7845
+#EXTINF:-1,Sport TV 2 FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3222
+#EXTINF:-1,Sport TV 3 PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/7844
+#EXTINF:-1,Sport TV 3 FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3223
+#EXTINF:-1,Sport TV 4 PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/7843
+#EXTINF:-1,Sport TV 4 FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3224
+#EXTINF:-1,Sport TV 5 PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/7842
+#EXTINF:-1,Sport TV + FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/19589
+#EXTINF:-1,Benfica TV 1 PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3308
+#EXTINF:-1,Benfica TV 1 HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5541
+#EXTINF:-1,Sporting TV PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3305
+#EXTINF:-1,A Bola TV PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5540
+#EXTINF:-1,Eurosport 1 PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/7851
+#EXTINF:-1,Eurosport 1 HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3234
+#EXTINF:-1,Eurosport 2 PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/9482
+#EXTINF:-1,Motorvision TV PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/9485
+#EXTINF:-1,PFC PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3248
+#EXTINF:-1,Sport TV 5 FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/16297
+#EXTINF:-1,Caçavision PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/19627
+#EXTINF:-1,Caza y Pesca PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/19626
+#EXTINF:-1,Fuel TV PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/19625
+#EXTINF:-1,MCM pop PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/21948
+#EXTINF:-1,MCM top PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/21949
+#EXTINF:-1,Kuriakos TV FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/22974
+#EXTINF:-1,SIC Radical FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/20256
+#EXTINF:-1,MTV 00s PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/24665
+#EXTINF:-1,Dog TV FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/25172
+#EXTINF:-1,SIC Noticias FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/20258
+#EXTINF:-1,NOS Studios FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/27665
+#EXTINF:-1,AMC PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/27788
+#EXTINF:-1,AR TV Canal Parlamento PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/27789
+#EXTINF:-1,Crime + Investigation PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/27790
+#EXTINF:-1,Eurochannel PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/27792
+#EXTINF:-1,Canal Hollywood PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/27793
+#EXTINF:-1,Investigation Discovery HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/27794
+#EXTINF:-1,Kuriakos TV PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/27795
+#EXTINF:-1,Mezzo PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/27796
+#EXTINF:-1,NBA TV PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/27799
+#EXTINF:-1,Sport TV NBA FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/27801
+#EXTINF:-1,Canal 11 FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/28181
+#EXTINF:-1,RTP PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/29040
+#EXTINF:-1,TV Globo Now PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3217
+#EXTINF:-1,Porto Canal HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/19704
+#EXTINF:-1,HBO HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/29514
+#EXTINF:-1,Netflix HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/29515
+#EXTINF:-1,Thiago Ventura: POKAS [POR] [2020]
+http://cloudcdn.tk:80/movie/tDVM3vk1716/E4ajjX5/79010.mkv
+#EXTINF:-1,Disney+ PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/79898
+#EXTINF:-1,Sport TV 6 FHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/86095
+#EXTINF:-1,Benfica TV 1 UHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/86629
+#EXTINF:-1,Eleven Sports 1 UHD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/86630
+#EXTINF:-1,Sport TV 1 UHD 4K PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/86631
+#EXTINF:-1,Panda Kids PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/90912
+#EXTINF:-1,RTP 1 HD PT
+http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/22983
 
 
-#EXTINF:-1,PT135:MOTORVISION TV
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29355
-#EXTINF:-1,PT137:RTP Acores
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29353
-#EXTINF:-1,PT138:MEZZO HD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29352
-#EXTINF:-1,PT139:MTV HD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29351
-#EXTINF:-1,PT140:ZAP VIVA HD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29350
-#EXTINF:-1,PT142:Localvisao
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29348
-#EXTINF:-1,PT143:Globo TV
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29347
-#EXTINF:-1,PT147:CBS Reality
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29343
-#EXTINF:-1,PT148:LUXE TV
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29342
-#EXTINF:-1,PT150:Afro Music
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29340
-#EXTINF:-1,PT152:TV FATIMA
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29338
-#EXTINF:-1,PT153:SIC CARAS
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29337
-
-
-#EXTINF:-1,PT:-----|MOVIES|--------------------------------------
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/60648
-#EXTINF:-1,PT001:A&E
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3249
-#EXTINF:-1,PT004:AMC
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3246
-#EXTINF:-1,PT006:AXN
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3244
-#EXTINF:-1,PT007:AXN Black
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3243
-#EXTINF:-1,PT008:AXN White
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3242
-
-#EXTINF:-1,PT030:Fox
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3220
-#EXTINF:-1,PT032:Fox Movies
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3218
-#EXTINF:-1,PT036:Hollywood
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3214
-#EXTINF:-1,PT038:REDE TV
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3212
-#EXTINF:-1,PT039:MOV
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3211
-
-#EXTINF:-1,PT070:TV Cine 2
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3180
-#EXTINF:-1,PT071:TV Cine 3
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3179
-#EXTINF:-1,PT076:TVC Series
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3174
-#EXTINF:-1,PT092:NOS Studios
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29398
-#EXTINF:-1,PT131:TVCINE 1 HD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29359
-#EXTINF:-1,PT155:TV Cine 4 Action FHD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29335
-#EXTINF:-1,PT:-----|KIDS|----------------------------------------
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/60651
-#EXTINF:-1,PT009:Baby First
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3241
-#EXTINF:-1,PT010:Baby TV
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3240
-#EXTINF:-1,PT015:Canal Panda
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3235
-#EXTINF:-1,PT016:Cartoon Network
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3234
-#EXTINF:-1,PT022:Disney Channel
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3228
-#EXTINF:-1,PT023:Disney Junior
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3227
-#EXTINF:-1,PT037:Jim Jam
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3213
-#EXTINF:-1,PT046:Nickelodeon
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3204
-#EXTINF:-1,PT048:Panda Biggs
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3202
-#EXTINF:-1,PT089:Nickelodeon
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29401
-#EXTINF:-1,PT091:BIGGS
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29399
-#EXTINF:-1,PT095:CANAL PANDA
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29395
-#EXTINF:-1,PT134:BIGGS
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29356
-#EXTINF:-1,PT136:Nick Jr
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29354
-#EXTINF:-1,PT145:PANDA HD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29345
-#EXTINF:-1,PT151:Kuriakos TV
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29339
-#EXTINF:-1,PT149:SIC Kids
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29341
-#EXTINF:-1,PT154:SIC Kids FHD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29336
-#EXTINF:-1,PT:-----|DOCUMENTARY|---------------------------------
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/60649
-#EXTINF:-1,PT014:Canal Historia
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3236
-#EXTINF:-1,PT020:Discovery Channel
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3230
-#EXTINF:-1,PT021:Discovery Showcase
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3229
-#EXTINF:-1,PT035:Historia
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3215
-#EXTINF:-1,PT044:NAT GEO Wild
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3206
-#EXTINF:-1,PT045:NAT GEO
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3205
-#EXTINF:-1,PT047:Odisseia
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/3203
-#EXTINF:-1,PT090:NATIONAL GEOGRAPHIC FHD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29400
-#EXTINF:-1,PT113:CMTV FHD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29377
-#EXTINF:-1,PT116:Crime & Investigation
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29374
-#EXTINF:-1,PT123:INVESTIGATION DISCOVERY HD
-http://mli03.wanicelife.com:8880/SWFAF141420/6BB579UY/29367
 
