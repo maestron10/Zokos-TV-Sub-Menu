@@ -39,6 +39,9 @@ http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8?DVR
 #EXTINF:-1,[COLOR=white][B]RÁDIO MIÚDOS[/B][/COLOR][COLOR=white][/COLOR]
 https://s4.radio.co/s6b2edc98f/listen
 
+#EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL KIDS[/B][/COLOR][COLOR=white][/COLOR]
+https://media1.mcr.iol.pt/wrcomercial/rckids.stream/l_182165_1213518037_202253.aac?nimblesessionid=58790847
+
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS NACIONAIS E/OU ONLINE[/B][/COLOR][COLOR=blue][/COLOR]
 https://video-auth1.iol.pt
@@ -79,6 +82,9 @@ http://mcrscast.mcr.iol.pt/cidadefm
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/comercial.mp3
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL BRASIL[/B][/COLOR][COLOR=white][/COLOR]
+https://media1.mcr.iol.pt/wrcomercial/rcbrasil.stream/l_115810_1345650005_224275.aac?nimblesessionid=58790309
 
 #EXTINF:-1,[COLOR=white][B]M80 NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/m80
