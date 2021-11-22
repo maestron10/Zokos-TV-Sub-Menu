@@ -23,6 +23,8 @@ http://195.23.85.126:9500/stream/1/
 http://live.noite.pt:8080/;
 #EXTINF:-0,[COLOR=white][B]RÁDIO NOVA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:9528/stream/1/
+#EXTINF:-0,[COLOR=white][B]RÁDIO AGITA ÁGUEDA[/B][/COLOR][COLOR=white][/COLOR]
+https://sp0.redeaudio.com/8046/stream
 
 
 ######################################################################################################################################
