@@ -8,44 +8,6 @@ http://0.0.0.0:00000
 #EXTM3U
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]NOVOS CANAIS MUSICA UK[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000
-
-
-#EXTINF:0 tvg-id="ext" group-title="UK VIP MUSIC-NEWS",UK: VIP Trace Urban
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234621
-#EXTINF:0 tvg-id="ext" group-title="UK VIP MUSIC-NEWS",UK: VIP MTV Classic
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234613
-#EXTINF:0 tvg-id="ext" group-title="UK VIP MUSIC-NEWS",UK: VIP MTV Hits
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234611
-#EXTINF:0 tvg-id="ext" group-title="UK VIP MUSIC-NEWS",UK: VIP Kiss TV
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234619
-#EXTINF:0 tvg-id="ext" group-title="UK VIP MUSIC-NEWS",UK: VIP Box Hits
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234617
-#EXTINF:0 tvg-id="ext" group-title="UK VIP MUSIC-NEWS",UK: VIP The Box
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234616
-#EXTINF:0 tvg-id="ext" group-title="UK VIP MUSIC-NEWS",UK: VIP 4Music
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/328431
-#EXTINF:0 tvg-id="ext" group-title="UK VIP MUSIC-NEWS",UK: VIP Trace Hits
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/328430
-#EXTINF:0 tvg-id="ext" group-title="UK VIP MUSIC-NEWS",UK: VIP Magic
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/328429
-#EXTINF:0 tvg-id="ext" group-title="UK VIP MUSIC-NEWS",UK: VIP Kerrang! TV
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/328428
-#EXTINF:0 tvg-id="ext" group-title="UK VIP MUSIC-NEWS",UK: VIP Clubland TV
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/328427
-#EXTINF:0 tvg-id="ext" group-title="UK VIP MUSIC-NEWS",UK: VIP Now 70s
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/328425
-#EXTINF:0 tvg-id="ext" group-title="UK VIP MUSIC-NEWS",UK: VIP Now 80s
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/328424
-#EXTINF:0 tvg-id="ext" group-title="UK VIP MUSIC-NEWS",UK: VIP Now 90s
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/328423
-#EXTINF:0 tvg-id="ext" group-title="UK VIP MUSIC-NEWS",UK: VIP Spotlight TV
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/328421
-
-
- 
-#######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]BEST TOP HITS 1[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
