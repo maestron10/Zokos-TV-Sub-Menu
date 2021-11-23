@@ -13,6 +13,166 @@ FONTE DE INFORMAÇÃO: https://iptv-org.github.io/iptv/categories/sports.m3u
 
 #EXTM3U
 
+#######################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]NOVOS CANAIS DESPORTO UK[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports News HQ FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234474
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports News HQ HD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379783
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Main Event FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234476
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Main Event
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234477
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Premier League FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234480
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Premier League
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234481
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Football FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234478
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Football
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379829
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Mix FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234482
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Mix
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379826
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Racing FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234494
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Racing
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234495
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports F1 FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234492
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports F1 HD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234493
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Cricket FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234490
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Cricket
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379828
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Golf FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234488
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Golf HD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/380050
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Action
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234487
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Action FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234486
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Arena FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234484
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Arena
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379827
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Sky Sports Box Office
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/387693
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport ESPN FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234505
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport ESPN HD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234506
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport 1 HD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234497
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport 1
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234498
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport 2 HD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234500
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport 2
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234501
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport 3 HD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234503
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport 3
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234504
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport Extra 1 HD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/383690
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport Extra 1
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234525
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport Extra 2 HD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/383689
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport Extra 2
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234526
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport Extra 3 HD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/383688
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport Extra 3
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234527
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport Extra 4 HD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/383687
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport Extra 4
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234528
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport Extra 5 HD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/383686
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport Extra 5
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234529
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport Extra 6 HD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/383685
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Sport Extra 6
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234530
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BT Boxnation FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234520
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP MUTV
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234524
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP MUTV FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234523
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP LFC TV FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234522
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Racing UK
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234519
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Racing UK FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234518
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP eir Sports 2 FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234515
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP eir Sports 1 FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234514
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Eurosport 1 FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234516
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Eurosport 2 FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234517
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Premier Sports 1
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234511
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Premier Sports 1 FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234510
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Premier Sports 2
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234513
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Premier Sports 2 FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234512
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP FreeSports FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234509
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP LaLigaTV FHD
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/328418
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP Redbull TV
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/359858
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP BETFRED TV
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379824
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP CORAL TV 1
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379823
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP CORAL TV 2
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379822
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP LADBROKES TV 1
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379821
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP LADBROKES TV 2
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379820
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP LADBROKES TV 3
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379819
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP PADDY POWER TV 1
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379818
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP PADDY POWER TV 2
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379817
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP PADDY POWER TV 3
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379816
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP SIS ONE
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379815
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP SIS TWO
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379814
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP SIS RACING
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379813
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP WILLIAM HILL TV1
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379812
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP WILLIAM HILL TV2
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379811
+#EXTINF:0 tvg-id="ext" group-title="UK VIP SPORTS",UK: VIP WILLIAM HILL BTV
+http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/379810
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]CANAIS DESPORTO GRÁTIS[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
 
 #EXTINF:-1,[COLOR=white][B]BARÇA TV[/B][/COLOR][COLOR=white][/COLOR]
 http://93.152.174.144:4000/play/barcatv/index.m3u8
