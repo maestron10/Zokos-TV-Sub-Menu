@@ -52,10 +52,11 @@ http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
 
 #EXTINF:-1,[COLOR=white][B]TPA 1 ANGOLA[/B][/COLOR][COLOR=white][/COLOR]
-https://playback2.akamaized.net/streams/30360708_9496693_lsiy36nalj3yf66zg05_1/exp=1637756057~acl=%2f*~data=hdntl~hmac=ce395de2c6e713bd214a75353cbdd9198cc76d465a69c79ebfa3c42d47f65332/media/30360708_9496693_lsiy36nalj3yf66zg05_1@1628000p.m3u8?dw=14400&ts=1637668800
+https://playback2.akamaized.net/streams/30360708_9496693_lsiy36nalj3yf66zg05_1/exp=1637756210~acl=%2f*~data=hdntl~hmac=11099c95fdbd0cfd468f5061351fc17c7a1c6e409f61a1d8f10284e65d61b325/media/30360708_9496693_lsiy36nalj3yf66zg05_1@1628000p.m3u8?dw=14400&ts=1637668800
 
+#EXTINF:-1,[COLOR=white][B]TV ZIMBO[/B][/COLOR][COLOR=white][/COLOR]
+https://playback2.akamaized.net/streams/29819666_9254936_lsi06s9ebocwg8clihy_1/exp=1637756268~acl=%2f*~data=hdntl~hmac=cc9086eee468edd6056a485c0dd119496fa7bcdc40d30d05aa9a5480879dacb1/media/29819666_9254936_lsi06s9ebocwg8clihy_1@2128000p.m3u8?dw=14400&ts=1637668800
 
- 
 ##########################################################################################################################
 
 #EXTINF:-1,[COLOR=blue][B]CANAIS TV PT - LISTA 1[/B][/COLOR][COLOR=blue][/COLOR]
