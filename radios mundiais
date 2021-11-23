@@ -8,6 +8,21 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top
  
 #EXTM3U
 #EXTINF:-1,[COLOR=yellow][B]LISTA EM CONSTRUÇÃO E TESTES...[/B][/COLOR][COLOR=yellow][/COLOR]
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS DANCE MUSIC[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+#EXTINF:-1,NUMBER ONE DANCE
+http://ice10.fluidstream.net/rn1_2.mp3
+
+#EXTINF:-1,RADIO IBIZA
+http://ice02.fluidstream.net/ibiza.aac
+
+#EXTINF:-1,RADIO VIBRA FM
+https://ice02.fluidstream.net/playstudio.mp3
+
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS REINO UNIDO[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
