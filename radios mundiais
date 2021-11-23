@@ -1,0 +1,48 @@
+
+######################################################################################################################################
+#EXTINF:0 -1 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]/////////////  RÁDIOS INTERNACIONAIS //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+http://0.0.0.0:000000
+######################################################################################################################################
+ 
+FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top
+ 
+#EXTM3U
+#EXTINF:-1,[COLOR=yellow][B]LISTA AINDA DE TESTE...[/B][/COLOR][COLOR=yellow][/COLOR]
+#######################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS REINO UNIDO[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+ 
+#EXTM3U
+ 
+#EXTINF:-1,CAPITAL FM
+https://media-ice.musicradio.com/CapitalMP3
+#EXTINF:-1,HEART FM
+https://media-ice.musicradio.com/HeartLondonMP3
+#EXTINF:-1,CAROLINE FM
+http://sc6.radiocaroline.net:8040/stream/1/
+#EXTINF:-1,VIRGIN RADIO
+https://radio.virginradio.co.uk/stream
+#EXTINF:-1,PLANET ROCK 
+https://stream-mz.planetradio.co.uk/planetrock.mp3
+ 
+#######################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS BRASIL[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+ 
+#EXTINF:-1,RÁDIO MIX  
+https://24963.live.streamtheworld.com/MIXFM_SAOPAULOAAC_SC
+#EXTINF:-1,RÁDIO DISNEY 
+https://22973.live.streamtheworld.com/DISNEY_BRA_SP_SC
+#EXTINF:-1,RÁDIO COCA-COLA 
+https://str3.openstream.co/1084?aw_0_1st.collectionid%3D3908%26stationId%3D3908%26publisherId%3D1108%26k%3D1637665614%26aw_0_azn.pcountry%3D%5B%22BR%22%5D%26aw_0_azn.planguage%3D%5B%22pt%22%5D%26aw_0_azn.pgenre%3D%5B%22Top40%5C%2FHits+-+Pop%22%2C%22Rock%22%2C%22Electronic%22%5D
+ 
+#######################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS ESPANHA[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+ 
+#EXTINF:-1,RÁDIO MEGASTAR FM
+https://flucast-b02-01.flumotion.com/cope/megastar.mp3
+ 
+ 
+ 
+ 
