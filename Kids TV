@@ -10,48 +10,6 @@ http://0.0.0.0:00000
 #EXTM3U
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]NOVOS CANAIS KIDS UK[/B][/COLOR][COLOR=blue][/COLOR]
-https://000000
-
-
-#EXTINF:0 tvg-id="ext" group-title="UK VIP KIDS",UK: VIP Cartoon Network FHD
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234630
-#EXTINF:0 tvg-id="ext" group-title="UK VIP KIDS",UK: VIP Cartoon Network
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234631
-#EXTINF:0 tvg-id="ext" group-title="UK VIP KIDS",UK: VIP Cartoonito
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234633
-#EXTINF:0 tvg-id="ext" group-title="UK VIP KIDS",UK: VIP Boomerang FHD
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234634
-#EXTINF:0 tvg-id="ext" group-title="UK VIP KIDS",UK: VIP CBeebies FHD
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234653
-#EXTINF:0 tvg-id="ext" group-title="UK VIP KIDS",UK: VIP CBBC (07-21)
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234652
-#EXTINF:0 tvg-id="ext" group-title="UK VIP KIDS",UK: VIP CBBC FHD
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234651
-#EXTINF:0 tvg-id="ext" group-title="UK VIP KIDS",UK: VIP Nickelodeon FHD
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234636
-#EXTINF:0 tvg-id="ext" group-title="UK VIP KIDS",UK: VIP Nickelodeon
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234637
-#EXTINF:0 tvg-id="ext" group-title="UK VIP KIDS",UK: VIP Nicktoons
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234643
-#EXTINF:0 tvg-id="ext" group-title="UK VIP KIDS",UK: VIP Nick Jr.
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234640
-#EXTINF:0 tvg-id="ext" group-title="UK VIP KIDS",UK: VIP Nick Jr. Too
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234642
-#EXTINF:0 tvg-id="ext" group-title="UK VIP KIDS",UK: VIP Baby TV
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234663
-#EXTINF:0 tvg-id="pop.uk" group-title="UK VIP KIDS",UK: VIP Pop
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234657
-#EXTINF:0 tvg-id="ext" group-title="UK VIP KIDS",UK: VIP POP Max
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234659
-#EXTINF:0 tvg-id="tinypop.uk" group-title="UK VIP KIDS",UK: VIP Tiny Pop
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234661
-#EXTINF:0 tvg-id="ext" group-title="UK VIP KIDS",UK: VIP CITV
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/234655
-
-
-
-#######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS KIDS LISTA GRATIS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
