@@ -23,6 +23,9 @@ http://ice02.fluidstream.net/ibiza.aac
 #EXTINF:-1,[COLOR=white][B]RADIO VIBRA FM[/B][/COLOR][COLOR=white][/COLOR]
 https://ice02.fluidstream.net/playstudio.mp3
 
+#EXTINF:-1,[COLOR=white][B]RADIO MIXX FM[/B][/COLOR][COLOR=white][/COLOR]
+http://mixxfmfr.ice.infomaniak.ch/mixxfmfr-192.mp3
+
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS REINO UNIDO[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
