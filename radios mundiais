@@ -14,13 +14,13 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS DANCE MUSIC[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1,NUMBER ONE DANCE
+#EXTINF:-1,[COLOR=white][B]NUMBER ONE DANCE[/B][/COLOR][COLOR=white][/COLOR]
 http://ice10.fluidstream.net/rn1_2.mp3
 
-#EXTINF:-1,RADIO IBIZA
+#EXTINF:-1,[COLOR=white][B]RADIO IBIZA[/B][/COLOR][COLOR=white][/COLOR]
 http://ice02.fluidstream.net/ibiza.aac
 
-#EXTINF:-1,RADIO VIBRA FM
+#EXTINF:-1,[COLOR=white][B]RADIO VIBRA FM[/B][/COLOR][COLOR=white][/COLOR]
 https://ice02.fluidstream.net/playstudio.mp3
 
 #######################################################################################################################
@@ -29,33 +29,33 @@ https://000000
  
 #EXTM3U
  
-#EXTINF:-1,CAPITAL FM
+#EXTINF:-1,[COLOR=white][B]CAPITAL FM[/B][/COLOR][COLOR=white][/COLOR]
 https://media-ice.musicradio.com/CapitalMP3
-#EXTINF:-1,HEART FM
+#EXTINF:-1,[COLOR=white][B]HEART FM[/B][/COLOR][COLOR=white][/COLOR]
 https://media-ice.musicradio.com/HeartLondonMP3
-#EXTINF:-1,CAROLINE FM
+#EXTINF:-1,[COLOR=white][B]CAROLINE FM[/B][/COLOR][COLOR=white][/COLOR]
 http://sc6.radiocaroline.net:8040/stream/1/
-#EXTINF:-1,VIRGIN RADIO
+#EXTINF:-1,[COLOR=white][B]VIRGIN RADIO[/B][/COLOR][COLOR=white][/COLOR]
 https://radio.virginradio.co.uk/stream
-#EXTINF:-1,PLANET ROCK 
+#EXTINF:-1,[COLOR=white][B]PLANET ROCK[/B][/COLOR][COLOR=white][/COLOR]
 https://stream-mz.planetradio.co.uk/planetrock.mp3
  
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS BRASIL[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
  
-#EXTINF:-1,RÁDIO MIX  
+#EXTINF:-1,[COLOR=white][B]RÁDIO MIX[/B][/COLOR][COLOR=white][/COLOR]
 https://24963.live.streamtheworld.com/MIXFM_SAOPAULOAAC_SC
-#EXTINF:-1,RÁDIO DISNEY 
+#EXTINF:-1,[COLOR=white][B]RÁDIO DISNEY[/B][/COLOR][COLOR=white][/COLOR]
 https://22973.live.streamtheworld.com/DISNEY_BRA_SP_SC
-#EXTINF:-1,RÁDIO COCA-COLA 
+#EXTINF:-1,[COLOR=white][B]RÁDIO COCA-COLA[/B][/COLOR][COLOR=white][/COLOR]
 https://str3.openstream.co/1084?aw_0_1st.collectionid%3D3908%26stationId%3D3908%26publisherId%3D1108%26k%3D1637665614%26aw_0_azn.pcountry%3D%5B%22BR%22%5D%26aw_0_azn.planguage%3D%5B%22pt%22%5D%26aw_0_azn.pgenre%3D%5B%22Top40%5C%2FHits+-+Pop%22%2C%22Rock%22%2C%22Electronic%22%5D
  
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS ESPANHA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
  
-#EXTINF:-1,RÁDIO MEGASTAR FM
+#EXTINF:-1,[COLOR=white][B]RÁDIO MEGASTAR FM[/B][/COLOR][COLOR=white][/COLOR]
 https://flucast-b02-01.flumotion.com/cope/megastar.mp3
  
  
