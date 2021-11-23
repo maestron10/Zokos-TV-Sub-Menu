@@ -252,281 +252,189 @@ http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/25172
 #EXTINF:-1,[COLOR=yellow][B]CANAIS TV PT - LISTA 3 - TESTE[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| BENFICA TV HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| BENFICA TV HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/100959
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| CANAL 11 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| CANAL 11 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/100963
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| CMTV HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| CMTV HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/100970
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 1 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| ELEVEN SPORTS 1 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/100976
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 2 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| ELEVEN SPORTS 2 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/100977
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 3 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| ELEVEN SPORTS 3 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/100978
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 4 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| ELEVEN SPORTS 4 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/100979
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 5 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| ELEVEN SPORTS 5 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/100980
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| ELEVEN SPORTS 6 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| ELEVEN SPORTS 6 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/100981
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| FOX COMEDY HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| FOX COMEDY HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/100986
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| PORTO CANAL HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| PORTO CANAL HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101011
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| RTP 1 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| RTP 1 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101012
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| RTP 2 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| RTP 2 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101013
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| RTP 3 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| RTP 3 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101014
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| RTP AFRICA HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| RTP AFRICA HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101015
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| RTP MADEIRA HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| RTP MADEIRA HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101016
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| RTP MEMORIA HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| RTP MEMORIA HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101017
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SIC CARAS HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| SIC CARAS HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101018
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SIC HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| SIC HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101019
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SIC KIDS HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| SIC KIDS HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101020
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SIC MULHER HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| SIC MULHER HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101021
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SIC NOTICIAS HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| SIC NOTICIAS HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101022
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SIC RADICAL HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| SIC RADICAL HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101023
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV 1 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| SPORT TV 1 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101024
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV 2 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| SPORT TV 2 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101025
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV 3 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| SPORT TV 3 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101026
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV 4 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| SPORT TV 4 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101027
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV 5 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| SPORT TV 5 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101028
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV NBA HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| SPORT TV NBA HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101029
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV+ HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| SPORT TV+ HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101030
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV CINE 1 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| TV CINE 1 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101036
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV CINE 2 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| TV CINE 2 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101037
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV CINE 3 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| TV CINE 3 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101038
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV CINE 4 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| TV CINE 4 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101039
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TV GALICIA HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| TV GALICIA HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101040
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TVI 24 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| TVI 24 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101045
-#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TVI REALITY HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT/DC| TVI REALITY HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101046
-
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BENFICA TV HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| BENFICA TV HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101079
-
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BTV 1 FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| BTV 1 FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101081
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BTV 1 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| BTV 1 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101082
-
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CANAL 11 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| CANAL 11 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101087
-
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CM TV FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| CM TV FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101099
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CM TV HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| CM TV HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101100
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CMTV HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| CMTV HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101101
-
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORT 1 FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| ELEVEN SPORT 1 FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101110
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORT 1 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| ELEVEN SPORT 1 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101111
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORT 2 FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| ELEVEN SPORT 2 FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101112
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORT 2 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| ELEVEN SPORT 2 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101113
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORT 3 FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| ELEVEN SPORT 3 FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101114
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORT 3 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| ELEVEN SPORT 3 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101115
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORT 4 FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| ELEVEN SPORT 4 FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101116
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORT 4 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| ELEVEN SPORT 4 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101117
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORT 5 FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| ELEVEN SPORT 5 FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101118
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORT 5 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| ELEVEN SPORT 5 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101119
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORT 6 FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| ELEVEN SPORT 6 FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101120
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORT 6 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| ELEVEN SPORT 6 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101121
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 1 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| ELEVEN SPORTS 1 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101122
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 2 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| ELEVEN SPORTS 2 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101123
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 3 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| ELEVEN SPORTS 3 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101124
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX COMEDY FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| FOX COMEDY FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101133
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX COMEDY HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| FOX COMEDY HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101134
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1 FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| RTP 1 FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101174
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| RTP 1 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101175
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| RTP 1 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101176
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 2 FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| RTP 2 FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101177
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 2 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| RTP 2 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101178
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 2 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| RTP 2 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101179
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 3 FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| RTP 3 FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101180
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 3 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| RTP 3 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101181
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 3 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| RTP 3 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101182
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP ACORES FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| RTP ACORES FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101183
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP ACORES HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| RTP ACORES HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101184
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP AFRICA FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| RTP AFRICA FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101185
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP AFRICA HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| RTP AFRICA HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101186
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP MADEIRA FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| RTP MADEIRA FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101187
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP MADEIRA HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| RTP MADEIRA HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101188
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP MEMORIA FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| RTP MEMORIA FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101189
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP MEMORIA HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| RTP MEMORIA HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101190
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC CARAS" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SIC CARAS
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101191
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC CARAS" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SIC CARAS
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101192
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SIC FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101193
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SIC HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101194
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SIC HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101195
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC KIDS FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SIC KIDS FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101196
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC KIDS HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SIC KIDS HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101197
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC MULHER FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SIC MULHER FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101198
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC MULHER HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SIC MULHER HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101199
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC MULHER HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SIC MULHER HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101200
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC NOTICIAS FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SIC NOTICIAS FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101201
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC NOTICIAS HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SIC NOTICIAS HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101202
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC NOTICIAS HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SIC NOTICIAS HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101203
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC RADICAL FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SIC RADICAL FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101204
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC RADICAL HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SIC RADICAL HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101205
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC RADICAL HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SIC RADICAL HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101206
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV + HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV + HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101207
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 1 FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV 1 FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101208
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 1 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV 1 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101209
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 1 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV 1 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101210
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 2 FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV 2 FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101211
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 2 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV 2 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101212
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 2 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV 2 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101213
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 3 FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV 3 FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101214
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 3 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV 3 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101215
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 3 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV 3 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101216
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 4 FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV 4 FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101217
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 4 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV 4 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101218
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 4 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV 4 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101219
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 5 FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV 5 FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101220
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 5 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV 5 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101221
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 5 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV 5 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101222
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101223
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORT TV HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101224
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORTING TV FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORTING TV FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101225
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORTING TV HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| SPORTING TV HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101226
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE 1 Action FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TV CINE 1 Action FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101236
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE 1 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TV CINE 1 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101237
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE 2" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TV CINE 2
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101238
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE 2 Edition FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TV CINE 2 Edition FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101239
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE 2 Edition HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TV CINE 2 Edition HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101240
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE 3 Emotion FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TV CINE 3 Emotion FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101241
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE 3 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TV CINE 3 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101242
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE 4  Top FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TV CINE 4  Top FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101243
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE 4 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TV CINE 4 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101244
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE 4 TOP HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TV CINE 4 TOP HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101245
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE ACTION 1  HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TV CINE ACTION 1  HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101246
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE ACTION HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TV CINE ACTION HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101247
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE EDITION HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TV CINE EDITION HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101248
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE EMOTION 3 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TV CINE EMOTION 3 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101249
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE EMOTION HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TV CINE EMOTION HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101250
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TV CINE TOP HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TV CINE TOP HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101251
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI 24 FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TVI 24 FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101258
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI 24 HD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TVI 24 HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101259
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI 24 HEVC" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TVI 24 HEVC
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101260
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI FHD" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-3d-round-250.png" group-title="PORTUGUESE",|PT| TVI FHD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/101261
-
+ #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",RTP 1 HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94887.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",RTP 2 HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94886.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SIC HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94885.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",TVI HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94884.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",TVI 24 HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94883.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",TVI FICÇAO HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94882.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",RTP 3 HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94881.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SIC NOTICIAS HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94880.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SIC RADICAL HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94879.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SIC CARAS HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94878.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SIC MULHER HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94877.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",CMTV HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94876.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",ZAP VIVA HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94875.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",CASA E COZINHA HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94874.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",24 KITCHEN HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94873.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",E! HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94872.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",TVCINE TOP  HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94868.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",TVCINE EDITION HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94867.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",TVCINE EMOTION HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94866.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",TVCINE ACTION HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94865.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",NOS STUDIOS HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94864.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",AXN HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94863.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",AXN WHITE HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94862.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",AXN MOVIES HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94861.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",AMC HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94860.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",HOLLYWOOD HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94859.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SYFY HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94858.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",FOX HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94857.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",FOX CRIME HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94856.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",FOX LIFE HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94855.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",FOX MOVIES HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94854.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",CINEMUNDO HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94853.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",CANAL 11 HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94852.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SPORT TV + HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94851.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SPORT TV 1 HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94850.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SPORT TV 2 HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94849.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SPORT TV 3 HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94848.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SPORT TV 4 HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94847.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SPORT TV 5 HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94846.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",SPORT TV NBA HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94845.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",BTV HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94844.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",ELEVEN SPORT 1 HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94843.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",ELEVEN SPORTS 2 HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94842.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",ELEVEN SPORTS 3 HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94841.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",EUROSPORT 1 HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94840.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",A BOLA TV HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94839.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",NATIONAL GEO HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94838.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",NAT GEO WILD HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94837.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",ID INVESTIGATION HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94836.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",TRAVEL CHANNEL HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94835.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",HISTORIA HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94833.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",BLAZE HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94832.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal HEVC",ODISSEIA HEVC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/94831.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",##########   Portugal   ##########
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/2782.m3u8
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Portugal",RTP 1 PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/2710.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",RTP 1 ( Mobile ) PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/75454.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",RTP 1 HD PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/42409.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",RTP 1 FHD PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/2714.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",RTP Arena FHD PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/102494.m3u8
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Portugal",RTP 2 PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/2709.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",RTP 2 FHD PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/2713.m3u8
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Portugal",RTP Memória PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/2706.m3u8
+#EXTINF:0 tvg-id="RTPi.pt" group-title="Portugal",RTP Internacional PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/5622.m3u8
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Portugal",RTP África PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/2711.m3u8
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Portugal",RTP Madeira PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/2707.m3u8
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Portugal",RTP Açores PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/2712.m3u8
+#EXTINF:0 tvg-id="sic.pt" group-title="Portugal",SIC PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/2703.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",SIC ( Baixa Internet ) PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/75440.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",SIC ( Mobile ) PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/75455.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",SIC FHD PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/2696.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",SIC Internacional PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/103109.m3u8
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Portugal",SIC Radical PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/2700.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",SIC Radical FHD PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/2699.m3u8
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Portugal",SIC Mulher PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/2702.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",SIC Mulher FHD PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/78328.m3u8
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="Portugal",SIC Caras PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/2705.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",SIC Caras HD PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/2697.m3u8
+#EXTINF:0 tvg-id="TVI.pt" group-title="Portugal",TVI PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/3845.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI (Baixa Internet) PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/75439.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI ( Mobile ) PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/75456.m3u8
+#EXTINF:0 tvg-id="TVI.pt" group-title="Portugal",TVI FHD PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/3840.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Internacional PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/103108.m3u8
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Portugal",TVI Ficção PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/3846.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Ficção ( Mobile ) PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/75457.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Ficção FHD PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/78293.m3u8
+#EXTINF:0 tvg-id="TVIdirect.pt" group-title="Portugal",TVI Reality PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/3842.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Reality HD PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/78294.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Reality Mosaico PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/83594.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Reality Camera 1 PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/84359.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Reality Camera 2 PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/84360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Reality Camera 3 PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/84361.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVI Reality Camera 4 PT
+http://letmein.fun:8080/live/ricardorooliveira3/iZRJ2nkEd9/84362.m3u8 
+  
