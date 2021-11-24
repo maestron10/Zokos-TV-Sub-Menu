@@ -5,10 +5,26 @@ http://0.0.0.0:000000
 ####################################################################################################################################
  
  
-#EXTINF:-1,[COLOR=blue][B]LISTA DE SÉRIES DE TV ADICIONADA: 29/10/2021 [/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]LISTA DE SÉRIES ESCOLHIDAS[/B][/COLOR][COLOR=blue][/COLOR]
  
 #EXTM3U
 
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B] /////////// DOPESICK - DISNEY + - LEGENDADADA (LEG: BR) ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+FONTE: https://filmeseries.top/series/dopesick 
+
+#EXTINF:-1,[COLOR=white][B]DOPESICK T1 EP1 - DISNEY + LEG.[/B][/COLOR][COLOR=white][/COLOR]
+https://s8.pandafiles.com:183/d/6a3zvbo426kwoyapi6fos3wupoblozxqolpr72vu5xcidxailkheeblfoxt7s7ivtjbddjxo/video.mp4
+
+
+
+#EXTM3U
+
+#EXTINF:-1,[COLOR=blue][B]LISTA DE SÉRIES DE TV ADICIONADA: 29/10/2021 [/B][/COLOR][COLOR=blue][/COLOR]
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////// DESIGNATED SURVIVOR T2 (LEG: PT) ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
