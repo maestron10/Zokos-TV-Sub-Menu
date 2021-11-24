@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA VERIFICADA: 22/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA VERIFICADA: 24/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 
 #EXTM3U
@@ -52,10 +52,6 @@ http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/7845
 #EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://vstreams.tv:2082/ericVlite99/16846546/1170914
 #EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/7844
-#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3223
-#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://vstreams.tv:2082/ericVlite99/16846546/1170915
 #EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/3224
@@ -69,8 +65,7 @@ http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/16297
 http://aziptv.live:6969/Hdservers/Valendsuk/1929
 #EXTINF:-1,[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/27799
-#EXTINF:-1,[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/27801
+
 
 
 #EXTM3U
@@ -127,18 +122,9 @@ http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/23323
 #EXTINF:-1,[COLOR=blue][B]CANAIS PREMIUM CINEMA PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://0000000
 
-#EXTINF:-1,[COLOR=white][B]NOS STUDIOS FHD PT[/B][/COLOR][COLOR=white][/COLOR]
-http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/27665
-#EXTINF:-1,[COLOR=white][B]TVCINE TOP PT[/B][/COLOR][COLOR=white][/COLOR]
-http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/15796
-#EXTINF:-1,[COLOR=white][B]TVCINE TOP FHD PT[/B][/COLOR][COLOR=white][/COLOR]
-http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5545
-#EXTINF:-1,[COLOR=white][B]TVCINE EDITION PT[/B][/COLOR][COLOR=white][/COLOR]
-http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/15797
 #EXTINF:-1,[COLOR=white][B]TVCINE EMOTION FHD PT[/B][/COLOR][COLOR=white][/COLOR]
 http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/5547
-#EXTINF:-1,[COLOR=white][B]TVCINE ACTION PT[/B][/COLOR][COLOR=white][/COLOR]
-http://cloudcdn.tk:80/tDVM3vk1716/E4ajjX5/15799
+
 
 
 
