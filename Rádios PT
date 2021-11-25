@@ -539,9 +539,6 @@ http://centova.radios.pt:9478/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO NO AR ONLINE[/B][/COLOR][COLOR=white][/COLOR]
 https://radios.justweb.pt/8034/stream
 
-#EXTINF:-1,[COLOR=white][B]RÁDIO VOZ SANTO TIRSO[/B][/COLOR][COLOR=white][/COLOR]
-https://radios.justweb.pt/8024/stream
-
 #EXTINF:-1,[COLOR=white][B]RÁDIO FESTIVAL[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9520/;
 
@@ -577,6 +574,39 @@ http://s1.xps-ip.eu:8064/;
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO PORTUENSE ONLINE[/B][/COLOR][COLOR=white][/COLOR]
 https://player.stmxp.net/proxy/7068
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO GONDOMAR MIX[/B][/COLOR][COLOR=white][/COLOR]
+http://95.217.75.38:9964/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE PAÇOS DE FERREIRA[/B][/COLOR][COLOR=white][/COLOR]
+http://stm26.srvaudio.com.br:11420/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO VOZ DO TUA[/B][/COLOR][COLOR=white][/COLOR]
+https://servidor37-3.brlogic.com:7128/live
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO FELGUEIRAS[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:8459/;
+
+#EXTINF:-1,[COLOR=white][B]NORTE FM[/B][/COLOR][COLOR=white][/COLOR]
+http://shoutcast.beamfm.net:8500/;
+
+#EXTINF:-1,[COLOR=white][B]FAMA RÁDIO[/B][/COLOR][COLOR=white][/COLOR]
+http://digitalfm.dynu.com:8000/digitalfm64
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO VOZ MATOSINHOS[/B][/COLOR][COLOR=white][/COLOR]
+https://radios.justweb.pt/8020/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DE PENAFIEL[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:9476/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO MARIA[/B][/COLOR][COLOR=white][/COLOR]
+https://dreamsiteradiocp5.com/proxy/rmportugal1?mp=%2Fstream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO DOURO AFURADENSE[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.xps-ip.eu:8048/; 
+
+#EXTINF:-1,[COLOR=white][B]AVE FM[/B][/COLOR][COLOR=white][/COLOR]
+http://79.143.184.106:8000/avefm
 
 
 ######################################################################################################################################
