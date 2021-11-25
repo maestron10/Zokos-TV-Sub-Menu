@@ -39,8 +39,6 @@ http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8?DVR
 #EXTINF:-1,[COLOR=white][B]RÁDIO MIÚDOS[/B][/COLOR][COLOR=white][/COLOR]
 https://s4.radio.co/s6b2edc98f/listen
 
-#EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL KIDS[/B][/COLOR][COLOR=white][/COLOR]
-https://media1.mcr.iol.pt/wrcomercial/rckids.stream/chunks.m3u8?nimblesessionid=58790847
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS NACIONAIS E/OU ONLINE[/B][/COLOR][COLOR=blue][/COLOR]
@@ -92,9 +90,6 @@ https://sp0.redeaudio.com/8028/stream/
 #EXTINF:0 tvg-logo="" group-title="https://upload.wikimedia.org/wikipedia/pt/c/ce/Logotipo_da_R%C3%A1dio_Cidade_%28Rio_de_Janeiro%29.png",[COLOR=white][B]CIDADE FM[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/cidadefm
 
-#EXTINF:-1,[COLOR=white][B]CIDADE HIP-HOP[/B][/COLOR][COLOR=white][/COLOR]
-https://media1.mcr.iol.pt/wrcidade/cidhiphop.stream/chunks.m3u8?nimblesessionid=58809277
-
 #EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/comercial.mp3
 
@@ -103,15 +98,6 @@ https://media1.mcr.iol.pt/wrcomercial/rcbrasil.stream/chunks.m3u8?nimblesessioni
 
 #EXTINF:-1,[COLOR=white][B]M80 NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/m80
-
-#EXTINF:-1,[COLOR=white][B]M80 PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
-https://media3.mcr.iol.pt/wrm80/m80nacional.aac/icecast.audio
-
-#EXTINF:-1,[COLOR=white][B]M80 BALADAS[/B][/COLOR][COLOR=white][/COLOR]
-https://media2.mcr.iol.pt/wrm80/m80ballads.stream/chunks.m3u8?nimblesessionid=27356095
-
-#EXTINF:-1,[COLOR=white][B]M80 ANOS 80[/B][/COLOR][COLOR=white][/COLOR]
-https://media2.mcr.iol.pt/wrm80/m8080.stream/chunks.m3u8?nimblesessionid=27357736
 
 #EXTINF:-1,[COLOR=white][B]RFM NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://21313.live.streamtheworld.com/RFMAAC.aac
@@ -148,12 +134,6 @@ http://play.golo.fm:8020/;stream.mp3
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO MUNDIAL FM[/B][/COLOR][COLOR=white][/COLOR]
 http://95.217.75.38:9000/
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO SMOOTH[/B][/COLOR][COLOR=white][/COLOR]
-https://media3.mcr.iol.pt/livefm/smooth.mp3/icecast.audio
-
-
-
 
 
 ######################################################################################################################################
