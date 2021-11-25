@@ -3,42 +3,6 @@
 #EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]/////////////////  SÉRIES DE TV - DIVERSOS  //////////////[/B][/COLOR]
 http://0.0.0.0:000000
 ####################################################################################################################################
- 
- 
-#EXTINF:-1,[COLOR=blue][B]LISTA DE SÉRIES ESCOLHIDAS[/B][/COLOR][COLOR=blue][/COLOR]
- 
-#EXTM3U
-
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] /////////// DOPESICK - (DISNEY +) - LEGENDAS: BR ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-FONTE: https://filmeseries.top/series/dopesick 
-
-#EXTINF:-1,[COLOR=white][B]DOPESICK T1 EP1[/B][/COLOR][COLOR=white][/COLOR]
-https://s8.pandafiles.com:183/d/6a3zvbo426kwoyapi6fos3wupoblozxqolpr72vu5xcidxailkheeblfoxt7s7ivtjbddjxo/video.mp4
-
-#EXTINF:-1,[COLOR=white][B]DOPESICK T1 EP2[/B][/COLOR][COLOR=white][/COLOR]
-https://s7.pandafiles.com:183/d/6e3vq7o326kwoyapisflw564m6k2zl664ilfeepsuvtd4yycz3hjntoretxtc4732mripg3d/video.mp4
-
-#EXTINF:-1,[COLOR=white][B]DOPESICK T1 EP3[/B][/COLOR][COLOR=white][/COLOR]
-https://s3.pandafiles.com:183/d/7u37svw326kwoyapiwfls7g3mwymcsyk7ozqjojvpsmr5kk5ufngooh6sghkdunuyqxcvbqu/video.mp4
-
-#EXTINF:-1,[COLOR=white][B]DOPESICK T1 EP4[/B][/COLOR][COLOR=white][/COLOR]
-https://s3.pandafiles.com:183/d/7u3uix6326kwoyapjkfkqo4gpmi2xnn6l4j77d6zh65mh4srbwhj2p3evbblzklptg42l5jd/video.mp4
-
-#EXTINF:-1,[COLOR=white][B]DOPESICK T1 EP5[/B][/COLOR][COLOR=white][/COLOR]
-https://s1.pandafiles.com:183/d/7m3was6326kwoyapjofl22osn6srygjmundyz7pcbtkbw35uqo56uvuhzp3ihg745mnyhpdb/video.mp4
-
-#EXTINF:-1,[COLOR=white][B]DOPESICK T1 EP6[/B][/COLOR][COLOR=white][/COLOR]
-https://s1.pandafiles.com:183/d/7m3sufg326kwoyapjgfleog3m7c3nhc6gpmrlfkwdwantipca42qpz6652gbc74g53wfvqb6/video.mp4
-
-#EXTINF:-1,[COLOR=white][B]DOPESICK T1 EP7[/B][/COLOR][COLOR=white][/COLOR]
-https://s1.pandafiles.com:183/d/7m34356326kwoyapj2flgzwgm4wyakmywaz2a5mreg7675mj3zkckwp6ok32wlbz3amngkaq/video.mp4
-
-#EXTINF:-1,[COLOR=white][B]DOPESICK T1 EP8[/B][/COLOR][COLOR=white][/COLOR]
-https://s11.pandafiles.com:183/d/7i3yfu6326kwoyapjsfke3odgngru3yv2h6thmqneyqny63hvfsoznnzbfkgaokb3jwac3vy/video.mp4
-
 
 #EXTM3U
 
@@ -48,6 +12,7 @@ https://s11.pandafiles.com:183/d/7i3yfu6326kwoyapjsfke3odgngru3yv2h6thmqneyqny63
 #EXTINF:-1,[COLOR=yellow][B] /////////// DESIGNATED SURVIVOR T2 (LEG: PT) ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+#EXTM3U
 
 #EXTINF:0 tvg-id="avi" group-title="AL: Z-O-M-B-I-E-S 2",Designated Survivor  S02 E01
 http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/235913.mkv
