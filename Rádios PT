@@ -15,14 +15,12 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top  -  https://www.r
 #EXTINF:-1,[COLOR=blue][B]TOP RÁDIOS FAVORITAS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000000000000000
 
- #EXTINF:-1,[COLOR=white][B]RÁDIO ORBITAL[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RÁDIO ORBITAL[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:8401/stream
-#EXTINF:-0,[COLOR=white][B]HIPER FM[/B][/COLOR][COLOR=white][/COLOR]
-http://195.23.85.126:9500/stream/1/
+#EXTINF:-1,[COLOR=white][B]RÁDIO NOVA ERA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:9478/; 
 #EXTINF:-1,[COLOR=white][B]NOITE FM[/B][/COLOR][COLOR=white][/COLOR]
 http://live.noite.pt:8080/;
-#EXTINF:-0,[COLOR=white][B]RÁDIO NOVA[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:9528/stream/1/
 #EXTINF:-0,[COLOR=white][B]RÁDIO AGITA ÁGUEDA[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com/8046/stream
 
