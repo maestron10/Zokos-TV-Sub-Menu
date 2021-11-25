@@ -48,11 +48,6 @@ plugin://plugin.video.youtube/play/?video_id=YJVjv8qNIDY&ab_channel=earthTV
 #EXTINF:-1,[COLOR=blue][B]ESPECIAL WEBCAM PORTUGAL[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000
 
-
-# https://www.youtube.com/watch?v=7AGCLUwf89A&ab_channel=Playocean
-#EXTINF:-1,[COLOR=white][B]SETUBAL - PORTINHO DA ARRÁBIDA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=7AGCLUwf89A&ab_channel=Playocean
-
 # https://www.youtube.com/watch?v=WI4mP963GvE&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - AV. DO MAR - FUNCHAL[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=WI4mP963GvE&ab_channel=Madeira-Web
@@ -73,6 +68,37 @@ plugin://plugin.video.youtube/play/?video_id=G6_JuBzlhTY&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA CALHETA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=UJQd9RckYwc&ab_channel=Madeira-Web
 
+# https://www.youtube.com/watch?v=kBpteJYTxn4&ab_channel=Madeira-Web
+#EXTINF:-1,[COLOR=white][B]MADEIRA - MADALENA DO MAR[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=kBpteJYTxn4&ab_channel=Madeira-Web
+
+# https://www.youtube.com/watch?v=Du2NUiR93zY&ab_channel=Madeira-Web
+#EXTINF:-1,[COLOR=white][B]MADEIRA - MACHICO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=Du2NUiR93zY&ab_channel=Madeira-Web
+
+# https://www.youtube.com/watch?v=9GMdvcyRfMU&ab_channel=Madeira-Web
+#EXTINF:-1,[COLOR=white][B]MADEIRA - FORUM MACHICO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=9GMdvcyRfMU&ab_channel=Madeira-Web
+
+# https://www.youtube.com/watch?v=oUXTrtZudSE&ab_channel=Madeira-Web
+#EXTINF:-1,[COLOR=white][B]MADEIRA - PONTA DELGADA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=oUXTrtZudSE&ab_channel=Madeira-Web
+
+# https://www.youtube.com/watch?v=vyvB1-B8olU&ab_channel=Madeira-Web
+#EXTINF:-1,[COLOR=white][B]MADEIRA - RITZ[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=vyvB1-B8olU&ab_channel=Madeira-Web
+
+# https://www.youtube.com/watch?v=7AGCLUwf89A&ab_channel=Playocean
+#EXTINF:-1,[COLOR=white][B]SETUBAL - PORTINHO DA ARRÁBIDA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=7AGCLUwf89A&ab_channel=Playocean
+
+# https://www.youtube.com/watch?v=y77y9tacA2c&ab_channel=PortodeLisboa
+#EXTINF:-1,[COLOR=white][B]LISBOA - PORTO DE LISBOA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=y77y9tacA2c&ab_channel=PortodeLisboa
+
+# https://www.youtube.com/watch?v=PwDp7T0T5Kk&ab_channel=IloveLx
+#EXTINF:-1,[COLOR=white][B]LISBOA - AO VIVO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=PwDp7T0T5Kk&ab_channel=IloveLx
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]ANIMAIS - DIVERSOS ZOOS[/B][/COLOR][COLOR=blue][/COLOR]
@@ -83,6 +109,9 @@ http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]USA - PANDA 2[/B][/COLOR][COLOR=white][/COLOR]
 https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ESCÓCIA - ZOO PANDA[/B][/COLOR][COLOR=white][/COLOR]
+http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IcLi495.png" group-title="USA",[COLOR=white][B]USA - URSO POLAR [/B][/COLOR][COLOR=white][/COLOR]
 http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/Playlist.m3u8
@@ -99,6 +128,13 @@ https://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]USA - PINGUINS[/B][/COLOR][COLOR=white][/COLOR]
 https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/chunklist.m3u8
 
+#EXTINF:-1,[COLOR=white][B]ESCÓCIA - PINGUINS[/B][/COLOR][COLOR=white][/COLOR]
+https://595b9deb3d6ac.streamlock.net/qlive/edinburghzoo104225.stream/playlist.m3u8
+
+# https://www.youtube.com/watch?v=JJqXeRFsLjE&ab_channel=KansasCityZoo
+#EXTINF:-1,[COLOR=white][B]KC ZOO - PINGUINS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=JJqXeRFsLjE&ab_channel=KansasCityZoo
+
 #  https://www.youtube.com/watch?v=fsV8AWmr4SA&ab_channel=Hamptons.com
 #EXTINF:-1,[COLOR=white][B]NOVA IORQUE - AQUÁRIO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=fsV8AWmr4SA&ab_channel=Hamptons.com
@@ -107,12 +143,21 @@ plugin://plugin.video.youtube/play/?video_id=fsV8AWmr4SA&ab_channel=Hamptons.com
 #EXTINF:-1,[COLOR=white][B]HAVAI - AQUALINK[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=oPGH65HrseA&ab_channel=AqualinkHawaii
 
-#EXTINF:-1,[COLOR=white][B]ESCÓCIA - PINGUINS[/B][/COLOR][COLOR=white][/COLOR]
-https://595b9deb3d6ac.streamlock.net/qlive/edinburghzoo104225.stream/playlist.m3u8
+#  https://www.youtube.com/watch?v=R7vrbiDi0Tc&ab_channel=KittenAcademy
+#EXTINF:-1,[COLOR=white][B]ACADEMIA DOS GATOS LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=R7vrbiDi0Tc&ab_channel=KittenAcademy
 
-#EXTINF:-1,[COLOR=white][B]ESCÓCIA - ZOO PANDA[/B][/COLOR][COLOR=white][/COLOR]
-http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/playlist.m3u8
+# https://www.youtube.com/watch?v=mfLtOKqPrWw&ab_channel=TheCritterRoom
+#EXTINF:-1,[COLOR=white][B]GATOS PEQUENOS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=mfLtOKqPrWw&ab_channel=TheCritterRoom
 
+# https://www.youtube.com/watch?v=hNexlUkTTuc&ab_channel=ZoosVictoria
+#EXTINF:-1,[COLOR=white][B]MELBOURNE ZOO - GIRAFAS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=hNexlUkTTuc&ab_channel=ZoosVictoria
+
+# https://www.youtube.com/watch?v=RBfxcZAp_D0&ab_channel=KenLittle
+#EXTINF:-1,[COLOR=white][B]USA - PÁSSAROS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=RBfxcZAp_D0&ab_channel=KenLittle
 
 ####################################################################################################################################
 #EXTM3U
@@ -179,6 +224,8 @@ https://000000
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DLOcBsT.png" group-title="AUSTRIA",[COLOR=white][B]JERZENS (TIROL AIRPORT)[/B][/COLOR][COLOR=white][/COLOR]
 http://83.218.163.132:8081/mjpg/video.mjpg
+
+
 
 
 ####################################################################################################################################
@@ -389,19 +436,3 @@ https://5ed7b8fd7bf40.streamlock.net:444/schoonerssunsetHDCam/schsun/playlist.m3
 http://5a5f765a4fcc2.streamlock.net:1935/live/spp.stream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]USA - PORTO DO SUL 2[/B][/COLOR][COLOR=white][/COLOR]
 http://5a5f765a4fcc2.streamlock.net:1935/live/fishy.stream/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
