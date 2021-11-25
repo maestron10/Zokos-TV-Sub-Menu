@@ -7,7 +7,7 @@ http://0.0.0.0:000000
 FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top  -  https://www.radios-online.pt - https://internetradiouk.com
  
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 21/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 25/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
 
@@ -530,8 +530,53 @@ http://51.75.145.68:9874/;
 #EXTINF:-1,[COLOR=red][B]DISTRITO: PORTO[/B][/COLOR][COLOR=red][/COLOR]
 https://000000000000000000000
 
-#EXTINF:-1,[COLOR=white][B]BREVEMENTE[/B][/COLOR][COLOR=white][/COLOR]
-https://000000000000000000000000000
+#EXTINF:-1,[COLOR=white][B]RÁDIO TOCA A DANÇAR[/B][/COLOR][COLOR=white][/COLOR]
+http://95.217.75.38:9974/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO NOVA ERA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:9478/; 
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO NO AR ONLINE[/B][/COLOR][COLOR=white][/COLOR]
+https://radios.justweb.pt/8034/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO VOZ SANTO TIRSO[/B][/COLOR][COLOR=white][/COLOR]
+https://radios.justweb.pt/8024/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO FESTIVAL[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:9520/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO NOVA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:9528/;
+
+#EXTINF:-1,[COLOR=white][B]MYTUNER STATION[/B][/COLOR][COLOR=white][/COLOR]
+http://shoutcast.beamfm.net:8512/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO ONDA VIVA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:9524/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO MARCOENSE FM[/B][/COLOR][COLOR=white][/COLOR]
+http://137.74.160.250:8000/;stream/1
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO XL FM[/B][/COLOR][COLOR=white][/COLOR]
+https://radios.justweb.pt:7000/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO PLACARD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.239.218.99:7098/;
+
+#EXTINF:-1,[COLOR=white][B]JORNAL FM[/B][/COLOR][COLOR=white][/COLOR]
+http://213.136.92.8:8006/; 
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO LINEAR[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8184/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO MATOSINHOS[/B][/COLOR][COLOR=white][/COLOR]
+http://185.32.188.17:8035/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO CIDADE DE MATOSINHOS[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.xps-ip.eu:8064/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO PORTUENSE ONLINE[/B][/COLOR][COLOR=white][/COLOR]
+https://player.stmxp.net/proxy/7068
 
 
 ######################################################################################################################################
