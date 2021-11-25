@@ -63,9 +63,6 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 #EXTINF:-1,[COLOR=white][B]KISS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83
 
-#EXTINF:-1,[COLOR=white][B]ONE 1[/B][/COLOR][COLOR=white][/COLOR]
-https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
-
 #EXTINF:-1,[COLOR=white][B]KISS KISS TV[/B][/COLOR][COLOR=white][/COLOR]
 http://58f12ffd2447a.streamlock.net:1935/KKMulti/livestream/playlist.m3u8
 
