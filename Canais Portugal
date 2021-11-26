@@ -101,13 +101,13 @@ http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-id="tvi.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png",[COLOR=white][B]TVI[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-id="tvi.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png",[COLOR=white][B]TVI FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://94.61.44.29:7500/play/a04u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-id="tvi.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png",[COLOR=white][B]TVI[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-id="tvi.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png",[COLOR=white][B]TVI FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/3DrGO6f?inspiration.m3u8
-#EXTINF:-1 tvg-id="" tvg-id="tvi.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png",[COLOR=white][B]TVI[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-id="tvi.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png",[COLOR=white][B]TVI SD[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth4.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-id="tvi24.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://cnnportugal.iol.pt/icons/apple-touch-icon-144x144.png",[COLOR=white][B]CNN PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-id="tvi24.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://cnnportugal.iol.pt/icons/apple-touch-icon-144x144.png",[COLOR=white][B]CNN PORTUGAL SD[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8
 
 
