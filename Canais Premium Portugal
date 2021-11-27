@@ -10,7 +10,7 @@ Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 
 #EXTM3U
  
-#EXTINF:-1,[COLOR=blue][B]NOVOS LINKS SPORT TV PT[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]NOVOS LINKS DESPORTO PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://00000000000
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -24,6 +24,33 @@ http://vstreams.tv:2082/ericVlite99/16846546/1170915
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://vstreams.tv:2082/ericVlite99/16846546/1170916
+
+#EXTINF:-1,SPORT TV+ 
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/3187
+#EXTINF:-1,SPORT TV1 
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/3192
+#EXTINF:-1,SPORT TV2 
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/3191
+#EXTINF:-1,SPORT TV3 
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/3190
+#EXTINF:-1,SPORT TV4 
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/3189
+#EXTINF:-1,SPORT TV5 
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/3188
+#EXTINF:-1,BENFICA TV 
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/3239
+#EXTINF:-1,Benfica TV 
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/3238
+#EXTINF:-1,ELEVEN SPORTS 1 
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/29371
+#EXTINF:-1,ELEVEN SPORTS 2 
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/29370
+#EXTINF:-1,ELEVEN SPORTS 3
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/29369
+#EXTINF:-1,ELEVEN SPORTS 4
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/29368
+#EXTINF:-1,ELEVEN SPORTS 5
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/29334
 
 ####################################################################################################################################
  
@@ -95,6 +122,17 @@ https://0000000
 
 #EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://00000000000000000000
+
+#EXTINF:-1,NOS Studios
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/29398
+#EXTINF:-1,TVCINE TOP
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/29359
+#EXTINF:-1,TVCINE EDITION
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/3180
+#EXTINF:-1,TVCINE EMOTION
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/3179 
+#EXTINF:-1,TVCINE ACTION
+http://he01.okcomputer.club:8880/HELM3172/2l1q8dad/29335
 
 
 
