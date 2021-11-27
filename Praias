@@ -68,14 +68,6 @@ https://video-auth1.iol.pt
 #EXTINF:-1,[COLOR=white][B]VIANA DO CASTELO - CABEDELO[/B][/COLOR][COLOR=white][/COLOR]
 https://cams.cdn-surfline.com/cdn-int/pt-viana/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]PRAIA DO MOLEDO[/B][/COLOR][COLOR=white][/COLOR]
-https://59775c8bd0cf7.streamlock.net/live/moledo.stream/chunklist_w1102141260_tkd293emF0b2tlbmVuZHRpbWU9MTYzNzk1NTg2OCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2Mzc5NTU2Mjgmd293emF0b2tlbmhhc2g9MkgxVWRiaW0zd2RRLUVSSVlzdUlmb3RTR3liTTI3Z1FZYUd5MkQ4eHBuZz0=.m3u8
-
-#EXTINF:-1,[COLOR=white][B]VILA PRAIA DE ANCORA[/B][/COLOR][COLOR=white][/COLOR]
-https://59775c8bd0cf7.streamlock.net/live/ancora.stream/chunklist_w1978830429_tkd293emF0b2tlbmVuZHRpbWU9MTYzNzk1NjA2OCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2Mzc5NTU4Mjgmd293emF0b2tlbmhhc2g9STUzSktySlRRTVJmb2dYeVplbkZmbDRnRE1MRlRSTGhtbGxUM0V6VmVzcz0=.m3u8
-
-#EXTINF:-1,[COLOR=white][B]PRAIA VIANA DO CASTELO[/B][/COLOR][COLOR=white][/COLOR]
-https://59775c8bd0cf7.streamlock.net/live/viana.stream/chunklist_w439154008_tkd293emF0b2tlbmVuZHRpbWU9MTYzNzk1NjIzMiZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2Mzc5NTU5OTImd293emF0b2tlbmhhc2g9N1pRMWlRdFpGc21uU2NIY3F1R21XT0NZcTFaQkFBb0VtZUhBU2lXSmpFdz0=.m3u8
 
 
 ####################################################################################################################################
