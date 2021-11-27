@@ -68,6 +68,12 @@ https://video-auth1.iol.pt
 #EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 https://000000000000000000
 
+#EXTINF:-1,[COLOR=white][B]PRAIA DO OFIR[/B][/COLOR][COLOR=white][/COLOR]
+https://video-auth1.iol.pt/beachcam/bcofir/chunks.m3u8?nimblesessionid=723552577
+
+#EXTINF:-1,[COLOR=white][B]PRAIA DE ESPOSENDE[/B][/COLOR][COLOR=white][/COLOR]
+https://video-auth1.iol.pt/beachcam/bcesposende/chunks.m3u8?nimblesessionid=723553035
+
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]PRAIAS DO NORTE[/B][/COLOR][COLOR=blue][/COLOR]
