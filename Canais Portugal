@@ -145,11 +145,11 @@ https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
 #EXTINF:-1,[COLOR=white][B]TV MANA[/B][/COLOR][COLOR=white][/COLOR]
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]FOX COMEDY FHD PT[/B][/COLOR][COLOR=white][/COLOR]
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBowOfLS_yiUc7Fnb_hJldo
+#EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://premiumtop.top:8080/paulo_fernandes/paulo/4858
 
-#EXTINF:-1,[COLOR=white][B]TURMA DA MÓNICA BR[/B][/COLOR][COLOR=white][/COLOR]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptv.fronteratvonline.com:8080/Frontdemo12/Demofront13/90302
 
 #EXTM3
 
