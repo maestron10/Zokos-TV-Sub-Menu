@@ -3,6 +3,10 @@
 http://0.0.0.0:0000
 ####################################################################################################################################
  
+ 
+ 
+ FONTE DE INFORMAÇÃO: https://github.com/maestron10/scv
+ 
 #EXTM3U
  
 #EXTINF:-1,[COLOR=yellow][B]LISTA VERIFICADA: 27/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -24,6 +28,31 @@ http://vstreams.tv:2082/ericVlite99/16846546/1170915
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://vstreams.tv:2082/ericVlite99/16846546/1170916
+
+#EXTINF:-1,SPORT.TV+ 
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/19448
+#EXTINF:-1,SPORT.TV1
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/24626
+#EXTINF:-1,SPORT.TV2 
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/24627
+#EXTINF:-1,SPORT.TV3 
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/24628
+#EXTINF:-1,SPORT.TV4 
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/19453
+#EXTINF:-1,SPORT.TV5 
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/24630
+#EXTINF:-1,Benfica TV 
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/24639
+#EXTINF:-1,Eleven Sports 1 
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/21819
+#EXTINF:-1,Eleven Sports 2 
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/21817
+#EXTINF:-1,Eleven Sports 3
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/21813
+#EXTINF:-1,Eleven Sports 4
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/21811
+#EXTINF:-1,Eleven Sports 5
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/21810
 
 
 
