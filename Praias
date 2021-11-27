@@ -74,6 +74,11 @@ https://video-auth1.iol.pt/beachcam/bcofir/chunks.m3u8?nimblesessionid=723552577
 #EXTINF:-1,[COLOR=white][B]PRAIA DE ESPOSENDE[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/bcesposende/chunks.m3u8?nimblesessionid=723553035
 
+#EXTINF:-1,[COLOR=white][B]PRAIA DE MATOSINHOS - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
+https://cams.cdn-surfline.com/cdn-int/pt-matosinhos/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]PRAIA AZUL - TORRES VEDRAS[/B][/COLOR][COLOR=white][/COLOR]
+https://cams.cdn-surfline.com/cdn-int/pt-praiaazul/chunklist.m3u8
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]PRAIAS DO NORTE[/B][/COLOR][COLOR=blue][/COLOR]
