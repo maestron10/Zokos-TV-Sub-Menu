@@ -68,7 +68,11 @@ https://video-auth1.iol.pt
 #EXTINF:-1,[COLOR=white][B]VIANA DO CASTELO - CABEDELO[/B][/COLOR][COLOR=white][/COLOR]
 https://cams.cdn-surfline.com/cdn-int/pt-viana/chunklist.m3u8
 
+#EXTINF:-1,[COLOR=white][B]PRAIA DO MOLEDO[/B][/COLOR][COLOR=white][/COLOR]
+https://59775c8bd0cf7.streamlock.net/live/moledo.stream/chunklist_w735308258_tkd293emF0b2tlbmVuZHRpbWU9MTYzODAxNjI1OCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzgwMTYwMTgmd293emF0b2tlbmhhc2g9S2ZVZmNaZ3dQTHM1bGpldHkzVF9lQkUzdzJRWi1fSnhvM19XcXFxdmpuST0=.m3u8
 
+#EXTINF:-1,[COLOR=white][B]PRAIA DE OFIR[/B][/COLOR][COLOR=white][/COLOR]
+https://59775c8bd0cf7.streamlock.net/live/ofir.stream/chunklist_w193654951_tkd293emF0b2tlbmVuZHRpbWU9MTYzODAxNjM2MyZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzgwMTYxMjMmd293emF0b2tlbmhhc2g9X2taVmpoMUFyTS1VUGJGa2U3OEx6Vmx4WUgybTNRU1hidF85ZXNKYVpycz0=.m3u8
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]PRAIAS DO NORTE[/B][/COLOR][COLOR=blue][/COLOR]
