@@ -19,22 +19,59 @@ Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
 https://00000000000
 
 
-#EXTINF:-1,SPORT TV 1
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/3187
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/19448
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95407
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/3187
+
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/24626
-#EXTINF:-1,SPORT TV 1 
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95408
-#EXTINF:-1,SPORT TV 1 
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/29392
-#EXTINF:-1,SPORT TV 1 HD
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29392
-#EXTINF:-1,SPORT TV 2 HD
+
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29391
-#EXTINF:-1,SPORT TV 2 
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/29391
-#EXTINF:-1,SPORT TV 2 
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95412
-#EXTINF:-1,SPORT TV 2 
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/24627
+
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29390
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/24628
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95413
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/29390
+
+#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29389
+#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/19453
+#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95415
+#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/29389
+
+#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/49958
+#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/24630
+#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95416
+#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]  
+http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/49958
 
  
 ####################################################################################################################################
@@ -76,22 +113,22 @@ http://aziptv.live:6969/Hdservers/Valendsuk/1929
 #EXTINF:-1,[COLOR=blue][B]CANAIS INTERNACIONAIS ONDE DÁ FUTEBOL PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:-1,RMC SPORT 1 
+
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 1[/B][/COLOR][COLOR=white][/COLOR]
 http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/126919
-#EXTINF:-1,RMC SPORT 1
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 1[/B][/COLOR][COLOR=white][/COLOR]
 http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/27960
-#EXTINF:-1,RMC SPORT 2 
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 2[/B][/COLOR][COLOR=white][/COLOR]
 http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/126920
-#EXTINF:-1,RMC SPORT 2
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 2[/B][/COLOR][COLOR=white][/COLOR]
 http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/27959
-#EXTINF:-1,RMC SPORT 3 
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 3[/B][/COLOR][COLOR=white][/COLOR]
 http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/126921
-#EXTINF:-1,RMC SPORT 3
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 3[/B][/COLOR][COLOR=white][/COLOR]
 http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/27958
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 POL.[/B][/COLOR][COLOR=white][/COLOR]
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 POL.[/B][/COLOR][COLOR=white][/COLOR]
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 
@@ -103,15 +140,15 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.
 #EXTINF:-1,[COLOR=blue][B]BENFICA TV[/B][/COLOR][COLOR=blue][/COLOR]                
 https://000000
 
-#EXTINF:-1,BENFICA TV 
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/24639
-#EXTINF:-1,BENFICA TV 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95396
-#EXTINF:-1,BENFICA TV 
-http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/3238
-#EXTINF:-1,BENFICA TV 
-http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/59183
 
+#EXTINF:-1,[COLOR=white][B]BENFICA TV[/B][/COLOR][COLOR=white][/COLOR] 
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/24639
+#EXTINF:-1,[COLOR=white][B]BENFICA TV[/B][/COLOR][COLOR=white][/COLOR] 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95396
+#EXTINF:-1,[COLOR=white][B]BENFICA TV[/B][/COLOR][COLOR=white][/COLOR]  
+http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/3238
+#EXTINF:-1,[COLOR=white][B]BENFICA TV[/B][/COLOR][COLOR=white][/COLOR]  
+http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/59183
 
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -122,11 +159,44 @@ http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/59183
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://00000000000000000000
-
-
-
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/21819
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1[/B][/COLOR][COLOR=white][/COLOR] 
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95418
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
+http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/29371
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29371
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/21817
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95419
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2[/B][/COLOR][COLOR=white][/COLOR] 
+http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/29370
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29370
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3[/B][/COLOR][COLOR=white][/COLOR]
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/21813
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3[/B][/COLOR][COLOR=white][/COLOR]
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95420
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3[/B][/COLOR][COLOR=white][/COLOR]
+http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/29369
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3[/B][/COLOR][COLOR=white][/COLOR]
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29369
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4[/B][/COLOR][COLOR=white][/COLOR]
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/21811
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4[/B][/COLOR][COLOR=white][/COLOR]
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95421
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4[/B][/COLOR][COLOR=white][/COLOR]
+http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/29368
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4[/B][/COLOR][COLOR=white][/COLOR]
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29368
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5[/B][/COLOR][COLOR=white][/COLOR]
+http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/21810
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5[/B][/COLOR][COLOR=white][/COLOR]
+http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95422
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5[/B][/COLOR][COLOR=white][/COLOR]
+http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/29334
 
 
 ##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
@@ -135,107 +205,11 @@ http://00000000000000000000
 #EXTINF:-1,[COLOR=blue][B]CANAIS PREMIUM CINEMA PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://0000000
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://00000000000000000000
-
-
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]LINKS EM TESTES[/B][/COLOR][COLOR=blue][/COLOR]
-https://00000000000
-
-
-
-#EXTINF:-1,SPORT.TV+ 
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/19448
-
-#EXTINF:-1,SPORT.TV3 
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/24628
-#EXTINF:-1,SPORT.TV4 
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/19453
-#EXTINF:-1,SPORT.TV5 
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/24630
-
-#EXTINF:-1,ELEVEN SPORTS 1 
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/21819
-#EXTINF:-1,ELEVEN SPORTS 2 
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/21817
-#EXTINF:-1,ELEVEN SPORTS 3
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/21813
-#EXTINF:-1,ELEVEN SPORTS 4
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/21811
-#EXTINF:-1,ELEVEN SPORTS 5
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/21810
-
-#EXTINF:-1,SPORT.TV+ 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95407
-
-#EXTINF:-1,SPORT.TV3 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95413
-#EXTINF:-1,SPORT.TV4 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95415
-#EXTINF:-1,SPORT.TV5 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95416
-
-#EXTINF:-1,ELEVEN SPORTS 1 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95418
-#EXTINF:-1,ELEVEN SPORTS 2 
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95419
-#EXTINF:-1,ELEVEN SPORTS 3
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95420
-#EXTINF:-1,ELEVEN SPORTS 4
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95421
-#EXTINF:-1,ELEVEN SPORTS 5
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95422
-
-#EXTINF:-1,SPORT.TV+ 
-http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/3187
-
-#EXTINF:-1,SPORT.TV3 
-http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/29390
-#EXTINF:-1,SPORT.TV4 
-http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/29389
-#EXTINF:-1,SPORT.TV5 
-http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/49958
-
-#EXTINF:-1,ELEVEN SPORTS 1 
-http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/29371
-#EXTINF:-1,ELEVEN SPORTS 2 
-http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/29370
-#EXTINF:-1,ELEVEN SPORTS 3
-http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/29369
-#EXTINF:-1,ELEVEN SPORTS 4
-http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/29368
-#EXTINF:-1,ELEVEN SPORTS 5
-http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/29334
-
-#EXTINF:-1,TVCine TOP 
+#EXTINF:-1,[COLOR=white][B]TVCINE TOP[/B][/COLOR][COLOR=white][/COLOR]
 http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/3181
-#EXTINF:-1,TVCine EDITION 
+#EXTINF:-1,[COLOR=white][B]TVCINE EDITION[/B][/COLOR][COLOR=white][/COLOR]
 http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/3180
-#EXTINF:-1,TVCine EMOTION 
+#EXTINF:-1,[COLOR=white][B]TVCINE EMOTION[/B][/COLOR][COLOR=white][/COLOR]
 http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/3179
-#EXTINF:-1,TVCine ACTION 
+#EXTINF:-1,[COLOR=white][B]TVCINE ACTION [/B][/COLOR][COLOR=white][/COLOR]
 http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/3178
-
-
-#EXTINF:-1,SPORT.TV
-http://mu03ye.wanicelife.com:8880/YALM4654/89076352/3187
-
-#EXTINF:-1,SPORT.TV 3 HD
-http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29390
-#EXTINF:-1,SPORT.TV 4
-http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29389
-#EXTINF:-1,SPORT.TV 5
-http://mu03ye.wanicelife.com:8880/YALM4654/89076352/49958
-#EXTINF:-1,ELEVEN SPORTS 1
-http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29371
-#EXTINF:-1,ELEVEN SPORTS 2
-http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29370
-#EXTINF:-1,ELEVEN SPORTS 3
-http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29369
-#EXTINF:-1,ELEVEN SPORTS 4
-http://mu03ye.wanicelife.com:8880/YALM4654/89076352/29368
-
-
-
