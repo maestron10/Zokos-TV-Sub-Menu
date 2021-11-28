@@ -64,17 +64,8 @@ plugin://plugin.video.youtube/play/?video_id=G6_JuBzlhTY&ab_channel=Madeira-Web
 plugin://plugin.video.youtube/play/?video_id=Wz_mSdgUEP4&ab_channel=Madeira-Web
 
 ########################################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]PRAIAS EM TESTE - NORTE[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]PRAIAS EM TESTES[/B][/COLOR][COLOR=blue][/COLOR]
 https://video-auth1.iol.pt
-
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-https://000000000000000000
-
-#EXTINF:-1,[COLOR=white][B]PRAIA DO OFIR[/B][/COLOR][COLOR=white][/COLOR]
-https://video-auth1.iol.pt/beachcam/bcofir/chunks.m3u8?nimblesessionid=723552577
-
-#EXTINF:-1,[COLOR=white][B]PRAIA DE ESPOSENDE[/B][/COLOR][COLOR=white][/COLOR]
-https://video-auth1.iol.pt/beachcam/bcesposende/chunks.m3u8?nimblesessionid=723553035
 
 #EXTINF:-1,[COLOR=white][B]PRAIA DE MATOSINHOS - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
 https://cams.cdn-surfline.com/cdn-int/pt-matosinhos/chunklist.m3u8
@@ -90,6 +81,8 @@ https://video-auth1.iol.pt
 https://video-auth1.iol.pt/beachcam/lecadapalmeira/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MATOSINHOS[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/matosinhos/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]MATOSINHOS - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
+https://cams.cdn-surfline.com/cdn-int/pt-matosinhos/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]ESPINHO[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]ESMORIZ[/B][/COLOR][COLOR=white][/COLOR]
@@ -174,6 +167,8 @@ http://video-auth1.iol.pt:1935/beachcam/santoamaro/playlist.m3u8
 http://video-auth1.iol.pt:1935/beachcam/parcos/playlist.m3u8
 #EXTINF:0,[COLOR=white][B]PRAIA CAXIAS[/B][/COLOR][COLOR=white][/COLOR]
 http://video-auth1.iol.pt:1935/beachcam/caxias/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]PRAIA AZUL - TORRES VEDRAS[/B][/COLOR][COLOR=white][/COLOR]
+https://cams.cdn-surfline.com/cdn-int/pt-praiaazul/chunklist.m3u8
  
 OFFLINE: 0
 
