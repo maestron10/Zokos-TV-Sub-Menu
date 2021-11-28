@@ -23,6 +23,8 @@ http://centova.radios.pt:9478/;
 http://live.noite.pt:8080/;
 #EXTINF:-0,[COLOR=white][B]RÁDIO AGITA ÁGUEDA[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com/8046/stream
+#EXTINF:-1,[COLOR=white][B]RÁDIO ESTAÇÃO DIÁRIA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:9430/;
 
 
 ######################################################################################################################################
@@ -461,7 +463,7 @@ https://sonic1.transmissaodigital.com/8120/stream
 
 
 ######################################################################################################################################
-#EXTINF:-1,[COLOR=red][B]DISTRITO: LISBOA[/B][/COLOR][COLOR=red][/COLOR]
+#EXTINF:-1,[COLOR=red][B]DISTRITO: LISBOA - EM CONSTRUÇÃO[/B][/COLOR][COLOR=red][/COLOR]
 https://000000000000000000000 
 
 #EXTINF:-1,[COLOR=white][B]BREVEMENTE[/B][/COLOR][COLOR=white][/COLOR]
@@ -525,7 +527,7 @@ http://51.75.145.68:9874/;
 
 
 ######################################################################################################################################
-#EXTINF:-1,[COLOR=red][B]DISTRITO: PORTO[/B][/COLOR][COLOR=red][/COLOR]
+#EXTINF:-1,[COLOR=red][B]DISTRITO: PORTO - EM CONSTRUÇÃO[/B][/COLOR][COLOR=red][/COLOR]
 https://000000000000000000000
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO TOCA A DANÇAR[/B][/COLOR][COLOR=white][/COLOR]
