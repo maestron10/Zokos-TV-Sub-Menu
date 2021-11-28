@@ -207,10 +207,20 @@ http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]EURODANCE 90 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 
+######################################################################################################
+#EXTINF:-1,[COLOR=blue][B]MIX 24/7[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
 
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://mix24-7.com/wp-content/uploads/2021/03/LogoWeb247.png",[COLOR=white][B]MIX 24/7 RETRO[/B][/COLOR][COLOR=white][/COLOR]
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/4.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://mix24-7.com/wp-content/uploads/2021/03/LogoWeb247.png",[COLOR=white][B]MIX 24/7 TOP 100[/B][/COLOR][COLOR=white][/COLOR]
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/2.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://mix24-7.com/wp-content/uploads/2021/03/LogoWeb247.png",[COLOR=white][B]MIX 24/7 TROPICAL[/B][/COLOR][COLOR=white][/COLOR]
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/3.m3u8
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" group-title="Music" tvg-logo="https://mix24-7.com/wp-content/uploads/2021/03/LogoWeb247.png",[COLOR=white][B]MIX 24/7 PURO ROCK[/B][/COLOR][COLOR=white][/COLOR]
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/25.m3u8
 
 ######################################################################################################
- 
 #EXTINF:-1,[COLOR=blue][B]BEST TOP HITS 2[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
