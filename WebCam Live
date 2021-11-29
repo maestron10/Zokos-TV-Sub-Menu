@@ -15,6 +15,21 @@ Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
         
 #EXTM3U
 
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]/////CAMARAS AO VIVO EM TESTE /////[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+
+
+#EXTINF:-1,MOSCOVO, RUSSIA MIR AVENUE 79
+https://cameras.inetcom.ru/hls/camera12_4.m3u8
+
+#EXTINF:-1,SYDNEY HARBOR (AUSTRÁLIA)
+https://s65.ipcamlive.com/streams/41qy7gwjckvmumh8j/stream.m3u8
+
+
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]///// EARTH TV E OUTRAS LIVE CAM /////[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
