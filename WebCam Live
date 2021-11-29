@@ -100,6 +100,11 @@ plugin://plugin.video.youtube/play/?video_id=y77y9tacA2c&ab_channel=PortodeLisbo
 #EXTINF:-1,[COLOR=white][B]LISBOA - AO VIVO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=PwDp7T0T5Kk&ab_channel=IloveLx
 
+#EXTINF:-1,[COLOR=white][B]PORTO - VISTA DA CIDADE[/B][/COLOR][COLOR=white][/COLOR]
+https://frn.rtsp.me/njvCmUXzfGmF3P5w5qK4qQ/1638294903/hls/bYTDANDA.m3u8?ip=188.80.165.183
+
+
+
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]ANIMAIS - DIVERSOS ZOOS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
