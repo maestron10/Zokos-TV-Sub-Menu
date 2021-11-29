@@ -29,6 +29,11 @@ https://cameras.inetcom.ru/hls/camera12_4.m3u8
 #EXTINF:-1,[COLOR=white][B]SYDNEY HARBOR (AUSTRÁLIA)[/B][/COLOR][COLOR=white][/COLOR]
 https://s65.ipcamlive.com/streams/41qy7gwjckvmumh8j/stream.m3u8
 
+#EXTINF:-1,[COLOR=white][B]BRASIL COPACABANA SKYLINE[/B][/COLOR][COLOR=white][/COLOR]
+https://hd-auth.skylinewebcams.com/live.m3u8?a=v9k89evsa4025hihi268npffo0
+
+
+
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]///// EARTH TV E OUTRAS LIVE CAM /////[/B][/COLOR][COLOR=blue][/COLOR]
