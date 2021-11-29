@@ -67,18 +67,14 @@ plugin://plugin.video.youtube/play/?video_id=Wz_mSdgUEP4&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=blue][B]PRAIAS EM TESTES[/B][/COLOR][COLOR=blue][/COLOR]
 https://video-auth1.iol.pt
 
-#EXTINF:-1,[COLOR=white][B]PRAIA DE AGUÇADOURA - PORTO[/B][/COLOR][COLOR=white][/COLOR]
-https://59775c8bd0cf7.streamlock.net/live/agucadoura.stream/chunklist_w784925576_tkd293emF0b2tlbmVuZHRpbWU9MTYzODIwNDIwOCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzgyMDM5Njgmd293emF0b2tlbmhhc2g9aFlvbHhLMmFBTGtlYVlaWHBDTmVCUm50M0s2Z3IxYnZTdjlFYlJNUjdxYz0=.m3u8
-
-#EXTINF:-1,[COLOR=white][B]PRAIA PÓVOA DO VARZIM[/B][/COLOR][COLOR=white][/COLOR]
-https://59775c8bd0cf7.streamlock.net/live/ferrari.stream/chunklist_w2064018840_tkd293emF0b2tlbmVuZHRpbWU9MTYzODIwNDI3MiZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzgyMDQwMzImd293emF0b2tlbmhhc2g9M051Ql9yWVViUnRvYWMwZFk5YXM2ZWpnUDFWYVUzcmZwbjVpXzRVZTU0VT0=.m3u8
-
 #EXTINF:-1,[COLOR=white][B]SETUBAL - PRAIA DO PEGO[/B][/COLOR][COLOR=white][/COLOR]
 https://cams.cdn-surfline.com/cdn-int/pt-comporta/chunklist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]COSTA DA CAPARICA - PRAIA DO BARBAS[/B][/COLOR][COLOR=white][/COLOR]
 https://cams.cdn-surfline.com/cdn-int/pt-barbas/chunklist.m3u8
 
+#EXTINF:-1,[COLOR=white][B]SINTRA - PRAIA PEQUENA[/B][/COLOR][COLOR=white][/COLOR]
+https://cams.cdn-surfline.com/cdn-int/pt-praiapequena/chunklist.m3u8
 
 
 ####################################################################################################################################
