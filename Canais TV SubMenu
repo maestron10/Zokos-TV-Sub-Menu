@@ -14,9 +14,21 @@
  
 <channels>
 <channel>
-<name>[COLOR=gold][B]CANAIS DE MÚSICA[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<name>[COLOR=gold][B]CANAIS DE MÚSICA 1[/B][/COLOR][COLOR=gold][/COLOR]</name>
 <thumbnail>https://ia601506.us.archive.org/26/items/canais-de-musica-3/Canais%20de%20M%C3%BAsica%203.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/Zokos-TV-Sub-Menu/main/Canais%20M%C3%BAsica</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
+</channel>
+</channel>
+
+
+
+<channels>
+<channel>
+<name>[COLOR=gold][B]CANAIS DE MÚSICA 2[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601506.us.archive.org/26/items/canais-de-musica-3/Canais%20de%20M%C3%BAsica%203.jpg</thumbnail>
+<externallink>https://iptv-org.github.io/iptv/categories/music.m3u</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
 </channel>
