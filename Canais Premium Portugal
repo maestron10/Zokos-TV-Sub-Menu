@@ -6,11 +6,11 @@ http://0.0.0.0:0000
  
  
  FONTE DE INFORMAÇÃO: https://github.com/maestron10/scv
+                      https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA DESACTIVADA: 29/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
-Fonte de Informação: https://github.com/MgZiNMiNLwiN/iptv/blob/main/live.m3u
+#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 30/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
  
@@ -20,6 +20,12 @@ https://00000000000
 
 
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="-",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://93.152.174.144:4000/play/a00f/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://93.152.174.144:4000/play/sporttv1/index.m3u8
+
+#EXTINF:-1 group-title="-" ,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://93.152.174.144:4000/play/a00f/index.m3u8
 
  
