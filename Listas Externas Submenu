@@ -64,18 +64,26 @@
 
 
 
-
-</channel>
+<channels>
 <channel>
-<name>[COLOR=gold][B]ZEUS TV PT[/B][/COLOR][COLOR=gold][/COLOR]</name>
-<thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
-<externallink>http://milhano.pt/ftp-milhano/zeustv/Zeus/PORTUGAL.MENU.ZEUS/PORTUGAL.MENU.ZEUS.txt</externallink>
+<name>[COLOR=gold][B]FLUXUS TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601502.us.archive.org/7/items/fluxus-tv/Fluxus%20TV.jpg</thumbnail>
+<externallink>https://bitbucket.org/!api/2.0/snippets/fluxustv/expnoX/4120d270de0ea3b147ad4e9ffddbea6a0b783f4d/files/IPTV_032321</externallink>
 <fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
 <info></info>
 </channel>
+</channels>
+
+
+
+<channels>
+<channel>
+<name>[COLOR=gold][B]FREE2VIEW STREAMS TV[/B][/COLOR][COLOR=gold][/COLOR]</name>
+<thumbnail>https://ia601509.us.archive.org/3/items/free-2-view-streams-tv/Free2View%20Streams%20TV.jpg</thumbnail>
+<externallink>https://web.opendrive.com/api/v1/download/file.json/MzJfMTY2NzU4NDVf?inline=1</externallink>
+<fanart>https://ia601406.us.archive.org/27/items/novo-fanart-zokos/Novo Fanart Zokos.jpg</fanart>
+<info></info>
 </channel>
-
-
-
+</channels>
 
 
