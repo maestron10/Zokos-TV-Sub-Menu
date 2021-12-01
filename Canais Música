@@ -46,6 +46,9 @@ http://rtmp.one.by:1300
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=white][B]FIRST 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://hz1.teleport.cc/HLS/HD.m3u8
 
+#EXTINF:0,[COLOR=white][B]VIVA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+
 #EXTINF:0,[COLOR=white][B]1MUSIC TV[/B][/COLOR][COLOR=white][/COLOR]
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
@@ -135,6 +138,21 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 
 #EXTINF:-1,[COLOR=white][B]AMORDISCOS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRIDGE TV[/B][/COLOR][COLOR=white][/COLOR]
+http://ott-cdn.ucom.am/s34/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DELUXE LOUNGE HD[/B][/COLOR][COLOR=white][/COLOR]
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/91fcad1e-54b1-4702-9ec1-22a379525281/0.m3u8
+
+#EXTINF:-1,[COLOR=white][B]GO-RTV[/B][/COLOR][COLOR=white][/COLOR]
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]M1 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://live.m2.tv/hls2/stream.m3u8
+
+#EXTINF:-1,[COLOR=white][B]PLAY TV[/B][/COLOR][COLOR=white][/COLOR]
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
 ##########################################################################################################################
 
