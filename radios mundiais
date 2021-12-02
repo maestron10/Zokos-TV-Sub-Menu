@@ -46,6 +46,8 @@ https://stream-mz.planetradio.co.uk/planetrock.mp3
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS BRASIL[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
+
+#EXTM3U
  
 #EXTINF:-1,[COLOR=white][B]RÁDIO MIX[/B][/COLOR][COLOR=white][/COLOR]
 https://24963.live.streamtheworld.com/MIXFM_SAOPAULOAAC_SC
@@ -57,10 +59,106 @@ https://str3.openstream.co/1084?aw_0_1st.collectionid%3D3908%26stationId%3D3908%
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS ESPANHA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
+
+
+#EXTM3U
  
 #EXTINF:-1,[COLOR=white][B]RÁDIO MEGASTAR FM[/B][/COLOR][COLOR=white][/COLOR]
 https://flucast-b02-01.flumotion.com/cope/megastar.mp3
  
- 
+ #######################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS TDT CHANNELS INTERNACIONAIS[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Radio Exterior
+https://crtve-ice-edge-2001-fra-eco-cdn.cast.addradio.de/crtve/rneree/main/aac/high
+#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",SER Andorra
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ANDORRA.mp3
+#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",Flaix Andorra
+http://radio.garden/api/ara/content/listen/2kvum5QK/channel.mp3
+#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",Flaixbac Andorra
+http://radio.garden/api/ara/content/listen/lCLIa9LS/channel.mp3
+#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",Radio Valira Andorra
+http://91.187.93.115:8020/;.mp3
+#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",Paranoia Metal Andorra
+http://giss.tv:8000/paranoiashow.mp3
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",BiG FM Alemania
+http://streams.bigfm.de/bigfm-deutschland-128-mp3
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",QMusic Holanda
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_64.aac
+#EXTINF:0 tvg-id="RadioItalia.it" group-title="Radio_Internacional",Radio Italia
+https://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",RDP Int. Portugal
+https://streaming-live.rtp.pt/liveradio/rdpint80a/chunklist_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Radio Comercial Portugal
+https://media2.mcr.iol.pt/livefm/comercial/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",RFM Portugal
+https://22723.live.streamtheworld.com/RFMAAC
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Sputnik News Rusia
+https://riavoice.gcdn.co/voicespa
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",BFBS Gibraltar 1
+https://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs7.aac
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",BFBS Gibraltar 2
+https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs2.aac
+#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",Radio Montecarlo
+https://icy.unitedradio.it/RMC.mp3
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Tomorrowland Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Radio Swiss Jazz
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Total Rock UK
+https://s04.whooshclouds.net:8220/live
+#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",Gaydio UK
+https://listen-gaydio.sharp-stream.com/gaydiouk.mp3
+#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",Radio Francia Internacional
+https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
+#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",Jazz Radio Francia
+https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Rinse FM UK
+https://streamer-uk.rinse.fm:8443/stream
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",LOS40 Argentina
+https://19253.live.streamtheworld.com/LOS40_ARGENTINAAAC
+#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",FM Rock & Pop Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",RPP Noticias Perú
+https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Radio La Zona Perú
+https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Radio Oxígeno Perú
+https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Radio Z Rock & Pop Perú
+http://167.114.118.120:7440/;mp3
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Radio Nacional Perú
+http://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Radio Lipova Rumania
+https://securestreams5.autopo.st:1888/;mp3
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Classic Christian
+https://streams.cbnradio.com/Classic-Christian-128K
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Praise
+https://streams.cbnradio.com/praise-128K
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Selah
+https://streams.cbnradio.com/instrumental-128K
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Cross Country
+https://streams.cbnradio.com/country-128K
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Contemporary
+https://streams.cbnradio.com/contemporary-128K
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Gospel
+https://streams.cbnradio.com/gospel-128K
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Southern Gospel
+https://streams.cbnradio.com/southern-gospel-128K
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Superbook
+https://streams.cbnradio.com/superbook-128K
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Fiesta Hoy
+https://streams.cbnradio.com/fiesta-hoy-128K
+#EXTINF:0 tvg-id="ABS-CBNNewsChannel.us" group-title="Radio_Internacional",CBN News
+https://streams.cbnradio.com/news-128K
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Christmas
+https://streams.cbnradio.com/christmas-128K
+#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Cross Country Christmas
+https://streams.cbnradio.com/country-christmas-128K
+
+
  
  
