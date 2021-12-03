@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA 1 REVISTA: 12/11/21[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA 1 REVISTA: 03/12/21[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
@@ -34,12 +34,6 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1,[COLOR=white][B]BARAZA DANCE MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://panik.cast-control.eu:1935/Admin_1/Admin_1/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]MOOZ DANCE[/B][/COLOR][COLOR=white][/COLOR]
-http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
-
-#EXTINF:-1,[COLOR=white][B]MOOZ HITS[/B][/COLOR][COLOR=white][/COLOR]
-http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozhits
-
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=white][B]FIRST 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://rtmp.one.by:1300
 
@@ -64,17 +58,11 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1,[COLOR=white][B]KISS UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
-#EXTINF:-1,[COLOR=white][B]KISS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83
-
 #EXTINF:-1,[COLOR=white][B]KISS KISS TV[/B][/COLOR][COLOR=white][/COLOR]
 http://58f12ffd2447a.streamlock.net:1935/KKMulti/livestream/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]POWER TV HD (ARG)[/B][/COLOR][COLOR=white][/COLOR]
 https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]HIT TV[/B][/COLOR][COLOR=white][/COLOR]
-http://rosshow.gcdn.co/streams/1410_287/1080n/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Hit Music Channel (HU)" tvg-logo="https://i.imgur.com/n6zkLpb.png" group-title="MUSIC",[COLOR=white][B]HIT MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://hitmusic.hu/hitmusic.m3u8
@@ -96,9 +84,6 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO MAXIMA 94.9 FM[/B][/COLOR][COLOR=white][/COLOR]
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO MONTECARLO[/B][/COLOR][COLOR=white][/COLOR]
-https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(BB)/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]CMC USA MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
@@ -135,12 +120,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
 #EXTINF:-1,[COLOR=white][B]DELUXE LOUNGE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/91fcad1e-54b1-4702-9ec1-22a379525281/0.m3u8
-
-#EXTINF:-1,[COLOR=white][B]AMORDISCOS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]BRIDGE TV[/B][/COLOR][COLOR=white][/COLOR]
-http://ott-cdn.ucom.am/s34/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]DELUXE LOUNGE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/91fcad1e-54b1-4702-9ec1-22a379525281/0.m3u8
@@ -187,9 +166,6 @@ https://eu-nl-012.worldcast.tv/dancetelevisioneight/2/dancetelevisioneight.m3u8
 #EXTINF:-1,[COLOR=white][B]DANCE TV - MELODIC TECH[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionnine/2/dancetelevisionnine.m3u8
 
-#EXTINF:-1,[COLOR=white][B]CLUBLAND TV UK[/B][/COLOR][COLOR=white][/COLOR]
-http://ip.king-cobra.eu:8080/5Tc1H2AKvI/JO4ytKNduH/328427
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="",[COLOR=white][B]CLUBBING TV[/B][/COLOR][COLOR=white][/COLOR]
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
@@ -215,9 +191,6 @@ https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 
 #EXTINF:-1,[COLOR=white][B]BARAZA MUSIC (DANCE)[/B][/COLOR][COLOR=white][/COLOR]
 http://panik.cast-control.eu:1935/Admin_1/Admin_1/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MOOZ DANCE[/B][/COLOR][COLOR=white][/COLOR]
-http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO IBIZA TV[/B][/COLOR][COLOR=white][/COLOR]
 http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/chunklist.m3u8
@@ -267,9 +240,6 @@ http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CAROLINA TV[/B][/COLOR][COLOR=white][/COLOR]
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]ADRIA MUSIC RS[/B][/COLOR][COLOR=white][/COLOR]
-http://91.212.150.248/AdriaMusicTV/index.m3u8
- 
 #EXTINF:-1,[COLOR=white][B]AFROBEAT - ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
  
@@ -388,27 +358,15 @@ http://live.m2.tv/hls3/stream.m3u8
   
 #EXTINF:-1,[COLOR=white][B]BARAZA TV CLASSICS[/B][/COLOR][COLOR=white][/COLOR]
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/chunklist_w296305449.m3u8
- 
-#EXTINF:-1,[COLOR=white][B]RÁDIO TV BEATZ TV[/B][/COLOR][COLOR=white][/COLOR]
-https://edge9.vedge.infomaniak.com/livecast/rp_tv_1/playlist.m3u8
    
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o3mNE4H.jpg" group-title="MUSIC",[COLOR=white][B]DESI CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
    
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]URBAN REVOLUTION ESPANHA[/B][/COLOR][COLOR=white][/COLOR] 
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RTL 102.5 ITÁLIA[/B][/COLOR][COLOR=white][/COLOR] 
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]VIRGIN RÁDIO ITÁLIA[/B][/COLOR][COLOR=white][/COLOR]
 https://live2-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RÁDIO 101 ITÁLIA[/B][/COLOR][COLOR=white][/COLOR]
-https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RÁDIO MONTECARLO ITÁLIA[/B][/COLOR][COLOR=white][/COLOR]
-https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]1 MUSIC HUNGRIA[/B][/COLOR][COLOR=white][/COLOR]
 http://1music.hu/1music.m3u8
@@ -460,7 +418,7 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTM3U
 
 #############################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]LISTA VERIFICADA: 05/11/21[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA VERIFICADA: 03/12/21[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
