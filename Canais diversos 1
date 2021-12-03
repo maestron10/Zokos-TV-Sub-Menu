@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 12/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 03/12/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 ##########################################################################################################################
  
@@ -75,11 +75,8 @@ https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PzFeEcS.png" group-title="USA",[COLOR=white][B]THE OLD HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]HOMETALK TV[/B][/COLOR][COLOR=white][/COLOR]
-https://playworksdigital-hometalk-1.vizio.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]LIVELY PLACE[/B][/COLOR][COLOR=white][/COLOR]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc1cb279c91420009db261d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]LIVELY PLACE[/B][/COLOR][COLOR=white][/COLOR]
 https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
@@ -94,14 +91,11 @@ https://000000
 #EXTINF:-1 tvg-id="CAAJ34000089L" tvg-chno="1181" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/55/CAAJ34000089L_20210525T053257.png" group-title="Canada,[COLOR=white][B]PEOPLE ARE AWESOME[/B][/COLOR][COLOR=white][/COLOR]
 https://c39d19b6c720488ba741c4d6e725ebcd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=386&ads.wurl_name=PeopleAreAwesome&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1,[COLOR=white][B]PEOPLE ARE AWESOMEBR[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]PEOPLE ARE AWESOME BR[/B][/COLOR][COLOR=white][/COLOR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 
 #EXTINF:-1,[COLOR=white][B]FAIL ARMY[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-
-#EXTINF:-1,[COLOR=white][B]FAIL ARMY FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://failarmy-linear.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]FAIL ARMY BR[/B][/COLOR][COLOR=white][/COLOR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
@@ -208,11 +202,11 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]WEATHER NATION (USA)[/B][/COLOR][COLOR=white][/COLOR]
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]PATTRN TV (720p)[/B][/COLOR][COLOR=white][/COLOR]
-https://csm-e-cetubiausw2live204-01130c4edc259e208.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8
-
 #EXTINF:-1,[COLOR=white][B]THE WEATHER SPY TV[/B][/COLOR][COLOR=white][/COLOR]
 https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pattrn.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f976cdcd40f5d6678647013" group-title="Weather",[COLOR=white][B]PATTRN TV[/B][/COLOR][COLOR=white][/COLOR]
+https://linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]FASHION TV[/B][/COLOR][COLOR=white][/COLOR]
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -293,14 +287,37 @@ https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]CANAL MOTOR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Sports & Recreation",[COLOR=white][B]HARLEY DAVIDSON TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Sports & Recreation",[COLOR=white][B]HARLEY DAVIDSON TV FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="USA/Canada",[COLOR=white][B]HARLEY DAVIDSON RACING TV[/B][/COLOR][COLOR=white][/COLOR]
-https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
 
+#EXTINF:-1,[COLOR=white][B]HARLEY DAVIDSON FACTORY TV[/B][/COLOR][COLOR=white][/COLOR]
+https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
+ 
 #EXTINF:-1,[COLOR=white][B]HARLEY DAVIDSON RIDES TV[/B][/COLOR][COLOR=white][/COLOR]
 https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
+
+#EXTINF:-1,[COLOR=white][B]PLUTO TV CARS[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b3a4249444e05d09cc46&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=663&terminate=false&userId=
+
+
+##########################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]VIAGENS E TURISMO[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000
+
+
+#EXTINF:-1 tvg-id="GoTraveler.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Travel",[COLOR=white][B]GO TRAVELER TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="JascoEventsTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="" group-title="Travel",[COLOR=white][B]JASCO EVENTS TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://82.212.74.100:8000/live/hls/8131.m3u8
+#EXTINF:-1 tvg-id="Journy.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjg5MzMxNjNf?inline=1" group-title="Travel",[COLOR=white][B]JOURNEY TV FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://d3lzjtrf5mvf3p.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Journy.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/journy.png" group-title="Travel",[COLOR=white][B]JOURNEY TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://vcnplex.teleosmedia.com/linear/ovation/journy/playlist.m3u8?did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&pid=5f5132df62fe160040f26bc2&ptoken=PLbo_Jw_s1xgoB_1Srgg
+
+#EXTINF:-1 tvg-id="LocalNowDiscover.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60481e10fa33524246049ac3" group-title="Travel",[COLOR=white][B]LOCAL NOW DISCOVER HD[/B][/COLOR][COLOR=white][/COLOR]
+https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTravel.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="Travel",[COLOR=white][B]PLUTO TV TRAVEL[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS DE CINEMA[/B][/COLOR][COLOR=blue][/COLOR]
