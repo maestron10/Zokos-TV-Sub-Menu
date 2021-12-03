@@ -10,32 +10,56 @@ http://0.0.0.0:0000
  
 #EXTM3U
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 30/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 03/12/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
  
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]NOVOS LINKS DESPORTO PT[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]LINKS DESPORTO PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://00000000000
 
+#EXTM3U
 
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="-",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://93.152.174.144:4000/play/a00f/index.m3u8
+#EXTINF:-1,[COLOR=white][B]SPORT TV+[/B][/COLOR][COLOR=white][/COLOR]
+http://fhd.cheapstreams.xyz:2052/yasir/123456/19448
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://93.152.174.144:4000/play/sporttv1/index.m3u8
-
-#EXTINF:-1 group-title="-" ,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://93.152.174.144:4000/play/a00f/index.m3u8
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://93.152.174.144:4000/play/sporttv1/index.m3u8
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://93.152.174.144:4000/play/a00f/index.m3u8
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fhd.cheapstreams.xyz:2052/yasir/123456/24626
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14550
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/314
+
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ac.traveliptv.nl:80/Winges4K/chupYX1144/14551
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fhd.cheapstreams.xyz:2052/yasir/123456/24627
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/315
+
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fhd.cheapstreams.xyz:2052/yasir/123456/24628
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/316
+
+#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fhd.cheapstreams.xyz:2052/yasir/123456/19453
+#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/317
+
+#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fhd.cheapstreams.xyz:2052/yasir/123456/24630
+#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/318
 
  
-####################################################################################################################################
- 
-#EXTINF:-1,[COLOR=blue][B]LINKS SPORT TV PT[/B][/COLOR][COLOR=blue][/COLOR]
-https://00000000000
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://00000000000000000000000000000
 
 #EXTM3U
 ####################################################################################################################################
@@ -53,10 +77,7 @@ http://00000000000000000000000000000
 #EXTINF:-1,[COLOR=blue][B]BENFICA TV[/B][/COLOR][COLOR=blue][/COLOR]                
 https://000000
 
-
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://00000000000000000000000000000
-
+#EXTM3U
 
 #EXTINF:-1,[COLOR=white][B]BENFICA TV HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://ae1.worldhell.club:8880/AA6M0373/2828898743/3238
