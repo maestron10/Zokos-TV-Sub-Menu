@@ -31,12 +31,18 @@ https://000000
  
 #EXTM3U
 
+#EXTINF:-1,[COLOR=white][B]BBC RADIO 1 DANCE[/B][/COLOR][COLOR=white][/COLOR]
+https://emp.bbci.co.uk/emp/media/blank.mp3
+
+
 #EXTINF:-1,[COLOR=white][B]BBC RADIO 1[/B][/COLOR][COLOR=white][/COLOR]
-https://as-dash-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/dash/bbc_radio_one-audio=96000.dash
+
 #EXTINF:-1,[COLOR=white][B]BBC RADIO 2[/B][/COLOR][COLOR=white][/COLOR]
-https://as-dash-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/dash/bbc_radio_two-audio=96000.dash
+
 #EXTINF:-1,[COLOR=white][B]BBC RADIO 3[/B][/COLOR][COLOR=white][/COLOR]
-https://as-dash-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/dash/bbc_radio_three-audio=96000.dash
+https://as-dash-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/dash/bbc_radio_three-audio=96000.dash
+
+
 #EXTINF:-1,[COLOR=white][B]CAPITAL FM[/B][/COLOR][COLOR=white][/COLOR]
 https://media-ice.musicradio.com/CapitalMP3
 #EXTINF:-1,[COLOR=white][B]CAPITAL XTRA FM[/B][/COLOR][COLOR=white][/COLOR]
