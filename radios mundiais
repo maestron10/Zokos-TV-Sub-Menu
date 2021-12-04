@@ -34,14 +34,22 @@ https://000000
  
 #EXTINF:-1,[COLOR=white][B]CAPITAL FM[/B][/COLOR][COLOR=white][/COLOR]
 https://media-ice.musicradio.com/CapitalMP3
+#EXTINF:-1,[COLOR=white][B]CAPITAL XTRA FM[/B][/COLOR][COLOR=white][/COLOR]
+https://media-ice.musicradio.com/CapitalXTRALondonMP3
 #EXTINF:-1,[COLOR=white][B]HEART FM[/B][/COLOR][COLOR=white][/COLOR]
 https://media-ice.musicradio.com/HeartLondonMP3
+#EXTINF:-1,[COLOR=white][B]MAGIC RADIO[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-mz.planetradio.co.uk/magicnational.mp3
 #EXTINF:-1,[COLOR=white][B]CAROLINE FM[/B][/COLOR][COLOR=white][/COLOR]
 http://sc6.radiocaroline.net:8040/stream/1/
 #EXTINF:-1,[COLOR=white][B]VIRGIN RADIO[/B][/COLOR][COLOR=white][/COLOR]
 https://radio.virginradio.co.uk/stream
 #EXTINF:-1,[COLOR=white][B]PLANET ROCK[/B][/COLOR][COLOR=white][/COLOR]
 https://stream-mz.planetradio.co.uk/planetrock.mp3
+#EXTINF:-1,[COLOR=white][B]ABSOLUTE RADIO[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-ar.planetradio.co.uk/absoluteradiohigh.aac
+#EXTINF:-1,[COLOR=white][B]KISS RADIO[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-kiss.planetradio.co.uk/kissnational.mp3
  
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS BRASIL[/B][/COLOR][COLOR=blue][/COLOR]
@@ -55,110 +63,60 @@ https://24963.live.streamtheworld.com/MIXFM_SAOPAULOAAC_SC
 https://22973.live.streamtheworld.com/DISNEY_BRA_SP_SC
 #EXTINF:-1,[COLOR=white][B]RÁDIO COCA-COLA[/B][/COLOR][COLOR=white][/COLOR]
 https://str3.openstream.co/1084?aw_0_1st.collectionid%3D3908%26stationId%3D3908%26publisherId%3D1108%26k%3D1637665614%26aw_0_azn.pcountry%3D%5B%22BR%22%5D%26aw_0_azn.planguage%3D%5B%22pt%22%5D%26aw_0_azn.pgenre%3D%5B%22Top40%5C%2FHits+-+Pop%22%2C%22Rock%22%2C%22Electronic%22%5D
- 
+#EXTINF:-1,[COLOR=white][B]RÁDIO ENERGIA FM[/B][/COLOR][COLOR=white][/COLOR]
+https://audio.97fm.com.br/energia
+#EXTINF:-1,[COLOR=white][B]RÁDIO KISS BR[/B][/COLOR][COLOR=white][/COLOR]
+https://cloud2.cdnseguro.com:20000/stream/1/
+#EXTINF:-1,[COLOR=white][B]RÁDIO SAUDADE FM[/B][/COLOR][COLOR=white][/COLOR]
+https://24963.live.streamtheworld.com/SAUDADE_FM_SC
+#EXTINF:-1,[COLOR=white][B]RÁDIO TROPICAL FM[/B][/COLOR][COLOR=white][/COLOR]
+https://8199.brasilstream.com.br/stream
+#EXTINF:-1,[COLOR=white][B]RÁDIO GLOBO FM RJ[/B][/COLOR][COLOR=white][/COLOR]
+https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+#EXTINF:-1,[COLOR=white][B]RÁDIO MELODIA FM[/B][/COLOR][COLOR=white][/COLOR]
+https://15313.live.streamtheworld.com/MELODIAFMAAC_SC
+
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS ESPANHA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
-
 
 #EXTM3U
  
 #EXTINF:-1,[COLOR=white][B]RÁDIO MEGASTAR FM[/B][/COLOR][COLOR=white][/COLOR]
 https://flucast-b02-01.flumotion.com/cope/megastar.mp3
+#EXTINF:-1,[COLOR=white][B]LOS 40 PRINCIPALES[/B][/COLOR][COLOR=white][/COLOR]
+https://25483.live.streamtheworld.com/LOS40_SC
+#EXTINF:-1,[COLOR=white][B]LOS 40 DANCE[/B][/COLOR][COLOR=white][/COLOR]
+https://23543.live.streamtheworld.com/LOS40_DANCE_SC
+#EXTINF:-1,[COLOR=white][B]RADIO CADENA 100[/B][/COLOR][COLOR=white][/COLOR]
+https://cadena100-cope-rrcast.flumotion.com/cope/cadena100-low.mp3
+#EXTINF:-1,[COLOR=white][B]RADIO IBIZA GLOBAL[/B][/COLOR][COLOR=white][/COLOR]
+https://listenssl.ibizaglobalradio.com:8024/stream/1/
+#EXTINF:-1,[COLOR=white][B]RADIO FIESTA[/B][/COLOR][COLOR=white][/COLOR]
+https://cdnlive.shooowit.net/rtvalive/smil:channel4.smil/chunklist_b250000.m3u8
+#EXTINF:-1,[COLOR=white][B]RADIO SONIDA[/B][/COLOR][COLOR=white][/COLOR]
+https://ssl1.viastreaming.net:7005/stream/1/
  
  #######################################################################################################################
-#EXTINF:-1,[COLOR=blue][B]RÁDIOS TDT CHANNELS INTERNACIONAIS[/B][/COLOR][COLOR=blue][/COLOR]
+#EXTINF:-1,[COLOR=blue][B]RÁDIOS FRANÇA[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Radio Exterior
-https://crtve-ice-edge-2001-fra-eco-cdn.cast.addradio.de/crtve/rneree/main/aac/high
-#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",SER Andorra
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ANDORRA.mp3
-#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",Flaix Andorra
-http://radio.garden/api/ara/content/listen/2kvum5QK/channel.mp3
-#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",Flaixbac Andorra
-http://radio.garden/api/ara/content/listen/lCLIa9LS/channel.mp3
-#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",Radio Valira Andorra
-http://91.187.93.115:8020/;.mp3
-#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",Paranoia Metal Andorra
-http://giss.tv:8000/paranoiashow.mp3
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",BiG FM Alemania
-http://streams.bigfm.de/bigfm-deutschland-128-mp3
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",QMusic Holanda
-https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_64.aac
-#EXTINF:0 tvg-id="RadioItalia.it" group-title="Radio_Internacional",Radio Italia
-https://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",RDP Int. Portugal
-https://streaming-live.rtp.pt/liveradio/rdpint80a/chunklist_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Radio Comercial Portugal
-https://media2.mcr.iol.pt/livefm/comercial/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",RFM Portugal
-https://22723.live.streamtheworld.com/RFMAAC
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Sputnik News Rusia
-https://riavoice.gcdn.co/voicespa
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",BFBS Gibraltar 1
-https://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs7.aac
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",BFBS Gibraltar 2
-https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs2.aac
-#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",Radio Montecarlo
-https://icy.unitedradio.it/RMC.mp3
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Tomorrowland Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Radio Swiss Jazz
-http://stream.srg-ssr.ch/m/rsj/mp3_128
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Total Rock UK
-https://s04.whooshclouds.net:8220/live
-#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",Gaydio UK
-https://listen-gaydio.sharp-stream.com/gaydiouk.mp3
-#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",Radio Francia Internacional
-https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
-#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",Jazz Radio Francia
-https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Rinse FM UK
-https://streamer-uk.rinse.fm:8443/stream
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",LOS40 Argentina
-https://19253.live.streamtheworld.com/LOS40_ARGENTINAAAC
-#EXTINF:0 tvg-id="avi" group-title="Radio_Internacional",FM Rock & Pop Argentina
-https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",RPP Noticias Perú
-https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Radio La Zona Perú
-https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Radio Oxígeno Perú
-https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Radio Z Rock & Pop Perú
-http://167.114.118.120:7440/;mp3
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Radio Nacional Perú
-http://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",Radio Lipova Rumania
-https://securestreams5.autopo.st:1888/;mp3
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Classic Christian
-https://streams.cbnradio.com/Classic-Christian-128K
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Praise
-https://streams.cbnradio.com/praise-128K
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Selah
-https://streams.cbnradio.com/instrumental-128K
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Cross Country
-https://streams.cbnradio.com/country-128K
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Contemporary
-https://streams.cbnradio.com/contemporary-128K
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Gospel
-https://streams.cbnradio.com/gospel-128K
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Southern Gospel
-https://streams.cbnradio.com/southern-gospel-128K
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Superbook
-https://streams.cbnradio.com/superbook-128K
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Fiesta Hoy
-https://streams.cbnradio.com/fiesta-hoy-128K
-#EXTINF:0 tvg-id="ABS-CBNNewsChannel.us" group-title="Radio_Internacional",CBN News
-https://streams.cbnradio.com/news-128K
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Christmas
-https://streams.cbnradio.com/christmas-128K
-#EXTINF:0 tvg-id="ext" group-title="Radio_Internacional",CBN Cross Country Christmas
-https://streams.cbnradio.com/country-christmas-128K
+#EXTINF:-1,[COLOR=white][B]RADIO NRJ[/B][/COLOR][COLOR=white][/COLOR]
+https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3?origine=ecouterradioenligne&aw_0_1st.station=NRJ
+#EXTINF:-1,[COLOR=white][B]RADIO VIRGIN FR[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.virginradio.fr/virgin.mp3?aw_0_1st.playerid=lgrdrnwsEcouterRadioEnLigne
+#EXTINF:-1,[COLOR=white][B]AFRICA RADIO[/B][/COLOR][COLOR=white][/COLOR]
+https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
+#EXTINF:-1,[COLOR=white][B]LATINA RADIO[/B][/COLOR][COLOR=white][/COLOR]
+https://start-latina.ice.infomaniak.ch/start-latina-high.mp3
+#EXTINF:-1,[COLOR=white][B]EUROPE 1[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.europe1.fr/europe1.mp3?aw_0_1st.playerid=lgrdrnwsEcouterRadioEnLigne
+#EXTINF:-1,[COLOR=white][B]NOSTALGIE RADIO[/B][/COLOR][COLOR=white][/COLOR]
+https://scdn.nrjaudio.fm/adwz2/fr/30601/mp3_128.mp3?origine=ecouterradioenligne
+#EXTINF:-1,[COLOR=white][B]CHERIE FM[/B][/COLOR][COLOR=white][/COLOR]
+https://scdn.nrjaudio.fm/adwz2/fr/30201/mp3_128.mp3?origine=ecouterradioenligne
+#EXTINF:-1,[COLOR=white][B]FRANCE INTER[/B][/COLOR][COLOR=white][/COLOR]
+https://icecast.radiofrance.fr/franceinter-midfi.mp3?ID=76zqey582k
 
-
- 
- 
