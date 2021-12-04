@@ -14,15 +14,14 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top
 #EXTINF:-1,[COLOR=blue][B]RÁDIOS DANCE MUSIC[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
+#EXTINF:-1,[COLOR=white][B]DANCE UK RADIO[/B][/COLOR][COLOR=white][/COLOR]
+https://dancestream.danceradiouk.com/;
 #EXTINF:-1,[COLOR=white][B]NUMBER ONE DANCE[/B][/COLOR][COLOR=white][/COLOR]
 http://ice10.fluidstream.net/rn1_2.mp3
-
 #EXTINF:-1,[COLOR=white][B]RADIO IBIZA[/B][/COLOR][COLOR=white][/COLOR]
 http://ice02.fluidstream.net/ibiza.aac
-
 #EXTINF:-1,[COLOR=white][B]RADIO VIBRA FM[/B][/COLOR][COLOR=white][/COLOR]
 https://ice02.fluidstream.net/playstudio.mp3
-
 #EXTINF:-1,[COLOR=white][B]RADIO MIXX FM[/B][/COLOR][COLOR=white][/COLOR]
 http://mixxfmfr.ice.infomaniak.ch/mixxfmfr-192.mp3
 
@@ -31,7 +30,13 @@ http://mixxfmfr.ice.infomaniak.ch/mixxfmfr-192.mp3
 https://000000
  
 #EXTM3U
- 
+
+#EXTINF:-1,[COLOR=white][B]BBC RADIO 1[/B][/COLOR][COLOR=white][/COLOR]
+https://as-dash-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/dash/bbc_radio_one-audio=96000.dash
+#EXTINF:-1,[COLOR=white][B]BBC RADIO 2[/B][/COLOR][COLOR=white][/COLOR]
+https://as-dash-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/dash/bbc_radio_two-audio=96000.dash
+#EXTINF:-1,[COLOR=white][B]BBC RADIO 3[/B][/COLOR][COLOR=white][/COLOR]
+https://as-dash-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/dash/bbc_radio_three-audio=96000.dash
 #EXTINF:-1,[COLOR=white][B]CAPITAL FM[/B][/COLOR][COLOR=white][/COLOR]
 https://media-ice.musicradio.com/CapitalMP3
 #EXTINF:-1,[COLOR=white][B]CAPITAL XTRA FM[/B][/COLOR][COLOR=white][/COLOR]
@@ -81,7 +86,13 @@ https://15313.live.streamtheworld.com/MELODIAFMAAC_SC
 https://000000
 
 #EXTM3U
- 
+
+#EXTINF:-1,[COLOR=white][B]RNE RADIO NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+https://hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/index_128_a-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,[COLOR=white][B]RNE RADIO 3[/B][/COLOR][COLOR=white][/COLOR]
+https://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/index_128_a-p.m3u8
+
 #EXTINF:-1,[COLOR=white][B]RÁDIO MEGASTAR FM[/B][/COLOR][COLOR=white][/COLOR]
 https://flucast-b02-01.flumotion.com/cope/megastar.mp3
 #EXTINF:-1,[COLOR=white][B]LOS 40 PRINCIPALES[/B][/COLOR][COLOR=white][/COLOR]
