@@ -71,11 +71,9 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]EURONEWS PT[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=VOw7bts_rGQ&ab_channel=euronews%28emportugu%C3%AAs%29
 
-
 # https://www.youtube.com/watch?v=V0I5eglJMRI&ab_channel=RT
 #EXTINF:-1,[COLOR=white][B]RT NEWS LIVE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=V0I5eglJMRI&ab_channel=RT
-
 
 # https://www.youtube.com/watch?v=9Auq9mYxFEE&ab_channel=SkyNews
 #EXTINF:-1,[COLOR=white][B]SKY NEWS TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -135,11 +133,6 @@ plugin://plugin.video.youtube/play/?video_id=Dm4SC7PM2hg&ab_channel=WBKids
 plugin://plugin.video.youtube/play/?video_id=xKDaDXRSzoM&ab_channel=WBKids
 
 
-# https://www.youtube.com/watch?v=SMuoQTsYZuw&ab_channel=TVOkidsPawPatrol
-#EXTINF:-1,[COLOR=white][B]PATRULHA PATA ENG[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=SMuoQTsYZuw&ab_channel=TVOkidsPawPatrol
-
-
 # https://www.youtube.com/watch?v=i-GsF3Gv_hk&ab_channel=KidsTV-NurseryRhymesAndBabySongs
 #EXTINF:-1,[COLOR=white][B]CANÇÕES DE NATAL KIDS ENG[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=i-GsF3Gv_hk&ab_channel=KidsTV-NurseryRhymesAndBabySongs
@@ -158,6 +151,12 @@ plugin://plugin.video.youtube/play/?video_id=h99SrJB7F5M&ab_channel=DisneyJunior
 # https://www.youtube.com/watch?v=_BDLbUoXUOM&ab_channel=PeppaPig-OfficialChannel
 #EXTINF:-1,[COLOR=white][B]PORQUINHA PEPA TV ENG.[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=_BDLbUoXUOM&ab_channel=PeppaPig-OfficialChannel
+
+
+# https://www.youtube.com/watch?v=VVouoNJUgh4&ab_channel=KidsTvemPortugu%C3%AAs-musicainfantileeduca%C3%A7%C3%A3o
+#EXTINF:-1,[COLOR=white][B]RIMA DE NATAL BR.[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=VVouoNJUgh4&ab_channel=KidsTvemPortugu%C3%AAs-musicainfantileeduca%C3%A7%C3%A3o
+
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]///// DIVERSOS /////[/B][/COLOR][COLOR=blue][/COLOR]
