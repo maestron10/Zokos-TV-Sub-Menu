@@ -31,18 +31,6 @@ https://000000
  
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]BBC RADIO 1 DANCE[/B][/COLOR][COLOR=white][/COLOR]
-https://emp.bbci.co.uk/emp/media/blank.mp3
-
-
-#EXTINF:-1,[COLOR=white][B]BBC RADIO 1[/B][/COLOR][COLOR=white][/COLOR]
-
-#EXTINF:-1,[COLOR=white][B]BBC RADIO 2[/B][/COLOR][COLOR=white][/COLOR]
-
-#EXTINF:-1,[COLOR=white][B]BBC RADIO 3[/B][/COLOR][COLOR=white][/COLOR]
-https://as-dash-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/dash/bbc_radio_three-audio=96000.dash
-
-
 #EXTINF:-1,[COLOR=white][B]CAPITAL FM[/B][/COLOR][COLOR=white][/COLOR]
 https://media-ice.musicradio.com/CapitalMP3
 #EXTINF:-1,[COLOR=white][B]CAPITAL XTRA FM[/B][/COLOR][COLOR=white][/COLOR]
@@ -51,8 +39,6 @@ https://media-ice.musicradio.com/CapitalXTRALondonMP3
 https://media-ice.musicradio.com/HeartLondonMP3
 #EXTINF:-1,[COLOR=white][B]MAGIC RADIO[/B][/COLOR][COLOR=white][/COLOR]
 https://stream-mz.planetradio.co.uk/magicnational.mp3
-#EXTINF:-1,[COLOR=white][B]CAROLINE FM[/B][/COLOR][COLOR=white][/COLOR]
-http://sc6.radiocaroline.net:8040/stream/1/
 #EXTINF:-1,[COLOR=white][B]VIRGIN RADIO[/B][/COLOR][COLOR=white][/COLOR]
 https://radio.virginradio.co.uk/stream
 #EXTINF:-1,[COLOR=white][B]PLANET ROCK[/B][/COLOR][COLOR=white][/COLOR]
@@ -107,8 +93,6 @@ https://25483.live.streamtheworld.com/LOS40_SC
 https://23543.live.streamtheworld.com/LOS40_DANCE_SC
 #EXTINF:-1,[COLOR=white][B]RADIO CADENA 100[/B][/COLOR][COLOR=white][/COLOR]
 https://cadena100-cope-rrcast.flumotion.com/cope/cadena100-low.mp3
-#EXTINF:-1,[COLOR=white][B]RADIO IBIZA GLOBAL[/B][/COLOR][COLOR=white][/COLOR]
-https://listenssl.ibizaglobalradio.com:8024/stream/1/
 #EXTINF:-1,[COLOR=white][B]RADIO FIESTA[/B][/COLOR][COLOR=white][/COLOR]
 https://cdnlive.shooowit.net/rtvalive/smil:channel4.smil/chunklist_b250000.m3u8
 #EXTINF:-1,[COLOR=white][B]RADIO SONIDA[/B][/COLOR][COLOR=white][/COLOR]
