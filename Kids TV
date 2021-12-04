@@ -1,13 +1,58 @@
 ##########################################################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]/////////////  CANAIS TV INFANTIS MUNDIAIS  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]/////////////  CANAIS TV & YOUTUBE INFANTIS MUNDIAIS  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 22/11/21[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 04/12/21[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #########################################################################################################################################################################
  
 #EXTM3U
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]CANAIS KIDS YOUTUBE[/B][/COLOR][COLOR=blue][/COLOR]
+https://000000000000000000
+
+
+# https://www.youtube.com/watch?v=b6sPQ8x3kDs&ab_channel=BobEsponjaemPortugu%C3%AAs
+#EXTINF:-1,[COLOR=white][B]BOB ESPONJA BR[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=b6sPQ8x3kDs&ab_channel=BobEsponjaemPortugu%C3%AAs
+
+
+# https://www.youtube.com/watch?v=Dm4SC7PM2hg&ab_channel=WBKids
+#EXTINF:-1,[COLOR=white][B]WARNER BROS ENG[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=Dm4SC7PM2hg&ab_channel=WBKids
+
+
+# https://www.youtube.com/watch?v=xKDaDXRSzoM&ab_channel=WBKids
+#EXTINF:-1,[COLOR=white][B]WARNER BROS ENG[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=xKDaDXRSzoM&ab_channel=WBKids
+
+
+# https://www.youtube.com/watch?v=i-GsF3Gv_hk&ab_channel=KidsTV-NurseryRhymesAndBabySongs
+#EXTINF:-1,[COLOR=white][B]CANÇÕES DE NATAL KIDS ENG[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=i-GsF3Gv_hk&ab_channel=KidsTV-NurseryRhymesAndBabySongs
+
+
+# https://www.youtube.com/watch?v=E8TpTiT13d0&ab_channel=KidsTV-NurseryRhymesAndBabySongs
+#EXTINF:-1,[COLOR=white][B]BABY SHARK TV[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=E8TpTiT13d0&ab_channel=KidsTV-NurseryRhymesAndBabySongs
+
+
+# https://www.youtube.com/watch?v=h99SrJB7F5M&ab_channel=DisneyJunior
+#EXTINF:-1,[COLOR=white][B]DISNEY JUNIOR TV ENG.[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=h99SrJB7F5M&ab_channel=DisneyJunior
+
+
+# https://www.youtube.com/watch?v=_BDLbUoXUOM&ab_channel=PeppaPig-OfficialChannel
+#EXTINF:-1,[COLOR=white][B]PORQUINHA PEPA TV ENG.[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=_BDLbUoXUOM&ab_channel=PeppaPig-OfficialChannel
+
+
+# https://www.youtube.com/watch?v=VVouoNJUgh4&ab_channel=KidsTvemPortugu%C3%AAs-musicainfantileeduca%C3%A7%C3%A3o
+#EXTINF:-1,[COLOR=white][B]RIMA DE NATAL BR.[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=VVouoNJUgh4&ab_channel=KidsTvemPortugu%C3%AAs-musicainfantileeduca%C3%A7%C3%A3o
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS KIDS LISTA GRATIS[/B][/COLOR][COLOR=blue][/COLOR]
