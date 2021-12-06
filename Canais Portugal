@@ -157,12 +157,345 @@ plugin://plugin.video.youtube/play/?video_id=OmrLmsJ6Jp0&ab_channel=Santu%C3%A1r
 #EXTM3
 
 ##########################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]CANAIS TV PT - LISTA 2[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]CANAIS TV PT - LISTA 2 - ADICIONADA: 06/12/2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
 FONTE DE INFORMAÇÃO: https://freeiptvm3u4u2.blogspot.com/2021/11/free-iptv-m3u-lists-updated-21-nov-2021.html?fbclid=IwAR2a9gMTkN9p_Q7N-bSRkoTRUw3Sir5eusLlD2sub5leKXX8CTLH8RbseOg
 
 #EXTM3U
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://00000000000000000000
+
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",|PT| NICKELODEON HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6377
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| JIM JAM HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6378
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| DISNEY CHANNEL HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6379
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| BABY FIRST HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6380
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",|PT| 24 KITCHEN HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6381
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| CANAL Q HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6382
+#EXTINF:0 tvg-id="DiscoveryHDShowcase.pt" group-title="Channels",|PT| DISCOVERY HD SHOWCASE
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6383
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ODISSEIA HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6385
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| EURONEWS HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6387
+#EXTINF:0 tvg-id="DISCOVERYHD.pt" group-title="Channels",|PT| DISCOVERY CHANNEL HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6389
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| SIC KIDS HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6390
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| BBC ENTERTAINMENT HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6391
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",|PT| HISTORIA HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6392
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| BBC World News HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6393
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TOROS TV HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6394
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| PORTO CANAL HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6395
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| MOTORVISION HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6396
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| EUROSPORT 2 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6400
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="Channels",|PT| CACA VISION HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6401
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| CACA E PESCA HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6402
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",|PT| BTV 1 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6403
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| A BOLA TV HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6405
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",|PT| SPORTING TV HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6406
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",|PT| SPORT TV 5 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6407
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",|PT| SPORT TV 4 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6409
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",|PT| SPORT TV 3 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6411
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",|PT| SPORT TV 2 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6413
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",|PT| SPORT TV 1 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6415
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",|PT| SPORT TV HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6417
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| CMTV HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6418
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| CNN PORTUGAL HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6419
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TVI Reality HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6420
+#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",|PT| TVI HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6421
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TVI FICCAO HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6422
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",|PT| SIC RADICAL HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6424
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",|PT| SIC NOTICIAS HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6425
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| SIC MULHER HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6426
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",|PT| SIC HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6427
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",|PT| SIC CARAS
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6428
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| RTP MEMÓRIA HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6430
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| RTP MADEIRA HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6431
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| RTP ÁFRICA HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6432
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| RTP AÇORES HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6433
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",|PT| RTP 3 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6434
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",|PT| RTP 2 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6435
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",|PT| RTP 1 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6438
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TLC HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6439
+#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",|PT| SYFY HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6440
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",|PT| FUEL TV HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6442
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",|PT| FOX CRIME HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6443
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",|PT| FOX COMEDY HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6444
+#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",|PT| AXN BLACK HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6445
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",|PT| FOX LIFE HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6446
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",|PT| FOX MOVIES HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6447
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",|PT| CINEMUNDO HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6448
+#EXTINF:0 tvg-id="tvc4.pt" group-title="Channels",|PT| TV CINE 4 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6451
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV CINE 4 TOP HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6452
+#EXTINF:0 tvg-id="tvc3.pt" group-title="Channels",|PT| TV CINE 3 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6453
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV CINE EMOTION 3 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6454
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV CINE 2 Edition HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6455
+#EXTINF:0 tvg-id="tvc2.pt" group-title="Channels",|PT| TV CINE 2
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6456
+#EXTINF:0 tvg-id="tvc1.pt" group-title="Channels",|PT| TV CINE 1 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6457
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV CINE ACTION 1  HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6458
+#EXTINF:0 tvg-id="fox.pt" group-title="Channels",|PT| FOX HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6459
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",|PT| HOLLYWOOD HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6460
+#EXTINF:0 tvg-id="AMC.pt" group-title="Channels",|PT| AMC HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6461
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",|PT| AXN WHITE HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6462
+#EXTINF:0 tvg-id="axn.pt" group-title="Channels",|PT| AXN HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6463
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| REAL MADRID TV HD POR
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6464
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",|PT| EUROSPORT 1 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6465
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| BLAZE HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6466
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",|PT| NAT GEO HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6467
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",|PT| TRAVEL CHANNEL HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6468
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| BABY TV HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6469
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| CANAL PANDA HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6470
+#EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",|PT| CARTOON NETWORK HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6471
+#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",|PT| DISNEY JUNIOR HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6472
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 6 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/20223
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 5 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/20224
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 4 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/20225
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 3 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/20226
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 2 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/20227
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 1 HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/20228
+#EXTINF:0 tvg-id="tvrecord.pt" group-title="Channels",|PT| TV Record HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/47494
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV GLOBO HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/47495
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",|PT| RTP 1 FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51527
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",|PT| RTP 2 FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51528
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",|PT| RTP 3 FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51529
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| RTP MEMORIA FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51530
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| RTP MADEIRA FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51531
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| RTP ACORES FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51532
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| RTP AFRICA FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51533
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",|PT| SIC FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51534
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| SIC MULHER FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51535
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",|PT| SIC RADICAL FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51536
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",|PT| SIC CARAS
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51537
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| CANAL Q FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51538
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| PORTO CANAL FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51539
+#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",|PT| TVI FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51540
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| CNN PORTUGAL FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51541
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TVI FICCAO FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51542
+#EXTINF:0 tvg-id="tvrecord.pt" group-title="Channels",|PT| TV Record FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51543
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TVI Reality FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51544
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",|PT| SIC NOTICIAS FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51545
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| BABY TV FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51547
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| CANAL PANDA FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51548
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| DISNEY CHANNEL FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51549
+#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",|PT| DISNEY JUNIOR FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51550
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| JIM JAM FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51551
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| SIC KIDS FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51552
+#EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",|PT| CARTOON NETWORK FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51553
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| NICKELEDEON FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51554
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV GLOBO FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51556
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",|PT| 24 KITCHEN FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51557
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| CACA E PESCA FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51558
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="Channels",|PT| CACA VISION FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51559
+#EXTINF:0 tvg-id="AMC.pt" group-title="Channels",|PT| AMC FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51562
+#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",|PT| AXN BLACK FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51563
+#EXTINF:0 tvg-id="axn.pt" group-title="Channels",|PT| AXN FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51564
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",|PT| AXN WHITE FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51565
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",|PT| FOX COMEDY FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51566
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",|PT| FOX CRIME FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51567
+#EXTINF:0 tvg-id="fox.pt" group-title="Channels",|PT| FOX FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51568
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",|PT| FOX LIFE FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51569
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",|PT| FOX MOVIES FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51570
+#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",|PT| SYFY FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51571
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV CINE 1 Action FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51572
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV CINE 2 Edition FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51573
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV CINE 3 Emotion FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51574
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV CINE 4  Top FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51575
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| EURONEWS FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51581
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",|PT| HOLLYWOOD FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51584
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",|PT| CINEMUNDO FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51585
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",|PT| NAT GEO FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51588
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",|PT| HISTORIA FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51589
+#EXTINF:0 tvg-id="DISCOVERYHD.pt" group-title="Channels",|PT| DISCOVERY CHANNEL FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51590
+#EXTINF:0 tvg-id="DiscoveryHDShowcase.pt" group-title="Channels",|PT| DISCOVERY FHD SHOWCASE
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51591
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ODISSEIA FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51592
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",|PT| TRAVEL CHANNEL FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51593
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TLC FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51594
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Eurosport News FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51596
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| A BOLA TV FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51597
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| CM TV FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51598
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",|PT| EUROSPORT 1 FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51599
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| EUROSPORT 2 FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51600
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",|PT| FUEL TV FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51601
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| MOTORVISION FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51603
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| REAL MADRID TV FHD POR
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51604
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",|PT| SPORTING TV FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51605
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 1 FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51606
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 2 FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51607
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 3 FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51608
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 4 FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51609
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 5 FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51610
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 6 FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51611
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",|PT| SPORT TV FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51612
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",|PT| SPORT TV 1 FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51613
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",|PT| SPORT TV 2 FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51614
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",|PT| SPORT TV 3 FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51615
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",|PT| SPORT TV 4 FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51616
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",|PT| SPORT TV 5 FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51617
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| A&E FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51619
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| BABY FIRST FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51620
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",|PT| BTV 1 FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51621
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Casa e Cozinha FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/68779
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Casa e Cozinha HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/68781
+
+
 
 
