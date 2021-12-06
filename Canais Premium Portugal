@@ -20,39 +20,36 @@ https://00000000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",|PT| SPORT TV HD
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6417
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",|PT| SPORT TV 1 HD
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6415
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",|PT| SPORT TV 2 HD
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6413
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",|PT| SPORT TV 3 HD
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6411
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",|PT| SPORT TV 4 HD
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6409
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",|PT| SPORT TV 5 HD
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6407
-
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",|PT| SPORT TV FHD
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51612
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",|PT| SPORT TV 1 FHD
+
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6415
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51613
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",|PT| SPORT TV 2 FHD
+
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6413
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51614
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",|PT| SPORT TV 3 FHD
+
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6411
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51615
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",|PT| SPORT TV 4 FHD
+
+
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6409
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51616
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",|PT| SPORT TV 5 FHD
+
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6407
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51617
-
-
-
-
-
-
- 
-
 
 #EXTM3U
 ####################################################################################################################################
@@ -79,10 +76,10 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BENFICA TV
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]BENFICA TV[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6403
 
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BENFICA TV
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]BENFICA TV[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51621
 
 
@@ -93,30 +90,34 @@ http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51621
 #EXTINF:-1,[COLOR=blue][B]CANAIS ELEVEN SPORTS PT[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 1 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/20228
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 2 HD
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/20227
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 3 HD
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/20226
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 4 HD
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/20225
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 5 HD
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/20224
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 6 HD
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/20223
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51606
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 2 FHD
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/20227
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51607
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 3 FHD
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/20226
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51608
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 4 FHD
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/20225
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51609
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 5 FHD
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/20224
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51610
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORT 6 FHD
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/20223
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51611
 
 
@@ -131,29 +132,32 @@ http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51611
 https://0000000
 
 
-#EXTINF:0 tvg-id="tvc4.pt" group-title="Channels",|PT| TV CINE 4 HD
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6451
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV CINE 4 TOP HD
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6452
-#EXTINF:0 tvg-id="tvc3.pt" group-title="Channels",|PT| TV CINE 3 HD
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6453
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV CINE EMOTION 3 HD
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6454
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV CINE 2 Edition HD
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6455
-#EXTINF:0 tvg-id="tvc2.pt" group-title="Channels",|PT| TV CINE 2
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6456
-#EXTINF:0 tvg-id="tvc1.pt" group-title="Channels",|PT| TV CINE 1 HD
+#EXTINF:0 tvg-id="tvc1.pt" group-title="Channels",[COLOR=white][B]TVCINE 1[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6457
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV CINE ACTION 1  HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE 1[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6458
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV CINE 1 Action FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE 1[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51572
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV CINE 2 Edition FHD
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE 2[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6455
+#EXTINF:0 tvg-id="tvc2.pt" group-title="Channels",[COLOR=white][B]TVCINE 2[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6456
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE 2[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51573
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV CINE 3 Emotion FHD
+
+#EXTINF:0 tvg-id="tvc3.pt" group-title="Channels",[COLOR=white][B]TVCINE 3[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6453
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE 3[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6454
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE 3[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51574
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TV CINE 4  Top FHD
+
+
+#EXTINF:0 tvg-id="tvc4.pt" group-title="Channels",[COLOR=white][B]TVCINE 4[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6451
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE 4[/B][/COLOR][COLOR=white][/COLOR]
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6452
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE 4[/B][/COLOR][COLOR=white][/COLOR]
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51575
 
