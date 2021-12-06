@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 04/12/21[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 06/12/21[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #########################################################################################################################################################################
  
@@ -13,11 +13,6 @@ http://0.0.0.0:00000
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS KIDS YOUTUBE[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000000000000000
-
-
-# https://www.youtube.com/watch?v=b6sPQ8x3kDs&ab_channel=BobEsponjaemPortugu%C3%AAs
-#EXTINF:-1,[COLOR=white][B]BOB ESPONJA BR[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=b6sPQ8x3kDs&ab_channel=BobEsponjaemPortugu%C3%AAs
 
 
 # https://www.youtube.com/watch?v=Dm4SC7PM2hg&ab_channel=WBKids
@@ -57,6 +52,32 @@ plugin://plugin.video.youtube/play/?video_id=VVouoNJUgh4&ab_channel=KidsTvemPort
 #######################################################################################################################
 #EXTINF:-1,[COLOR=blue][B]CANAIS KIDS LISTA GRATIS[/B][/COLOR][COLOR=blue][/COLOR]
 https://000000
+
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BABY FIRST USA[/B][/COLOR][COLOR=white][/COLOR]
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3689
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PBS KIDS USA[/B][/COLOR][COLOR=white][/COLOR]
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3690
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DISNEY CHANNEL USA[/B][/COLOR][COLOR=white][/COLOR]
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3691
+#EXTINF:0 tvg-id="DisneyXD.us" group-title="Channels",[COLOR=white][B]DISNEY XD USA[/B][/COLOR][COLOR=white][/COLOR]
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3692
+#EXTINF:0 tvg-id="DisneyJunior.us" group-title="Channels",[COLOR=white][B]DISNEY JUNIOR USA[/B][/COLOR][COLOR=white][/COLOR]
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3693
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NICKELODEON USA[/B][/COLOR][COLOR=white][/COLOR]
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3694
+#EXTINF:0 tvg-id="NickJr.us" group-title="Channels",[COLOR=white][B]NICK JUNIOR USA[/B][/COLOR][COLOR=white][/COLOR]
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3695
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NICKTOONS USA[/B][/COLOR][COLOR=white][/COLOR]
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3696
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TEEN NICK USA[/B][/COLOR][COLOR=white][/COLOR]
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3697
+#EXTINF:0 tvg-id="CartoonNetwork.us" group-title="Channels",[COLOR=white][B]CARTOON NETWORK USA[/B][/COLOR][COLOR=white][/COLOR]
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3699
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]UNIVERSAL KIDS USA[/B][/COLOR][COLOR=white][/COLOR]
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3700
 
 #EXTINF:0 tvg-id="duck" group-title="Channels",[COLOR=white][B]DUCK TV[/B][/COLOR][COLOR=white][/COLOR]
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
