@@ -48,6 +48,12 @@ http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
 #EXTINF:-1,[COLOR=white][B]STV NOTÍCIAS[/B][/COLOR][COLOR=white][/COLOR]
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
 
+#EXTINF:-1,[COLOR=white][B]TV GLOBO BR[/B][/COLOR][COLOR=white][/COLOR]
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/466
+
+#EXTINF:-1,[COLOR=white][B]RECORD TV BR[/B][/COLOR][COLOR=white][/COLOR]
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/477
+
 
 ##########################################################################################################################
 
