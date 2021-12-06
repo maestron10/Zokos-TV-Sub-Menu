@@ -169,6 +169,12 @@ FONTE DE INFORMAÇÃO: https://freeiptvm3u4u2.blogspot.com/2021/11/free-iptv-m3u
 
 #EXTM3U
 
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",|PT| FOX COMEDY HD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6444
+
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",|PT| FOX COMEDY FHD
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51566
+
 #EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",|PT| NICKELODEON HD
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6377
 #EXTINF:0 tvg-id="ext" group-title="Channels",|PT| JIM JAM HD
@@ -269,8 +275,7 @@ http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6440
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6442
 #EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",|PT| FOX CRIME HD
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6443
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",|PT| FOX COMEDY HD
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6444
+
 #EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",|PT| AXN BLACK HD
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6445
 #EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",|PT| FOX LIFE HD
@@ -409,8 +414,7 @@ http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51563
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51564
 #EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",|PT| AXN WHITE FHD
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51565
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",|PT| FOX COMEDY FHD
-http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51566
+
 #EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",|PT| FOX CRIME FHD
 http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/51567
 #EXTINF:0 tvg-id="fox.pt" group-title="Channels",|PT| FOX FHD
