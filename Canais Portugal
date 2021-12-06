@@ -5,7 +5,7 @@ http://0.0.0.0:0000
  
  FONTE DE INFORMAÇÃO: https://www.player-castv.cf/2021/09/portugal-free-full-multi-iptv-channels.html
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 20/11/2021[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 06/12/2021[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
 
@@ -61,15 +61,6 @@ http://162.212.178.69:41042/bysid/608
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1[/B][/COLOR][COLOR=white][/COLOR]
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/46
 
-#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP INTERNACIONAL SD[/B][/COLOR][COLOR=white][/COLOR]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP AÇORES[/B][/COLOR][COLOR=white][/COLOR]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]PORTO CANAL SD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 
@@ -82,21 +73,20 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",[COLOR=white][B]SIC SD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sic/sic540p.m3u8
 
-#EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://live.impresa.pt/live/sicint/sicint.m3u8
-
-#EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://live.impresa.pt/live/sicint/sicint.m3u8
-
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",[COLOR=white][B]SIC SD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sic/sic.m3u8
+
+#EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://live.impresa.pt/live/sicint/sicint.m3u8
+
+#EXTINF:0 tvg-id="Sic.br" group-title="General",[COLOR=white][B]SIC INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://live.impresa.pt/live/sicint/sicint.m3u8
 
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",[COLOR=white][B]SIC NOTÍCIAS SD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",[COLOR=white][B]SIC NOTÍCIAS FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-id="tvi.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png",[COLOR=white][B]TVI FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://94.61.44.29:7500/play/a04u/index.m3u8
